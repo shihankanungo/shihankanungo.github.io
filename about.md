@@ -2,7 +2,4 @@
 layout: post
 title: About
 ---
-
-This is an example page!
-
-Actually, it has the same layout of a post...
+Hello! I am Shihan, a high school junior living in Palo Alto, CA. This is my website.
