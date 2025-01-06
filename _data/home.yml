@@ -41,8 +41,11 @@ footer_entries:
   - title: google scholar
     url: https://scholar.google.com/citations?user=URUoNyoAAAAJ&hl=en&authuser=1
     
-  - title: my arxiv papers
+  - title: research
     url: https://arxiv.org/search/math?query=Kanungo%2C+Shihan&searchtype=author&abstracts=show&order=-announced_date_first&size=50
+
+   - title: expository
+     url: papers
 
 misc_entries:
   - title: this is an example vertical list
