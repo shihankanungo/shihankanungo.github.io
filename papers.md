@@ -2,4 +2,7 @@
 layout: post
 title: About
 ---
-Hello! I am Shihan, a high school junior living in Palo Alto, CA. This is my website.
+- Fusce non velit cursus ligula mattis convallis vel at metus[^2].
+- Sed pharetra tellus massa, non elementum eros vulputate non.
+- Suspendisse potenti.
+
