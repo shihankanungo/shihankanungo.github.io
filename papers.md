@@ -2,8 +2,8 @@
 layout: post
 title: Expository papers
 ---
-- David Gale's Subset Takeaway Game.
-  url: http://simonrs.com/eulercircle/cgt2024/shihan-subset.pdf
+- [David Gale's Subset Takeaway Game.](http://simonrs.com/eulercircle/cgt2024/shihan-subset.pdf)
+  url: none
 - Space-Filling Curves.
   url: none
 - Large Gaps Between Primes. *Analytic Number Theory*
