@@ -1,8 +1,21 @@
 ---
 layout: post
-title: About
+title: Expository papers
 ---
-- Fusce non velit cursus ligula mattis convallis vel at metus[^2].
-- Sed pharetra tellus massa, non elementum eros vulputate non.
-- Suspendisse potenti.
+- David Gale's Subset Takeaway Game.
+  url: http://simonrs.com/eulercircle/cgt2024/shihan-subset.pdf
+- Space-Filling Curves.
+  url: none
+- Large Gaps Between Primes. *Analytic Number Theory*
+  url: http://simonrs.com/eulercircle/analyticnt2024/shihan-largegaps.pdf
+- Dynamical Billiards. *Ergodic Theory*
+  url: http://simonrs.com/eulercircle/ergodic2024/shihan-billiards.pdf
+- Arithmetic Dynamics. *Number Theory*
+  url: http://simonrs.com/eulercircle/nt2023/shihan-arithdyn.pdf
+- Minimal surfaces. *Differential Geometry*
+  url: http://simonrs.com/eulercircle/diffgeo/shihan-minimal.pdf
+- Mixing-time estimates for riffle shuffle. *Markov Chains*
+  url: http://simonrs.com/eulercircle/markovchains/shihan-riffle.pdf
+- Classifying groups of certain orders. *Abstract Algebra*
+  url: http://simonrs.com/eulercircle/algebra2020/shihan-orders.pdf
 
