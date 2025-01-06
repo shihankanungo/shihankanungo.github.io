@@ -5,8 +5,6 @@ navbar_entries:
   - title: resume
     url: shihan-resume-2024.pdf
     
-  - title: blog
-    url: blog
 
 project_entries:
   - title: MIT PRIMES-USA `24
