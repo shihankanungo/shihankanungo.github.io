@@ -44,8 +44,9 @@ footer_entries:
   - title: research
     url: https://arxiv.org/search/math?query=Kanungo%2C+Shihan&searchtype=author&abstracts=show&order=-announced_date_first&size=50
 
-   - title: expository
-     url: papers
+  - title: expository
+    url: papers
+
 
 misc_entries:
   - title: this is an example vertical list
