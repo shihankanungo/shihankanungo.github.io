@@ -2,6 +2,9 @@ navbar_entries:
   - title: about
     url: about
 
+  - title: resume
+    url: shihan-resume-2024.pdf
+    
   - title: blog
     url: blog
 
