@@ -9,15 +9,15 @@ navbar_entries:
 project_entries:
   - title: MIT PRIMES-USA `24
     url: https://arxiv.org/pdf/2409.02422
-    desc: Joint work with Sidarth Erat in representation theory of Lie superalgebras. Mentor: Dr. Arun Kannan (MIT).
+    desc: Joint work with Sidarth Erat in representation theory of Lie superalgebras. Mentor Dr. Arun Kannan (MIT).
 
   - title: MIT PRIMES-USA `23
     url: https://arxiv.org/pdf/2307.09645
-    desc: Joint work with Henry Jiang and Harry Kim in commutative algebra. Mentors: Dr. Felix Gotti (MIT) and Dr. Jim Coykendall (Clemson University).
+    desc: Joint work with Henry Jiang and Harry Kim in commutative algebra. Mentors Dr. Felix Gotti (MIT) and Dr. Jim Coykendall (Clemson University).
 
   - title: SJSU '24
     url: https://arxiv.org/pdf/2410.07534
-    desc: Research project in analytic number theory (Mentor Dr. Jordan Schettler).
+    desc: Research project in analytic number theory. Mentor Dr. Jordan Schettler (SJSU).
 
 # old_project_entries:
 #   - title: Soopr
