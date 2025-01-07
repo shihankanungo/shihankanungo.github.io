@@ -2,7 +2,7 @@
 layout: post
 title: Research papers
 ---
-- Mixed Tensor Products, Capelli Berezinians, and Newton’s Formula for **gl**(*m*|*n*), S. Erat, A. Kannan, S. Kanungo. *Transformation Groups*. Submitted Apr 12, 2024. \[ [arXiv](https://arxiv.org/pdf/2409.02422) \].
+- Mixed Tensor Products, Capelli Berezinians, and Newton’s Formula for **gl**(*m*\|*n*), S. Erat, A. Kannan, S. Kanungo. *Transformation Groups*. Submitted Apr 12, 2024. \[ [arXiv](https://arxiv.org/pdf/2409.02422) \].
 - [Space-Filling Curves.](space-filling-curves.pdf) *Real Analysis*
 - [Chromatic Polynomials.](chromatic-polynomials.pdf) *Graph Theory*
 - [Large Gaps Between Primes.](http://simonrs.com/eulercircle/analyticnt2024/shihan-largegaps.pdf) *Analytic Number Theory*
