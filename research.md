@@ -14,8 +14,3 @@ title: Research papers
 - A weaker notion of the finite factorization property \[ [arXiv](https://arxiv.org/pdf/2307.09645) \] <br />
   H. Jiang, **S. Kanungo**, H. Kim <br />
   *Commun. Korean Math. Soc.* **39** (2024), No. 2, pp. 313--329
-- $${\color{orange}\text{A weaker notion of the finite factorization property}}$$ \[ [arXiv](https://arxiv.org/pdf/2307.09645) \] <br />
-  H. Jiang, **S. Kanungo**, H. Kim <br />
-  *Commun. Korean Math. Soc.* **39** (2024), No. 2, pp. 313--329
-
-
