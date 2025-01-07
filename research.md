@@ -8,7 +8,7 @@ title: Research papers
   S. Erat, A. Kannan, **S. Kanungo**. <br />
   *Transformation Groups*. Submitted Apr 12, 2024.
   
-- Representation Theory of the Twisted Yangians in Complex Rank.  <br />
+- Representation Theory of Twisted Yangians in Complex Rank.  <br />
   S. Erat, A. Kannan, **S. Kanungo**. <br />
   *In preparation*
   
