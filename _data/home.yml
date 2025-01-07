@@ -42,7 +42,7 @@ footer_entries:
     url: https://scholar.google.com/citations?user=URUoNyoAAAAJ&hl=en&authuser=1
     
   - title: research
-    url: https://arxiv.org/search/math?query=Kanungo%2C+Shihan&searchtype=author&abstracts=show&order=-announced_date_first&size=50
+    url: research
 
   - title: expository
     url: papers
