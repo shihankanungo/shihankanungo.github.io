@@ -3,7 +3,6 @@ layout: minimal
 title: Research papers
 ---
 <br />
-
 - Mixed Tensor Products, Capelli Berezinians, and Newton’s Formula for **gl**(*m*\|*n*) \[ [arXiv](https://arxiv.org/pdf/2409.02422) \] <br />
   S. Erat, A. Kannan, **S. Kanungo**. <br />
   *Transformation Groups*. Submitted Apr 12, 2024.
@@ -17,7 +16,3 @@ title: Research papers
   H. Jiang, **S. Kanungo**, H. Kim <br />
   *Commun. Korean Math. Soc.* **39** (2024), No. 2, pp. 313--329 <br />
   
-![](iconpdf-small.png) A weaker notion of the finite factorization property \[ [arXiv](https://arxiv.org/pdf/2307.09645) \] <br />
-  H. Jiang, **S. Kanungo**, H. Kim <br />
-  *Commun. Korean Math. Soc.* **39** (2024), No. 2, pp. 313--329
-
