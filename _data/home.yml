@@ -47,6 +47,9 @@ footer_entries:
   - title: expository
     url: papers
 
+  - title: coursework
+    url: courses-by-area-2024.pdf
+
 
 misc_entries:
   - title: this is an example vertical list
