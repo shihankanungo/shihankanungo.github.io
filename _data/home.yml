@@ -3,21 +3,21 @@ navbar_entries:
     url: about
 
   - title: resume
-    url: cv-color.pdf
+    url: cv-2024.pdf
     
 
 project_entries:
   - title: MIT PRIMES-USA `24
     url: https://arxiv.org/abs/2409.02422
-    desc: My 2024 MIT PRIMES-USA research paper in representation theory of Lie superalgebras (Mentor Dr. Arun Kannan).
+    desc: Joint work with Sidarth Erat in representation theory of Lie superalgebras. Mentor: Dr. Arun Kannan (MIT).
 
   - title: MIT PRIMES-USA `23
     url: https://arxiv.org/abs/2307.09645
-    desc: My 2022 MIT PRIMES-USA research paper in factorization theory (Mentors Dr. Felix Gotti and Dr. Jim Coykendall).
+    desc: Joint work with Henry Jiang and Harry Kim in commutative algebra; specifically factorization theory of monoids and semirings. Mentors: Dr. Felix Gotti (MIT) and Dr. Jim Coykendall (Clemson University).
 
-  - title: Summer Research at SJSU
+  - title: SJSU '24
     url: https://arxiv.org/abs/2410.07534
-    desc: I did a research project in number theory in summer of 2024, where I was mentored by Prof. Jordan Schettler at SJSU.
+    desc: Research project in analytic number theory (Mentor Dr. Jordan Schettler).
 
 # old_project_entries:
 #   - title: Soopr
