@@ -2,9 +2,8 @@
 layout: post
 title: Expository papers
 ---
-- [David Gale's Subset Takeaway Game.](http://simonrs.com/eulercircle/cgt2024/shihan-subset.pdf)
-- Space-Filling Curves.
-  url: none
+- [David Gale's Subset Takeaway Game.](http://simonrs.com/eulercircle/cgt2024/shihan-subset.pdf) *Combinatorial Game Theory*
+- <a href="http://simonrs.com/eulercircle/cgt2024/shihan-subset.pdf" style="text-decoration:none">Space-Filling Curves</a>. *Real Analysis*
 - Large Gaps Between Primes. *Analytic Number Theory*
   url: http://simonrs.com/eulercircle/analyticnt2024/shihan-largegaps.pdf
 - Dynamical Billiards. *Ergodic Theory*
