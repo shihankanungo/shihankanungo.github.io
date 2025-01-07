@@ -5,7 +5,8 @@ title: Research papers
 - Mixed Tensor Products, Capelli Berezinians, and Newton’s Formula for **gl**(*m*\|*n*) \[ [arXiv](https://arxiv.org/pdf/2409.02422) \] <br />
   S. Erat, A. Kannan, **S. Kanungo**. <br />
   *Transformation Groups*. Submitted Apr 12, 2024.
-- Representation Theory of the Twisted Yangians in Complex Rank. S. Erat, A. Kannan, **S. Kanungo**. *In preparation*
+- Representation Theory of the Twisted Yangians in Complex Rank.  <br />
+  S. Erat, A. Kannan, **S. Kanungo**. *In preparation*
 - On Product Formulas of Guillera and Sondow \[ [arXiv](https://arxiv.org/pdf/2410.07534) \] **S. Kanungo**, J. Schettler. <br />
   *American Mathematical Monthly*. Submitted Oct 27, 2024.
 - A weaker notion of the finite factorization property \[ [arXiv](https://arxiv.org/pdf/2307.09645) \] H. Jiang, **S. Kanungo**, H. Kim <br />
