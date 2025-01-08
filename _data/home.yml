@@ -2,8 +2,8 @@ navbar_entries:
   - title: Home
     url: https://shihankanungo.github.io/
 
-  - title: About
-    url: about
+  # - title: About
+  #   url: about
 
   - title: Projects
     url: projects
