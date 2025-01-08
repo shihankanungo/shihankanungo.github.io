@@ -2,11 +2,10 @@
 layout: post
 title: Conferences
 ---
-<br />
 
-- Mixed Tensor Products, Capelli Berezinians, and Newton’s Formula for **gl**(*m*\|*n*) \[ [arXiv](https://arxiv.org/pdf/2409.02422) \] <br />
-  S. Erat, A. Kannan, **S. Kanungo**. <br />
-  *Transformation Groups*. Submitted Apr 12, 2024.
+
+- **Joint Mathematics Meeting (JMM25)**, *PME Contributed Session on Research by Undergraduates*. 2025 \[ [Link](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/41233) \] <br />
+  S. Erat, A. Kannan, **S. Kanungo**. Mixed Tensor Products, Capelli Berezinians, and Newton’s Formula for **gl**(*m*\|*n) <br />
   
 - Representation Theory of Twisted Yangians in Complex Rank.  <br />
   S. Erat, A. Kannan, **S. Kanungo**. <br />
