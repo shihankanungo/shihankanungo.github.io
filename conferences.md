@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Presentations
+title: Conferences
 ---
 <br />
 
