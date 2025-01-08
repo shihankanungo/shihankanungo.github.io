@@ -2,6 +2,15 @@ navbar_entries:
   - title: About
     url: about
 
+  - title: Papers
+    url: papers
+
+  - title: Honors
+    url: honors
+
+  - title: Courses
+    url: courses
+
   - title: CV
     url: cv-2024.pdf
     
