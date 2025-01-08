@@ -4,12 +4,11 @@ title: Conferences
 ---
 
 
-- **Joint Mathematics Meeting (JMM25)**, *PME Contributed Session on Research by Undergraduates*. 2025 \[ [Link](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/41233) \] <br />
-  S. Erat, A. Kannan, **S. Kanungo**. Mixed Tensor Products, Capelli Berezinians, and Newton’s Formula for **gl**(*m*\|*n) <br />
+- **Joint Mathematics Meeting (JMM'25)**, *PME Contributed Session on Research by Undergraduates*. 2025 \[ [Link](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/41233) \] <br />
+  S. Erat, A. Kannan, **S. Kanungo**. Mixed Tensor Products, Capelli Berezinians, and Newton’s Formula for **gl**(*m*\|*n*) <br />
   
-- Representation Theory of Twisted Yangians in Complex Rank.  <br />
-  S. Erat, A. Kannan, **S. Kanungo**. <br />
-  *In preparation*
+- **Joint Mathematics Meeting (JMM'24)**, *AMS-PME Undergraduate Student Poster Session*. 2024 \[ [Link](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/41233) \] <br />
+  H. Jiang, **S. Kanungo**, H. Kim. A weaker notion of the finite factorization property <br />
   
 - On Product Formulas of Guillera and Sondow \[ [arXiv](https://arxiv.org/pdf/2410.07534) \] <br />
   **S. Kanungo**, J. Schettler. <br />
