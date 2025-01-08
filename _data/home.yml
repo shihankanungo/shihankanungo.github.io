@@ -1,4 +1,4 @@
-navbar_entries:
+snavbar_entries:
   - title: about
     url: about
 
@@ -40,11 +40,8 @@ project_entries:
 footer_entries:
   - title: google scholar
     url: https://scholar.google.com/citations?user=URUoNyoAAAAJ&hl=en&authuser=1
-    
-  - title: research
-    url: research
 
-  - title: expository
+  - title: papers
     url: papers
 
   - title: coursework
