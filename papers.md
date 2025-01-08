@@ -63,8 +63,7 @@ title: Papers
 - Minimal surfaces. *Differential Geometry* \[ [pdf](http://simonrs.com/eulercircle/diffgeo/shihan-minimal.pdf) \] <br>
   <details>
   <summary>Abstract</summary>
-  <small>We introduce the theory of minimal surfaces. In the chapter on Geodesics, we considered the problem of finding the shortest distance between two points. We investigate the higher dimensional analogue of this, where we find ways to construct a surface of "minimal" area with a given boundary. Such surfaces can be represented by soap films, where the surface tension of the film ensures that it attains a shape with the minimal surface area. Minimal surfaces can be found in anything from the
-event horizons of black holes, to biomolecules for drug delivery, to the designs of roofs.</small>
+  <small>We introduce the theory of minimal surfaces. In the chapter on Geodesics, we considered the problem of finding the shortest distance between two points. We investigate the higher dimensional analogue of this, where we find ways to construct a surface of "minimal" area with a given boundary. Such surfaces can be represented by soap films, where the surface tension of the film ensures that it attains a shape with the minimal surface area. Minimal surfaces can be found in anything from the event horizons of black holes, to biomolecules for drug delivery, to the designs of roofs.</small>
   </details>
   
 - Mixing-time estimates for riffle shuffle. *Markov Chains* \[ [pdf](http://simonrs.com/eulercircle/markovchains/shihan-riffle.pdf) \] <br>
