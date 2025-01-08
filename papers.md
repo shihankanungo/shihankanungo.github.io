@@ -1,10 +1,7 @@
 ---
 layout: minimal
-title: Papers
+title: Research papers
 ---
-<br />
-
-# Research papers
 <br />
 
 - Mixed Tensor Products, Capelli Berezinians, and Newton’s Formula for **gl**(*m*\|*n*) \[ [arXiv](https://arxiv.org/pdf/2409.02422) \] <br />
