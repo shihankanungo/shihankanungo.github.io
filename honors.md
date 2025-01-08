@@ -5,8 +5,12 @@ title: Honors and Awards
 
 ## STEM (science, technology, engineering, and mathematics)
 
-- **S.-T. Yau High School Science Award**, *USA Bronze Medalist in Mathematics*. 2024
 - **USAPhO (AAPT)**, *U.S. Physics Team Training Camp*, University of Maryland. 2024
+- **S.-T. Yau High School Science Award**, *USA Bronze Medalist in Mathematics*. 2024
+- **MIT PRIMES-USA (PRIMES: Program for Research in Mathematics, Engineering and Science for High School Students)**
+  - *Representation Theory of Lie Superalgebras*, 2024
+  - *Representation Theory of Twisted Yangians in Complex Rank*, 2024
+  - *Commutative Algebra; specifically, factorization theory in monoids and semirings*, 2023  
 - **USAMTS (USA Mathematical Talent Search)**, *Gold medal*. 2022
 - **USAMO (USA Mathematical Olympiad)**, *8/42*, 65th percentile. 2022
 - **Math Kangaroo, Level 12**, *4th in USA*. 2022
