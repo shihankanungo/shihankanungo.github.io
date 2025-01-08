@@ -78,7 +78,7 @@ title: Mathematics coursework
 - **MATH 285M**, *Nonnegative matrices and Perron-Frobenius Theory*, Spring 2025. SJSU <br>
   <small>Monte Carlo methods, Metropolis-Hastings algorithm, random-number generation.</small>
 
-  ## Combinatorics and Graph Theory
+## Combinatorics and Graph Theory
 
 - **Combinatorics**, Winter 2020. Euler Circle <br>
   <small>Binomial coefficients, double-counting; Stirling numbers; counting labeled trees.</small>
