@@ -69,3 +69,30 @@ title: Mathematics coursework
 - **MATH 129A**, *Linear Algebra I*, Fall 2023. SJSU <br>
   <small>Matrices, systems of linear equations, eigenvectors and eigenvalues, inner product spaces.</small>
   
+- **MATH 129B**, *Linear Algebra II*, Spring 2024. SJSU <br>
+  <small>Cayley-Hamilton theorem, minimal polynomials, Jordan canonical form, inner products.</small>
+
+- **MATH 229**, *Advanced Matrix Theory*, Fall 2024. SJSU <br>
+  <small>Eigenvalues, unitary equivalence and Schur’s theorem. Normal, Hermitian and symmetric real matrices. Positive definite matrices, polar and singular value factorizations</small>
+
+- **MATH 285M**, *Nonnegative matrices and Perron-Frobenius Theory*, Spring 2025. SJSU <br>
+  <small>Monte Carlo methods, Metropolis-Hastings algorithm, random-number generation.</small>
+
+  ## Combinatorics and Graph Theory
+
+- **Combinatorics**, Winter 2020. Euler Circle <br>
+  <small>Binomial coefficients, double-counting; Stirling numbers; counting labeled trees.</small>
+
+- **MATH 179**, *Introduction to Graph Theory*, Fall 2024. SJSU <br>
+  <small>Hamiltonian and Eulerian properties, matching, trees, connectivity, coloring problems and planarity. Emphasis on algorithms and applications, including optimal network flows.</small>
+
+- **MATH 279A**, *Graph Theory*, Fall 2024. SJSU <br>
+  <small>Graphs, digraphs, trees, networks, connectedness, eulerian circuits, hamiltonian cycles, graph embeddings, matchings, factorizations, graph colorings and Ramsey theory.</small>
+
+- **Combinatorial Game Theory**, Fall 2024. Euler Circle <br>
+  <small>Nim, Hackenbush, surreal numbers, impartial games, Sprague-Grundy theory.</small>
+
+- **Generating Functions**, Fall 2021. Euler Circle <br>
+  <small>Ordinary, exponential and multivariate generating functions, growth rate and asymptotic analysis.</small>
+
+
