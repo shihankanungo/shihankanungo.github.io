@@ -2,7 +2,14 @@
 layout: minimal
 title: Mathematics coursework
 ---
-<br />
+
+## Algebra and Geometry 
+
+- **Analysis**. Euler Circle, Spring 2021. <br>
+  Set theory, formal constructions of the real numbers, limits, continuity, and infinite series. <br>
+
+- **MATH 131A**, *Introduction to Analysis*, Spring 2024. SJSU <br>
+  Completeness and compactness of R. Continuity, uniform continuity, the derivative.
 
 - Mixed Tensor Products, Capelli Berezinians, and Newton’s Formula for **gl**(*m*\|*n*) \[ [arXiv](https://arxiv.org/pdf/2409.02422) \] <br />
   S. Erat, A. Kannan, **S. Kanungo**. <br />
