@@ -161,6 +161,10 @@ html.transition *:after {
   border-top: 1px var(--text) solid;
   margin: 0.5em 0;
 }
+.none {
+  border-top: 1px var(--text);
+  margin: 0.5em 0;
+}
 mark {
   padding: 0.4em;
   background-color: var(--highlight);
