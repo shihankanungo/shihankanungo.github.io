@@ -45,4 +45,27 @@ title: Mathematics coursework
 
 - **Group Theory**, Summer 2023. Art of Problem Solving (AoPS) <br>
   Building groups from other groups, symmetries of geometric objects, constructing fields.
+
+- **Abstract Algebra**, Spring 2020. Euler Circle <br>
+  Group theory, Sylow theorems, fields and extensions, number fields, Galois correspondence.
+
+- **MATH 128B**, *Abstract Algebra II*, Spring 2025. SJSU <br>
+  Emphasis on rings, integral domains, fields, field extensions, Galois theory.
+
+- **MATH 226**, *Theory of Numbers*, Spring 2024. SJSU <br>
+  Primes in arithmetic progressions, partitions, modular group, and the Dedekind eta function.
+
+- **Number Theory**, Fall 2019. Euler Circle <br>
+  Modular arithmetic, Fermat's little theorem, sums of two squares, *p*-adic numbers
+
+- **Number Theory**, Fall 2023. Euler Circle <br>
+  Reciprocity theorems, quadratic forms, elliptic curves, modular curves.
+  
+- **Analytic Number Theory**, Spring 2024. Euler Circle <br>
+  Dirichlet’s Theorem, The Prime Number Theorem, Brun's theorem, smooth numbers.
+
+## Linear Algebra and Matrix Theory
+
+- **MATH 129A**, *Linear Algebra I*, Fall 2023. SJSU <br>
+  Matrices, systems of linear equations, eigenvectors and eigenvalues, inner product spaces.
   
