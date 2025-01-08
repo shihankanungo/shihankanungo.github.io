@@ -24,7 +24,8 @@ title: Papers
 ## Expository 
 
 - David Gale's Subset Takeaway Game. *Combinatorial Game Theory* \[ [pdf](http://simonrs.com/eulercircle/cgt2024/shihan-subset.pdf) \] <br>
-  <small>We describe the natural interpretation of the game in terms of simplicial complexes, and the binary star reduction technique that shows that Subset Takeaway is a second player win for *n* < 7. We also look at Subset Takeway played on a graph, and compute the Grundy values for complete *n*-partite graphs and all bipartite graphs.</small>
+  <small>We describe the natural interpretation of the game in terms of simplicial complexes, and the binary star reduction technique that shows that Subset Takeaway is a second player win for *n* < 7. We also look at Subset Takeway played on a graph, and compute the Grundy values for complete *n*-partite graphs and all bipartite graphs.</small> <br>
+  
 - Space-Filling Curves. *Real Analysis* \[ [pdf](space-filling-curves.pdf) \]
 - Chromatic Polynomials. *Graph Theory* \[ [pdf](chromatic-polynomials.pdf) \]
 - Large Gaps Between Primes. *Analytic Number Theory* \[ [pdf](http://simonrs.com/eulercircle/analyticnt2024/shihan-largegaps.pdf) \] 
