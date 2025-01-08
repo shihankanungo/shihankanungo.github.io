@@ -24,7 +24,11 @@ title: Papers
 ## Expository 
 
 - David Gale's Subset Takeaway Game. *Combinatorial Game Theory* \[ [pdf](http://simonrs.com/eulercircle/cgt2024/shihan-subset.pdf) \] <br>
-  <small>We describe the natural interpretation of the game in terms of simplicial complexes, and the binary star reduction technique that shows that Subset Takeaway is a second player win for *n* < 7. We also look at Subset Takeway played on a graph, and compute the Grundy values for complete *n*-partite graphs and all bipartite graphs.</small> <br>
+  <details>
+  <summary>Abstract</summary>
+  <small>We describe the natural interpretation of the game in terms of simplicial complexes, and the binary star reduction technique that shows that Subset Takeaway is a second player win for *n* < 7. We also look at Subset Takeway played on a graph, and compute the Grundy values for complete *n*-partite graphs and all bipartite graphs.</small>
+  </details>
+
   
 - Space-Filling Curves. *Real Analysis* \[ [pdf](space-filling-curves.pdf) \] <br>
   <small>We examine space-filling curves, which are surjective continuous maps from \[0, 1\] to some higher-dimensional space, usually the unit square \[0, 1\]<sup>2</sup>. In particular, we define Peano’s curve and Lebesgue’s curve, and state some of their properties. We also discuss the Hahn-Mazurkiewicz theorem, which characterizes those subsets of **R**<sup>*n*</sup> that are the image of a space-filling curve. Finally, we discuss real-world applications of Hilbert curves, in particular Google’s S2 Cells.</small> <br>
