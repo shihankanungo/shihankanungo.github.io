@@ -4,6 +4,8 @@ url: https://www.shihankanungo.github.io/shihanmoonwalk/ # root address of the s
 description: > # description of the site (multiple lines allowed)
   Hello! I am Shihan, a high school junior living in Palo Alto, CA. My interests are math, physics, music (I play classical and jazz violin and listen to a wide array of genres), reading, and food. 
 
+  [![Cursive fonts](https://see.fontimg.com/api/rf5/7O6BD/ZDc0M2Q0NDkzNjczNGY3Njk1YTJjZmViMjUyZmE1MTIub3Rm/U2hpaGFuIEthbnVuZ28/kelystone-demo.png?r=fs&h=130&w=2000&fg=000000&bg=FFFFFF&tb=1&s=65)](https://www.fontspace.com/category/cursive)
+
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
