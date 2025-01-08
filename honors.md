@@ -2,12 +2,6 @@
 layout: page
 title: Honors and Awards
 ---
-navbar_entries:
-  - title: about
-    url: about
-
-  - title: resume
-    url: cv-2024.pdf
 
 ## STEM (science, technology, engineering, and mathematics)
 
