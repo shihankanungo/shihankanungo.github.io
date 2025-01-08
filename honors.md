@@ -15,7 +15,9 @@ title: Honors and Awards
 
 ## Music
 
-- **SJW (Stanford Jazz Workshop)**, *Duke Ellington award*. 2024
+- **SJW (Stanford Jazz Workshop)**
+  - *Duke Ellington award*. 2024
+  - *Outstanding Musicianship award*. 2024
 - **SJW (Stanford Jazz Workshop)**, *Outstanding Musicianship award*. 2024
 - **Gunn Theatre Spring Show**, Composed music for *A Midsummer Night's Dream*. 2024
 - **NCYT (Northern California Young Talents Competition)**, *First place, solo violin*. 2023
