@@ -47,6 +47,9 @@ footer_entries:
   - title: coursework
     url: courses-by-area-2024.pdf
 
+  - title: courses
+    url: courses
+
 
 misc_entries:
   - title: this is an example vertical list
