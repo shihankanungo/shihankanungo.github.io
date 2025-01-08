@@ -3,7 +3,7 @@ layout: minimal
 title: Papers
 ---
 
-## Research
+## Research publications and preprints
 
 - Mixed Tensor Products, Capelli Berezinians, and Newton’s Formula for **gl**(*m*\|*n*) \[ [arXiv](https://arxiv.org/pdf/2409.02422) \] <br />
   S. Erat, A. Kannan, **S. Kanungo**. <br />
