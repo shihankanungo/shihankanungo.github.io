@@ -5,7 +5,7 @@ layout: default
 <header>
 {% if site.theme_config.show_navbar == true %}
   {% include horizontal_list.html collection=site.data.home.navbar_entries %}
-  <div class="dashed"></div>
+  <div class="none"></div>
 {% endif %}
 
 </header>
@@ -21,7 +21,7 @@ layout: default
 
 {% if site.theme_config.show_footer == true %}
   <footer>
-    <div class="dashed"></div>
+    <div class="solid"></div>
     {% include horizontal_list.html collection=site.data.home.footer_entries %}
   </footer>
 {% endif %}
