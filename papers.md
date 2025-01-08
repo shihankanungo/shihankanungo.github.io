@@ -2,7 +2,6 @@
 layout: minimal
 title: Research papers
 ---
-<br />
 
 - Mixed Tensor Products, Capelli Berezinians, and Newton’s Formula for **gl**(*m*\|*n*) \[ [arXiv](https://arxiv.org/pdf/2409.02422) \] <br />
   S. Erat, A. Kannan, **S. Kanungo**. <br />
@@ -21,7 +20,6 @@ title: Research papers
   *Commun. Korean Math. Soc.* **39** (2024), No. 2, pp. 313--329 <br />
   
 # Expository papers
-<br />
 
 - [David Gale's Subset Takeaway Game.](http://simonrs.com/eulercircle/cgt2024/shihan-subset.pdf) *Combinatorial Game Theory*
 - [Space-Filling Curves.](space-filling-curves.pdf) *Real Analysis*
