@@ -57,7 +57,7 @@ title: Papers
 - Arithmetic Dynamics. *Number Theory* \[ [pdf](http://simonrs.com/eulercircle/nt2023/shihan-arithdyn.pdf) \] <br>
   <details>
   <summary>Abstract</summary>
-  <small>We explore the field of arithmetic dynamics, which lies at the intersection of discrete dynamical systems and number theory. Discrete dynamical systems focus on the iterative behavior of functions, while number theory examines the properties of integers. Combining these two areas gives rise to arithmetic dynamics, where we investigate the number-theoretic properties of orbits of integers and rational numbers under the iteration of polynomials and rational functions. The core idea of arithmetic dynamics is to consider a function mapping a set to itself and analyze its behavior under repeated iteration. In this paper, we begin by defining the set of *p*-adic numbers and presenting key results related to them. We then examine an application of arithmetic dynamics, establishing a connection to dynamical systems in the *p*-adic numbers.</small>
+  <small>We explore the field of arithmetic dynamics, which lies at the intersection of discrete dynamical systems and number theory. Discrete dynamical systems focus on the iterative behavior of functions, while number theory examines the properties of integers. Combining these two areas gives rise to arithmetic dynamics, where we investigate the number-theoretic properties of orbits of integers and rational numbers under the iteration of polynomials and rational functions. The core idea of arithmetic dynamics is to consider a function mapping a set to itself and analyze its behavior under repeated iteration. In this paper, we begin by defining the set of <i>p</i>-adic numbers and presenting key results related to them. We then examine an application of arithmetic dynamics, establishing a connection to dynamical systems in the *p*-adic numbers.</small>
   </details>
   
 - Minimal surfaces. *Differential Geometry* \[ [pdf](http://simonrs.com/eulercircle/diffgeo/shihan-minimal.pdf) \] <br>
@@ -70,16 +70,14 @@ event horizons of black holes, to biomolecules for drug delivery, to the designs
 - Mixing-time estimates for riffle shuffle. *Markov Chains* \[ [pdf](http://simonrs.com/eulercircle/markovchains/shihan-riffle.pdf) \] <br>
   <details>
   <summary>Abstract</summary>
-  <small>We talk about one of the most well-known shuffling methods, called the "riffle shuffle" or "dovetail shuffle". We are interested in the number of shuffles
-that will make the deck of *n* cards well-mixed, or "close" to uniformly random.</small>
+  <small>We talk about one of the most well-known shuffling methods, called the <i>riffle shuffle</i> or <i>dovetail shuffle</i>. We are interested in the number of shuffles
+that will make the deck of <i>n</i> cards well-mixed, or <i>close</i> to uniformly random.</small>
   </details>
   
 - Classifying groups of certain orders. *Abstract Algebra* \[ [pdf](http://simonrs.com/eulercircle/algebra2020/shihan-orders.pdf) \] <br>
   <details>
   <summary>Abstract</summary>
-  <small>We first discuss the question of which integers *n* have exactly one group of order *n*, namely the cyclic group **Z**/*n***Z**. We will see that these
-are the integers that are relatively prime to the Euler totient function phi(*n*). Then we discuss how many groups there are of order *p*<sup>3</sup> for each prime *p*. We
-end with a couple of interesting results and conjectures pertaining to groups of squarefree order.</small>
+  <small>We first discuss the question of which integers <i>n</i> have exactly one group of order <i>n</i>, namely the cyclic group <b>Z</b>/<i>n</i><b>Z</b>. We will see that these are the integers that are relatively prime to the Euler totient function phi(<i>n</i>). Then we discuss how many groups there are of order <i>p</i><sup>3</sup> for each prime <i>p</i>. We end with a couple of interesting results and conjectures pertaining to groups of squarefree order.</small>
   </details>
   
 
