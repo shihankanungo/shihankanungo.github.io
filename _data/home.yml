@@ -59,7 +59,7 @@ footer_entries:
     url: https://scholar.google.com/citations?user=URUoNyoAAAAJ&hl=en&authuser=1
 
   - title: Conferences
-    url: talks
+    url: conferences
 
 misc_entries:
   - title: this is an example vertical list
