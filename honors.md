@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: page
 title: Honors and Awards
 ---
 navbar_entries:
