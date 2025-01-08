@@ -5,7 +5,6 @@ snavbar_entries:
   - title: resume
     url: cv-2024.pdf
     
-
 project_entries:
   - title: MIT PRIMES-USA `24
     url: https://arxiv.org/pdf/2409.02422
