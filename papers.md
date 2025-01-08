@@ -70,8 +70,7 @@ event horizons of black holes, to biomolecules for drug delivery, to the designs
 - Mixing-time estimates for riffle shuffle. *Markov Chains* \[ [pdf](http://simonrs.com/eulercircle/markovchains/shihan-riffle.pdf) \] <br>
   <details>
   <summary>Abstract</summary>
-  <small>We talk about one of the most well-known shuffling methods, called the <i>riffle shuffle</i> or <i>dovetail shuffle</i>. We are interested in the number of shuffles
-that will make the deck of <i>n</i> cards well-mixed, or <i>close</i> to uniformly random.</small>
+  <small>We talk about one of the most well-known shuffling methods, called the <i>riffle shuffle</i> or <i>dovetail shuffle</i>. We are interested in the number of shuffles that will make the deck of <i>n</i> cards well-mixed, or <i>close</i> to uniformly random.</small>
   </details>
   
 - Classifying groups of certain orders. *Abstract Algebra* \[ [pdf](http://simonrs.com/eulercircle/algebra2020/shihan-orders.pdf) \] <br>
