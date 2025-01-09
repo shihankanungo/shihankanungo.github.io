@@ -23,19 +23,19 @@ navbar_entries:
 project_entries:
   - title: MIT PRIMES-USA `24
     url: https://arxiv.org/pdf/2409.02422
-    desc: Representation theory of Lie superalgebras. Joint work with S Erat. Mentor AS Kannan (MIT).
+    desc: Representation theory of Lie superalgebras. <br> Joint work with S Erat. <br> Mentor AS Kannan (MIT).
 
   - title: MIT PRIMES-USA `24
     url: https://arxiv.org/pdf/1805.11639
-    desc: Representation Theory of Twisted Yangians in Complex Rank. Joint work with S Erat. Mentor AS Kannan (MIT).
+    desc: Representation Theory of Twisted Yangians in Complex Rank. <br> Joint work with S Erat. <br> Mentor AS Kannan (MIT).
   
   - title: MIT PRIMES-USA `23
     url: https://arxiv.org/pdf/2307.09645
-    desc: Commutative algebra. Joint work with H Jiang and H Kim. Mentors F Gotti (MIT) and J Coykendall (Clemson University).
+    desc: Commutative algebra. <br> Joint work with H Jiang and H Kim. <br> Mentors F Gotti (MIT) and J Coykendall (Clemson University).
 
   - title: SJSU '24
     url: https://arxiv.org/pdf/2410.07534
-    desc: Research project in analytic number theory. Mentor J Schettler (SJSU).
+    desc: Research project in analytic number theory. <br> Mentor J Schettler (SJSU).
 
 # old_project_entries:
 #   - title: Soopr
