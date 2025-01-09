@@ -11,7 +11,7 @@ description: > # description of the site (multiple lines allowed)
           <br /><br />
           <span style={{fontSize: '0.9rem', lineHeight: '0.7rem'}}><b>Currently reading</b>: <i>Catcher in the Rye</i> by JD Salinger & <i>The Language Puzzle</i> by Steven Mithen.</span>
           <br /><br />
-          <span style={{fontSize: '0.9rem', lineHeight: '0.7rem'}}><b>Current Music Recs</b>: <i><a href="https://open.spotify.com/album/0txwScooV6S8rd8uhWfUGe?si=r-MswTWDTRK3KoW8IBIzMg">Lafandar</a></i> by Heems & <a style={{fontStyle: 'italic'}} href="https://open.spotify.com/playlist/0q3ljBMndxToa5p6pZ7sWY?si=9d6db34aeea24f48">Courtney Barnett</a>. (Also, this playlist of: <a style={{textDecoration: "underline", "textDecorationStyle": 'dotted', fontStyle: 'italic'}} href="https://open.spotify.com/playlist/0plT5tvEl6lVLrQDk0X3eu?si=fe06480b57f64999">my favorite albums from 2024</a>.) </span>
+          <span style={{fontSize: '0.9rem', lineHeight: '0.7rem'}}><b>Current Music Recs</b>: <i>Lafandar</i> by Heems (<a href="https://open.spotify.com/album/0txwScooV6S8rd8uhWfUGe?si=r-MswTWDTRK3KoW8IBIzMg">Spotify</a>), and Courtney Barnett (playlist on <a style={{fontStyle: 'italic'}} href="https://open.spotify.com/playlist/0q3ljBMndxToa5p6pZ7sWY?si=9d6db34aeea24f48">Spotify</a>). <br> Also, this playlist of: <a style={{textDecoration: "underline", "textDecorationStyle": 'dotted', fontStyle: 'italic'}} href="https://open.spotify.com/playlist/0plT5tvEl6lVLrQDk0X3eu?si=fe06480b57f64999">my favorite albums from 2024</a>. </span>
       
 permalink: /:slug
 
