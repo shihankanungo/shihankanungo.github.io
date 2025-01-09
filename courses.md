@@ -58,7 +58,7 @@ title: Mathematics coursework
 - **Number Theory**, Fall 2019. Euler Circle <br>
   <small>Modular arithmetic, Fermat's little theorem, sums of two squares, *p*-adic numbers.</small>
 
-- **Number Theory**, Fall 2023. Euler Circle <br>
+- **(Advanced) Number Theory**, Fall 2023. Euler Circle <br>
   <small>Reciprocity theorems, quadratic forms, elliptic curves, modular curves.</small>
   
 - **Analytic Number Theory**, Spring 2024. Euler Circle <br>
