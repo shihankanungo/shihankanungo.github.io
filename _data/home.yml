@@ -2,8 +2,8 @@ navbar_entries:
   - title: Home
     url: https://shihankanungo.github.io/
 
-  # - title: About
-  #   url: about
+  - title: Courses
+    url: courses
 
   - title: Projects
     url: projects
@@ -14,17 +14,21 @@ navbar_entries:
   - title: Honors
     url: honors
 
-  - title: Courses
-    url: courses
-
   - title: CV
     url: cv-2024.pdf
+
+  # - title: About
+  #   url: about
     
 project_entries:
   - title: MIT PRIMES-USA `24
     url: https://arxiv.org/pdf/2409.02422
     desc: Representation theory of Lie superalgebras. Joint work with Sidarth Erat. Mentor Dr. Arun Kannan (MIT).
 
+  - title: MIT PRIMES-USA `24
+    url: https://arxiv.org/pdf/1805.11639
+    desc: Representation Theory of Twisted Yangians in Complex Rank. Joint work with Sidarth Erat. Mentor Dr. Arun Kannan (MIT).
+  
   - title: MIT PRIMES-USA `23
     url: https://arxiv.org/pdf/2307.09645
     desc: Commutative algebra. Joint work with Henry Jiang and Harry Kim. Mentors Dr. Felix Gotti (MIT) and Dr. Jim Coykendall (Clemson University).
