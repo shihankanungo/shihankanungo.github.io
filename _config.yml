@@ -9,9 +9,9 @@ description: > # description of the site (multiple lines allowed)
           <small><b>Sidenote</b>: <i>I'm looking to work on a hard research problem in combinatorics/graph theory. Please let me know if you, or someone you know, is interested in mentoring such a project! ♥︎ </i></small>
           
           <br /><br />
-          <span style={{fontSize: '0.9rem', lineHeight: '0.7rem'}}><b>Currently reading</b>: <i>Catcher in the Rye</i> by JD Salinger, and <i>The Language Puzzle</i> by Steven Mithen.</span>
+          <small><b>Currently reading</b>: <i>Catcher in the Rye</i> by JD Salinger, and <i>The Language Puzzle</i> by Steven Mithen.</small>
           <br /><br />
-          <span style={{fontSize: '0.9rem', lineHeight: '0.7rem'}}><b>Current Music Recs</b>: <i>Lafandar</i> by Heems (<a href="https://open.spotify.com/album/0txwScooV6S8rd8uhWfUGe?si=r-MswTWDTRK3KoW8IBIzMg">Spotify</a>), and Courtney Barnett (playlist on <a style={{fontStyle: 'italic'}} href="https://open.spotify.com/playlist/0q3ljBMndxToa5p6pZ7sWY?si=9d6db34aeea24f48">Spotify</a>). <br> Also, this playlist of: <a style={{textDecoration: "underline", "textDecorationStyle": 'dotted', fontStyle: 'italic'}} href="https://open.spotify.com/playlist/0plT5tvEl6lVLrQDk0X3eu?si=fe06480b57f64999">my favorite albums from 2024</a>. </span>
+          <small><b>Current Music Recs</b>: <i>Lafandar</i> by Heems (<a href="https://open.spotify.com/album/0txwScooV6S8rd8uhWfUGe?si=r-MswTWDTRK3KoW8IBIzMg">Spotify</a>), and Courtney Barnett (playlist on <a href="https://open.spotify.com/playlist/0q3ljBMndxToa5p6pZ7sWY?si=9d6db34aeea24f48">Spotify</a>). <br> Also, this playlist of: <a href="https://open.spotify.com/playlist/0plT5tvEl6lVLrQDk0X3eu?si=fe06480b57f64999">my favorite albums from 2024</a>. </small>
       
 permalink: /:slug
 
