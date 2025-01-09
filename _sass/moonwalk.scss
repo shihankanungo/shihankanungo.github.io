@@ -65,9 +65,10 @@ img {
 }
 @mixin light-appearance {
   html, body {
-      --bg: #90b2ea;
+      --bg: #6B9CED;
+      --bg-secondary: #90B2EA;
       // --bg: #FFF;
-      --bg-secondary: #f3f4f6;
+      // --bg-secondary: #f3f4f6;
       --headings: #1e293b;
       --text: #374151;
       --text-secondary: #6b7280;
