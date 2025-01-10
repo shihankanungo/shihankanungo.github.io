@@ -30,7 +30,7 @@ title: Papers
   </details>
 
   
-- *Space-Filling Curves*. Real Analysis \[ [pdf](space-filling-curves.pdf) \] <br>
+- *Space-Filling Curves*. Real Analysis \[ [arXiv](https://arxiv.org/pdf/2501.04705) \] <br>
   <details>
   <summary>Abstract</summary>
   <small>We examine space-filling curves, which are surjective continuous maps from [0, 1] to some higher-dimensional space, usually the unit square [0, 1]<sup>2</sup>. In particular, we define Peano’s curve and Lebesgue’s curve, and state some of their properties. We also discuss the Hahn-Mazurkiewicz theorem, which characterizes those subsets of <b>R</b><sup><i>n</i></sup> that are the image of a space-filling curve. Finally, we discuss real-world applications of Hilbert curves, in particular Google’s S2 Cells.</small>
