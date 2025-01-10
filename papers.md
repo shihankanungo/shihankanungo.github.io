@@ -5,7 +5,7 @@ title: Papers
 
 ## Research publications and preprints
 
-- Mixed Tensor Products, Capelli Berezinians, and Newton’s Formula for $\mathbf{gl}(m|n)$ **gl**(*m*\|*n*) \[ [arXiv](https://arxiv.org/pdf/2409.02422) \] <br />
+- Mixed Tensor Products, Capelli Berezinians, and Newton’s Formula for **gl**(*m*\|*n*) \[ [arXiv](https://arxiv.org/pdf/2409.02422) \] <br />
   S. Erat, A. Kannan, **S. Kanungo**. <br />
   *Transformation Groups*. Submitted Apr 12, 2024.
   
