@@ -30,7 +30,7 @@ project_entries:
     desc: Representation Theory of Twisted Yangians in Complex Rank. <br> Joint work with S Erat. <br> Mentor AS Kannan (MIT).
   
   - title: MIT PRIMES-USA `23
-    url: https://arxiv.org/pdf/2307.09645
+    url: primes-23
     desc: Commutative algebra. <br> With H Jiang and H Kim. <br> Mentors F Gotti (MIT) and J Coykendall (Clemson University).
 
   - title: SJSU '24
