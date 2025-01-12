@@ -34,7 +34,7 @@ project_entries:
     desc: Commutative algebra. <br> With H Jiang and H Kim. <br> Mentors F Gotti (MIT) and J Coykendall (Clemson University).
 
   - title: SJSU '24
-    url: https://arxiv.org/pdf/2410.07534
+    url: sjsu-24
     desc: Research project in analytic number theory. <br> Mentor J Schettler (SJSU).
 
 # old_project_entries:
