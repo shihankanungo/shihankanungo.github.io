@@ -3,6 +3,7 @@ layout: post
 title: MIT PRIMES-USA '24
 ---
 <br>
-![abstract](https://github.com/shihankanungo/shihankanungo.github.io/blob/master/primes-24-1-dblue.png#gh-dark-mode-only)
-![abstract](https://github.com/shihankanungo/shihankanungo.github.io/blob/master/primes-24-1-lblue.png#gh-light-mode-only)
+![abstract dark](https://github.com/shihankanungo/shihankanungo.github.io/blob/master/primes-24-1-dblue.png#gh-dark-mode-only)
+
+![abstract light](https://github.com/shihankanungo/shihankanungo.github.io/blob/master/primes-24-1-lblue.png#gh-light-mode-only)
 
