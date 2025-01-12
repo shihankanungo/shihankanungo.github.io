@@ -15,7 +15,7 @@ navbar_entries:
     url: honors
 
   - title: CV
-    url: cv-2024.pdf
+    url: cv.pdf
 
   # - title: About
   #   url: about
