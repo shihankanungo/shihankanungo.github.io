@@ -26,8 +26,8 @@ project_entries:
     desc: Representation theory of Lie superalgebras. <br> Joint work with S Erat. <br> Mentor AS Kannan (MIT).
 
   - title: MIT PRIMES-USA `24
-    url: https://arxiv.org/pdf/1805.11639
-    desc: Representation Theory of Twisted Yangians in Complex Rank. <br> Joint work with S Erat. <br> Mentor AS Kannan (MIT).
+    url: false
+    desc: Representation Theory of Twisted Yangians in Complex Rank. In progress. <br> Joint work with S Erat. <br> Mentor AS Kannan (MIT).
   
   - title: MIT PRIMES-USA `23
     url: primes-23
