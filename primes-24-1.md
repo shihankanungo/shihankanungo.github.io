@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: MIT PRIMES-USA '24
 ---
 
