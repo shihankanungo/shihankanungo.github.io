@@ -3,6 +3,6 @@ layout: post
 title: MIT PRIMES-USA '24
 ---
 <br>
-![abstract](primes-24-1-white.png)
+![abstract](primes-24-1-w.png)
 
 
