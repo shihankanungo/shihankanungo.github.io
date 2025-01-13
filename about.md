@@ -9,6 +9,6 @@ Hello! I am Shihan, a high school junior living in Palo Alto, CA. This is my web
 
 This project resulted in the following paper: <br>
 
-**S. Kanungo**, J. Schettler. *On Product Formulas of Guillera and Sondow*. American Mathematical Monthly. Submitted Oct 27, 2024. Preprint \[ [arxiv](https://arxiv.org/pdf/2410.07534) \]
+**S. Kanungo**, J. Schettler. *On Product Formulas of Guillera and Sondow*. Amer. Math. Monthly. Submitted Oct 27, 2024. Preprint \[ [arxiv](https://arxiv.org/pdf/2410.07534) \]
 
 ![a](signature.png)
