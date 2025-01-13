@@ -10,7 +10,7 @@ title: Honors and Awards
 - **MIT PRIMES-USA (PRIMES: Program for Research in Mathematics, Engineering and Science for High School Students)**, *Researcher*. 2023, 2024, 2025
   - *Representation Theory of Lie Superalgebras*, 2024
   - *Representation Theory of Twisted Yangians in Complex Rank*, 2024
-  - *Commutative Algebra; specifically, factorization theory in monoids and semirings*, 2023  
+  - *Commutative Algebra; factorization theory in monoids and semirings*, 2023  
 - **USAMTS (USA Mathematical Talent Search)**, *Gold medal*. 2022
 - **USAMO (USA Mathematical Olympiad)**, *8/42*, 65th percentile. 2022
 - **Math Kangaroo, Level 12**, *4th in USA*. 2022
