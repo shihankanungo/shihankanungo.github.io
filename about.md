@@ -2,13 +2,9 @@
 layout: post
 title: About
 ---
-Hello! I am Shihan, a high school junior living in Palo Alto, CA. This is my website.
-
-**Abstract.** In this project, we evaluate a multivariable family of infinite products which generalize Guillera's infinite product for $e$, and Ser's formula (rediscovered by Sondow) for $e^\gamma$. We describe formulas for the products in terms of special values of the Hurwitz zeta function $\zeta(s, u)$ and its $s$-derivative. Additionally, we derive integral and double integral representations for the logarithms of these infinite products.
 <br>
 
-This project resulted in the following paper: <br>
+Hey! I'm Shihan&mdash;thanks for stopping by! I am a junior at high school living in Palo Alto, CA. I am fascinated by mathematics, physics, music (performing, composing, listening) and language. When I am not actually busy with one of these, I am probably pretending to be so, while secretly daydreaming about food. I aspire to nurture my passions and use them to make meaningful contributions to society. I truly believe that with curiosity, compassion, and creativity, we can address the challenges of today and build a brighter future&mdash;while having fun along the way!
 
-**S. Kanungo**, J. Schettler. *On Product Formulas of Guillera and Sondow*. American Mathematical Monthly. Submitted Oct 27, 2024. \[ [arxiv](https://arxiv.org/pdf/2410.07534) \]
 
 ![a](signature-teal.png)
