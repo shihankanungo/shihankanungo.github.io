@@ -85,14 +85,12 @@ img {
       --highlight: #41C7C7;
       --bg: #1748cf;
       --bg-secondary: #0043fc;
-      // --bg: #1f242A;
-      // --bg-secondary: #323945;
       --text: #c9ced4;
       // --text: #adb5bd;
       --text-secondary: #9CA3AF;
       --code-text: #91A7FF;
       --share-text: #C4C4C4;
-  };
+  }
 }
 
 html[data-theme="dark"] { @include dark-appearance; }
