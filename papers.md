@@ -26,14 +26,14 @@ title: Papers
 - *David Gale's Subset Takeaway Game*. Combinatorial Game Theory \[ [pdf](subset-takeaway.pdf) \] <br>
   <details>
   <summary>Abstract</summary>
-  <small>We describe the natural interpretation of the game in terms of simplicial complexes, and the binary star reduction technique that shows that <i>Subset Takeaway</i> is a second player win for $n<7$. We also look at Subset Takeway played on a graph, and compute the Grundy values for complete $n$-partite graphs and all bipartite graphs.</small>
+  <small>We describe the natural interpretation of the game in terms of simplicial complexes, and the binary star reduction technique that shows that <i>Subset Takeaway</i> is a second player win for <i>n</i> < 7. We also look at Subset Takeway played on a graph, and compute the Grundy values for complete <i>n</i>-partite graphs and all bipartite graphs.</small>
   </details>
 
   
 - *Space-Filling Curves*. Real Analysis \[ [arXiv](https://arxiv.org/pdf/2501.04705) \] <br>
   <details>
   <summary>Abstract</summary>
-  <small>We examine space-filling curves, which are surjective continuous maps from $[0, 1]$ to some higher-dimensional space, usually the unit square $[0, 1]^2$. In particular, we define Peano’s curve and Lebesgue’s curve, and state some of their properties. We also discuss the Hahn-Mazurkiewicz theorem, which characterizes those subsets of <b>R</b>$^n$ that are the image of a space-filling curve. Finally, we discuss real-world applications of Hilbert curves, in particular Google’s <b>S2</b> Cells.</small>
+  <small>We examine space-filling curves, which are surjective continuous maps from [0, 1] to some higher-dimensional space, usually the unit square [0, 1]<sup>2</sup>. In particular, we define Peano’s curve and Lebesgue’s curve, and state some of their properties. We also discuss the Hahn-Mazurkiewicz theorem, which characterizes those subsets of <b>R</b><sup>n</sup> that are the image of a space-filling curve. Finally, we discuss real-world applications of Hilbert curves, in particular Google’s <b>S2</b> Cells.</small>
   </details>
   
 - *Chromatic Polynomials*. Graph Theory \[ [pdf](chromatic-polynomials.pdf) \] <br>
@@ -75,7 +75,7 @@ title: Papers
 - *Classifying groups of certain orders*. Abstract Algebra \[ [pdf](http://simonrs.com/eulercircle/algebra2020/shihan-orders.pdf) \] <br>
   <details>
   <summary>Abstract</summary>
-  <small>We first discuss the question of which integers $`n`$ <i>n</i> have exactly one group of order <i>n</i>, namely the cyclic group <b>Z</b>/<i>n</i><b>Z</b>. We will see that these are the integers that are relatively prime to the Euler totient function phi(<i>n</i>). Then we discuss how many groups there are of order <i>p</i><sup>3</sup> for each prime <i>p</i>. We end with a couple of interesting results and conjectures pertaining to groups of squarefree order.</small>
+  <small>We first discuss the question of which integers <i>n</i> have exactly one group of order <i>n</i>, namely the cyclic group <b>Z</b>/<i>n</i><b>Z</b>. We will see that these are the integers that are relatively prime to the Euler totient function phi(<i>n</i>). Then we discuss how many groups there are of order <i>p</i><sup>3</sup> for each prime <i>p</i>. We end with a couple of interesting results and conjectures pertaining to groups of squarefree order.</small>
   </details>
   
 
