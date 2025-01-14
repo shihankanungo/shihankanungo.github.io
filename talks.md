@@ -16,7 +16,7 @@ title: Talks
 - **MAA MathFest**, Research in Motion (Undergraduate Student Poster Session). 2024 <br />
   H. Jiang, **S. Kanungo**, H. Kim. *A weaker notion of the finite factorization property* <br />
 
-- **Joint Mathematics Meeting (JMM'24)**, *AMS-PME Undergraduate Student Poster Session*. 2024 \[ [Link](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/41233) \] <br />
+- **Joint Mathematics Meeting (JMM'24)**, AMS-PME Undergraduate Student Poster Session. 2024 \[ [Link](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/41233) \] <br />
   H. Jiang, **S. Kanungo**, H. Kim. *A weaker notion of the finite factorization property* <br />
   
 - **MIT PRIMES**. Thirteenth Annual PRIMES Conference, October 14-15, 2023 \[ [Link](https://math.mit.edu/research/highschool/primes/conference/conf-2023.html) \] <br>
