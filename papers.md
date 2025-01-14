@@ -75,7 +75,7 @@ title: Papers
 - *Classifying groups of certain orders*. Abstract Algebra \[ [pdf](http://simonrs.com/eulercircle/algebra2020/shihan-orders.pdf) \] <br>
   <details>
   <summary>Abstract</summary>
-  <small>We first discuss the question of which integers <i>n</i> have exactly one group of order <i>n</i>, namely the cyclic group <b>Z</b>/<i>n</i><b>Z</b>. We will see that these are the integers that are relatively prime to the Euler totient function phi(<i>n</i>). Then we discuss how many groups there are of order <i>p</i><sup>3</sup> for each prime <i>p</i>. We end with a couple of interesting results and conjectures pertaining to groups of squarefree order.</small>
+  <small>We first discuss the question of which integers $`n`$ <i>n</i> have exactly one group of order <i>n</i>, namely the cyclic group <b>Z</b>/<i>n</i><b>Z</b>. We will see that these are the integers that are relatively prime to the Euler totient function phi(<i>n</i>). Then we discuss how many groups there are of order <i>p</i><sup>3</sup> for each prime <i>p</i>. We end with a couple of interesting results and conjectures pertaining to groups of squarefree order.</small>
   </details>
   
 
