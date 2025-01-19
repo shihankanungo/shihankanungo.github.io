@@ -22,4 +22,4 @@ title: Music
 ## Classical
 **Hilary Hahn**: *Hilary Hahn plays Bach* <br>
 
-![a](signature-teal.png)
+
