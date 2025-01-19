@@ -10,7 +10,7 @@ title: Talks
 - **MIT PRIMES**. Fourteenth Annual PRIMES Conference, October 12-13, 2024 \[ [Link](https://math.mit.edu/research/highschool/primes/conference/index.html) \] <br>
   S. Erat, **S. Kanungo**. *Mixed Tensor Products for Lie Superalgebras* <br />
 
-- **Math Research Outreach Conference (MathROCs)**, 2024 <br />
+- **Math Research Outreach Conference (MathROCs)**, September 8, 2024 <br />
   S. Erat, **S. Kanungo**. *Representation Theory of Lie Superalgebras* <br />
 
 - **MAA MathFest**, Research in Motion (Undergraduate Student Poster Session). 2024 <br />
