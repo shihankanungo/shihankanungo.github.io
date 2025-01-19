@@ -11,16 +11,17 @@ title: Papers
   
   
 - Representation Theory of Twisted Yangians in Complex Rank.  <br />
-  S. Erat, A. Kannan, **S. Kanungo**. <br />
-  *In preparation*
+  S. Erat, A. Kannan, **S. Kanungo**. *In preparation* <br />
   
-- On Product Formulas of Guillera and Sondow \[ [arXiv](https://arxiv.org/pdf/2410.07534) \] <br />
-  **S. Kanungo**, J. Schettler. <br />
-  *American Mathematical Monthly*. Submitted Oct 27, 2024.
   
-- A weaker notion of the finite factorization property \[ [arXiv](https://arxiv.org/pdf/2307.09645) \] <br />
-  H. Jiang, **S. Kanungo**, H. Kim <br />
-  *Commun. Korean Math. Soc.* **39** (2024), No. 2, pp. 313--329 <br />
+- On Product Formulas of Guillera and Sondow  <br />
+  **S. Kanungo**, J. Schettler. *American Mathematical Monthly*. Submitted Oct 27, 2024. <br />
+  \[ [arXiv](https://arxiv.org/pdf/2410.07534) \] 
+  
+  
+- A weaker notion of the finite factorization property <br />
+  H. Jiang, **S. Kanungo**, H. Kim. *Commun. Korean Math. Soc.* **39** (2024), No. 2, pp. 313--329 <br />
+  \[ [arXiv](https://arxiv.org/pdf/2307.09645) \]  <br />
   
 ## Expository 
 
