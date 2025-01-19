@@ -4,7 +4,7 @@ title: Talks
 ---
 
 
-- **Joint Mathematics Meeting (JMM'25)**. PME Contributed Session on Research by Undergraduates. 2025 \[ [Link](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/41233) \] <br />
+- **Joint Mathematics Meeting (JMM'25)**. PME Contributed Session on Research by Undergraduates. January 8-11, 2025 \[ [Link](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/41233) \] <br />
   S. Erat, A. Kannan, **S. Kanungo**. *Mixed Tensor Products, Capelli Berezinians, and Newton’s Formula for* **gl**(*m*\|*n*) <br />
 
 - **MIT PRIMES**. Fourteenth Annual PRIMES Conference, October 12-13, 2024 \[ [Link](https://math.mit.edu/research/highschool/primes/conference/index.html) \] <br>
@@ -16,7 +16,7 @@ title: Talks
 - **MAA MathFest**. Research in Motion (Undergraduate Student Poster Session). August 7-10, 2024 <br />
   H. Jiang, **S. Kanungo**, H. Kim. *A weaker notion of the finite factorization property* <br />
 
-- **Joint Mathematics Meeting (JMM'24)**, AMS-PME Undergraduate Student Poster Session. 2024 \[ [Link](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/41233) \] <br />
+- **Joint Mathematics Meeting (JMM'24)**, AMS-PME Undergraduate Student Poster Session. January 3-6, 2024 \[ [Link](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/41233) \] <br />
   H. Jiang, **S. Kanungo**, H. Kim. *A weaker notion of the finite factorization property* <br />
   
 - **MIT PRIMES**. Thirteenth Annual PRIMES Conference, October 14-15, 2023 \[ [Link](https://math.mit.edu/research/highschool/primes/conference/conf-2023.html) \] <br>
