@@ -6,6 +6,12 @@ title: Music
 
 # Recommendations
 
+## Jazz
+**Barney Wilen**: *Wild Dogs of the Ruwenzori* <br>
+
+## Classical
+**Hilary Hahn**: *Hilary Hahn plays Bach* <br>
+
 ## Rap/Hip Hop
 **Heems/Lapgan**: *Lafandar* <br>
 **Ren**: *Sick Boi* <br>
@@ -16,13 +22,17 @@ title: Music
 ## Alternative/Indie
 **Courtney Barnett**: Spotify \[ [playlist](https://open.spotify.com/playlist/0q3ljBMndxToa5p6pZ7sWY?si=90eb19868874496f) \] <br>
 
+## Reggae
+**Bob Marley**: *Natty Dread* <br>
+
+## African
+**Franco**: *Francophonic: A Retrospective, Vol. 1: 1953–1980*, and *Francophonic Vol. 2* <br>
+
+## North African/Middle Eastern
+**Rachid Taha**: *Made in Medina* <br>
+
 ## Latin pop
 **Natalia Lafourcade**: Spotify \[ [playlist](https://open.spotify.com/playlist/45eerYjFs35pW82ADG6sfZ?si=b159bff8c89d40ff) \] <br>
 
-## Jazz
-**Barney Wilen**: *Wild Dogs of the Ruwenzori* <br>
-
-## Classical
-**Hilary Hahn**: *Hilary Hahn plays Bach* <br>
 
 
