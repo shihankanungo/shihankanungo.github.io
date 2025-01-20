@@ -34,6 +34,9 @@ I listen to a lot of music--108,781 minutes on Spotify last year, which put me i
 ## North African/Middle Eastern
 **Rachid Taha**: *Made in Medina* <br>
 
+## French pop
+**Françoise Hardy**: Spotify \[ [playlist](https://open.spotify.com/playlist/216ImRRbYCDs5JSC4Qk1PH?si=29d5f0112449476c) \] <br>
+
 ## Latin pop
 **Natalia Lafourcade**: Spotify \[ [playlist](https://open.spotify.com/playlist/45eerYjFs35pW82ADG6sfZ?si=b159bff8c89d40ff) \] <br>
 
