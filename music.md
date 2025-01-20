@@ -4,7 +4,8 @@ title: Music
 ---
 <br>
 
-I listen to a lot of music--108,781 minutes on Spotify last year, which put me in the top 1% of listeners worldwide--and across a lot of different genres. Below are some of my recommendations, sorted by genre. This list will be updated frequently.
+I started learning classical piano when I was 4. I have been studying classical violin since 2018. My favorite classical violinist is Hilary Hahn. <br>
+I also listen to a lot of music -- 108,781 minutes on Spotify last year, which put me in the top 1% of listeners worldwide -- and across a lot of different genres. Below are some of my recommendations, sorted by genre. This list will be updated frequently.
 <br>
 
 # Recommendations
