@@ -15,6 +15,9 @@ I started learning classical piano when I was 4. I have been studying classical 
 ## Classical
 **Hilary Hahn**: *Hilary Hahn plays Bach* <br>
 
+## Pop
+**Taylor Swift**: Spotify \[ [playlist](https://open.spotify.com/playlist/6Yf0JvUeuWPH4Qg0STqCKC?si=b9f2ce4a7bbe42c6) \] <br> <br>
+
 ## Rap/Hip Hop
 **Heems/Lapgan**: *Lafandar* <br>
 **Ren**: *Sick Boi* <br>
