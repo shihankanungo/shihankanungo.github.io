@@ -10,7 +10,7 @@ title: Papers
   \[ [arXiv](https://arxiv.org/pdf/2409.02422) \]
   
   
-- Representation Theory of Twisted Yangians in Complex Rank.  <br />
+- Representations of Twisted Yangians in Complex Rank.  <br />
   S. Erat, A. Kannan, **S. Kanungo**. *In preparation* <br />
   
   
@@ -44,7 +44,7 @@ title: Papers
   <small>A general introduction to the theory of chromatic polynomials. We derive their salient properties, and describe some practicaI methods for computing them. We briefly discuss the connection between the theory of chromatic polynomials and map coloring problems.</small>
   </details>
 
-- *Lagrangian and Hamiltonian Mechanics*. Graph Theory \[ [pdf](lhd.pdf) \] <br>
+- *Lagrangian and Hamiltonian Mechanics*. Dynamical Systems \[ [pdf](lhd.pdf) \] <br>
   <details>
   <summary>Abstract</summary>
   <small>we discuss the basics of Lagrangian and Hamiltonian dynamics. We derive the Euler-Lagrange equations fro D’Alembert’s principle, show that they are equivalent to Hamilton’s principle of least actions, and finally use them to derive Hamilton’s equations. We also provide some examples to illustrate the use of Lagrangian and Hamiltonian dynamics.</small>
