@@ -49,27 +49,32 @@ title: Mathematics coursework
   
 
 - **Markov Chains**, Fall 2020. Euler Circle <br>
-  <small>Absorbing and ergodic Markov chains, mixing and stopping times, spectral analysis.</small>
+  <small>Absorbing and ergodic Markov chains, mixing and stopping times, spectral analysis.</small> <br>
+  <small><small>Textbook: Levin and Peres. <i>Markov Chains and Mixing Times.</i></small></small>
 
 ## Algebra and Number Theory
 
 - **Group Theory**, Summer 2023. Art of Problem Solving (AoPS) <br>
-  <small>Building groups from other groups, symmetries of geometric objects, constructing fields.</small>
+  <small>Building groups from other groups, symmetries of geometric objects, constructing fields.</small> <br>
+  <small><small>Textbook: Jeremy Copeland. <i>Groups and Fields.</i></small></small>
 
 - **Abstract Algebra**, Spring 2020. Euler Circle <br>
-  <small>Group theory, Sylow theorems, fields and extensions, number fields, Galois correspondence.</small>
+  <small>Group theory, Sylow theorems, fields and extensions, number fields, Galois correspondence.</small> <br>
+  <small><small>Textbook: Dummit and Foote. <i>Abstract Algebra.</i></small></small>
 
 - **MATH 128B**, *Abstract Algebra II*, Spring 2025. SJSU <br>
   <small>Emphasis on rings, integral domains, fields, field extensions, Galois theory.</small>
 
 - **MATH 226**, *Theory of Numbers*, Spring 2024. SJSU <br>
-  <small>Primes in arithmetic progressions, partitions, modular group, and the Dedekind eta function.</small>
+  <small>Primes in arithmetic progressions, partitions, modular group, and the Dedekind eta function.</small> <br>
+  <small><small>Textbook: Tom Apostol. <i>Introduction to Analytic Number Theory.</i></small></small>
 
 - **Number Theory**, Fall 2019. Euler Circle <br>
   <small>Modular arithmetic, Fermat's little theorem, sums of two squares, *p*-adic numbers.</small>
 
 - **(Advanced) Number Theory**, Fall 2023. Euler Circle <br>
   <small>Reciprocity theorems, quadratic forms, elliptic curves, modular curves.</small>
+  <small><small>Textbook: Ireland and Rosen. <i>Number Theory.</i></small></small>
   
 - **Analytic Number Theory**, Spring 2024. Euler Circle <br>
   <small>Dirichlet’s Theorem, The Prime Number Theorem, Brun's theorem, smooth numbers.</small>
