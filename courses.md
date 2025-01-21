@@ -10,16 +10,19 @@ title: Mathematics coursework
 
 - **MATH 131A**, *Introduction to Analysis*, Spring 2024. SJSU <br>
   <small>Completeness and compactness of **R**. Continuity, uniform continuity, the derivative.</small> <br>
-  <small><small>Textbook: <i>Elementary Analysis: The Theory of Calculus</i>, by Kenneth Ross.</small></small>
+  <small><small>Textbook: Kenneth Ross. <i>Elementary Analysis: The Theory of Calculus</i>.</small></small>
 
 - **MATH 131B**, *Introduction to Real Variables*, Fall 2024. SJSU <br>
   <small>The theory of the Riemann integral, sequences and series of functions, spaces of functions.</small> <br>
+  <small><small>Textbook: Tim Hsu. <i>Fourier Series, Fourier Transforms, and Function Spaces: A Second Course in Analysis</i>.</small></small>
 
 - **MATH 138**, *Complex Variables*, Fall 2023. SJSU <br>
   <small>Analytic functions, complex integration, residues and power series, conformal mapping.</small> <br>
+  <small><small>Textbook: Zill and Shanahan. <i>Complex Analysis</i>.</small></small>
 
 - **MATH 231A**, *Real Analysis*, Fall 2024. SJSU <br>
   <small>Sigma algebras, differentiation, product measures, integration, the spaces *L*<sup>1</sup> and **C**.</small>
+  <small><small>Textbook: Stein and Shakarchi. <i>Real Analysis: Measure Theory, Integration, and Hilbert Spaces</i>.</small></small>
 
 - **MATH 231B**, *Functional Analysis*, Spring 2025. SJSU <br>
   <small>Function spaces and their duals, operators on function spaces, applications to analysis.</small> <br>
