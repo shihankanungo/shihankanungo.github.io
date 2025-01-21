@@ -102,7 +102,7 @@ title: Mathematics coursework
   <small>Binomial coefficients, double-counting; Stirling numbers; counting labeled trees.</small>
 
 - **MATH 179**, *Introduction to Graph Theory*, Fall 2024. SJSU <br>
-  <small>Hamiltonian and Eulerian properties, matching, trees, connectivity, coloring problems and planarity. Emphasis on algorithms and applications, including optimal network flows.</small> <br>
+  <small>Hamiltonian and Eulerian properties, matching, trees, connectivity, coloring problems and planarity.</small> <br>
   <small><small>Textbook: Robin Wilson. <i>Introduction to Graph Theory.</i></small></small>
 
 - **MATH 279A**, *Graph Theory*, Fall 2024. SJSU <br>
