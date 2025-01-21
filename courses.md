@@ -73,7 +73,7 @@ title: Mathematics coursework
   <small>Modular arithmetic, Fermat's little theorem, sums of two squares, *p*-adic numbers.</small>
 
 - **(Advanced) Number Theory**, Fall 2023. Euler Circle <br>
-  <small>Reciprocity theorems, quadratic forms, elliptic curves, modular curves.</small>
+  <small>Reciprocity theorems, quadratic forms, elliptic curves, modular curves.</small> <br>
   <small><small>Textbook: Ireland and Rosen. <i>Number Theory.</i></small></small>
   
 - **Analytic Number Theory**, Spring 2024. Euler Circle <br>
