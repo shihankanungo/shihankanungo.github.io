@@ -34,7 +34,7 @@ project_entries:
   
   - title: MIT PRIMES-USA `23
     url: primes-23
-    desc: Commutative algebra. <br> With H Jiang and H Kim. <br> Mentors F Gotti (MIT) and J Coykendall (Clemson University).
+    desc: Commutative algebra; factorization in monoids and semirings. <br> With H Jiang and H Kim. <br> Mentor F Gotti (MIT).
 
   - title: SJSU '24
     url: sjsu-24
