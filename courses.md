@@ -10,6 +10,7 @@ title: Mathematics coursework
 
 - **MATH 131A**, *Introduction to Analysis*, Spring 2024. SJSU <br>
   <small>Completeness and compactness of **R**. Continuity, uniform continuity, the derivative.</small> <br>
+  <small><small>Textbook: <i>Elementary Analysis: The Theory of Calculus</i>, by Kenneth Ross.</small></small>
 
 - **MATH 131B**, *Introduction to Real Variables*, Fall 2024. SJSU <br>
   <small>The theory of the Riemann integral, sequences and series of functions, spaces of functions.</small> <br>
