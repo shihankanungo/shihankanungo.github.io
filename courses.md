@@ -21,20 +21,24 @@ title: Mathematics coursework
   <small><small>Textbook: Zill and Shanahan. <i>Complex Analysis</i>.</small></small>
 
 - **MATH 231A**, *Real Analysis*, Fall 2024. SJSU <br>
-  <small>Sigma algebras, differentiation, product measures, integration, the spaces *L*<sup>1</sup> and **C**.</small>
+  <small>Sigma algebras, differentiation, product measures, integration, the spaces *L*<sup>1</sup> and **C**.</small> <br>
   <small><small>Textbook: Stein and Shakarchi. <i>Real Analysis: Measure Theory, Integration, and Hilbert Spaces</i>.</small></small>
 
 - **MATH 231B**, *Functional Analysis*, Spring 2025. SJSU <br>
   <small>Function spaces and their duals, operators on function spaces, applications to analysis.</small> <br>
+  <small><small>Textbook: Debnath and Mikusiński. <i>Introduction to Hilbert Spaces with Applications</i>.</small></small>
 
 - **MATH 233A**, *Applied Mathematics I*, Spring 2025. SJSU <br>
-  <small>Initial and boundary value problems for hyperbolic, parabolic and elliptic equations. Fourier series and transforms. Nonlinear partial differential equations.</small>
+  <small>Initial and boundary value problems for hyperbolic, parabolic and elliptic equations. Fourier series and transforms. Nonlinear partial differential equations.</small> <br>
+  <small><small>Textbook: none. <i></i></small></small>
 
 - **MATH 234**, *Advanced Dynamical Systems*, Spring 2024. SJSU <br>
-  <small>Continuous and discrete systems; stability of equilibria and closed orbits, structural stability.</small>
+  <small>Continuous and discrete systems; stability of equilibria and closed orbits, structural stability.</small> <br>
+  <small><small>Textbook: Hirsch, Smale, and Devaney. <i>Differential Equations, Dynamical Systems, and an Introduction to Chaos.</i></small></small>
 
 - **MATH 285A**, *Stochastic Methods in Scientific Computing*, Spring 2025. SJSU <br>
-  <small>Monte Carlo methods, Metropolis-Hastings algorithm, random-number generation.</small>
+  <small>Monte Carlo methods, Metropolis-Hastings algorithm, random-number generation.</small> <br>
+  <small><small>Textbook: Kalos and Whitlock. <i>Monte Carlo Methods.</i></small></small>
 
 - **Ergodic Theory**, Winter 2024. Euler Circle <br>
   <small>Poincare recurrence theorem, invariant measures, multiple recurrence, Szemeredi's theorem.</small>
