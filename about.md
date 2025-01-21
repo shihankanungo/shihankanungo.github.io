@@ -10,4 +10,4 @@ Lafandar, Ren
 Courtney Barnett
 
 
-![a](signature-teal.png)
+![a](signature.png)
