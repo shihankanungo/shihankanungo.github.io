@@ -44,7 +44,9 @@ title: Mathematics coursework
   <small>Poincare recurrence theorem, invariant measures, multiple recurrence, Szemeredi's theorem.</small>
 
 - **Differential Geometry**, Spring 2022. Euler Circle <br>
-  <small>Curves, surfaces, curvature, Gauss' Theorema Egregium, Gauss-Bonnet Theorem.</small>
+  <small>Curves, surfaces, curvature, Gauss' Theorema Egregium, Gauss-Bonnet Theorem.</small> <br>
+  <small><small>Textbook: Andrew Pressley. <i>Elementary Differential Geometry.</i></small></small>
+  
 
 - **Markov Chains**, Fall 2020. Euler Circle <br>
   <small>Absorbing and ergodic Markov chains, mixing and stopping times, spectral analysis.</small>
