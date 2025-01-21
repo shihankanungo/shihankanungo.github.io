@@ -82,16 +82,19 @@ title: Mathematics coursework
 ## Linear Algebra and Matrix Theory
 
 - **MATH 129A**, *Linear Algebra I*, Fall 2023. SJSU <br>
-  <small>Matrices, systems of linear equations, eigenvectors and eigenvalues, inner product spaces.</small>
+  <small>Matrices, systems of linear equations, eigenvectors and eigenvalues, inner product spaces.</small> <br>
   
 - **MATH 129B**, *Linear Algebra II*, Spring 2024. SJSU <br>
-  <small>Cayley-Hamilton theorem, minimal polynomials, Jordan canonical form, inner products.</small>
+  <small>Cayley-Hamilton theorem, minimal polynomials, Jordan canonical form, inner products.</small> <br>
+  <small><small>Textbook: Friedberg, Insel, and Spence. <i>Linear Algebra.</i></small></small>
 
 - **MATH 229**, *Advanced Matrix Theory*, Fall 2024. SJSU <br>
-  <small>Eigenvalues, unitary equivalence and Schur’s theorem. Normal, Hermitian and symmetric real matrices. Positive definite matrices, polar and singular value factorizations</small>
+  <small>Eigenvalues, unitary equivalence and Schur’s theorem. Normal, Hermitian and symmetric real matrices. Positive definite matrices, polar and singular value factorizations</small> <br>
+  <small><small>Textbook: Horn and Johnson. <i>Matrix Analysis.</i></small></small>
 
 - **MATH 285M**, *Nonnegative matrices and Perron-Frobenius Theory*, Spring 2025. SJSU <br>
-  <small>Monte Carlo methods, Metropolis-Hastings algorithm, random-number generation.</small>
+  <small>Monte Carlo methods, Metropolis-Hastings algorithm, random-number generation.</small> <br>
+  <small><small>Textbook: Horn and Johnson. <i>Matrix Analysis.</i></small></small>
 
 ## Combinatorics and Graph Theory
 
@@ -99,15 +102,19 @@ title: Mathematics coursework
   <small>Binomial coefficients, double-counting; Stirling numbers; counting labeled trees.</small>
 
 - **MATH 179**, *Introduction to Graph Theory*, Fall 2024. SJSU <br>
-  <small>Hamiltonian and Eulerian properties, matching, trees, connectivity, coloring problems and planarity. Emphasis on algorithms and applications, including optimal network flows.</small>
+  <small>Hamiltonian and Eulerian properties, matching, trees, connectivity, coloring problems and planarity. Emphasis on algorithms and applications, including optimal network flows.</small> <br>
+  <small><small>Textbook: Robin Wilson. <i>Introduction to Graph Theory.</i></small></small>
 
 - **MATH 279A**, *Graph Theory*, Fall 2024. SJSU <br>
-  <small>Graphs, digraphs, trees, networks, connectedness, eulerian circuits, hamiltonian cycles, graph embeddings, matchings, factorizations, graph colorings and Ramsey theory.</small>
+  <small>Graphs, digraphs, trees, networks, connectedness, eulerian circuits, hamiltonian cycles, graph embeddings, matchings, factorizations, graph colorings and Ramsey theory.</small> <br>
+  <small><small>Textbook: Douglas West. <i>Introduction to Graph Theory.</i></small></small>
 
 - **Combinatorial Game Theory**, Fall 2024. Euler Circle <br>
-  <small>Nim, Hackenbush, surreal numbers, impartial games, Sprague-Grundy theory.</small>
+  <small>Nim, Hackenbush, surreal numbers, impartial games, Sprague-Grundy theory.</small> <br>
+  <small><small>Textbook: Simon Rubinstein-Salzedo. <i>Combinatorial Game Theory.</i></small></small>
 
 - **Generating Functions**, Fall 2021. Euler Circle <br>
-  <small>Ordinary, exponential and multivariate generating functions, growth rate and asymptotic analysis.</small>
+  <small>Ordinary, exponential and multivariate generating functions, growth rate and asymptotic analysis.</small> <br>
+  <small><small>Textbook: Wilf. <i>Generatingfunctionology.</i></small></small>
 
 
