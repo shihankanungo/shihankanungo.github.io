@@ -40,6 +40,10 @@ project_entries:
     url: sjsu-24
     desc: Research project in analytic number theory. <br> Mentor J Schettler (SJSU).
 
+  - title: SJSU '24
+    url: dyn-sys
+    desc: Project in dynamical systems. <br> Instructor L Stantom (SJSU).
+
 # old_project_entries:
 #   - title: Soopr
 #     url: https://www.soopr.co
