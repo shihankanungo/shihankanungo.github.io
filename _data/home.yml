@@ -42,7 +42,7 @@ project_entries:
 
   - title: SJSU '24
     url: dyn-sys
-    desc: Project in dynamical systems. <br> Instructor L Stantom (SJSU).
+    desc: Dynamical systems; Lorenz system and the Rikitake model of geomagnetic reversal. <br> Instructor L Stantom (SJSU).
 
 # old_project_entries:
 #   - title: Soopr
