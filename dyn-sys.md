@@ -6,8 +6,14 @@ title: San José State University '24
 
 ![Lorenz system intro](lorenz-1.png)
 
-<img src="lorenz_r28.png" style="width:300px;margin: 0px 0px 20px 0px;"><img src="lorenz_r28.png" style="width:300px;margin: 0px 0px 0px 20px;">
+<img src="lorenz_r15.png" align="middle" style="width:400px;"> <br>
+<img src="lorenz_r28.png" align="middle" style="width:400px;"> <br>
+<img src="lorenz_r50.png" align="middle" style="width:400px;"> <br>
+<img src="lorenz_r100.png" align="middle" style="width:400px;"> <br>
+<img src="lorenz_r150.png" align="middle" style="width:400px;"> <br>
+<img src="lorenz_r250.png" align="middle" style="width:400px;"> 
 
+<img src="lorenz_r28.png" align="middle">
 
 ![plots](lorenz.png)
 <br>
