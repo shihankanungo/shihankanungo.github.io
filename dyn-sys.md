@@ -6,13 +6,11 @@ title: San José State University '24
 
 ![Lorenz system intro](lorenz-1.png)
 
-<img src="lorenz_r15.png" align="middle" style="width:450px;"> <br> $$\color[RGB]{184,115,51} r=15$$
-<img src="lorenz_r28.png" align="middle" style="width:450px;"> <br>
-<img src="lorenz_r50.png" align="middle" style="width:450px;"> <br>
-<img src="lorenz_r100.png" align="middle" style="width:4500px;"> <br>
-<img src="lorenz_r150.png" align="middle" style="width:450px;"> <br>
-<img src="lorenz_r250.png" align="middle" style="width:450px;"> <br>
-
-
+<img src="lorenz_r15.png" align="middle" style="width:450px;"> <br> 
+<img src="lorenz_r28.png" align="middle" style="width:450px;"> <br> 
+<img src="lorenz_r50.png" align="middle" style="width:450px;"> <br> 
+<img src="lorenz_r100.png" align="middle" style="width:4500px;"> <br> 
+<img src="lorenz_r150.png" align="middle" style="width:450px;"> <br> 
+<img src="lorenz_r250.png" align="middle" style="width:450px;"> <br> 
 
 ![Lorenz system outro](lorenz-2.png)
