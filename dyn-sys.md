@@ -9,7 +9,7 @@ title: San José State University '24
 <img src="lorenz_r15.png" align="middle" style="width:450px;"> <br> 
 <img src="lorenz_r28.png" align="middle" style="width:450px;"> <br> 
 <img src="lorenz_r50.png" align="middle" style="width:450px;"> <br> 
-<img src="lorenz_r100.png" align="middle" style="width:4500px;"> <br> 
+<img src="lorenz_r100.png" align="middle" style="width:450px;"> <br> 
 <img src="lorenz_r150.png" align="middle" style="width:450px;"> <br> 
 <img src="lorenz_r250.png" align="middle" style="width:450px;"> <br> 
 
