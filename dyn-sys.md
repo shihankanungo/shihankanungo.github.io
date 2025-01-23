@@ -1,6 +1,6 @@
 ---
 layout: post
-title: San José State University '24
+title: Dynamical Systems
 ---
 <br>
 
