@@ -4,5 +4,5 @@ title: Product formulas in number theory
 ---
 <br>
 
-![abstract](sjsu-24.png)
+![abstract](images/sjsu-24.png)
 <br>
