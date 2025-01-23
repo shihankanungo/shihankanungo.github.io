@@ -14,3 +14,11 @@ title: Dynamical Systems
 <img src="lorenz_r250.png" align="middle" style="width:450px;"> <br> 
 
 ![Lorenz system outro](lorenz-2.png)
+<br><br>
+
+![Rikitake system intro](rikitake.png) <br>
+
+<img src="rikitake01.png" align="middle" style="width:450px;"> <br>
+<img src="rikitake11.png" align="middle" style="width:450px;"> <br>
+<img src="rikitake21.png" align="middle" style="width:450px;"> <br>
+<img src="rikitake51.png" align="middle" style="width:450px;"> <br>
