@@ -6,14 +6,10 @@ title: Dynamical Systems
 
 ![Lorenz system intro](lorenz-1.png) <br>
 
-<div align="center">
-<a>
-  <img src="lorenz_r15.png" width="300px">
-</a>
-<a>
-  <img src="lorenz_r28.png" width="300px">
-</a>
-</div> <br>
+<i>r</i> = 15 | <i>r</i> = 28
+--- | ---
+![left](lorenz28.png) | ![right](lorenz28.png) 
+
 
 <img src="lorenz_r15.png" align="middle" style="width:450px;"> <br> 
 <img src="lorenz_r28.png" align="middle" style="width:450px;"> <br> 
