@@ -77,7 +77,7 @@ title: Mathematics coursework
   <small><small>Textbook: Ireland and Rosen. <i>A Classical Introduction to Modern Number Theory;</i> David Cox. <i>Primes of the form x<sup>2</sup>+ny<sup>2</sup>.</i></small></small>
   
 - **Analytic Number Theory**. Spring 2024. Euler Circle <br>
-  <small>Dirichlet’s Theorem, The Prime Number Theorem, Brun's theorem, smooth numbers.</small>
+  <small>Dirichlet’s Theorem, The Prime Number Theorem, Brun's theorem, smooth numbers.</small> <br>
   <small><small>Textbook: Simon Rubinstein-Salzedo. <i>Analytic Number Theory.</i></small></small>
 
 ## Linear Algebra and Matrix Theory
