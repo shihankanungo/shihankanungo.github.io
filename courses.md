@@ -64,8 +64,8 @@ I have undertaken advanced coursework at Euler Circle, under the guidance of Dr.
   <small>Group theory, Sylow theorems, fields and extensions, number fields, Galois correspondence.</small> <br>
   <small><small>Textbook: Dummit and Foote. <i>Abstract Algebra.</i></small></small>
 
-- **MATH 128B** *Abstract Algebra II*. Spring 2025. SJSU <br>
-  <small>Emphasis on rings, integral domains, fields, field extensions, Galois theory.</small>
+[//]: # (- **MATH 128B** *Abstract Algebra II*. Spring 2025. SJSU <br>)
+[//]: # (  <small>Emphasis on rings, integral domains, fields, field extensions, Galois theory.</small>)
 
 - **MATH 226** *Theory of Numbers*. Spring 2024. SJSU <br>
   <small>Primes in arithmetic progressions, partitions, modular group, and the Dedekind eta function.</small> <br>
