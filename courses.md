@@ -41,7 +41,7 @@ title: Mathematics coursework
   <small><small>Textbook: Kalos and Whitlock. <i>Monte Carlo Methods.</i></small></small>
 
 - **Ergodic Theory**. Winter 2024. Euler Circle <br>
-  <small>Poincare recurrence theorem, invariant measures, multiple recurrence, Szemeredi's theorem.</small>
+  <small>Poincare recurrence theorem, invariant measures, multiple recurrence, Szemeredi's theorem.</small> <br>
   <small><small>Textbook: Simon Rubinstein-Salzedo. <i>Ergodic Theory.</i></small></small>
 
 - **Differential Geometry**. Spring 2022. Euler Circle <br>
@@ -74,7 +74,8 @@ title: Mathematics coursework
 
 - **(Advanced) Number Theory**. Fall 2023. Euler Circle <br>
   <small>Reciprocity theorems, quadratic forms, elliptic curves, modular curves.</small> <br>
-  <small><small>Textbook: Ireland and Rosen. <i>A Classical Introduction to Modern Number Theory;</i> David Cox. <i>Primes of the form x<sup>2</sup>+ny<sup>2</sup>.</i></small></small>
+  <small><small>Textbook: David Cox. <i>Primes of the form x<sup>2</sup>+ny<sup>2</sup>.</i>; <br>
+  Ireland and Rosen. <i>A Classical Introduction to Modern Number Theory;</i> </small></small>
   
 - **Analytic Number Theory**. Spring 2024. Euler Circle <br>
   <small>Dirichlet’s Theorem, The Prime Number Theorem, Brun's theorem, smooth numbers.</small> <br>
