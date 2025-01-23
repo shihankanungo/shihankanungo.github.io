@@ -117,6 +117,6 @@ title: Mathematics coursework
 
 - **Generating Functions**. Fall 2021. Euler Circle <br>
   <small>Ordinary, exponential and multivariate generating functions, growth rate and asymptotic analysis.</small> <br>
-  <small><small>Textbook: Herbert S Wilf. <i>generatingfunctionology</i>; Flajolet and Sedgewick. <i>Analytic combinatorics.</i></small></small>
+  <small><small>Textbook: Flajolet and Sedgewick. <i>Analytic combinatorics;</i> Herbert S Wilf. <i>generatingfunctionology.</i></small></small>
 
 
