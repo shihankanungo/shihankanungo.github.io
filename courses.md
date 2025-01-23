@@ -74,7 +74,7 @@ title: Mathematics coursework
 
 - **(Advanced) Number Theory**. Fall 2023. Euler Circle <br>
   <small>Reciprocity theorems, quadratic forms, elliptic curves, modular curves.</small> <br>
-  <small><small>Textbook: David Cox. <i>Primes of the form x<sup>2</sup>+ny<sup>2</sup>.</i>; <br>
+  <small><small>Textbook: David Cox. <i>Primes of the form x<sup>2</sup>+ny<sup>2</sup></i>, and <br>
   Ireland and Rosen. <i>A Classical Introduction to Modern Number Theory;</i> </small></small>
   
 - **Analytic Number Theory**. Spring 2024. Euler Circle <br>
