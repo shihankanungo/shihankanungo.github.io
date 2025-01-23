@@ -42,11 +42,11 @@ title: Mathematics coursework
 
 - **Ergodic Theory**. Winter 2024. Euler Circle <br>
   <small>Poincare recurrence theorem, invariant measures, multiple recurrence, Szemeredi's theorem.</small>
+  <small><small>Textbook: Simon Rubinstein-Salzedo. <i>Ergodic Theory.</i></small></small>
 
 - **Differential Geometry**. Spring 2022. Euler Circle <br>
   <small>Curves, surfaces, curvature, Gauss' Theorema Egregium, Gauss-Bonnet Theorem.</small> <br>
   <small><small>Textbook: Andrew Pressley. <i>Elementary Differential Geometry.</i></small></small>
-  
 
 - **Markov Chains**. Fall 2020. Euler Circle <br>
   <small>Absorbing and ergodic Markov chains, mixing and stopping times, spectral analysis.</small> <br>
@@ -74,10 +74,11 @@ title: Mathematics coursework
 
 - **(Advanced) Number Theory**. Fall 2023. Euler Circle <br>
   <small>Reciprocity theorems, quadratic forms, elliptic curves, modular curves.</small> <br>
-  <small><small>Textbook: Ireland and Rosen. <i>Number Theory.</i></small></small>
+  <small><small>Textbook: Ireland and Rosen. <i>A Classical Introduction to Modern Number Theory;</i> David Cox. <i>Primes of the form x<sup>2</sup>+ny<sup>2</sup>.</i></small></small>
   
 - **Analytic Number Theory**. Spring 2024. Euler Circle <br>
   <small>Dirichlet’s Theorem, The Prime Number Theorem, Brun's theorem, smooth numbers.</small>
+  <small><small>Textbook: Simon Rubinstein-Salzedo. <i>Analytic Number Theory.</i></small></small>
 
 ## Linear Algebra and Matrix Theory
 
@@ -115,6 +116,6 @@ title: Mathematics coursework
 
 - **Generating Functions**. Fall 2021. Euler Circle <br>
   <small>Ordinary, exponential and multivariate generating functions, growth rate and asymptotic analysis.</small> <br>
-  <small><small>Textbook: Wilf. <i>Generatingfunctionology.</i></small></small>
+  <small><small>Textbook: Herbert S Wilf. <i>generatingfunctionology.</i></small></small>
 
 
