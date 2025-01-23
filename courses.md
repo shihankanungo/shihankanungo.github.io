@@ -3,6 +3,8 @@ layout: post
 title: Mathematics coursework
 ---
 
+I have undertaken advanced coursework at at Euler Circle, under the guidance of Dr. Simon Rubinstein-Salzedo, and also at San José State University (SJSU) (including several graduate level courses designated below by **MATH 2****). These experiences have significantly enriched both the breadth of my expertise and the depth of my understanding. <br>
+
 ## Analysis and Geometry 
 
 - **Analysis**. Spring 2021. Euler Circle  <br>
