@@ -66,9 +66,11 @@ footer_entries:
   - title: Home
     url: https://shihankanungo.github.io/
 
-  - title: Google Scholar
-    # url: quotes
-    url: https://scholar.google.com/citations?user=URUoNyoAAAAJ&hl=en&authuser=1
+  - title: Quotes
+    url: quotes
+
+  # - title: Google Scholar
+  #   url: https://scholar.google.com/citations?user=URUoNyoAAAAJ&hl=en&authuser=1
 
   - title: Music
     url: music
