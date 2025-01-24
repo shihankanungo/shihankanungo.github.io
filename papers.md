@@ -49,6 +49,13 @@ title: Papers
   <summary>Abstract</summary>
   <small>we discuss the basics of Lagrangian and Hamiltonian dynamics. We derive the Euler-Lagrange equations fro D’Alembert’s principle, show that they are equivalent to Hamilton’s principle of least actions, and finally use them to derive Hamilton’s equations. We also provide some examples to illustrate the use of Lagrangian and Hamiltonian dynamics.</small>
   </details>
+
+- *Brun's Theorem*. Number Theory \[ [slides](brun.pdf) \] <br>
+  <details>
+  <summary>Abstract</summary>
+  <small>The mathematician Viggo Brun was born in Sweden in 1885. He is known for his outstanding contributions to the field of number theory. In his early career, Brun focused on analytic number theory and prime number theory. One of his most famous achievements was Brun’s theorem in 1915, which gave an upper bound on the distance between
+prime numbers. </small>
+  </details>
   
 - *Large Gaps Between Primes*. Analytic Number Theory \[ [pdf](http://simonrs.com/eulercircle/analyticnt2024/shihan-largegaps.pdf) \] <br>
   <details>
