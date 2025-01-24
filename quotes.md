@@ -11,7 +11,7 @@ title: Quotes
 
 > "We don't see things as they are, we see them as we are." -- Anaïs Nin
 
-> "Mathematics requires a small dose, not of genius, but of an imaginative freedom which, in a larger dose, would be insanity." <br> --- Angus K. Rodgers
+> "Mathematics requires a small dose, not of genius, but of an imaginative freedom which, in a larger dose, would be insanity." --- Angus K. Rodgers
 
 > "And those who were seen dancing were thought to be insane by those who could not hear the music." --- Friedrich Nietzsche
 
