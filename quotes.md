@@ -7,6 +7,8 @@ title: Quotes
 
 > "You know you're in love when you can't fall asleep because reality is finally better than your dreams." --- Dr. Seuss
 
+> "It is our choices, Harry, that show what we truly are, far more than our abilities." --- J.K. Rowling, <i>Harry Potter and the Chamber of Secrets</i>
+
 > "Mathematics requires a small dose, not of genius, but of an imaginative freedom which, in a larger dose, would be insanity." <br> --- Angus K. Rodgers
 
 > "We shall not cease from exploration <br>
