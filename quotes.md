@@ -15,7 +15,7 @@ title: Quotes
 
 > "And those who were seen dancing were thought to be insane by those who could not hear the music." --- Friedrich Nietzsche
 
-> "And now here is my secret, a very simple secret: It is only with the heart that one can see rightly; what is essential is invisible to the eye."
+> "And now here is my secret, a very simple secret: It is only with the heart that one can see rightly; what is essential is invisible to the eye." <br>
 --- Antoine de Saint-Exupéry, <i>The Little Prince</i>
 
 > "We shall not cease from exploration <br>
