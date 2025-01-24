@@ -9,6 +9,8 @@ title: Quotes
 
 > "It is our choices, Harry, that show what we truly are, far more than our abilities." --- J.K. Rowling, <i>Harry Potter and the Chamber of Secrets</i>
 
+> "We don't see things as they are, we see them as we are." -- Anaïs Nin
+
 > "Mathematics requires a small dose, not of genius, but of an imaginative freedom which, in a larger dose, would be insanity." <br> --- Angus K. Rodgers
 
 > "We shall not cease from exploration <br>
