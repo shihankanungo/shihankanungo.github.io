@@ -25,8 +25,6 @@ title: Papers
   
 ## Expository 
 
-> "In mathematics you don't understand things. You just get used to them." <br> --- John von Neumann <br>
-
 - *David Gale's Subset Takeaway Game*. Combinatorial Game Theory \[ [pdf](subset-takeaway.pdf) \] <br>
   <details>
   <summary>Abstract</summary>
