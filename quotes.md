@@ -11,6 +11,8 @@ title: Quotes
 
 > "We don't see things as they are, we see them as we are." -- Anaïs Nin
 
+> "Fear is the main source of superstition, and one of the main sources of cruelty. To conquer fear is the beginning of wisdom." --- Bertrand Russell
+
 > "What you get by achieving your goals is not as important as what you become by achieving your goals." --- Zig Ziglar
 
 > "Mathematics requires a small dose, not of genius, but of an imaginative freedom which, in a larger dose, would be insanity." --- Angus K. Rodgers
