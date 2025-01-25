@@ -13,6 +13,8 @@ title: Quotes
 
 > "Mathematics requires a small dose, not of genius, but of an imaginative freedom which, in a larger dose, would be insanity." --- Angus K. Rodgers
 
+> "At a purely formal level, one could call probability theory the study of measure spaces with total measure one, but that would be like calling number theory the study of strings of digits which terminate." --- Terence Tao 
+
 > "And those who were seen dancing were thought to be insane by those who could not hear the music." --- Friedrich Nietzsche
 
 > "And now here is my secret, a very simple secret: It is only with the heart that one can see rightly; what is essential is invisible to the eye." <br>
