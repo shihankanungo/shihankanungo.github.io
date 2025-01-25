@@ -15,6 +15,8 @@ title: Quotes
 
 > "What you get by achieving your goals is not as important as what you become by achieving your goals." --- Zig Ziglar
 
+> "I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed." --- Michael Jordan
+
 > "Mathematics requires a small dose, not of genius, but of an imaginative freedom which, in a larger dose, would be insanity." --- Angus K. Rodgers
 
 > "At a purely formal level, one could call probability theory the study of measure spaces with total measure one, but that would be like calling number theory the study of strings of digits which terminate." --- Terence Tao
