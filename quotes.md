@@ -11,6 +11,8 @@ title: Quotes
 
 > "We don't see things as they are, we see them as we are." -- Anaïs Nin
 
+> "What you get by achieving your goals is not as important as what you become by achieving your goals." --- Zig Ziglar
+
 > "Mathematics requires a small dose, not of genius, but of an imaginative freedom which, in a larger dose, would be insanity." --- Angus K. Rodgers
 
 > "At a purely formal level, one could call probability theory the study of measure spaces with total measure one, but that would be like calling number theory the study of strings of digits which terminate." --- Terence Tao
