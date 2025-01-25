@@ -13,7 +13,9 @@ title: Quotes
 
 > "Mathematics requires a small dose, not of genius, but of an imaginative freedom which, in a larger dose, would be insanity." --- Angus K. Rodgers
 
-> "At a purely formal level, one could call probability theory the study of measure spaces with total measure one, but that would be like calling number theory the study of strings of digits which terminate." --- Terence Tao 
+> "At a purely formal level, one could call probability theory the study of measure spaces with total measure one, but that would be like calling number theory the study of strings of digits which terminate." --- Terence Tao
+
+> "I think prime numbers are like life. They are very logical but you could never work out the rules, even if you spent all your time thinking about them." --- Mark Haddon, <i>The Curious Incident of the Dog in the Nighttime</i> 
 
 > "And those who were seen dancing were thought to be insane by those who could not hear the music." --- Friedrich Nietzsche
 
