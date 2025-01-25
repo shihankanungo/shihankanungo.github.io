@@ -13,6 +13,15 @@ When I’m learning about a new subject, for example, I set a timer, silence my 
 
 > "One of the things I love about jazz music is that intent is first and execution is second. In classical music, execution is first and intent is second, meaning that you must first learn a piece before you can truly add your interpretation to it." --- Irvin Mayfield
 
+> "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." --- Roy T. Bennett, <i>The Light in the Heart</i>
+
+> "The only limit to our realization of tomorrow will be our doubts of today." --- Franklin D. Roosevelt
+
+> "The fears we don’t face become our limits." --- Robin Sharma
+
+> "Life is found in the dance between your deepest desire and your greatest fear." --- Wayne Dyer
+
+> "Only those who will risk going too far can possibly find out how far one can go." --- T.S.Eliot
 
 Lafandar, Ren
 Courtney Barnett
