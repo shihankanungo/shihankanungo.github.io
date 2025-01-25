@@ -9,6 +9,8 @@ title: Quotes
 
 > "It is our choices, Harry, that show what we truly are, far more than our abilities." --- J.K. Rowling, <i>Harry Potter and the Chamber of Secrets</i>
 
+> "We all die. The goal isn't to live forever, the goal is to create something that will." --- Chuck Palahniuk
+
 > "We don't see things as they are, we see them as we are." -- Anaïs Nin
 
 > "Fear is the main source of superstition, and one of the main sources of cruelty. To conquer fear is the beginning of wisdom." --- Bertrand Russell
