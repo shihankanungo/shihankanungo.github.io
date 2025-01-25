@@ -4,7 +4,7 @@ title: Mathematics coursework
 ---
 > "In mathematics you don't understand things. You just get used to them." <br> --- John von Neumann 
 
-<br> <br>
+<br> 
 I have undertaken advanced coursework at Euler Circle, under the guidance of Dr. Simon Rubinstein-Salzedo, and also at San José State University (SJSU) (including several graduate level courses designated below by **MATH 2****). These experiences have significantly enriched both the breadth of my expertise and the depth of my understanding. <br>
 
 ## Analysis and Geometry 
