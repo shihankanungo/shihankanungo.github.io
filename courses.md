@@ -19,7 +19,7 @@ I have undertaken advanced coursework at Euler Circle, under the guidance of Dr.
 
 - **MATH 233A** *Applied Mathematics I*. Spring 2025. SJSU <br>
   <small>Initial and boundary value problems for hyperbolic, parabolic and elliptic equations. Fourier series and transforms. Nonlinear partial differential equations.</small> <br>
-  <small><small>Textbook: PJ Olver. <i>Introduction to Partial Differential Equations.</i></small></small>
+  <small><small>Textbook: Peter John Olver. <i>Introduction to Partial Differential Equations.</i></small></small>
 
 - **MATH 234** *Advanced Dynamical Systems*. Spring 2024. SJSU <br>
   <small>Continuous and discrete systems; stability of equilibria and closed orbits, structural stability.</small> <br>
