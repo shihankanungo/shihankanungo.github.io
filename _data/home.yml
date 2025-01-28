@@ -24,7 +24,7 @@ navbar_entries:
   #   url: about
     
 project_entries:
- - title: MIT PRIMES-USA `25
+  - title: MIT PRIMES-USA `25
     url: primes-25
     desc: Saturation problems for sequences. <br> Mentor Jesse Geneson (SJSU).
     
