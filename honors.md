@@ -14,7 +14,7 @@ title: Honors and Awards
   - *Representations of Lie Superalgebras*, 2024
   - *Representations of Twisted Yangians in Complex Rank*, 2024
   - *Commutative Algebra; factorization theory in monoids and semirings*, 2023  
-- **USAMTS (USA Mathematical Talent Search)**, *Gold medal*. 2022
+- **USAMTS (USA Mathematical Talent Search)**, *Gold medal*. 2023
 - **USAMO (USA Mathematical Olympiad)**, *8/42*, 65th percentile. 2022
 - **Math Kangaroo, Level 12**, *4th in USA*. 2022
 
