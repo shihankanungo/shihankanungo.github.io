@@ -10,10 +10,10 @@ title: Honors and Awards
 - **WSS**, World Science Scholar. 2024
 - **The Spirit of Ramanujan STEM Talent Initiative**, Spirit of Ramanujan Fellow. 2023
 - **MIT PRIMES-USA (PRIMES: Program for Research in Mathematics, Engineering and Science for High School Students)**, *Researcher*. 2023, 2024, 2025
-  - *Saturation Problems for Sequences*, 2025
-  - *Representations of Lie Superalgebras*, 2024
-  - *Representations of Twisted Yangians in Complex Rank*, 2024
-  - *Commutative Algebra; factorization theory in monoids and semirings*, 2023  
+  - Combinatorics. *Saturation Problems for Sequences*. 2025
+  - Representation Theory. *Representations of Twisted Yangians in Complex Rank*. 2024
+  - Representation Theory. *Representations of Lie Superalgebras*. 2024
+  - Commutative Algebra. *Factorization theory in monoids and semirings* 2023  
 - **USAMTS (USA Mathematical Talent Search)**, *Gold medal*. 2023
 - **USAMO (USA Mathematical Olympiad)**, *8/42*, 65th percentile. 2022
 - **Math Kangaroo, Level 12**, *4th in USA*. 2022
