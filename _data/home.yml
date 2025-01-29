@@ -27,15 +27,15 @@ project_entries:
   - title: MIT PRIMES-USA `25
     url: primes-25
     desc: Saturation problems for sequences. <br> In progress. <br> Mentor J Geneson (SJSU).
+   
+  - title: MIT PRIMES-USA `24
+    url: primes-24-2
+    desc: Representations of twisted Yangians in complex rank. <br> In progress. <br> Mentor AS Kannan (MIT).
     
   - title: MIT PRIMES-USA `24
     url: primes-24-1
     desc: Representations of Lie superalgebras. <br> Joint work with S Erat. <br> Mentor AS Kannan (MIT).
 
-  - title: MIT PRIMES-USA `24
-    url: primes-24-2
-    desc: Representations of twisted Yangians in complex rank. <br> In progress. <br> Mentor AS Kannan (MIT).
-  
   - title: MIT PRIMES-USA `23
     url: primes-23
     desc: Commutative algebra; factorization in monoids and semirings. <br> With H Jiang and H Kim. <br> Mentor F Gotti (MIT).
