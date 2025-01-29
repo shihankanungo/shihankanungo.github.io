@@ -8,6 +8,7 @@ title: Honors and Awards
 - **USAPhO (AAPT)**, *U.S. Physics Team Training Camp*, University of Maryland. 2024
 - **S.-T. Yau High School Science Award**, *USA Bronze Medalist in Mathematics*. 2024
 - **MIT PRIMES-USA (PRIMES: Program for Research in Mathematics, Engineering and Science for High School Students)**, *Researcher*. 2023, 2024, 2025
+  - *Saturation Problems for Sequences*, 2025
   - *Representations of Lie Superalgebras*, 2024
   - *Representations of Twisted Yangians in Complex Rank*, 2024
   - *Commutative Algebra; factorization theory in monoids and semirings*, 2023  
