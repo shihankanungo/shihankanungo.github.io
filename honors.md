@@ -7,6 +7,8 @@ title: Honors and Awards
 
 - **USAPhO (AAPT)**, *U.S. Physics Team Training Camp*, University of Maryland. 2024
 - **S.-T. Yau High School Science Award**, *USA Bronze Medalist in Mathematics*. 2024
+- **WSS**, World Science Scholar. 2024
+- **The Spirit of Ramanujan STEM Talent Initiative**, Spirit of Ramanujan Fellow. 2023
 - **MIT PRIMES-USA (PRIMES: Program for Research in Mathematics, Engineering and Science for High School Students)**, *Researcher*. 2023, 2024, 2025
   - *Saturation Problems for Sequences*, 2025
   - *Representations of Lie Superalgebras*, 2024
@@ -15,8 +17,7 @@ title: Honors and Awards
 - **USAMTS (USA Mathematical Talent Search)**, *Gold medal*. 2022
 - **USAMO (USA Mathematical Olympiad)**, *8/42*, 65th percentile. 2022
 - **Math Kangaroo, Level 12**, *4th in USA*. 2022
-- **WSS**, World Science Scholar. 2024
-- **The Spirit of Ramanujan STEM Talent Initiative**, Spirit of Ramanujan Fellow. 2023
+
 
 ## Music
 
