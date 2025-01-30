@@ -9,12 +9,12 @@ I started learning classical piano when I was 4. I have been studying classical 
 
 # Recommendations
 
+## Classical
+**Hilary Hahn**: *Hilary Hahn plays Bach* <br>
+
 ## Jazz
 **Dudu Pukwana**: *In the Townships* \[ [YouTube](https://youtube.com/playlist?list=PLE8FFB87B77AF5AD8&si=CJrt4bXMtnqv0F4H) \] <br>
 **Barney Wilen**: *Wild Dogs of the Ruwenzori* <br>
-
-## Classical
-**Hilary Hahn**: *Hilary Hahn plays Bach* <br>
 
 ## Pop
 **Taylor Swift**: Spotify \[ [playlist](https://open.spotify.com/playlist/6Yf0JvUeuWPH4Qg0STqCKC?si=b9f2ce4a7bbe42c6) \] <br>
