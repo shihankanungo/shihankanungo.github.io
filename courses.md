@@ -60,11 +60,6 @@ I have undertaken advanced coursework at Euler Circle, under the guidance of Dr.
 
 ## Algebra and Number Theory
 
-
-- **Abstract Algebra**. Spring 2020. Euler Circle <br>
-  <small>Group theory, Sylow theorems, fields and extensions, number fields, Galois correspondence.</small> <br>
-  <small><small>Textbook: Dummit and Foote. <i>Abstract Algebra.</i></small></small>
-
 - **Group Theory**. Summer 2023. Art of Problem Solving (AoPS) (A+)<br>
   <small>Building groups from other groups, symmetries of geometric objects, constructing fields.</small> <br>
   <small><small>Textbook: Jeremy Copeland. <i>Groups and Fields.</i></small></small>
@@ -84,6 +79,10 @@ I have undertaken advanced coursework at Euler Circle, under the guidance of Dr.
 
 - **Number Theory**. Fall 2019. Euler Circle <br>
   <small>Modular arithmetic, Fermat's little theorem, sums of two squares, *p*-adic numbers.</small>
+
+- **Abstract Algebra**. Spring 2020. Euler Circle <br>
+  <small>Group theory, Sylow theorems, fields and extensions, number fields, Galois correspondence.</small> <br>
+  <small><small>Textbook: Dummit and Foote. <i>Abstract Algebra.</i></small></small>
 
 [//]: # (- **MATH 128B** *Abstract Algebra II*. Spring 2025. SJSU <br>)
 [//]: # (  <small>Emphasis on rings, integral domains, fields, field extensions, Galois theory.</small>)
