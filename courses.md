@@ -119,7 +119,7 @@ I have undertaken advanced coursework at Euler Circle, under the guidance of Dr.
   <small>Nim, Hackenbush, surreal numbers, impartial games, Sprague-Grundy theory.</small> <br>
   <small><small>Textbook: Simon Rubinstein-Salzedo. <i>Combinatorial Game Theory.</i></small></small>
 
-- **MATH 179** *Introduction to Graph Theory*. Fall 2024. SJSU (A)<br>
+- **MATH 179** *Introduction to Graph Theory*. Fall 2024. SJSU (A+)<br>
   <small>Hamiltonian and Eulerian properties, matching, trees, connectivity, coloring problems and planarity.</small> <br>
   <small><small>Textbook: Robin Wilson. <i>Introduction to Graph Theory.</i></small></small>
 
