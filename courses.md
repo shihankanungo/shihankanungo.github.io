@@ -18,15 +18,15 @@ I have undertaken advanced coursework at Euler Circle, under the guidance of Dr.
   <small>Function spaces and their duals, operators on function spaces, applications to analysis.</small> <br>
   <small><small>Textbook: Debnath and Mikusiński. <i>Introduction to Hilbert Spaces with Applications</i>.</small></small>
 
-- **MATH 233A** *Applied Mathematics I*. Spring 2025. SJSU <br>
+- **MATH 233A** *Applied Mathematics I*. Spring 2025. SJSU (Grade pending)<br>
   <small>Initial and boundary value problems for hyperbolic, parabolic and elliptic equations. Fourier series and transforms. Nonlinear partial differential equations.</small> <br>
   <small><small>Textbook: Peter John Olver. <i>Introduction to Partial Differential Equations.</i></small></small>
 
-- **MATH 234** *Advanced Dynamical Systems*. Spring 2024. SJSU <br>
+- **MATH 234** *Advanced Dynamical Systems*. Spring 2024. SJSU (A+)<br>
   <small>Continuous and discrete systems; stability of equilibria and closed orbits, structural stability.</small> <br>
   <small><small>Textbook: Hirsch, Smale, and Devaney. <i>Differential Equations, Dynamical Systems, and an Introduction to Chaos.</i></small></small>
 
-- **MATH 285A** *Stochastic Methods in Scientific Computing*. Spring 2025. SJSU <br>
+- **MATH 285A** *Stochastic Methods*. Spring 2025. SJSU (Grade pending)<br>
   <small>Monte Carlo methods, Metropolis-Hastings algorithm, random-number generation.</small> <br>
   <small><small>Textbook: Kalos and Whitlock. <i>Monte Carlo Methods.</i></small></small>
 
@@ -42,15 +42,15 @@ I have undertaken advanced coursework at Euler Circle, under the guidance of Dr.
   <small>Absorbing and ergodic Markov chains, mixing and stopping times, spectral analysis.</small> <br>
   <small><small>Textbook: Levin and Peres. <i>Markov Chains and Mixing Times.</i></small></small>
 
-- **MATH 131A** *Introduction to Analysis*. Spring 2024. SJSU <br>
+- **MATH 131A** *Introduction to Analysis*. Spring 2024. SJSU (A+)<br>
   <small>Completeness and compactness of **R**. Continuity, uniform continuity, the derivative.</small> <br>
   <small><small>Textbook: Kenneth Ross. <i>Elementary Analysis: The Theory of Calculus</i>.</small></small>
 
-- **MATH 131B** *Introduction to Real Variables*. Fall 2024. SJSU <br>
+- **MATH 131B** *Introduction to Real Variables*. Fall 2024. SJSU (A+)<br>
   <small>The theory of the Riemann integral, sequences and series of functions, spaces of functions.</small> <br>
   <small><small>Textbook: Tim Hsu. <i>Fourier Series, Fourier Transforms, and Function Spaces: A Second Course in Analysis</i>.</small></small>
 
-- **MATH 138** *Complex Variables*. Fall 2023. SJSU <br>
+- **MATH 138** *Complex Variables*. Fall 2023. SJSU (A+)<br>
   <small>Analytic functions, complex integration, residues and power series, conformal mapping.</small> <br>
   <small><small>Textbook: Zill and Shanahan. <i>Complex Analysis</i>.</small></small>
 
@@ -65,11 +65,11 @@ I have undertaken advanced coursework at Euler Circle, under the guidance of Dr.
   <small>Group theory, Sylow theorems, fields and extensions, number fields, Galois correspondence.</small> <br>
   <small><small>Textbook: Dummit and Foote. <i>Abstract Algebra.</i></small></small>
 
-- **Group Theory**. Summer 2023. Art of Problem Solving (AoPS) <br>
+- **Group Theory**. Summer 2023. Art of Problem Solving (AoPS) (A+)<br>
   <small>Building groups from other groups, symmetries of geometric objects, constructing fields.</small> <br>
   <small><small>Textbook: Jeremy Copeland. <i>Groups and Fields.</i></small></small>
 
-- **MATH 226** *Theory of Numbers*. Spring 2024. SJSU <br>
+- **MATH 226** *Theory of Numbers*. Spring 2024. SJSU (A+)<br>
   <small>Primes in arithmetic progressions, partitions, modular group, and the Dedekind eta function.</small> <br>
   <small><small>Textbook: Tom Apostol. <i>Introduction to Analytic Number Theory.</i></small></small>
 
@@ -90,24 +90,24 @@ I have undertaken advanced coursework at Euler Circle, under the guidance of Dr.
 
 ## Linear Algebra and Matrix Theory
 
-- **MATH 229** *Advanced Matrix Theory*. Fall 2024. SJSU <br>
+- **MATH 229** *Advanced Matrix Theory*. Fall 2024. SJSU (A+)<br>
   <small>Eigenvalues, unitary equivalence and Schur’s theorem. Normal, Hermitian and symmetric real matrices. Positive definite matrices, polar and singular value factorizations</small> <br>
   <small><small>Textbook: Horn and Johnson. <i>Matrix Analysis.</i></small></small>
 
-- **MATH 285M** *Nonnegative matrices and Perron-Frobenius Theory*. Spring 2025. SJSU <br>
+- **MATH 285M** *Nonnegative matrices and Perron-Frobenius Theory*. Spring 2025. SJSU (Grade pending)<br>
   <small>Monte Carlo methods, Metropolis-Hastings algorithm, random-number generation.</small> <br>
   <small><small>Textbook: Horn and Johnson. <i>Matrix Analysis.</i></small></small>
 
-- **MATH 129A** *Linear Algebra I*. Fall 2023. SJSU <br>
+- **MATH 129A** *Linear Algebra I*. Fall 2023. SJSU (A)<br>
   <small>Matrices, systems of linear equations, eigenvectors and eigenvalues, inner product spaces.</small> <br>
   
-- **MATH 129B** *Linear Algebra II*. Spring 2024. SJSU <br>
+- **MATH 129B** *Linear Algebra II*. Spring 2024. SJSU (A+)<br>
   <small>Cayley-Hamilton theorem, minimal polynomials, Jordan canonical form, inner products.</small> <br>
   <small><small>Textbook: Friedberg, Insel, and Spence. <i>Linear Algebra.</i></small></small>
 
 ## Combinatorics and Graph Theory
 
-- **MATH 279A** *Graph Theory*. Fall 2024. SJSU <br>
+- **MATH 279A** *Graph Theory*. Fall 2024. SJSU (A+)<br>
   <small>Graphs, digraphs, trees, networks, connectedness, eulerian circuits, hamiltonian cycles, graph embeddings, matchings, factorizations, graph colorings and Ramsey theory.</small> <br>
   <small><small>Textbook: Douglas West. <i>Introduction to Graph Theory.</i></small></small>
 
@@ -119,7 +119,7 @@ I have undertaken advanced coursework at Euler Circle, under the guidance of Dr.
   <small>Nim, Hackenbush, surreal numbers, impartial games, Sprague-Grundy theory.</small> <br>
   <small><small>Textbook: Simon Rubinstein-Salzedo. <i>Combinatorial Game Theory.</i></small></small>
 
-- **MATH 179** *Introduction to Graph Theory*. Fall 2024. SJSU <br>
+- **MATH 179** *Introduction to Graph Theory*. Fall 2024. SJSU (A)<br>
   <small>Hamiltonian and Eulerian properties, matching, trees, connectivity, coloring problems and planarity.</small> <br>
   <small><small>Textbook: Robin Wilson. <i>Introduction to Graph Theory.</i></small></small>
 
