@@ -33,6 +33,18 @@ title: Quotes
 > "And now here is my secret, a very simple secret: It is only with the heart that one can see rightly; what is essential is invisible to the eye." <br>
 --- Antoine de Saint-Exupéry, <i>The Little Prince</i>
 
+> "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." --- Roy T. Bennett, <i>The Light in the Heart</i>
+
+> "The only limit to our realization of tomorrow will be our doubts of today." --- Franklin D. Roosevelt
+
+> "The fears we don’t face become our limits." --- Robin Sharma
+
+> "Life is found in the dance between your deepest desire and your greatest fear." --- Wayne Dyer
+
+> "Only those who will risk going too far can possibly find out how far one can go." --- T.S.Eliot
+
+> "You cannot discover new oceans unless you have the courage to lose sight of the shore." --- André Gide
+
 > "We shall not cease from exploration / And the end of all our exploring <br>
 Will be to arrive where we started / And know the place for the first time." <br>
 --- T.S. Eliot, from "Little Gidding," <i>Four Quartets</i>
