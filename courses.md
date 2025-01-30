@@ -94,7 +94,7 @@ I have undertaken advanced coursework at Euler Circle, under the guidance of Dr.
   <small><small>Textbook: Horn and Johnson. <i>Matrix Analysis.</i></small></small>
 
 - **MATH 285M** *Nonnegative matrices and Perron-Frobenius Theory*. Spring 2025. SJSU (Grade pending)<br>
-  <small>Monte Carlo methods, Metropolis-Hastings algorithm, random-number generation.</small> <br>
+  <small>Perron Theory for positive matrices, Frobenius Theory for irreducible matrices, spectral graph theory, spectral digraph theory.</small> <br>
   <small><small>Textbook: Horn and Johnson. <i>Matrix Analysis.</i></small></small>
 
 - **MATH 129A** *Linear Algebra I*. Fall 2023. SJSU (A)<br>
