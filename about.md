@@ -11,7 +11,7 @@ When you're not being productive in a meaningful way, take a page from Cal Newpo
 
 When I’m learning about a new subject, for example, I set a timer, silence my devices and notifications, and aim to get into a state of flow. I try to immerse myself in the topic and let distractions and concerns fade into the background. Best case scenario? I lose track of time until the alarm pulls me back. After several focused learning sprints, however, I start to notice diminishing returns—my thoughts feel slower, and my brain begins to feel saturated. That’s when it’s time to switch gears and tackle a different task.
 
-> "One of the things I love about jazz music is that intent is first and execution is second. In classical music, execution is first and intent is second, meaning that you must first learn a piece before you can truly add your interpretation to it." --- Irvin Mayfield
+> "When you live on your own for a long time, however, your personality changes because you go so much into yourself you lose the ability to be social, to understand what is and isn't normal behavior. There is an entire world inside yourself, and if you let yourself, you can get so deep inside it you will forget the way to the surface. Other people keep our souls alive, just like food and water does with our body." --- Donald Miller, <i>Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality</i>
 
 
 
