@@ -5,7 +5,7 @@ title: Mathematics coursework
 > "In mathematics you don't understand things. You just get used to them." <br> --- John von Neumann 
 
 <br> 
-I have undertaken advanced coursework at Euler Circle, under the guidance of Dr. Simon Rubinstein-Salzedo, and also at San José State University (SJSU) (including several graduate level courses designated below by **MATH 2****). These experiences have significantly enriched both the breadth of my expertise and the depth of my understanding. Or, as von Neumann would put it, they have simply helped me get used to some of mathematics. <br> <br>
+I have undertaken advanced coursework at Euler Circle, under the guidance of Dr. Simon Rubinstein-Salzedo, and also at San José State University (SJSU) (including several graduate level courses designated below by **MATH 2****). At Euler Circle, each class is 10 weeks long and is the equivalent of a college mathematics class in terms of sophistication and difficulty. In each class, we solve weekly problem sets to gain familiarity with new material, and at the end of the class we write an expository paper on a topic related to the class material. Classes at SJSU are 15 weeks long with 7 to 10 problem sets and two midterm exams and a final exam. In graduate classes, there is often a project and/or presentation in lieu of the final. These experiences have significantly enriched both the breadth of my expertise and the depth of my understanding. Or, as von Neumann would put it, they have simply helped me get used to some of mathematics. <br> <br>
 <small>Grades indicated below where available. Euler Circle does not assign grades; they believe that grades tend to set achievement ceilings.</small>
 
 ## Analysis and Geometry 
