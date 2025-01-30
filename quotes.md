@@ -35,7 +35,7 @@ title: Quotes
 
 > "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." --- Roy T. Bennett, <i>The Light in the Heart</i>
 
-> "The only limit to our realization of tomorrow will be our doubts of today." --- Franklin D. Roosevelt
+> "The only limit to our realization of tomorrow will be our doubts of today." <br> --- Franklin D. Roosevelt
 
 > "The fears we don’t face become our limits." --- Robin Sharma
 
