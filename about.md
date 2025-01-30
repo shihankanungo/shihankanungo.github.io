@@ -15,8 +15,4 @@ When I’m learning about a new subject, for example, I set a timer, silence my 
 
 
 
-Lafandar, Ren
-Courtney Barnett
-
-
 ![a](signature.png)
