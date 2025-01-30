@@ -10,11 +10,11 @@ I have undertaken advanced coursework at Euler Circle, under the guidance of Dr.
 
 ## Analysis and Geometry 
 
-- **MATH 231A** *Real Analysis*. Fall 2024. SJSU (Grade: A+) <br>
+- **MATH 231A** *Real Analysis*. Fall 2024. SJSU (A+) <br>
   <small>Sigma algebras, differentiation, product measures, integration, the spaces *L*<sup>1</sup> and **C**.</small> <br>
   <small><small>Textbook: Stein and Shakarchi. <i>Real Analysis: Measure Theory, Integration, and Hilbert Spaces</i>.</small></small>
 
-- **MATH 231B** *Functional Analysis*. Spring 2025. SJSU <br>
+- **MATH 231B** *Functional Analysis*. Spring 2025. SJSU (Grade pending)<br>
   <small>Function spaces and their duals, operators on function spaces, applications to analysis.</small> <br>
   <small><small>Textbook: Debnath and Mikusiński. <i>Introduction to Hilbert Spaces with Applications</i>.</small></small>
 
