@@ -17,6 +17,8 @@ When I’m learning about a new subject, for example, I set a timer, silence my 
 
 > "The blues is an impulse to keep the painful details and episodes of a brutal experience alive in one's aching consciousness, to finger its jagged grain, and to transcend it, not by the consolation of philosophy but by squeezing from it a near-tragic, near-comic lyricism. As a form, the blues is an autobiographical chronicle of personal catastrophe expressed lyrically." --- Ralph Ellison, <i>Living with Music: Jazz Writings</i>
 
+> "It’s not the note you play that’s the wrong note – it’s the note you play afterwards that makes it right or wrong." --- Miles Davis
+
 > "There will come a time when you believe everything is finished; that will be the beginning." --- Louis L'Amour
 
 
