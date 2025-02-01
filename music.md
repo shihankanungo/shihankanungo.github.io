@@ -10,6 +10,7 @@ I started learning classical piano when I was 4. I have been studying classical 
 # Recommendations
 
 ## Classical
+**Christoph Eschenbach**: *Mozart: The Piano Sonatas* <br>
 **Hilary Hahn**: *Hilary Hahn plays Bach* <br>
 
 ## Jazz
