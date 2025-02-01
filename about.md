@@ -20,6 +20,7 @@ When I’m learning about a new subject, for example, I set a timer, silence my 
 > "It’s not the note you play that’s the wrong note – it’s the note you play afterwards that makes it right or wrong." --- Miles Davis
 
 > "There will come a time when you believe everything is finished; that will be the beginning." --- Louis L'Amour
+
 > "If you're trying to choose between two theories and one gives you an excuse for being lazy, the other one is probably right." --- Paul Graham, <i>What You'll Wish You'd Known</i>
 
 
