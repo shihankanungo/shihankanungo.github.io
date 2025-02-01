@@ -23,5 +23,7 @@ When I’m learning about a new subject, for example, I set a timer, silence my 
 
 > "If you're trying to choose between two theories and one gives you an excuse for being lazy, the other one is probably right." --- Paul Graham, <i>What You'll Wish You'd Known</i>
 
+> "It's dangerous to design your life around getting into college, because the people you have to impress to get into college are not a very discerning audience. At most colleges, it's not the professors who decide whether you get in, but admissions officers, and they are nowhere near as smart. They're the NCOs of the intellectual world. They can't tell how smart you are. The mere existence of prep schools is proof of that."  --- Paul Graham, <i>What You'll Wish You'd Known</i>
+
 
 ![a](signature.png)
