@@ -18,6 +18,8 @@ title: Quotes
 
 > "We don't see things as they are, we see them as we are." -- Anaïs Nin
 
+> "What matters in life is not what happens to you but what you remember and how you remember it." --- Gabriel Garcia Marquez
+
 > "God grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference." --- unknown
 
 > "Whether you think you can, or you think you can't -- you're right." --- Henry Ford
