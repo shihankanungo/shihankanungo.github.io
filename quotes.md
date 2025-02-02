@@ -20,6 +20,8 @@ title: Quotes
 
 > "What matters in life is not what happens to you but what you remember and how you remember it." --- Gabriel Garcia Marquez
 
+> "It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it." --- Dale Carnegie, <i>How to Win Friends and Influence People</i>
+
 > "God grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference." --- unknown
 
 > "Whether you think you can, or you think you can't -- you're right." --- Henry Ford
