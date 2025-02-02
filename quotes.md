@@ -12,6 +12,8 @@ title: Quotes
 > "We all die. The goal isn't to live forever, it is to create something that will." <br>
 --- Chuck Palahniuk
 
+> "Nothing that’s worthwhile is ever easy. Remember that." --- Nicholas Sparks, <i>Message in a Bottle</i>
+
 > "There is a theory which states that if ever anyone discovers exactly what the Universe is for and why it is here, it will instantly disappear and be replaced by something even more bizarre and inexplicable. <br><br> There is another theory which states that this has already happened." <br> --- Douglas Adams, <i>The Restaurant at the End of the Universe</i>
 
 > "We don't see things as they are, we see them as we are." -- Anaïs Nin
