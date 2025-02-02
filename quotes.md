@@ -30,6 +30,8 @@ title: Quotes
 
 > "Always do what you are afraid to do." --- Ralph Waldo Emerson
 
+> "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You are able to say to yourself, 'I have lived through this horror. I can take the next thing that comes along.' You must do the thing you think you cannot do." <br> --- Eleanor Roosevelt, <i>You Learn by Living: Eleven Keys for a More Fulfilling Life</i>
+
 > "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." --- Roy T. Bennett, <i>The Light in the Heart</i>
 
 > "The only limit to our realization of tomorrow will be our doubts of today." <br> --- Franklin D. Roosevelt
