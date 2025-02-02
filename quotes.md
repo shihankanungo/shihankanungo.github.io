@@ -14,6 +14,8 @@ title: Quotes
 
 > "We don't see things as they are, we see them as we are." -- Anaïs Nin
 
+> "God grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference." --- unknown
+
 > "Fear is the main source of superstition, and one of the main sources of cruelty. To conquer fear is the beginning of wisdom." --- Bertrand Russell
 
 > "What you get by achieving your goals is not as important as what you become by achieving your goals." --- Zig Ziglar
