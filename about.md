@@ -43,4 +43,6 @@ When I’m learning about a new subject, for example, I set a timer, silence my 
 
 > "It is the time you have wasted for your rose that makes your rose so important. <br> --- Antoine de Saint-Exupéry, <i>The Little Prince</i>
 
+> "Weeds are flowers, too, once you get to know them." --- A.A. Milne
+
 ![a](signature.png)
