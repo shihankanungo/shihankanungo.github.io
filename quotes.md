@@ -20,6 +20,8 @@ title: Quotes
 
 > "Fear is the main source of superstition, and one of the main sources of cruelty. To conquer fear is the beginning of wisdom." --- Bertrand Russell
 
+> "Always do what you are afraid to do." --- Ralph Waldo Emerson
+
 > "What you get by achieving your goals is not as important as what you become by achieving your goals." --- Zig Ziglar
 
 > "I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed." <br>
