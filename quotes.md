@@ -12,13 +12,13 @@ title: Quotes
 > "We all die. The goal isn't to live forever, it is to create something that will." <br>
 --- Chuck Palahniuk
 
-> "There is a theory which states that if ever anyone discovers exactly what the Universe is for and why it is here, it will instantly disappear and be replaced by something even more bizarre and inexplicable. <br><br> There is another theory which states that this has already happened." --- Douglas Adams, <i>The Restaurant at the End of the Universe</i>
+> "There is a theory which states that if ever anyone discovers exactly what the Universe is for and why it is here, it will instantly disappear and be replaced by something even more bizarre and inexplicable. <br><br> There is another theory which states that this has already happened." <br> --- Douglas Adams, <i>The Restaurant at the End of the Universe</i>
 
 > "We don't see things as they are, we see them as we are." -- Anaïs Nin
 
 > "God grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference." --- unknown
 
-> "I wanted you to see what real courage is, instead of getting the idea that courage is a man with a gun in his hand. It's when you know you're licked before you begin, but you begin anyway and see it through no matter what." --- Harper Lee, <i>To Kill a Mockingbird</i>
+> "I wanted you to see what real courage is, instead of getting the idea that courage is a man with a gun in his hand. It's when you know you're licked before you begin, but you begin anyway and see it through no matter what." <br> --- Harper Lee, <i>To Kill a Mockingbird</i>
 
 > "Fear is the main source of superstition, and one of the main sources of cruelty. To conquer fear is the beginning of wisdom." --- Bertrand Russell
 
