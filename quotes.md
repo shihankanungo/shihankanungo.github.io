@@ -22,9 +22,19 @@ title: Quotes
 
 > "I wanted you to see what real courage is, instead of getting the idea that courage is a man with a gun in his hand. It's when you know you're licked before you begin, but you begin anyway and see it through no matter what." <br> --- Harper Lee, <i>To Kill a Mockingbird</i>
 
+> "Courage is the most important of all the virtues because without courage, you can't practice any other virtue consistently." --- Maya Angelou
+
 > "Fear is the main source of superstition, and one of the main sources of cruelty. To conquer fear is the beginning of wisdom." --- Bertrand Russell
 
 > "Always do what you are afraid to do." --- Ralph Waldo Emerson
+
+> "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." --- Roy T. Bennett, <i>The Light in the Heart</i>
+
+> "The only limit to our realization of tomorrow will be our doubts of today." <br> --- Franklin D. Roosevelt
+
+> "The fears we don’t face become our limits." --- Robin Sharma
+
+> "Life is found in the dance between your deepest desire and your greatest fear." --- Wayne Dyer
 
 > "What you get by achieving your goals is not as important as what you become by achieving your goals." --- Zig Ziglar
 
@@ -42,14 +52,6 @@ title: Quotes
 
 > "And now here is my secret, a very simple secret: It is only with the heart that one can see rightly; what is essential is invisible to the eye." <br>
 --- Antoine de Saint-Exupéry, <i>The Little Prince</i>
-
-> "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." --- Roy T. Bennett, <i>The Light in the Heart</i>
-
-> "The only limit to our realization of tomorrow will be our doubts of today." <br> --- Franklin D. Roosevelt
-
-> "The fears we don’t face become our limits." --- Robin Sharma
-
-> "Life is found in the dance between your deepest desire and your greatest fear." --- Wayne Dyer
 
 > "Only those who will risk going too far can possibly find out how far one can go." --- T.S.Eliot
 
