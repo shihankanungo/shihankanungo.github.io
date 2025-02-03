@@ -45,4 +45,6 @@ When I’m learning about a new subject, for example, I set a timer, silence my 
 
 > "Weeds are flowers, too, once you get to know them." --- A.A. Milne
 
+> "The measure of intelligence is the ability to change." --- Albert Einstein
+
 ![a](signature.png)
