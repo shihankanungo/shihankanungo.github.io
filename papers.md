@@ -5,6 +5,8 @@ title: Papers
 
 ## Research publications and preprints
 
+> "The difference between a research paper and toilet paper is that toilet paper only has crap on one side." --- Anonymous academic joke
+
 - Mixed Tensor Products, Capelli Berezinians, and Newton’s Formula for **gl**(*m*\|*n*)  <br />
   S. Erat, A. Kannan, **S. Kanungo**. *Transformation Groups*. Submitted Sep 12, 2024. <br />
   \[ [arXiv](https://arxiv.org/pdf/2409.02422) \]
