@@ -53,4 +53,6 @@ When I’m learning about a new subject, for example, I set a timer, silence my 
 
 > "The measure of intelligence is the ability to change." --- Albert Einstein
 
+> "Compassion is the basis of morality." --- Arthur Schopenhauer
+
 ![a](signature.png)
