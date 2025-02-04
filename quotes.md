@@ -11,6 +11,9 @@ title: Quotes
 
 > "When I was a boy of 14, my father was so ignorant I could hardly stand to have the old man around. But when I got to be 21, I was astonished at how much the old man had learned in seven years." --- Mark Twain
 
+> "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well."
+--- Ralph Waldo Emerson
+
 > "We all die. The goal isn't to live forever, it is to create something that will." <br>
 --- Chuck Palahniuk
 
