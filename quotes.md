@@ -68,6 +68,8 @@ title: Quotes
 > "And now here is my secret, a very simple secret: It is only with the heart that one can see rightly; what is essential is invisible to the eye." <br>
 --- Antoine de Saint-Exupéry, <i>The Little Prince</i>
 
+> "How did it get so late so soon?" --- Dr. Seuss
+
 > "Only those who will risk going too far can possibly find out how far one can go." --- T.S.Eliot
 
 > "You cannot discover new oceans unless you have the courage to lose sight of the shore." --- André Gide
