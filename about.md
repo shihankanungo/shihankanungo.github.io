@@ -33,6 +33,8 @@ When I’m learning about a new subject, for example, I set a timer, silence my 
 
 > "The word I most misunderstood was "tact." As used by adults, it seemed to mean keeping your mouth shut. I assumed it was derived from the same root as "tacit" and "taciturn," and that it literally meant being quiet. I vowed that I would never be tactful; they were never going to shut me up. In fact, it's derived from the same root as "tactile," and what it means is to have a deft touch. Tactful is the opposite of clumsy. I don't think I learned this until college.  --- Paul Graham, <i>Why Nerds are Unpopular</i>
 
+> "Tact is the ability to tell someone to go to hell in such a way that they look forward to the trip." --- Winston Churchill
+
 > "Pain and suffering are always inevitable for a large intelligence and a deep heart. The really great men must, I think, have great sadness on earth." --- Fyodor Dostoevsky, <i>Crime and Punishment</i>
 
 > "I have a theory that selflessness and bravery aren't all that different." --- Veronica Roth, <i>Divergent</i>
