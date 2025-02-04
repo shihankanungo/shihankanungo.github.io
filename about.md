@@ -37,6 +37,8 @@ When I’m learning about a new subject, for example, I set a timer, silence my 
 
 > "I have a theory that selflessness and bravery aren't all that different." --- Veronica Roth, <i>Divergent</i>
 
+> "Everything that irritates us about others can lead us to an understanding of ourselves." --- Carl Gustav Jung
+
 > "Vanity and pride are different things, though the words are often used synonymously. A person may be proud without being vain. Pride relates more to our opinion of ourselves, vanity to what we would have others think of us." --- Jane Austen, <i>Pride and Prejudice</i>
 
 > "It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat." --- Theodore Roosevelt
