@@ -73,9 +73,9 @@ When I’m learning about a new subject, for example, I set a timer, silence my 
 
 7. **Tucker Zimmerman & Friends:** Tucker Zimmerman & Friends Play Dance of Love (4AD)
 
-8. Kampire Presents: A Dancefloor in Ndola (Strut)
+8. **Kampire Presents:** A Dancefloor in Ndola (Strut)
 
-9. Chappell Roan: The Rise and Fall of a Midwest Princess (Island ‘23)
+9. **Chappell Roan:** The Rise and Fall of a Midwest Princess (Island ‘23)
 
 10. Previous Industries: Service Merchandise (Merge)
 
