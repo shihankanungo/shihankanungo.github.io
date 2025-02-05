@@ -79,6 +79,9 @@ footer_entries:
   - title: Music
     url: music
 
+  - title: Wrapped
+    url: wrapped
+
 misc_entries:
   - title: this is an example vertical list
     url: false
