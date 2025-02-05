@@ -57,4 +57,152 @@ When I’m learning about a new subject, for example, I set a timer, silence my 
 
 > "Compassion is the basis of morality." --- Arthur Schopenhauer
 
+
+1. Louis Armstrong: Louis in London (Verve)
+2. Wussy: Cincinnati Ohio (Shake It)
+
+3. Phelimuncasi & Metal Preyers: Izigqinamba (Nyege Nyege Tapes)
+
+4. Adrianne Lenker: Bright Future (4AD)
+
+5. Eminem: The Death of Slim Shady (Coup de Grâce) (Aftermath/Interscope)
+
+6. Buck 65: Punk Rock B-Boy (self-released ‘23)
+
+7. Tucker Zimmerman & Friends: Tucker Zimmerman & Friends Play Dance of Love (4AD)
+
+8. Kampire Presents: A Dancefloor in Ndola (Strut)
+
+9. Chappell Roan: The Rise and Fall of a Midwest Princess (Island ‘23)
+
+10. Previous Industries: Service Merchandise (Merge)
+
+11. Charli XCX: Brat (Atlantic)
+
+12. Doechii: Alligator Bites Never Heal (TDE/Capitol)
+
+13. Buck 65, Doseone, Jel: North American Adonis (Handsmade ‘23)
+
+14. Fake Fruit: Mucho Mistrust (Carpark)
+
+15. Billie Eilish: Hit Me Hard and Soft (Darkroom/Interscope)
+
+16. Beyoncé: Cowboy Carter (Parkwood/Columbia)
+
+17. Jason Moran: From the Dancehall to the Battlefield (Yes ‘23)
+
+18. Rosie Tucker: Utopia Now! (Sentimental)
+
+19. Heems: Lafandar (Veena Sounds)
+
+20. Unholy Modal Rounders: Unholier Than Thou 7/7/77 (Don Giovanni)
+
+21. Fred Again..: 10 Days (Atlantic)
+
+22. Laurie Anderson: Amelia (Nonesuch)
+
+23. Tierra Whack: World Wide Whack (Interscope)
+
+24. Kendrick Lamar: GNX (pgLang/Interscope)
+
+25. Carly Pearce: Hummingbird (Big Machine)
+
+Jon Langford & the Men of Gwent: Lost on Land & Sea (Country Mile ‘23)
+
+Miranda Lambert: Postcards From Texas (Republic/Big Loud/Vanner)
+
+The Paranoid Style: The Paranoid Style Presents: The Interrogator (Bar/None)
+
+Bad Moves: Wearing Out the Refrain (Don Giovanni)
+
+Vampire Weekend: Only God Was Above Us (Columbia)
+
+Wimps: City Lights (Youth Riot ‘23)
+
+África Negra: Antologia Vol. 2 (Bongo Joe)
+
+Azuka Moweta & Aniome Brothers Band: Nwanne Bu Ife (Palenque)
+
+Chris Smither: All About the Bones (Signature Sounds)
+
+Jon Langford and the Men of Gwent: The Legend of LL (Country Mile ‘15)
+
+Kathryn Willson & Withered Hand: Willson Williams (One Little Independent)
+
+Jamila Woods: Water Made Us (Jagjaguwar)
+
+Jon Langford: Gubbins (self-released '23)
+
+M.J. Lenderman: Manning Fireworks (Anti-)
+
+David Murray: Francesca (Intakt)
+
+Guy Davis: Be Ready When I Call You (M.C. ‘21)
+
+Les Amazones d’Afrique: Musow Danse (RealWorld)
+
+Margaret Glaspy: Echo the Diamond (ATO)
+
+LL Cool J: The Force (Def Jam/Virgin/LL Cool J)
+
+Dolly Parton: Rockstar (Butterfly/Big Machine)
+
+Ren: Sick Boi (The Other Songs)
+
+Jack Harlow: Jackman (Atlantic ‘23)
+
+Rail Band: Buffet Hotel de la Gare (Mississippi)
+
+Megan Moroney: Am I Okay? (Columbia Nashville)
+
+Morgan Wade: Obsessed (RCA)
+
+Sonic Youth: Walls Have Ears (Goofin’)
+
+El Michels Affair & Black Thought: Glorious Game (Big Crown)
+
+Regina Spektor: Home, Before and After (Sire)
+
+Charlotte Adigéry and Bolis Pupul: Topical Dancer (DeeWee ‘22)
+
+Waxahatchee: Tigers Blood (Anti-)
+
+Kim Gordon: The Collective (Matador)
+
+The Old 97’s: American Primitive (ATO)
+
+Guy Davis: The Legend of Sugarbelly (M.C.)
+
+Jason Isbell and the 400 Unit: Weathervanes (Southeastern)
+
+Zach Bryan: The Great American Bar Scene (Warner)
+
+Serengeti: Kenny Dennis IV (Cohn Corporation)
+
+Robert Finley: Black Bayou (Easy Eye Sound ‘23)
+
+Thomas Anderson: Hello, I’m From the Future (Out There)
+
+The Cucumbers: Old Shoes (self-released)
+
+Hinds: Viva Hinds (Lucky175)
+
+Swamp Dogg: Blackgrass: From West Virginia to 125th Street (Oh Boy)
+
+Rosali: Bite Down (Merge)
+
+Millie Jackson: On the Soul Country Side (Kent)
+
+Yard Act: Where’s My Utopia? (Island)
+
+Fox Green: Light Over Darkness (self-released)
+
+Ciara Grace: Write It Down (self-released)
+
+Okuté: Okuté (Chulo ‘21)
+
+Bill Orcutt: Music for Four Guitars (Palilalia ‘22)
+
+MC5: Heavy Lifting (Ear Music)
+
 ![a](signature.png)
