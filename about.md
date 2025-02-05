@@ -57,6 +57,7 @@ When I’m learning about a new subject, for example, I set a timer, silence my 
 
 > "Compassion is the basis of morality." --- Arthur Schopenhauer
 
+<br><br><br>
 # Dean's List: 2024
 
 1. **Louis Armstrong:** Louis in London (Verve)
@@ -158,52 +159,52 @@ When I’m learning about a new subject, for example, I set a timer, silence my 
 
 50. Morgan Wade: Obsessed (RCA)
 
-Sonic Youth: Walls Have Ears (Goofin’)
+51. Sonic Youth: Walls Have Ears (Goofin’)
 
-El Michels Affair & Black Thought: Glorious Game (Big Crown)
+52. El Michels Affair & Black Thought: Glorious Game (Big Crown)
 
-Regina Spektor: Home, Before and After (Sire)
+53. Regina Spektor: Home, Before and After (Sire)
 
-Charlotte Adigéry and Bolis Pupul: Topical Dancer (DeeWee ‘22)
+54. Charlotte Adigéry and Bolis Pupul: Topical Dancer (DeeWee ‘22)
 
-Waxahatchee: Tigers Blood (Anti-)
+55. Waxahatchee: Tigers Blood (Anti-)
 
-Kim Gordon: The Collective (Matador)
+56. Kim Gordon: The Collective (Matador)
 
-The Old 97’s: American Primitive (ATO)
+57. The Old 97’s: American Primitive (ATO)
 
-Guy Davis: The Legend of Sugarbelly (M.C.)
+58. Guy Davis: The Legend of Sugarbelly (M.C.)
 
-Jason Isbell and the 400 Unit: Weathervanes (Southeastern)
+59. Jason Isbell and the 400 Unit: Weathervanes (Southeastern)
 
-Zach Bryan: The Great American Bar Scene (Warner)
+60. Zach Bryan: The Great American Bar Scene (Warner)
 
-Serengeti: Kenny Dennis IV (Cohn Corporation)
+61. Serengeti: Kenny Dennis IV (Cohn Corporation)
 
-Robert Finley: Black Bayou (Easy Eye Sound ‘23)
+62. Robert Finley: Black Bayou (Easy Eye Sound ‘23)
 
-Thomas Anderson: Hello, I’m From the Future (Out There)
+63. Thomas Anderson: Hello, I’m From the Future (Out There)
 
-The Cucumbers: Old Shoes (self-released)
+64. The Cucumbers: Old Shoes (self-released)
 
-Hinds: Viva Hinds (Lucky175)
+65. Hinds: Viva Hinds (Lucky175)
 
-Swamp Dogg: Blackgrass: From West Virginia to 125th Street (Oh Boy)
+66. Swamp Dogg: Blackgrass: From West Virginia to 125th Street (Oh Boy)
 
-Rosali: Bite Down (Merge)
+67. Rosali: Bite Down (Merge)
 
-Millie Jackson: On the Soul Country Side (Kent)
+68. Millie Jackson: On the Soul Country Side (Kent)
 
-Yard Act: Where’s My Utopia? (Island)
+69. Yard Act: Where’s My Utopia? (Island)
 
-Fox Green: Light Over Darkness (self-released)
+70. Fox Green: Light Over Darkness (self-released)
 
-Ciara Grace: Write It Down (self-released)
+71. Ciara Grace: Write It Down (self-released)
 
-Okuté: Okuté (Chulo ‘21)
+72. Okuté: Okuté (Chulo ‘21)
 
-Bill Orcutt: Music for Four Guitars (Palilalia ‘22)
+73. Bill Orcutt: Music for Four Guitars (Palilalia ‘22)
 
-MC5: Heavy Lifting (Ear Music)
+74. MC5: Heavy Lifting (Ear Music)
 
 ![a](signature.png)
