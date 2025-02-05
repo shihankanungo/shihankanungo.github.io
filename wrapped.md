@@ -59,4 +59,20 @@ The Farewell // The Cider House Rules // Little Women // Lincoln // Gravity // A
 
 ## Books
 
+- *Brighton Rock* by Graham Greene. 1938
+- *American History, Volume 1: 1492-1877* by Thomas S. Kidd. 2019
+- *American History, Volume 2: 1877 - Present* by Thomas S. Kidd. 2019
+- *American Nations: A History of the Eleven Rival Regional Cultures of North America* by Colin Woodard. 2011
+- *Gone with the Wind* by Margaret Mitchell. 1936
+- *The Case Against Sugar* by Gary Taubes. 2016
+- *The Great Gatsby* by F. Scott Fitzgerald. 1925
+- *The Language Puzzle: Piecing Together the Six-Million-Year Story of How Words Evolved* by Steven Mithen. 2024
+- *Mister Pip* by Lloyd Jones. 2006
+- *The American Spirit: Who We Are and What We Stand For* by David McCullough. 2017
+- *The Catcher in the Rye* by J.D. Salinger. 1951
+- *Elliptic Tales: Curves, Counting, and Number Theory* by Avner Ash and Robert Gross. 2012
+- *Siddhartha* by Hermann Hesse. 1922
+
+
+
 ## Travel
