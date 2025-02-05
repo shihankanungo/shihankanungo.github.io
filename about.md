@@ -57,19 +57,20 @@ When I’m learning about a new subject, for example, I set a timer, silence my 
 
 > "Compassion is the basis of morality." --- Arthur Schopenhauer
 
+# Dean's List: 2024
 
-1. Louis Armstrong: Louis in London (Verve)
-2. Wussy: Cincinnati Ohio (Shake It)
+1. **Louis Armstrong:** Louis in London (Verve)
+2. **Wussy:** Cincinnati Ohio (Shake It)
 
-3. Phelimuncasi & Metal Preyers: Izigqinamba (Nyege Nyege Tapes)
+3. **Phelimuncasi & Metal Preyers:** Izigqinamba (Nyege Nyege Tapes)
 
-4. Adrianne Lenker: Bright Future (4AD)
+4. **Adrianne Lenker:** Bright Future (4AD)
 
-5. Eminem: The Death of Slim Shady (Coup de Grâce) (Aftermath/Interscope)
+5. **Eminem:** The Death of Slim Shady (Coup de Grâce) (Aftermath/Interscope)
 
-6. Buck 65: Punk Rock B-Boy (self-released ‘23)
+6. **Buck 65:** Punk Rock B-Boy (self-released ‘23)
 
-7. Tucker Zimmerman & Friends: Tucker Zimmerman & Friends Play Dance of Love (4AD)
+7. **Tucker Zimmerman & Friends:** Tucker Zimmerman & Friends Play Dance of Love (4AD)
 
 8. Kampire Presents: A Dancefloor in Ndola (Strut)
 
@@ -81,7 +82,7 @@ When I’m learning about a new subject, for example, I set a timer, silence my 
 
 12. Doechii: Alligator Bites Never Heal (TDE/Capitol)
 
-13. Buck 65, Doseone, Jel: North American Adonis (Handsmade ‘23)
+13. **Buck 65, Doseone, Jel:** North American Adonis (Handsmade ‘23)
 
 14. Fake Fruit: Mucho Mistrust (Carpark)
 
@@ -93,7 +94,7 @@ When I’m learning about a new subject, for example, I set a timer, silence my 
 
 18. Rosie Tucker: Utopia Now! (Sentimental)
 
-19. Heems: Lafandar (Veena Sounds)
+19. **Heems:** Lafandar (Veena Sounds)
 
 20. Unholy Modal Rounders: Unholier Than Thou 7/7/77 (Don Giovanni)
 
@@ -107,55 +108,55 @@ When I’m learning about a new subject, for example, I set a timer, silence my 
 
 25. Carly Pearce: Hummingbird (Big Machine)
 
-Jon Langford & the Men of Gwent: Lost on Land & Sea (Country Mile ‘23)
+26. Jon Langford & the Men of Gwent: Lost on Land & Sea (Country Mile ‘23)
 
-Miranda Lambert: Postcards From Texas (Republic/Big Loud/Vanner)
+27. Miranda Lambert: Postcards From Texas (Republic/Big Loud/Vanner)
 
-The Paranoid Style: The Paranoid Style Presents: The Interrogator (Bar/None)
+28. The Paranoid Style: The Paranoid Style Presents: The Interrogator (Bar/None)
 
-Bad Moves: Wearing Out the Refrain (Don Giovanni)
+29. Bad Moves: Wearing Out the Refrain (Don Giovanni)
 
-Vampire Weekend: Only God Was Above Us (Columbia)
+30. Vampire Weekend: Only God Was Above Us (Columbia)
 
-Wimps: City Lights (Youth Riot ‘23)
+31. Wimps: City Lights (Youth Riot ‘23)
 
-África Negra: Antologia Vol. 2 (Bongo Joe)
+32. África Negra: Antologia Vol. 2 (Bongo Joe)
 
-Azuka Moweta & Aniome Brothers Band: Nwanne Bu Ife (Palenque)
+33. Azuka Moweta & Aniome Brothers Band: Nwanne Bu Ife (Palenque)
 
-Chris Smither: All About the Bones (Signature Sounds)
+34. Chris Smither: All About the Bones (Signature Sounds)
 
-Jon Langford and the Men of Gwent: The Legend of LL (Country Mile ‘15)
+35. Jon Langford and the Men of Gwent: The Legend of LL (Country Mile ‘15)
 
-Kathryn Willson & Withered Hand: Willson Williams (One Little Independent)
+36. Kathryn Willson & Withered Hand: Willson Williams (One Little Independent)
 
-Jamila Woods: Water Made Us (Jagjaguwar)
+37. Jamila Woods: Water Made Us (Jagjaguwar)
 
-Jon Langford: Gubbins (self-released '23)
+38. Jon Langford: Gubbins (self-released '23)
 
-M.J. Lenderman: Manning Fireworks (Anti-)
+39. M.J. Lenderman: Manning Fireworks (Anti-)
 
-David Murray: Francesca (Intakt)
+40. David Murray: Francesca (Intakt)
 
-Guy Davis: Be Ready When I Call You (M.C. ‘21)
+41. Guy Davis: Be Ready When I Call You (M.C. ‘21)
 
-Les Amazones d’Afrique: Musow Danse (RealWorld)
+42. Les Amazones d’Afrique: Musow Danse (RealWorld)
 
-Margaret Glaspy: Echo the Diamond (ATO)
+43. Margaret Glaspy: Echo the Diamond (ATO)
 
-LL Cool J: The Force (Def Jam/Virgin/LL Cool J)
+44. LL Cool J: The Force (Def Jam/Virgin/LL Cool J)
 
-Dolly Parton: Rockstar (Butterfly/Big Machine)
+45. Dolly Parton: Rockstar (Butterfly/Big Machine)
 
-Ren: Sick Boi (The Other Songs)
+46. Ren: Sick Boi (The Other Songs)
 
-Jack Harlow: Jackman (Atlantic ‘23)
+47. Jack Harlow: Jackman (Atlantic ‘23)
 
-Rail Band: Buffet Hotel de la Gare (Mississippi)
+48. Rail Band: Buffet Hotel de la Gare (Mississippi)
 
-Megan Moroney: Am I Okay? (Columbia Nashville)
+49. Megan Moroney: Am I Okay? (Columbia Nashville)
 
-Morgan Wade: Obsessed (RCA)
+50. Morgan Wade: Obsessed (RCA)
 
 Sonic Youth: Walls Have Ears (Goofin’)
 
