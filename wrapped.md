@@ -76,3 +76,10 @@ The Farewell // The Cider House Rules // Little Women // Lincoln // Gravity // A
 
 
 ## Travel
+
+> "Not all those who wander are lost." --- J.R.R. Tolkien, The Fellowship of the Ring
+
+<br>
+
+- Boston, Massachusetts -- For HMMT Feb
+- Indianapolis, Indiana -- For MAA MathFest. I did a poster session. Food was unbelievably good. Highlight: *Guggman Haus Brewing Co.*; very good burgers and my dad loved their *Winner's Milk Jug Stout*. Another highlight: ordering Strawberry Cheesecake icecream from Liftoff Creamery delivered to our hotel room by DoorDash. This was on the last evening there.
