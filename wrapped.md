@@ -47,6 +47,14 @@ The Farewell || The Cider House Rules || Little Women || Lincoln || Gravity || A
 
 ## Music 
 
+> "Everything I learned I learned from the movies." --- Audrey Hepburn
+
+> "It's not what a movie is about, it's how it is about it." --- Roger Ebert 
+
+> "Cinema is a matter of what's in the frame and what's out" --- Martin Scorsese
+
+<br>
+
 ## Books
 
 ## Travel
