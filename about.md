@@ -57,6 +57,8 @@ When I’m learning about a new subject, for example, I set a timer, silence my 
 
 > "Compassion is the basis of morality." --- Arthur Schopenhauer
 
+> "The longer and more carefully we look at a funny story, the sadder it becomes." --- Nikolai V. Gogol
+
 <br><br><br>
 # Dean's List: 2024
 
