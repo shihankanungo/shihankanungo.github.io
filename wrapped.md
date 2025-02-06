@@ -85,7 +85,7 @@ The Farewell // The Cider House Rules // Little Women // Lincoln // Gravity // A
 
 - Gracie Abrams. Greek Theatre in Berkeley, California, on September 8, 2024.
 
-**Stanford Jazz Festival, June 20--August 3, 2024.
+**Stanford Jazz Festival, June 20--August 3, 2024.**
 
 - Richard Howell: A Love Supreme —- a tribute to John Coltrane. Jun 28, Stanford Jazz Festival.
 - The Bad Plus: Miles Davis meets Radiohead –- live and unpredictable. July 13, Stanford Jazz Festival.
