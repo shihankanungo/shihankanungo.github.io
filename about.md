@@ -79,7 +79,7 @@ When I’m learning about a new subject, for example, I set a timer, silence my 
 
 9. **Chappell Roan:** The Rise and Fall of a Midwest Princess (Island ‘23)
 
-10. Previous Industries: Service Merchandise (Merge)
+10. **Previous Industries:** Service Merchandise (Merge)
 
 11. Charli XCX: Brat (Atlantic)
 
