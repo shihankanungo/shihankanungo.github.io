@@ -105,6 +105,7 @@ The Farewell // The Cider House Rules // Little Women // Lincoln // Gravity // A
 <br>
 
 - *Brighton Rock* by Graham Greene. 1938
+- *Mind and Matter: A Life in Math and Football* by John Urschel and Louisa Thomas. 2019
 - *The Joy of Abstraction. An Exploration of Math, Category Theory, and Life* by Eugenia Cheng. 2022
 - *Love and Math: The Heart of Hidden Reality* by Edward Frenkel. 2013
 - *American History, Volume 1: 1492-1877* by Thomas S. Kidd. 2019
