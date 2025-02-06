@@ -16,6 +16,7 @@ title: Wrapped (2024)
 
 - The Kid (1921, d. Charlie Chaplin)
 - The Gold Rush (1925, d. Charlie Chaplin)
+- Gone With the Wind (1940, d. Victor Fleming)
 - Whisper of the Heart (1995, d. Yoshifumi Kondō)
 - The Cider House Rules (1999, d. Lasse Hallström)
 - About a Boy (2002, d. Chris Weitz, Paul Weitz)
@@ -43,7 +44,7 @@ title: Wrapped (2024)
 
 <br>
 
-The Farewell // The Cider House Rules // Little Women // Lincoln // Gravity // About a Boy // Seabiscuit // Belfast // Minari // The Half of It // Adventureland // Are You There, God? It’s Me, Margaret // Blue Giant // Charlie Chaplin: The Kid // Charlie Chaplin: Gold Rush // Tinker, Tailor, Soldier, Spy // Bourne Identity // Bourne Supremacy // Bourne Ultimatum // To All The Boys … // Wild Robot // Eighth Grade // Suzume // Pieces of April // Whisper Of The Heart // Didi // Weathering with You <br>
+The Farewell // The Cider House Rules // Little Women // Lincoln // Gravity // About a Boy // Seabiscuit // Belfast // Minari // The Half of It // Adventureland // Are You There, God? It’s Me, Margaret // Blue Giant // Charlie Chaplin: The Kid // Charlie Chaplin: Gold Rush // Gone With the Wind // Tinker, Tailor, Soldier, Spy // Bourne Identity // Bourne Supremacy // Bourne Ultimatum // To All The Boys … // Wild Robot // Eighth Grade // Suzume // Pieces of April // Whisper Of The Heart // Didi // Weathering with You <br>
 
 <br>
 
@@ -81,7 +82,8 @@ The Farewell // The Cider House Rules // Little Women // Lincoln // Gravity // A
 
 <br>
 
-- Boston, Massachusetts -- For HMMT Feb
+- Pasadena, California -- February; for Caltech Math Meet (CMM) 
 - Indianapolis, Indiana -- August; for MAA MathFest. I did a poster session. Food was unbelievably good. Highlight: *Guggman Haus Brewing Co.*; very good burgers and my dad loved their *Winner's Milk Jug Stout*. Another highlight: ordering Strawberry Cheesecake icecream from Liftoff Creamery delivered to our hotel room by DoorDash. This was on the last evening there.
 - College Park, Maryland -- May; for US Physics Team training camp.
+- Boston, Massachusetts -- October; for MIT PRIMES Fall Conference. I presented my research in representations of Lie superalgebras.
 - Boston, Massachusetts -- November; for S.-T. Yau High School Science Award semifinals (North America) at Brandeis University. Highlight: *Rassa*.
