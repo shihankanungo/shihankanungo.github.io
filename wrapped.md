@@ -87,16 +87,16 @@ The Farewell // The Cider House Rules // Little Women // Lincoln // Gravity // A
 
 **Stanford Jazz Festival, June 20--August 3, 2024.**
 
-- Richard Howell: A Love Supreme —- a tribute to John Coltrane. Jun 28, Stanford Jazz Festival.
-- The Bad Plus: Miles Davis meets Radiohead –- live and unpredictable. July 13, Stanford Jazz Festival.
-- Jazz Mafia Grateful Brass: the music of the Grateful Dead. July 14, Stanford Jazz Festival.
-- Natalie John featuring Allison Miller: the Great American Songbook Reimagined. July 15, Stanford Jazz Festival.
-- Mikailo Kasha Trio with special guest Dayna Stephens. July 16, Stanford Jazz Festival.
-- Ruth Davies’ Blues Night with Joe Louis Walker. July 17, Stanford Jazz Festival.
-- Adi Meyerson’s Dark Matter / Emily Kuhn Quintet. July 18, Stanford Jazz Festival.
-- Anat Cohen Quartetinho. July 20, Stanford Jazz Festival.
-- An Evening With Victor Lin: music from anime and Studio Ghibli. July 25, Stanford Jazz Festival.
-- Dave Douglas Gifts. July 31, Stanford Jazz Festival.
+- Richard Howell: A Love Supreme —- a tribute to John Coltrane. Jun 28.
+- The Bad Plus: Miles Davis meets Radiohead –- live and unpredictable. July 13.
+- Jazz Mafia Grateful Brass: the music of the Grateful Dead. July 14.
+- Natalie John featuring Allison Miller: the Great American Songbook Reimagined. July 15.
+- Mikailo Kasha Trio with special guest Dayna Stephens. July 16.
+- Ruth Davies’ Blues Night with Joe Louis Walker. July 17.
+- Adi Meyerson’s Dark Matter / Emily Kuhn Quintet. July 18.
+- Anat Cohen Quartetinho. July 20.
+- An Evening With Victor Lin: music from anime and Studio Ghibli. July 25.
+- Dave Douglas Gifts. July 31.
 
 ## Books
 
