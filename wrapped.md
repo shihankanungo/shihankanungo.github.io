@@ -57,7 +57,10 @@ The Farewell // The Cider House Rules // Little Women // Lincoln // Gravity // A
 - Taylor Swift
 - The Rolling Stones
 - Gracie Abrams
+- Willow
 - Miranda Lambert
+- Charli XCX
+- Florence + The Machine
 - Kendrick Lamar
 - Heems, Swet Shop Boys, Das Racist
 - Courtney Barnett
@@ -69,6 +72,28 @@ The Farewell // The Cider House Rules // Little Women // Lincoln // Gravity // A
 - Buck 65
 - Ren
 - Morgan Wade
+- Waxahatchee
+- Prince
+- Anne-Marie
+- Holly Humberstone
+- Natalia Lafourcade
+- Laura Marling
+- Dua Lipa
+- Maggie Rogers
+
+### Concerts
+
+- Gracie Abrams. Greek Theatre in Berkeley, California, on September 8, 2024, as part of her "The Secret of Us" tour
+- Richard Howell: A Love Supreme —- a tribute to John Coltrane. Jun 28, Stanford Jazz Festival.
+- The Bad Plus: Miles Davis meets Radiohead –- live and unpredictable. July 13, Stanford Jazz Festival.
+- Jazz Mafia Grateful Brass: the music of the Grateful Dead. July 14, Stanford Jazz Festival.
+- Natalie John featuring Allison Miller: the Great American Songbook Reimagined. July 15, Stanford Jazz Festival.
+- Mikailo Kasha Trio with special guest Dayna Stephens. July 16, Stanford Jazz Festival.
+- Ruth Davies’ Blues Night with Joe Louis Walker. July 17, Stanford Jazz Festival.
+- Adi Meyerson’s Dark Matter / Emily Kuhn Quintet. July 18, Stanford Jazz Festival.
+- Anat Cohen Quartetinho. July 20, Stanford Jazz Festival.
+- An Evening With Victor Lin: music from anime and Studio Ghibli. July 25, Stanford Jazz Festival.
+- Dave Douglas Gifts. July 31, Stanford Jazz Festival.
 
 ## Books
 
