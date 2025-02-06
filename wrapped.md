@@ -83,7 +83,7 @@ The Farewell // The Cider House Rules // Little Women // Lincoln // Gravity // A
 <br>
 
 - Pasadena, California -- February; for Caltech Math Meet (CMM) 
-- Indianapolis, Indiana -- August; for MAA MathFest. I did a poster session. Food was unbelievably good. Highlight: *Guggman Haus Brewing Co.*; very good burgers and my dad loved their *Winner's Milk Jug Stout*. Another highlight: ordering Strawberry Cheesecake icecream from Liftoff Creamery delivered to our hotel room by DoorDash. This was on the last evening there.
 - College Park, Maryland -- May; for US Physics Team training camp.
+- Indianapolis, Indiana -- August; for MAA MathFest. I did a poster session. Food was unbelievably good. Highlight: *Guggman Haus Brewing Co.*; very good burgers and my dad loved their *Winner's Milk Jug Stout*. Another highlight: ordering Strawberry Cheesecake icecream from Liftoff Creamery delivered to our hotel room by DoorDash. This was on the last evening there.
 - Boston, Massachusetts -- October; for MIT PRIMES Fall Conference. I presented my research in representations of Lie superalgebras.
 - Boston, Massachusetts -- November; for S.-T. Yau High School Science Award semifinals (North America) at Brandeis University. Highlight: *Rassa*.
