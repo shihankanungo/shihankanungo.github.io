@@ -81,17 +81,17 @@ When I’m learning about a new subject, for example, I set a timer, silence my 
 
 10. **Previous Industries:** Service Merchandise (Merge)
 
-11. Charli XCX: Brat (Atlantic)
+11. **Charli XCX:** Brat (Atlantic)
 
-12. Doechii: Alligator Bites Never Heal (TDE/Capitol)
+12. **Doechii:** Alligator Bites Never Heal (TDE/Capitol)
 
 13. **Buck 65, Doseone, Jel:** North American Adonis (Handsmade ‘23)
 
-14. Fake Fruit: Mucho Mistrust (Carpark)
+14. **Fake Fruit:** Mucho Mistrust (Carpark)
 
-15. Billie Eilish: Hit Me Hard and Soft (Darkroom/Interscope)
+15. **Billie Eilish:** Hit Me Hard and Soft (Darkroom/Interscope)
 
-16. Beyoncé: Cowboy Carter (Parkwood/Columbia)
+16. **Beyoncé:** Cowboy Carter (Parkwood/Columbia)
 
 17. Jason Moran: From the Dancehall to the Battlefield (Yes ‘23)
 
