@@ -101,11 +101,11 @@ When I’m learning about a new subject, for example, I set a timer, silence my 
 
 20. **Unholy Modal Rounders:** Unholier Than Thou 7/7/77 (Don Giovanni)
 
-21. Fred Again..: 10 Days (Atlantic)
+21. **Fred Again..:** 10 Days (Atlantic)
 
-22. Laurie Anderson: Amelia (Nonesuch)
+22. **Laurie Anderson:** Amelia (Nonesuch)
 
-23. Tierra Whack: World Wide Whack (Interscope)
+23. **Tierra Whack:** World Wide Whack (Interscope)
 
 24. Kendrick Lamar: GNX (pgLang/Interscope)
 
