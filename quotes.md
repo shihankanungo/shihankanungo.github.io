@@ -51,7 +51,9 @@ title: Quotes
 
 > "Life is found in the dance between your deepest desire and your greatest fear." --- Wayne Dyer
 
-> "Practice like you've never won, but perform like you've never lost." <br> --- Michael Jordan. 
+> "Practice like you've never won, but perform like you've never lost." <br> --- Michael Jordan
+
+> "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better." --- Samuel Beckett
 
 > "What you get by achieving your goals is not as important as what you become by achieving your goals." --- Zig Ziglar
 
