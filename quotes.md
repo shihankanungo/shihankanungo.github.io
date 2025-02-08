@@ -53,7 +53,7 @@ title: Quotes
 
 > "Practice like you've never won, but perform like you've never lost." <br> --- Michael Jordan
 
-> "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better." --- Samuel Beckett
+> "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better." <br> --- Samuel Beckett
 
 > "What you get by achieving your goals is not as important as what you become by achieving your goals." --- Zig Ziglar
 
