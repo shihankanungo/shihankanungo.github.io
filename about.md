@@ -95,11 +95,11 @@ When I’m learning about a new subject, for example, I set a timer, silence my 
 
 17. Jason Moran: From the Dancehall to the Battlefield (Yes ‘23)
 
-18. Rosie Tucker: Utopia Now! (Sentimental)
+18. **Rosie Tucker:** Utopia Now! (Sentimental)
 
 19. **Heems:** Lafandar (Veena Sounds)
 
-20. Unholy Modal Rounders: Unholier Than Thou 7/7/77 (Don Giovanni)
+20. **Unholy Modal Rounders:** Unholier Than Thou 7/7/77 (Don Giovanni)
 
 21. Fred Again..: 10 Days (Atlantic)
 
