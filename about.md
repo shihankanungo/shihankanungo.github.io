@@ -107,15 +107,15 @@ When I’m learning about a new subject, for example, I set a timer, silence my 
 
 23. **Tierra Whack:** World Wide Whack (Interscope)
 
-24. Kendrick Lamar: GNX (pgLang/Interscope)
+24. **Kendrick Lamar:** GNX (pgLang/Interscope)
 
-25. Carly Pearce: Hummingbird (Big Machine)
+25. **Carly Pearce:** Hummingbird (Big Machine)
 
 26. Jon Langford & the Men of Gwent: Lost on Land & Sea (Country Mile ‘23)
 
-27. Miranda Lambert: Postcards From Texas (Republic/Big Loud/Vanner)
+27. **Miranda Lambert:** Postcards From Texas (Republic/Big Loud/Vanner)
 
-28. The Paranoid Style: The Paranoid Style Presents: The Interrogator (Bar/None)
+28. **The Paranoid Style:** The Paranoid Style Presents: The Interrogator (Bar/None)
 
 29. Bad Moves: Wearing Out the Refrain (Don Giovanni)
 
@@ -151,7 +151,7 @@ When I’m learning about a new subject, for example, I set a timer, silence my 
 
 45. Dolly Parton: Rockstar (Butterfly/Big Machine)
 
-46. Ren: Sick Boi (The Other Songs)
+46. **Ren:** Sick Boi (The Other Songs)
 
 47. Jack Harlow: Jackman (Atlantic ‘23)
 
@@ -159,7 +159,7 @@ When I’m learning about a new subject, for example, I set a timer, silence my 
 
 49. Megan Moroney: Am I Okay? (Columbia Nashville)
 
-50. Morgan Wade: Obsessed (RCA)
+50. **Morgan Wade:** Obsessed (RCA)
 
 51. Sonic Youth: Walls Have Ears (Goofin’)
 
@@ -167,11 +167,11 @@ When I’m learning about a new subject, for example, I set a timer, silence my 
 
 53. Regina Spektor: Home, Before and After (Sire)
 
-54. Charlotte Adigéry and Bolis Pupul: Topical Dancer (DeeWee ‘22)
+54. **Charlotte Adigéry and Bolis Pupul:** Topical Dancer (DeeWee ‘22)
 
-55. Waxahatchee: Tigers Blood (Anti-)
+55. **Waxahatchee:** Tigers Blood (Anti-)
 
-56. Kim Gordon: The Collective (Matador)
+56. **Kim Gordon:** The Collective (Matador)
 
 57. The Old 97’s: American Primitive (ATO)
 
