@@ -64,62 +64,36 @@ When I’m learning about a new subject, for example, I set a timer, silence my 
 
 1. **Louis Armstrong:** Louis in London (Verve)
 2. **Wussy:** Cincinnati Ohio (Shake It)
-
 3. **Phelimuncasi & Metal Preyers:** Izigqinamba (Nyege Nyege Tapes)
-
 4. **Adrianne Lenker:** Bright Future (4AD)
-
 5. **Eminem:** The Death of Slim Shady (Coup de Grâce) (Aftermath/Interscope)
-
 6. **Buck 65:** Punk Rock B-Boy (self-released ‘23)
-
 7. **Tucker Zimmerman & Friends:** Tucker Zimmerman & Friends Play Dance of Love (4AD)
-
 8. **Kampire Presents:** A Dancefloor in Ndola (Strut)
-
 9. **Chappell Roan:** The Rise and Fall of a Midwest Princess (Island ‘23)
-
 10. **Previous Industries:** Service Merchandise (Merge)
-
 11. **Charli XCX:** Brat (Atlantic)
-
 12. **Doechii:** Alligator Bites Never Heal (TDE/Capitol)
-
 13. **Buck 65, Doseone, Jel:** North American Adonis (Handsmade ‘23)
-
 14. **Fake Fruit:** Mucho Mistrust (Carpark)
-
 15. **Billie Eilish:** Hit Me Hard and Soft (Darkroom/Interscope)
-
 16. **Beyoncé:** Cowboy Carter (Parkwood/Columbia)
 
 17. Jason Moran: From the Dancehall to the Battlefield (Yes ‘23)
 
 18. **Rosie Tucker:** Utopia Now! (Sentimental)
-
 19. **Heems:** Lafandar (Veena Sounds)
-
 20. **Unholy Modal Rounders:** Unholier Than Thou 7/7/77 (Don Giovanni)
-
 21. **Fred Again..:** 10 Days (Atlantic)
-
 22. **Laurie Anderson:** Amelia (Nonesuch)
-
 23. **Tierra Whack:** World Wide Whack (Interscope)
-
 24. **Kendrick Lamar:** GNX (pgLang/Interscope)
-
 25. **Carly Pearce:** Hummingbird (Big Machine)
-
-26. Jon Langford & the Men of Gwent: Lost on Land & Sea (Country Mile ‘23)
-
+26. **Jon Langford & the Men of Gwent:** Lost on Land & Sea (Country Mile ‘23)
 27. **Miranda Lambert:** Postcards From Texas (Republic/Big Loud/Vanner)
-
 28. **The Paranoid Style:** The Paranoid Style Presents: The Interrogator (Bar/None)
-
-29. Bad Moves: Wearing Out the Refrain (Don Giovanni)
-
-30. Vampire Weekend: Only God Was Above Us (Columbia)
+29. **Bad Moves:** Wearing Out the Refrain (Don Giovanni)
+30. **Vampire Weekend:** Only God Was Above Us (Columbia)
 
 31. Wimps: City Lights (Youth Riot ‘23)
 
