@@ -18,7 +18,7 @@ I started learning classical piano when I was 4. I have been studying classical 
 **Barney Wilen**: *Wild Dogs of the Ruwenzori* <br>
 
 ## Pop
-> "I'm grateful to have grown up in a world with Taylor Swift in it, or, 'The World: Taylor's Version'." <br> --- Phoebe Bridgers, 2023 iHeartRadio Music Awards
+> "I'm grateful to have grown up in a world with Taylor Swift in it, or, 'The World: Taylor's Version'." --- Phoebe Bridgers, 2023 iHeartRadio Music Awards
 
 **Taylor Swift**: Spotify \[ [playlist](https://open.spotify.com/playlist/6Yf0JvUeuWPH4Qg0STqCKC?si=b9f2ce4a7bbe42c6) \] <br>
 
