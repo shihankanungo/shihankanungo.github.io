@@ -79,7 +79,7 @@ When I’m learning about a new subject, for example, I set a timer, silence my 
 15. **Billie Eilish:** Hit Me Hard and Soft (Darkroom/Interscope)
 16. **Beyoncé:** Cowboy Carter (Parkwood/Columbia)
 
-17. Jason Moran: From the Dancehall to the Battlefield (Yes ‘23)
+17. <mark>Jason Moran:</mark> From the Dancehall to the Battlefield (Yes ‘23)
 
 18. **Rosie Tucker:** Utopia Now! (Sentimental)
 19. **Heems:** Lafandar (Veena Sounds)
