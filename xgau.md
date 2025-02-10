@@ -36,7 +36,7 @@ title: Dean's List
 29. **Bad Moves:** Wearing Out the Refrain (Don Giovanni)
 30. **Vampire Weekend:** Only God Was Above Us (Columbia)
 31. Wimps: City Lights (Youth Riot ‘23)
-32. África Negra: Antologia Vol. 2 (Bongo Joe)
+32. **África Negra:** Antologia Vol. 2 (Bongo Joe)
 33. Azuka Moweta & Aniome Brothers Band: Nwanne Bu Ife (Palenque)
 34. Chris Smither: All About the Bones (Signature Sounds)
 35. Jon Langford and the Men of Gwent: The Legend of LL (Country Mile ‘15)
