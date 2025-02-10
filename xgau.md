@@ -126,4 +126,3 @@ title: Dean's List
 
 74. MC5: Heavy Lifting (Ear Music)
 
-![a](signature.png)
