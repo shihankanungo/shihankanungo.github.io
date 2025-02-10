@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Dean's List: 2024
+title: Dean's List
 ---
+
+# 2024
 
 1. **Louis Armstrong:** Louis in London (Verve)
 2. **Wussy:** Cincinnati Ohio (Shake It)
