@@ -35,7 +35,6 @@ title: Dean's List
 28. **The Paranoid Style:** The Paranoid Style Presents: The Interrogator (Bar/None)
 29. **Bad Moves:** Wearing Out the Refrain (Don Giovanni)
 30. **Vampire Weekend:** Only God Was Above Us (Columbia)
-
 31. Wimps: City Lights (Youth Riot ‘23)
 32. África Negra: Antologia Vol. 2 (Bongo Joe)
 33. Azuka Moweta & Aniome Brothers Band: Nwanne Bu Ife (Palenque)
