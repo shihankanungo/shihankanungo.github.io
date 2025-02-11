@@ -48,7 +48,7 @@ title: Dean's List
 41. **Guy Davis:** Be Ready When I Call You (M.C. ‘21)
 42. **Les Amazones d’Afrique:** Musow Danse (RealWorld)
 43. **Margaret Glaspy:** Echo the Diamond (ATO)
-44. LL Cool J: The Force (Def Jam/Virgin/LL Cool J)
+44. **LL Cool J:** The Force (Def Jam/Virgin/LL Cool J)
 45. Dolly Parton: Rockstar (Butterfly/Big Machine)
 46. **Ren:** Sick Boi (The Other Songs)
 47. Jack Harlow: Jackman (Atlantic ‘23)
