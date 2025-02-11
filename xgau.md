@@ -45,8 +45,8 @@ title: Dean's List
 38. ~~Jon Langford: Gubbins (self-released '23)~~
 39. **M.J. Lenderman:** Manning Fireworks (Anti-)
 40. **David Murray:** Francesca (Intakt)
-41. Guy Davis: Be Ready When I Call You (M.C. ‘21)
-42. Les Amazones d’Afrique: Musow Danse (RealWorld)
+41. **Guy Davis:** Be Ready When I Call You (M.C. ‘21)
+42. **Les Amazones d’Afrique:** Musow Danse (RealWorld)
 43. Margaret Glaspy: Echo the Diamond (ATO)
 44. LL Cool J: The Force (Def Jam/Virgin/LL Cool J)
 45. Dolly Parton: Rockstar (Butterfly/Big Machine)
