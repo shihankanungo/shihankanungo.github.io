@@ -62,7 +62,7 @@ title: Dean's List
 55. **Waxahatchee:** Tigers Blood (Anti-)
 56. **Kim Gordon:** The Collective (Matador)
 57. The Old 97’s: American Primitive (ATO)
-58. Guy Davis: The Legend of Sugarbelly (M.C.)
+58. ~~Guy Davis: The Legend of Sugarbelly (M.C.)~~
 59. Jason Isbell and the 400 Unit: Weathervanes (Southeastern)
 60. Zach Bryan: The Great American Bar Scene (Warner)
 61. Serengeti: Kenny Dennis IV (Cohn Corporation)
