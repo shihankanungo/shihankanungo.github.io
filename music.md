@@ -30,6 +30,7 @@ I started learning classical piano when I was 4. I have been studying classical 
 **Morgan Wade**: Spotify \[ [playlist](https://open.spotify.com/playlist/35zBVJ0veKEnQkrjjPb92L?si=fb3526f969af4217) \] <br>
 
 ## Alternative/Indie
+**Cornershop**: *When I Was Born for the 7th Time* <br>
 **Courtney Barnett**: Spotify \[ [playlist](https://open.spotify.com/playlist/0q3ljBMndxToa5p6pZ7sWY?si=90eb19868874496f) \] <br>
 
 ## Reggae
