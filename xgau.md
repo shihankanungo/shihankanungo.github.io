@@ -75,8 +75,8 @@ title: Dean's List
 68. Millie Jackson: On the Soul Country Side (Kent)
 69. Yard Act: Where’s My Utopia? (Island)
 70. Fox Green: Light Over Darkness (self-released)
-71. Ciara Grace: Write It Down (self-released)
+71. **Ciara Grace:** Write It Down (self-released)
 72. Okuté: Okuté (Chulo ‘21)
-73. Bill Orcutt: Music for Four Guitars (Palilalia ‘22)
-74. MC5: Heavy Lifting (Ear Music)
+73. **Bill Orcutt:** Music for Four Guitars (Palilalia ‘22)
+74. **MC5:** Heavy Lifting (Ear Music)
 
