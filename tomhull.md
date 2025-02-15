@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tom Hull Year-end List
+title: Tom Hull
 ---
 
 # The Best Non-Jazz Albums of 2024
