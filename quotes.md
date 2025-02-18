@@ -5,7 +5,7 @@ title: Quotes
 
 > "We look at the world once, in childhood. The rest is memory" --- Louise Glück
 
-> "Love is the quality of attention we pay to things" --- J.D. McClatchy, Love Speaks Its Name: Gay and Lesbian Love Poems
+> "Love is the quality of attention we pay to things" <br> --- J.D. McClatchy, Love Speaks Its Name: Gay and Lesbian Love Poems
 
 > "You know you're in love when you can't fall asleep because reality is finally better than your dreams." --- Dr. Seuss
 
