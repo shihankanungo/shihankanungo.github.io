@@ -5,6 +5,7 @@ title: Honors and Awards
 
 ## STEM (science, technology, engineering, and mathematics)
 
+- **The William Lowell Putnam Mathematical Competition.** *Honorable mention*, 2024
 - **USAPhO (AAPT)**, *U.S. Physics Team Training Camp*, University of Maryland. 2024
 - **S.-T. Yau High School Science Award**, *USA Bronze Medalist in Mathematics*. 2024
 - **WSS**, World Science Scholar. 2024
