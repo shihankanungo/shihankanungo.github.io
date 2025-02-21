@@ -11,6 +11,8 @@ title: Quotes
 
 > "It is our choices, Harry, that show what we truly are, far more than our abilities." --- J.K. Rowling, <i>Harry Potter and the Chamber of Secrets</i>
 
+> “Unless someone like you cares a whole awful lot, Nothing is going to get better. It's not." --- Dr. Seuss, The Lorax
+
 > "When I was a boy of 14, my father was so ignorant I could hardly stand to have the old man around. But when I got to be 21, I was astonished at how much the old man had learned in seven years." --- Mark Twain
 
 > "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well."
