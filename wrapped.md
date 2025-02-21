@@ -21,11 +21,12 @@ title: Wrapped (2025)
 
 > "People haven't always been there for me but music always has." --- Taylor Swift
 
-- *Mozart: Piano Sonatas* by Christoph Eschenbach
-- *Apple Core* by James Brandon Lewis
-- *Mucho Mistrust* by Fake Fruit
-- *World Wide Whack* by Tierra Whack
-- *Alligator Bites Never Heal* by Doechii
+- *Halfway Between the Gutter and the Stars* by Fatboy Slim (2000, big beat/electronic)
+- *Mozart: Piano Sonatas* by Christoph Eschenbach (1999, classical)
+- *Apple Core* by James Brandon Lewis (2025, jazz)
+- *Mucho Mistrust* by Fake Fruit (2024, alternative/indie)
+- *World Wide Whack* by Tierra Whack (2024, hip-hop/jazz funk)
+- *Alligator Bites Never Heal* by Doechii (2024, R&B/hip-hop)
 
 ### Concerts
 
