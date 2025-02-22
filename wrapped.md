@@ -15,7 +15,6 @@ title: Wrapped (2025)
 - Miss Americana (2020 d. Lana Wilson)
 - Robot Dreams (2024 d. Pablo Berger)
 
-<br>
 
 ## Music 
 
