@@ -22,6 +22,8 @@ title: Wrapped (2025)
 > "People haven't always been there for me but music always has." --- Taylor Swift
 
 - *Halfway Between the Gutter and the Stars* by Fatboy Slim (2000, big beat/electronic)
+- *Jackman* by Jack Harlow (2023, rap/hip-hop)
+- *Sick Boi* by Ren (2024, R&B/hip-hop/rap)
 - *Mozart: Piano Sonatas* by Christoph Eschenbach (1999, classical)
 - *Apple Core* by James Brandon Lewis (2025, jazz)
 - *Mucho Mistrust* by Fake Fruit (2024, alternative/indie)
