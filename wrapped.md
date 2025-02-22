@@ -51,5 +51,5 @@ title: Wrapped (2025)
 > "Not all those who wander are lost." --- J.R.R. Tolkien, The Fellowship of the Ring
 
 - **Seattle, Washington --- January**, for Joint Mathematics Meeting (JMM25). Got to hang out with SE; food was beyond amazing --- Halal Smash'd Burgers, Moroccan lamb roll, curry beef hom bao, dinner at *Zaika* with SE and family.
-- **Pasadena, California --- February**; for Caltech Math Meet (CMM). Road trip with dad. Highlight: listening to music on the drive to and from. It was snowing near LA on the way back!!
+- **Pasadena, California --- February**; for Caltech Math Meet (CMM). Road trip with dad. Had *Din Tai Fung* for both dinners. Highlight: listening to music on the drive to and from. It was snowing near LA on the way back!!
 - **Boston, Massachusetts --- February**; for Harvard-MIT Math Tournament (HMMT Feb). Got to hang out with WZ; dinner from *Himalayan Kitchen* on Fri; "*Ghana Bitter*" from Royce chocolates on Sat. Several inches of snow coated the streets from a storm Saturday night into Sunday morning.
