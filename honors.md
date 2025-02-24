@@ -5,7 +5,7 @@ title: Honors and Awards
 
 ## STEM (science, technology, engineering, and mathematics)
 
-- **The 85th Putnam Competition.** *Honorable mention* (rank: 58). 2024
+- **The 85th Putnam Competition.** *Honorable mention* (rank 58th). 2024
 - **USAPhO (AAPT)**, *U.S. Physics Team Training Camp*, University of Maryland. 2024
 - **S.-T. Yau High School Science Award**, *USA Bronze Medalist in Mathematics*. 2024
 - **WSS**, World Science Scholar. 2024
