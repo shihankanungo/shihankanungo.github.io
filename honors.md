@@ -15,7 +15,7 @@ title: Honors and Awards
   - Representation Theory. *Representations of Twisted Yangians in Complex Rank*. 2024
   - Representation Theory. *Representations of Lie Superalgebras*. 2024
   - Commutative Algebra. *Factorization theory in monoids and semirings* 2023  
-- **USAMTS (USA Mathematical Talent Search)**. *Gold medal* and *highest scorer*, 2023, 2025
+- **USAMTS (USA Mathematical Talent Search)**. *Gold medal* and *highest scorer*: year 34 (2023), and year 36 (2025)
 - **USAMO (USA Mathematical Olympiad)**. *8/42*, 65th percentile. 2022
 - **AIME (American Invitational Mathematics Examination)**. 6-time qualifier 2020--'25.
   - Highlights 13/15 (2025), 11/15 (2022,2024)
