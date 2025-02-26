@@ -22,6 +22,7 @@ title: Wrapped (2025)
 
 - *Halfway Between the Gutter and the Stars* by Fatboy Slim (2000, big beat/electronic)
 - *Protection* by Massive Attack (1994, trip-hop/electronic)
+- *Original Pirate Material* (2002) and *The Hardest Way to Make an Easy Living* (2006) by The Streets (alt hip-hop/grime/electronica)
 - *Jackman* by Jack Harlow (2023, rap/hip-hop)
 - *Sick Boi* by Ren (2024, R&B/hip-hop/rap)
 - *Mozart: Piano Sonatas* by Christoph Eschenbach (1999, classical)
