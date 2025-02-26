@@ -20,17 +20,19 @@ title: Wrapped (2025)
 
 > "People haven't always been there for me but music always has." --- Taylor Swift
 
-- *Halfway Between the Gutter and the Stars* by Fatboy Slim (2000, big beat/electronic)
-- *Protection* by Massive Attack (1994, trip-hop/electronic)
-- *Original Pirate Material* (2002) and *The Hardest Way to Make an Easy Living* (2006) by The Streets (alt hip-hop/grime/electronica)
-- *Jackman* by Jack Harlow (2023, rap/hip-hop)
-- *Sick Boi* by Ren (2024, R&B/hip-hop/rap)
+- Pistol Annies: *Hell on Heels* (2011) // *Annie Up* (2013) (country)
+- Fake Fruit: *Mucho Mistrust* (2024, alternative/indie)
+- Fatboy Slim: *Halfway Between the Gutter and the Stars*  (2000, big beat/electronic)
+- Massive Attack: *Protection* (1994, trip-hop/electronic)
+- The Streets: *Original Pirate Material* (2002) // *The Hardest Way to Make an Easy Living* (2006)  (alt hip-hop/grime/electronica)
+- Jack Harlow: *Jackman* (2023, rap/hip-hop)
+- Ren: *Sick Boi* (2024, R&B/hip-hop/rap)
+- Doechii: *Alligator Bites Never Heal* (2024, R&B/hip-hop)
+- Tierra Whack: *World Wide Whack* (2024, hip-hop/jazz funk)
+- James Brandon Lewis: *Apple Core* (2025, jazz)
 - *Mozart: Piano Sonatas* by Christoph Eschenbach (1999, classical)
 - *Bach: Goldberg Variations* by Murray Perahia (1971, classical)
-- *Apple Core* by James Brandon Lewis (2025, jazz)
-- *Mucho Mistrust* by Fake Fruit (2024, alternative/indie)
-- *World Wide Whack* by Tierra Whack (2024, hip-hop/jazz funk)
-- *Alligator Bites Never Heal* by Doechii (2024, R&B/hip-hop)
+  
 
 ### Concerts
 
