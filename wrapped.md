@@ -54,7 +54,7 @@ title: Wrapped (2025)
 
 ## Math 
 
-![]()
+![stanford-feb-27](images/02-27.png)
 ## Travel
 
 > "Not all those who wander are lost." --- J.R.R. Tolkien, The Fellowship of the Ring
