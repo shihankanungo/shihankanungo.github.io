@@ -52,7 +52,9 @@ title: Wrapped (2025)
 - *Jonathan Livingston Seagull* by Richard Bach. 1970
 - *Elliptic Tales: Curves, Counting, and Number Theory* by Avner Ash and Robert Gross. 2012
 
+## Math 
 
+![]()
 ## Travel
 
 > "Not all those who wander are lost." --- J.R.R. Tolkien, The Fellowship of the Ring
