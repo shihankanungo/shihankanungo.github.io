@@ -62,7 +62,7 @@ title: Wrapped (2025)
 
 #### Special Sessions
 
-![jmm25-sessions](jmm25-2.png)
+![jmm25-sessions](images/jmm25-2.png)
 
 ### Stanford University, Math Department Talks
  
