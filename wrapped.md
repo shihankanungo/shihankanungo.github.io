@@ -54,11 +54,15 @@ title: Wrapped (2025)
 
 ## Math 
 
-### Joint Mathematics Meeting '25
+### Joint Mathematics Meeting '25. Seattle, WA Jan 7--11.
 
 #### Invited Talks
 
 ![jmm25-invited](images/jmm25-1.png)
+
+#### Special Sessions
+
+![jmm25-sessions](jmm25-2.png)
 
 ### Stanford University, Math Department Talks
  
