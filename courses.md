@@ -2,6 +2,7 @@
 layout: post
 title: Mathematics coursework
 ---
+
 > "In mathematics you don't understand things. You just get used to them." <br> --- John von Neumann 
 
 <br> 
