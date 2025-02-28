@@ -87,6 +87,14 @@ I have undertaken advanced coursework at Euler Circle and at San José State Uni
 [//]: # (- **MATH 128B** *Abstract Algebra II*. Spring 2025. SJSU <br>)
 [//]: # (  <small>Emphasis on rings, integral domains, fields, field extensions, Galois theory.</small>)
 
+## Representation Theory
+
+I haven't taken a formal course in representation theory, but I gained substantial knowledge while working on my 2024 project at MIT PRIMES-USA. In particular, I studied the subject through the following books:
+
+- **Humphreys, J.E.** (1972) *Introduction to Lie Algebras and Representation Theory*. Springer Verlag, New York.
+- **Humphreys, J.E.** (2008) *Representations of Semisimple Lie Algebras in the BGG Category O*. Providence, R.I. : American Mathematical Society
+- **Cheng, S. and Wang, W.** (2012) *Dualities and Representations of Lie Superalgebras*. Graduate Studies in Mathematics 144, AMS
+
 ## Linear Algebra and Matrix Theory
 
 - **MATH 229** *Advanced Matrix Theory*. Fall 2024. SJSU (A+)<br>
