@@ -60,7 +60,7 @@ title: Wrapped (2025)
 
 ![jmm25-invited](images/jmm25-1.png)
 
- ### Stanford University, Math Department Talks
+### Stanford University, Math Department Talks
  
 ![stanford-feb-27](images/02-27.png)
 
