@@ -96,7 +96,7 @@ I haven't taken a formal course in representation theory, but I gained substanti
 - **Cheng, S. and Wang, W.** (2012) *Dualities and Representations of Lie Superalgebras*. Graduate Studies in Mathematics 144, AMS
 - **Ian. M. Musson.** (2012) *Lie Superalgebras and Enveloping Algebras*. Graduate Studies in Mathematics 131, AMS
 - **Alexander Molev.** (2007) *Yangians and Classical Lie algebras*. Mathematical Surveys and Monographs 143, AMS
-- **Pavel Etingof and Arun Kannan.** (2021) *Lectures on Symmetric Tensor Categories*. [\[arXiv\]](https://arxiv.org/pdf/2406.10201)   
+- **Pavel Etingof and Arun Kannan.** (2021) *Lectures on Symmetric Tensor Categories*. \[[arXiv](https://arxiv.org/pdf/2406.10201)\]  
 
 ## Linear Algebra and Matrix Theory
 
