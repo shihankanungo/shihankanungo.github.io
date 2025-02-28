@@ -91,12 +91,12 @@ I have undertaken advanced coursework at Euler Circle and at San José State Uni
 
 I haven't taken a formal course in representation theory, but I gained substantial knowledge while working on my 2024 project at MIT PRIMES-USA. In particular, I studied the subject through the following books:
 
-- **Humphreys, J.E.** (1972) *Introduction to Lie Algebras and Representation Theory*. Springer Verlag, New York.
-- **Humphreys, J.E.** (2008) *Representations of Semisimple Lie Algebras in the BGG Category O*. Providence, R.I. : American Mathematical Society
-- **Cheng, S. and Wang, W.** (2012) *Dualities and Representations of Lie Superalgebras*. Graduate Studies in Mathematics 144, AMS
-- **Ian. M. Musson.** (2012) *Lie Superalgebras and Enveloping Algebras*. Graduate Studies in Mathematics 131, AMS
-- **Alexander Molev.** (2007) *Yangians and Classical Lie algebras*. Mathematical Surveys and Monographs 143, AMS
-- **Pavel Etingof and Arun Kannan.** (2021) *Lectures on Symmetric Tensor Categories*. \[[arXiv](https://arxiv.org/pdf/2406.10201)\]  
+- **Humphreys, J.E.** (1972) *Introduction to Lie Algebras and Representation Theory*. <small>Springer Verlag, New York.</small>
+- **Humphreys, J.E.** (2008) *Representations of Semisimple Lie Algebras in the BGG Category O*. <small>Providence, R.I. : American Mathematical Society</small>
+- **Cheng, S. and Wang, W.** (2012) *Dualities and Representations of Lie Superalgebras*. <small>Graduate Studies in Mathematics 144, AMS</small>
+- **Ian. M. Musson.** (2012) *Lie Superalgebras and Enveloping Algebras*. <small>Graduate Studies in Mathematics 131, AMS</small>
+- **Alexander Molev.** (2007) *Yangians and Classical Lie algebras*. <small>Mathematical Surveys and Monographs 143, AMS</small>
+- **Pavel Etingof and Arun Kannan.** (2021) *Lectures on Symmetric Tensor Categories*. <small>\[[arXiv](https://arxiv.org/pdf/2406.10201)\]</small>
 
 ## Linear Algebra and Matrix Theory
 
