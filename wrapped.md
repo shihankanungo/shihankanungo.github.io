@@ -58,6 +58,17 @@ title: Wrapped (2025)
 
 #### Invited Talks
 
+**AMS Colloquium Lecture - Svetlana Jitomirskaya, UC, Berkeley** <br>
+Part I. *Quantum mechanics meets arithmetics. The ten martini problem.* <br>
+Part II. *Quantitative global theory, dual Lyapunov exponents, and robust spectral results.* <br>
+Part III. *Small denominators without KAM. Robust arithmetic Spectral transitions.* <br>
+
+- **AMS Colloquium Lecture - Svetlana Jitomirskaya, UC, Berkeley** <br>
+Part I. *Quantum mechanics meets arithmetics. The ten martini problem.* <br>
+Part II. *Quantitative global theory, dual Lyapunov exponents, and robust spectral results.* <br>
+Part III. *Small denominators without KAM. Robust arithmetic Spectral transitions.* <br>
+
+
 ![jmm25-invited](images/jmm25-1.png)
 
 #### Special Sessions
