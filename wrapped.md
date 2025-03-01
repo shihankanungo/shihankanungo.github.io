@@ -20,12 +20,16 @@ title: Wrapped (2025)
 
 > "People haven't always been there for me but music always has." --- Taylor Swift
 
-- Pistol Annies: *Hell on Heels* (2011) // *Annie Up* (2013) (country)
+- Pistol Annies (country)
+  - *Hell on Heels* (2011)
+  - *Annie Up* (2013) 
 - Fake Fruit: *Mucho Mistrust* (2024, alternative/indie)
 - Cornershop: *When I Was Born for the Seventh Time* (1997, alternative/indie)
 - Fatboy Slim: *Halfway Between the Gutter and the Stars*  (2000, big beat/electronic)
 - Massive Attack: *Protection* (1994, trip-hop/electronic)
-- The Streets: *Original Pirate Material* (2002) // *The Hardest Way to Make an Easy Living* (2006)  (alt hip-hop/grime/electronica)
+- The Streets (alt hip-hop/grime/electronica)
+  - *Original Pirate Material* (2002)
+  - *The Hardest Way to Make an Easy Living* (2006)
 - Dessa: *A Badly Broken Code* (2010, hip-hop)
 - Jack Harlow: *Jackman* (2023, rap/hip-hop)
 - Ren: *Sick Boi* (2024, R&B/hip-hop/rap)
