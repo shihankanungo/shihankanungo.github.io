@@ -88,7 +88,35 @@ _Extending Borel's Conjecture from Measure to Dimension_
 
 #### Special Sessions
 
-![jmm25-sessions](images/jmm25-2.png)
+- **AMS Special Session on New Trends in Lie Theory and Mathematical Physics** <br>
+_Supersymmetric W-algebras and Free Field Realization_ <br>
+_Extending the Lax type operator for finite W-algebras_ 
+
+- **AMS Special Session on Random Walks on Graphs and Related Parameters** <br>
+_Some spectral properties of the non-backtracking matrix of a graph_ <br> 
+_Defective eigenvalues of the non-backtracking matrix_ <br> 
+_Multiphase Markov Chains_ <br>
+_On the last new vertex visited by a random walk in a directed graph_ <br>
+_Random walking on a graph and on its complement_ 
+
+- **AMS Special Session on Extremal Combinatorics and Random Discrete Structures** <br>
+_On Off-Diagonal F-Ramsey numbers_ <br>
+_On the number of P-free set families for tree posets P_ <br>
+_Extremal problems for given order and generalizations of independence numbers_ <br>
+_Gale duality in Hilbert spaces_
+
+- **AMS Special Session on Local-to-Global in Apollonian Circle Packings and Beyond** <br>
+_Spectral decomposition and Siegel-Veech transforms for strata: The case of marked tori_ <br>
+_Local obstructions in prime components of Apollonian circle packings_ <br>
+_Prime components in Apollonian circle packings_ <br>
+_Some perspectives on Local-Global problems_
+
+- **AMS Current Events Bulletin** <br>
+_Apollonian packings: the rise and fall of the local to global conjecture_ <br>
+_Floer cohomology and invariants of singularities_ <br>
+_Finding Arithmetic Progressions in Dense Sets of Integers_
+
+[//]: # (![jmm25-sessions](images/jmm25-2.png))
 
 ### Stanford University, Math Department Talks
  
