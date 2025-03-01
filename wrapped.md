@@ -72,21 +72,19 @@ Part III. *Small denominators without KAM. Robust arithmetic Spectral transition
 - **AMS Invited Address - Mohammed Abouzaid, Stanford University** <br>
 _One Hundred Years of Morse Theory_
 
-- **MAA-SIAM-AMS Hrabowski-Gates-Tapia-McBay Lecture - Victor Moll, Tulane University** <br>
+- **MAA-SIAM-AMS Hrabowski-Gates-Tapia-McBay Lecture - Victor Moll, Tulane Univ.** <br>
 _Integral Tales: Some Unexpected Connections_
 
 - **NAM Claytor-Woodard Lecture - Tai-Danae Bradley, SandboxAQ** <br>
 _Structure in Language: A Category Theoretical Perspective_
 
-- **JPBM Communications Award Lecture - Eugenia Cheng*, School of the Art Institute of Chicago** <br>
+- **JPBM Communications Award Lecture - Eugenia Cheng, School of the Art Institute of Chicago** <br>
 _Math, Art, Social Justice_
 
-- **ASL Invited Address - Theodore Allen Slaman*, University of California, Berkeley** <br>
+- **ASL Invited Address - Theodore Allen Slaman, University of California, Berkeley** <br>
 _Extending Borel's Conjecture from Measure to Dimension_
 
-
-
-![jmm25-invited](images/jmm25-1.png)
+[//]: # (![jmm25-invited](images/jmm25-1.png))
 
 #### Special Sessions
 
