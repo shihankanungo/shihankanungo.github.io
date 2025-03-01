@@ -52,9 +52,10 @@ title: Wrapped (2025)
 - *Jonathan Livingston Seagull* by Richard Bach. 1970
 - *Elliptic Tales: Curves, Counting, and Number Theory* by Avner Ash and Robert Gross. 2012
 
-## Math 
+## Math Talks
 
 ### Joint Mathematics Meeting '25. Seattle, WA Jan 7--11.
+<small>The Joint Mathematics Meetings (JMM) is a mathematics conference hosted annually in early January by the American Mathematical Society (AMS). Frequently, several other national mathematics organizations also participate. The meeting is the largest gathering of mathematicians in the United States, and the largest annual meeting of mathematicians in the world. Several thousand talks, panels, minicourses, and poster sessions are held each year.</small>
 
 #### Invited Talks
 
