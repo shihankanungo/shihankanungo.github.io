@@ -33,7 +33,7 @@ title: Wrapped (2025)
 - Tierra Whack: *World Wide Whack* (2024, hip-hop/jazz funk)
 - Dudu Pukwana: *In the Townships* (1974 jazz/South Africa)
 - James Brandon Lewis: *Apple Core* (2025, jazz)
-- Jason Palmer: The Cross Over: Live in Brooklyn (2024, jazz)
+- Jason Palmer: _The Cross Over: Live in Brooklyn_ (2024, jazz)
 - *Mozart: Piano Sonatas* by Christoph Eschenbach (1999, classical)
 - *Bach: Goldberg Variations* by Murray Perahia (1971, classical)
   
