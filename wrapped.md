@@ -58,15 +58,32 @@ title: Wrapped (2025)
 
 #### Invited Talks
 
-**AMS Colloquium Lecture - Svetlana Jitomirskaya, UC, Berkeley** <br>
-Part I. *Quantum mechanics meets arithmetics. The ten martini problem.* <br>
-Part II. *Quantitative global theory, dual Lyapunov exponents, and robust spectral results.* <br>
-Part III. *Small denominators without KAM. Robust arithmetic Spectral transitions.* <br>
-
 - **AMS Colloquium Lecture - Svetlana Jitomirskaya, UC, Berkeley** <br>
 Part I. *Quantum mechanics meets arithmetics. The ten martini problem.* <br>
 Part II. *Quantitative global theory, dual Lyapunov exponents, and robust spectral results.* <br>
 Part III. *Small denominators without KAM. Robust arithmetic Spectral transitions.* <br>
+
+- **von Neumann Lecture - Lester Mackey, Stanford University** <br>
+*Stein's Method, Learning, and Inference*
+
+- **AMS Erdős Lecture for Students - Kristin E. Lauter, Meta AI** <br>
+*AI for Cryptography*
+
+- **AMS Invited Address - Mohammed Abouzaid, Stanford University** <br>
+_One Hundred Years of Morse Theory_
+
+- **MAA-SIAM-AMS Hrabowski-Gates-Tapia-McBay Lecture - Victor Moll, Tulane University** <br>
+_Integral Tales: Some Unexpected Connections_
+
+- **NAM Claytor-Woodard Lecture - Tai-Danae Bradley, SandboxAQ** <br>
+_Structure in Language: A Category Theoretical Perspective_
+
+- **JPBM Communications Award Lecture - Eugenia Cheng*, School of the Art Institute of Chicago** <br>
+_Math, Art, Social Justice_
+
+- **ASL Invited Address - Theodore Allen Slaman*, University of California, Berkeley** <br>
+_Extending Borel's Conjecture from Measure to Dimension_
+
 
 
 ![jmm25-invited](images/jmm25-1.png)
