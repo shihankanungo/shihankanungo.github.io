@@ -85,7 +85,7 @@ _Integral Tales: Some Unexpected Connections_
 - **NAM Claytor-Woodard Lecture - Tai-Danae Bradley, SandboxAQ** <br>
 _Structure in Language: A Category Theoretical Perspective_
 
-- **JPBM Communications Award Lecture - Eugenia Cheng, School of the Art Institute of Chicago** <br>
+- **JPBM Communications Award Lecture - Eugenia Cheng, Art Institute of Chicago** <br>
 _Math, Art, Social Justice_
 
 - **ASL Invited Address - Theodore Allen Slaman, University of California, Berkeley** <br>
