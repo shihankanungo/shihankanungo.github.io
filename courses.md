@@ -92,6 +92,7 @@ I have undertaken advanced coursework at Euler Circle and at San José State Uni
 
 I haven't taken a formal course in representation theory, but I gained substantial knowledge while working on my 2024 project at MIT PRIMES-USA. In particular, I studied the subject through the following books:
 
+- **Karin Erdmann.** (2006) *Introduction to Lie algebras*. <small>Springer Verlag, London.</small>
 - **Humphreys, J.E.** (1972) *Introduction to Lie Algebras and Representation Theory*. <br><small>Springer Verlag, New York.</small>
 - **Humphreys, J.E.** (2008) *Representations of Semisimple Lie Algebras in the BGG Category O*. <small>Providence, R.I. : American Mathematical Society</small>
 - **Cheng, S. and Wang, W.** (2012) *Dualities and Representations of Lie Superalgebras*. <br><small>Graduate Studies in Mathematics 144, AMS</small>
