@@ -85,8 +85,6 @@ _Math, Art, Social Justice_
 - **ASL Invited Address - Theodore Allen Slaman, University of California, Berkeley** <br>
 _Extending Borel's Conjecture from Measure to Dimension_
 
-[//]: # (![jmm25-invited](images/jmm25-1.png))
-
 #### Special Sessions
 
 - **AMS Special Session on New Trends in Lie Theory and Mathematical Physics** <br>
@@ -116,8 +114,6 @@ _Some perspectives on Local-Global problems_
 _Apollonian packings: the rise and fall of the local to global conjecture_ <br>
 _Floer cohomology and invariants of singularities_ <br>
 _Finding Arithmetic Progressions in Dense Sets of Integers_
-
-[//]: # (![jmm25-sessions](images/jmm25-2.png))
 
 ### Stanford University, Math Department Talks
  
