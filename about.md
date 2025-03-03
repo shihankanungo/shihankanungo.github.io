@@ -13,7 +13,7 @@ When I’m learning about a new subject, for example, I set a timer, silence my 
 
 ### Ira Glass describes his long struggle to create something noteworthy
 
-![gap-by-ira-glass](images/ira.png)
+![gap-by-ira-glass](images/ira-glass.png)
 
 Nobody tells this to people who are beginners, and I really wish somebody had told this to me.
 
