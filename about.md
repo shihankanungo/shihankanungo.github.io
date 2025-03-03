@@ -11,7 +11,7 @@ When I’m learning about a new subject, for example, I set a timer, silence my 
 
 <br><br>
 
-## Ira Glass describes his long struggle to create something noteworthy
+### Ira Glass describes his long struggle to create something noteworthy
 
 ![gap-by-ira-glass](images/ira.png)
 
