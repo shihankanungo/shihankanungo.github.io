@@ -9,13 +9,13 @@ When you're not being productive in a meaningful way, take a page from Cal Newpo
 
 When I’m learning about a new subject, for example, I set a timer, silence my devices and notifications, and aim to get into a state of flow. I try to immerse myself in the topic and let distractions and concerns fade into the background. Best case scenario? I lose track of time until the alarm pulls me back. After several focused learning sprints, however, I start to notice diminishing returns—my thoughts feel slower, and my brain begins to feel saturated. That’s when it’s time to switch gears and tackle a different task.
 
-<br><br>
+<br>
 
 ### David Nicholls on "education"
 
 I want to be able to listen to recording of piano sonatas and know who's playing. I want to go to classical concerts and know when you're meant to clap. I want to be able to 'get' modern jazz without it all sounding like this terrible mistake, and I want to know who the Velvet Underground are exactly. I want to be fully engaged in the World of Ideas, I want to understand complex economics, and what people see in Bob Dylan. I want to possess radical but humane and well-informed political ideals, and I want to hold passionate but reasoned debates round wooden kitchen tables, saying things like 'define your terms!' and 'your premise is patently specious!' and then suddenly to discover that the sun's come up and we've been talking all night. I want to use words like 'eponymous' and 'solipsistic' and 'utilitarian' with confidence. I want to learn to appreciate fine wines, and exotic liquers, and fine single malts, and learn how to drink them without turning into a complete div, and to eat strange and exotic foods, plovers' eggs and lobster thermidor, things that sound barely edible, or that I can't pronounce...Most of all I want to read books; books thick as brick, leather-bound books with incredibly thin paper and those purple ribbons to mark where you left off; cheap, dusty, second-hand books of collected verse, incredibly expensive, imported books of incomprehensible essays from foregin universities. <br> At some point I'd like to have an original idea...And all of these are the things that a university education's going to give me. <br> --- David Nicholls, <i>Starter for Ten</i>
 
-<br><br>
+<br>
 
 ### Ira Glass describes his long struggle to create something noteworthy
 
