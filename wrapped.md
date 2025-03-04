@@ -55,6 +55,7 @@ title: Wrapped (2025)
 - *Siddhartha* by Herman Hesse. 1922
 - *Love Story* by Erich Segal. 1970
 - *A Sense of Where You Are: Bill Bradley at Princeton* by John McPhee. 1965
+- *A People's History of the United States* by Howard Zinn. 1980
 - *Purpose: What Evolution and Human Nature Imply about the Meaning of Our Existence* by Samuel Wilkinson. 2024
 - *Jonathan Livingston Seagull* by Richard Bach. 1970
 - *Elliptic Tales: Curves, Counting, and Number Theory* by Avner Ash and Robert Gross. 2012
