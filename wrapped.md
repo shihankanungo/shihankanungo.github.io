@@ -126,6 +126,8 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
  
 ![stanford-feb-27](images/02-27.png)
 
+![stanford-mar-04](images/03-04.png)
+
 ## Travel
 
 > "Not all those who wander are lost." --- J.R.R. Tolkien, The Fellowship of the Ring
