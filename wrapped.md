@@ -14,6 +14,7 @@ title: Wrapped (2025)
 - Good Will Hunting (1997 d. Gus Van Sant)
 - Miss Americana (2020 d. Lana Wilson)
 - Robot Dreams (2024 d. Pablo Berger)
+- Memoir of a Snail (2024 d. Adam Elliot)
 
 
 ## Music 
