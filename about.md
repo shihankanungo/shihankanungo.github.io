@@ -35,7 +35,7 @@ I took longer to figure out how to do this than anyone I’ve ever met. It takes
 
 —Ira Glass
 
-<br>
+<md-divider></md-divider>
 
 "When you live on your own for a long time, however, your personality changes because you go so much into yourself you lose the ability to be social, to understand what is and isn't normal behavior. There is an entire world inside yourself, and if you let yourself, you can get so deep inside it you will forget the way to the surface. Other people keep our souls alive, just like food and water does with our body." <br> --- Donald Miller, <i>Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality</i>
 
