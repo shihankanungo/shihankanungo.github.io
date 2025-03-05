@@ -17,7 +17,7 @@ title: Honors and Awards
   - Commutative Algebra. *Factorization theory in monoids and semirings* 2023  
 - **USAMTS (USA Mathematical Talent Search)**. *2-time Gold medal* and *highest scorer*
   - Year 36: 75/75 (2024-'25), Year 34: 74/75 (2022-'23)
-- **USAMO (USA Mathematical Olympiad)**. *8/42*, 65th percentile. 2022
+- **USAMO (USA Mathematical Olympiad)**. 2022, 2025
 - **AIME (American Invitational Mathematics Examination)**. _6-time qualifier_ 2020--'25.
   - Highlights 13/15 (2025), 11/15 (2022, 2024)
 - **Math Kangaroo, Level 12**. *4th in USA*. 2022
