@@ -24,6 +24,9 @@ navbar_entries:
   #   url: about
 
 personal_entries:
+  - title: Landing
+    url: personal
+
   - title: Wrapped
     url: wrapped
 
