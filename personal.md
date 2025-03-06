@@ -56,27 +56,27 @@ I took longer to figure out how to do this than anyone I’ve ever met. It takes
 
 "The blues is an impulse to keep the painful details and episodes of a brutal experience alive in one's aching consciousness, to finger its jagged grain, and to transcend it, not by the consolation of philosophy but by squeezing from it a near-tragic, near-comic lyricism. As a form, the blues is an autobiographical chronicle of personal catastrophe expressed lyrically." <br> --- Ralph Ellison, <i>Living with Music: Jazz Writings</i>
 
-![separator](images/sep.png)
+![separator](images/septhin.png)
 
 "It’s not the note you play that’s the wrong note – it’s the note you play afterwards that makes it right or wrong." --- Miles Davis
 
-![separator](images/sep.png)
+![separator](images/septhin.png)
 
 "There will come a time when you believe everything is finished; that will be the beginning." <br> --- Louis L'Amour
 
-![separator](images/sep.png)
+![separator](images/septhin.png)
 
 "If you're trying to choose between two theories and one gives you an excuse for being lazy, the other one is probably right." --- Paul Graham, <i>What You'll Wish You'd Known</i>
 
-![separator](images/sep.png)
+![separator](images/septhin.png)
 
 "It's dangerous to design your life around getting into college, because the people you have to impress to get into college are not a very discerning audience. At most colleges, it's not the professors who decide whether you get in, but admissions officers, and they are nowhere near as smart. They're the NCOs of the intellectual world. They can't tell how smart you are. The mere existence of prep schools is proof of that." <br> --- Paul Graham, <i>What You'll Wish You'd Known</i>
 
-![separator](images/sep.png)
+![separator](images/septhin.png)
 
 "No art, however minor, demands less than total dedication if you want to excel in it." <br> --- Leon Battista Alberti
 
-![separator](images/sep.png)
+![separator](images/septhin.png)
 
 "The word I most misunderstood was "tact." As used by adults, it seemed to mean keeping your mouth shut. I assumed it was derived from the same root as "tacit" and "taciturn," and that it literally meant being quiet. I vowed that I would never be tactful; they were never going to shut me up. In fact, it's derived from the same root as "tactile," and what it means is to have a deft touch. Tactful is the opposite of clumsy. I don't think I learned this until college. <br> 
 --- Paul Graham, <i>Why Nerds are Unpopular</i>
@@ -85,23 +85,23 @@ I took longer to figure out how to do this than anyone I’ve ever met. It takes
 
 "Tact is the ability to tell someone to go to hell in such a way that they look forward to the trip." --- Winston Churchill
 
-![separator](images/sep.png)
+![separator](images/septhin.png)
 
 "Pain and suffering are always inevitable for a large intelligence and a deep heart. The really great men must, I think, have great sadness on earth." <br> --- Fyodor Dostoevsky, <i>Crime and Punishment</i>
 
-![separator](images/sep.png)
+![separator](images/septhin.png)
 
 "I have a theory that selflessness and bravery aren't all that different." <br> --- Veronica Roth, <i>Divergent</i>
 
-![separator](images/sep.png)
+![separator](images/septhin.png)
 
 "Everything that irritates us about others can lead us to an understanding of ourselves." <br> --- Carl Gustav Jung
 
-![separator](images/sep.png)
+![separator](images/septhin.png)
 
 "If you hate a person, you hate something in him that is part of yourself. What isn't part of ourselves doesn't disturb us." --- Hermann Hesse, <i>Demian</i>
 
-![separator](images/sep.png)
+![separator](images/septhin.png)
 
 "Vanity and pride are different things, though the words are often used synonymously. A person may be proud without being vain. Pride relates more to our opinion of ourselves, vanity to what we would have others think of us." --- Jane Austen, <i>Pride and Prejudice</i>
 
@@ -117,19 +117,19 @@ I took longer to figure out how to do this than anyone I’ve ever met. It takes
 
 "It is the time you have wasted for your rose that makes your rose so important. <br> --- Antoine de Saint-Exupéry, <i>The Little Prince</i>
 
-![separator](images/sep.png)
+![separator](images/septhin.png)
 
 "Weeds are flowers, too, once you get to know them." --- A.A. Milne
 
-![separator](images/sep.png)
+![separator](images/septhin.png)
 
 "The measure of intelligence is the ability to change." --- Albert Einstein
 
-![separator](images/sep.png)
+![separator](images/septhin.png)
 
 "Compassion is the basis of morality." --- Arthur Schopenhauer
 
-![separator](images/sep.png)
+![separator](images/septhin.png)
 
 "The longer and more carefully we look at a funny story, the sadder it becomes." <br> --- Nikolai V. Gogol
 
