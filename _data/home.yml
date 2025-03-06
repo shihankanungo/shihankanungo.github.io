@@ -22,7 +22,20 @@ navbar_entries:
 
   # - title: About
   #   url: about
-    
+
+personal_entries:
+  - title: Wrapped
+    url: wrapped
+
+  - title: Math Talks
+    url: wrapped#math-talks
+
+  - title: Tom Hull
+    url: tomhull
+
+  - title: Christgau
+    url: xgau
+
 project_entries:
   - title: MIT PRIMES-USA `25
     url: primes-25
@@ -78,9 +91,6 @@ footer_entries:
 
   - title: Music
     url: music
-
-  # - title: Wrapped
-  #   url: wrapped
 
 misc_entries:
   - title: this is an example vertical list
