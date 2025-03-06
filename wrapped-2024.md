@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: personal
 title: Wrapped (2024)
 ---
 <br>
