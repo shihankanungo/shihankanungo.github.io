@@ -9,6 +9,20 @@ title: About
 - [Tom Hull](tomhull)
 - [Xgau](xgau)
 
+  - title: Wrapped
+    url: wrapped
+
+  - title: Math Talks
+    url: wrapped#math-talks
+
+  - title: Tom Hull
+    url: tomhull
+
+  - title: Xgau
+    url: xgau
+
+<br>
+
 When you're not being productive in a meaningful way, take a page from Cal Newport’s concept of “deep work.” Newport emphasizes the importance of sustained, undistracted focus on cognitively demanding tasks, helping ensure depth and mastery rather than superficial exploration. As Newport explains, 
 > “In order for a session to count as deep work there must be zero distractions. Even a quick glance at your phone or email inbox can significantly reduce your performance due to the cost of context switching.”
 
