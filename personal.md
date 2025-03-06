@@ -21,20 +21,6 @@ I want to be able to listen to recording of piano sonatas and know who's playing
 
 ![gap-by-ira-glass](images/ira.png)
 
-Nobody tells this to people who are beginners, and I really wish somebody had told this to me.
-
-All of us who do creative work, we get into it because we have good taste. But it’s like there is this gap. For the first couple years that you’re making stuff, what you’re making isn’t so good. It’s not that great. It’s trying to be good, it has ambition to be good, but it’s not that good.
-
-But your taste, the thing that got you into the game, is still killer. And your taste is good enough that you can tell that what you’re making is kind of a disappointment to you. A lot of people never get past that phase. They quit.
-
-Everybody I know who does interesting, creative work they went through years where they had really good taste and they could tell that what they were making wasn’t as good as they wanted it to be. They knew it fell short. Everybody goes through that.
-
-And if you are just starting out or if you are still in this phase, you gotta know its normal and the most important thing you can do is do a lot of work. Do a huge volume of work. Put yourself on a deadline so that every week or every month you know you’re going to finish one story. It is only by going through a volume of work that you’re going to catch up and close that gap. And the work you’re making will be as good as your ambitions.
-
-I took longer to figure out how to do this than anyone I’ve ever met. It takes awhile. It’s gonna take you a while. It’s normal to take a while. You just have to fight your way through that.
-
-—Ira Glass
-
 ![separator](images/sep.png)
 
 "When you live on your own for a long time, however, your personality changes because you go so much into yourself you lose the ability to be social, to understand what is and isn't normal behavior. There is an entire world inside yourself, and if you let yourself, you can get so deep inside it you will forget the way to the surface. Other people keep our souls alive, just like food and water does with our body." <br> --- Donald Miller, <i>Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality</i>
