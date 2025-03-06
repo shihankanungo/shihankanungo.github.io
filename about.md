@@ -5,7 +5,7 @@ title: About
 <br>
 
 - [Wrapped](wrapped)
-- [Math Talks](wrapped#math)
+- [Math Talks](wrapped#math-talks)
 - [Tom Hull](tomhull)
 - [Xgau](xgau)
 
