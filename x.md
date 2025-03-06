@@ -1,6 +1,6 @@
 ---
 layout: personal
-title: About
+title: X
 ---
 <br>
 
