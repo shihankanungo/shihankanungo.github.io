@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: personal
 title: Tom Hull
 ---
 
