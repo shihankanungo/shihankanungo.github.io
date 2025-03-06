@@ -14,7 +14,7 @@ title: Honors and Awards
   - Combinatorics. *Saturation Problems for Sequences*. 2025
   - Representation Theory. *Representations of Twisted Yangians in Complex Rank*. 2024
   - Representation Theory. *Representations of Lie Superalgebras*. 2024
-  - Commutative Algebra. *Factorization theory in monoids and semirings* 2023  
+  - Commutative Algebra. *Factorization Theory in Monoids and Semirings* 2023  
 - **USAMTS (USA Mathematical Talent Search)**. *2-time Gold medal* and *highest scorer*
   - Year 36: 75/75 (2024-'25), Year 34: 74/75 (2022-'23)
 - **USAMO (USA Mathematical Olympiad)**. 2022, 2025
