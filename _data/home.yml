@@ -31,7 +31,7 @@ personal_entries:
     url: wrapped
 
   - title: Math Talks
-    url: wrapped#math-talks
+    url: math-talks
 
   - title: Tom Hull
     url: tomhull
