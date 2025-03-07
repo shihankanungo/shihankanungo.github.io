@@ -15,6 +15,7 @@ title: Wrapped (2025)
 - Miss Americana (2020 d. Lana Wilson)
 - Robot Dreams (2024 d. Pablo Berger)
 - Memoir of a Snail (2024 d. Adam Elliot)
+- Flow (2024 d. Gints Zilbalodis)
 
 
 ## Music 
