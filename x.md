@@ -4,6 +4,8 @@ title: X
 ---
 <br>
 
+## The Four Agreements
+
 1. **Be Impeccable With Your Word** <br>
 Speak with integrity. Say only what you mean. Avoid using the word to speak against yourself or to gossip about others. Use the power of your word in the direction of truth and love. <br>
 
