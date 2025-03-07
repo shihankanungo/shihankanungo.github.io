@@ -2,7 +2,7 @@
 layout: personal
 title: X
 ---
-<br>
+
 
 ## The Four Agreements
 
