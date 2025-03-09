@@ -134,7 +134,7 @@ I haven't taken a formal course in representation theory, but I gained substanti
 
 ## Combinatorics and Graph Theory
 
-> "Counting pairs is the oldest trick in combinatorics... Every time we count pairs, we learn something from it." --- Gil Kalai
+> "Counting pairs is the oldest trick in combinatorics... every time we count pairs, we learn something from it." --- Gil Kalai
 
 - **MATH 279A** *Graph Theory*. Fall 2024. SJSU (A+)<br>
   <small>Graphs, digraphs, trees, networks, connectedness, eulerian circuits, hamiltonian cycles, graph embeddings, matchings, factorizations, graph colorings and Ramsey theory.</small> <br>
