@@ -12,7 +12,8 @@ I have undertaken advanced coursework at Euler Circle and at San José State Uni
 
 ## Analysis and Geometry 
 
-> "logloglog x has been proved to go to infinity, but has never been observed to do so." --- Anonymous
+> "logloglog x has been proved to go to infinity, but has never been observed to do so." --- Anonymous <br>
+> "Analysis is the art of taming infinity." <br> -- Neil Falkner (Amer. Math. Monthly 116 (2009), p. 658)
 
 - **MATH 231A** *Real Analysis*. Fall 2024. SJSU (A+) <br>
   <small>Sigma algebras, differentiation, product measures, integration, the spaces *L*<sup>1</sup> and **C**.</small> <br>
