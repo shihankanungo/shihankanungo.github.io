@@ -14,7 +14,7 @@ I have undertaken advanced coursework at Euler Circle and at San José State Uni
 
 > "logloglog x has been proved to go to infinity, but has never been observed to do so." --- Anonymous <br>
 > "Analysis is the art of taming infinity." --- Neil Falkner, Amer. Math. Monthly **116** <br>
-> "Geometry is the science of correct reasoning on incorrect figures." --- George Polya <br>
+> "Geometry is the science of correct reasoning on incorrect figures." <br> --- George Polya <br>
 > "Geometry is the archetype of the beauty of the world." --- Johannes Kepler
 
 - **MATH 231A** *Real Analysis*. Fall 2024. SJSU (A+) <br>
