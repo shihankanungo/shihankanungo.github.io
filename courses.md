@@ -102,6 +102,8 @@ I haven't taken a formal course in representation theory, but I gained substanti
 
 ## Linear Algebra and Matrix Theory
 
+> "It is my experience that proofs involving matrices can be shortened by 50% if one throws the matrices out." --- Emil Artin (Geometric Algebra, p. 14)
+
 - **MATH 229** *Advanced Matrix Theory*. Fall 2024. SJSU (A+)<br>
   <small>Eigenvalues, unitary equivalence and Schur’s theorem. Normal, Hermitian and symmetric real matrices. Positive definite matrices, polar and singular value factorizations</small> <br>
   <small><small>Textbook: Horn and Johnson. <i>Matrix Analysis.</i></small></small>
