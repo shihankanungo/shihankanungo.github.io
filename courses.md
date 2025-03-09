@@ -99,7 +99,9 @@ I have undertaken advanced coursework at Euler Circle and at San José State Uni
 
 ## Representation Theory
 
-> "I used to say: "Everything is Representation Theory". Now I say: "Nothing is Representation Theory"." --- Israel Gelfand
+> "The philosophy of representation theory is that it is a kind of linearization of abstract algebra." <br> --- Fulton and Harris, Representation Theory: A First Course <br>
+> "The essence of representation theory is to take a complicated mathematical object and study it by looking at how it acts on simpler objects, like vector spaces." --- Michael Atiyah
+> "I used to say: "everything is representation theory". Now I say: "nothing is representation theory"." --- Israel Gelfand
 
 I haven't taken a formal course in representation theory, but I gained substantial knowledge while working on my 2024 project at MIT PRIMES-USA. In particular, I studied the subject through the following books:
 
