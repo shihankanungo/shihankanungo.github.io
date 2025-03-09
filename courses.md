@@ -68,6 +68,7 @@ I have undertaken advanced coursework at Euler Circle and at San José State Uni
 
 ## Algebra and Number Theory
 
+> "Structures are the essence of mathematics, and algebra provides the language to describe them." --- Nicolas Bourbaki <br>
 > "Number theorists are like lotus-eaters -- having tasted this food they can never give it up." --- Leopold Kronecker (1823-1891)
 
 - **Group Theory**. Summer 2023. Art of Problem Solving (AoPS) (A+)<br>
@@ -99,9 +100,8 @@ I have undertaken advanced coursework at Euler Circle and at San José State Uni
 
 ## Representation Theory
 
-> "The philosophy of representation theory is that it is a kind of linearization of abstract algebra." <br> --- Fulton and Harris, Representation Theory: A First Course <br>
-> "The essence of representation theory is to take a complicated mathematical object and study it by looking at how it acts on simpler objects, like vector spaces." --- Michael Atiyah <br>
-> "I used to say: "everything is representation theory". Now I say: "nothing is representation theory"." --- Israel Gelfand
+> "The philosophy of representation theory is that it is a kind of linearization of abstract algebra." --- Fulton & Harris, Representation Theory: A First Course <br>
+> "The essence of representation theory is to take a complicated mathematical object and study it by looking at how it acts on simpler objects, like vector spaces." --- Michael Atiyah
 
 I haven't taken a formal course in representation theory, but I gained substantial knowledge while working on my 2024 project at MIT PRIMES-USA. In particular, I studied the subject through the following books:
 
