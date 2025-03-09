@@ -11,6 +11,8 @@ I have undertaken advanced coursework at Euler Circle and at San José State Uni
 
 ## Analysis and Geometry 
 
+> "logloglog x has been proved to go to infinity, but has never been observed to do so." --- Anonymous
+
 - **MATH 231A** *Real Analysis*. Fall 2024. SJSU (A+) <br>
   <small>Sigma algebras, differentiation, product measures, integration, the spaces *L*<sup>1</sup> and **C**.</small> <br>
   <small><small>Textbook: Stein and Shakarchi. <i>Real Analysis: Measure Theory, Integration, and Hilbert Spaces</i>.</small></small>
