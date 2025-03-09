@@ -61,6 +61,8 @@ I have undertaken advanced coursework at Euler Circle and at San José State Uni
 
 ## Algebra and Number Theory
 
+> "Number theorists are like lotus-eaters -- having tasted this food they can never give it up." --- Leopold Kronecker (1823-1891)
+
 - **Group Theory**. Summer 2023. Art of Problem Solving (AoPS) (A+)<br>
   <small>Building groups from other groups, symmetries of geometric objects, constructing fields.</small> <br>
   <small><small>Textbook: Jeremy Copeland. <i>Groups and Fields.</i></small></small>
