@@ -99,6 +99,8 @@ I have undertaken advanced coursework at Euler Circle and at San José State Uni
 
 ## Representation Theory
 
+> "I used to say: "Everything is Representation Theory". Now I say: "Nothing is Representation Theory"." --- Israel Gelfand
+
 I haven't taken a formal course in representation theory, but I gained substantial knowledge while working on my 2024 project at MIT PRIMES-USA. In particular, I studied the subject through the following books:
 
 - **Karin Erdmann.** (2006) *Introduction to Lie algebras*. <small>Springer Verlag, London.</small>
