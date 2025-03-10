@@ -61,6 +61,8 @@ title: Quotes
 
 > "What you get by achieving your goals is not as important as what you become by achieving your goals." --- Zig Ziglar
 
+> “It is not the size of the dog in the fight that counts, but the fight in the dog that wins."  <br> --- Arthur G. Lewis, Stub Ends of Thought and Verse
+
 > "I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed." <br>
 --- Michael Jordan
 
