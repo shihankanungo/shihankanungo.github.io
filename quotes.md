@@ -55,13 +55,13 @@ title: Quotes
 
 > "Life is found in the dance between your deepest desire and your greatest fear." --- Wayne Dyer
 
+> “It is not the size of the dog in the fight that counts, but the fight in the dog that wins." --- Arthur G. Lewis, Stub Ends of Thought and Verse
+
 > "Practice like you've never won, but perform like you've never lost." <br> --- Michael Jordan
 
 > "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better." <br> --- Samuel Beckett
 
 > "What you get by achieving your goals is not as important as what you become by achieving your goals." --- Zig Ziglar
-
-> “It is not the size of the dog in the fight that counts, but the fight in the dog that wins."  <br> --- Arthur G. Lewis, Stub Ends of Thought and Verse
 
 > "I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed." <br>
 --- Michael Jordan
