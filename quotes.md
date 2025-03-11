@@ -84,8 +84,8 @@ title: Quotes
 
 > "You cannot discover new oceans unless you have the courage to lose sight of the shore." --- André Gide
 
-> "We shall not cease from exploration / And the end of all our exploring <br>
-Will be to arrive where we started / And know the place for the first time." <br>
+> "We shall not cease from exploration <br> And the end of all our exploring <br>
+Will be to arrive where we started <br> And know the place for the first time." <br>
 --- T.S. Eliot, from "Little Gidding," <i>Four Quartets</i>
 
 
