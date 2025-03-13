@@ -56,7 +56,9 @@ title: Wrapped (2025)
 - *Siddhartha* by Herman Hesse. 1922
 - *Love Story* by Erich Segal. 1970
 - *Jonathan Livingston Seagull* by Richard Bach. 1970
+- *Never Let Me Go* by Kazuo Ishiguro. 2005
 - *A Sense of Where You Are: Bill Bradley at Princeton* by John McPhee. 1965
+- *Oranges* by John McPhee. 1967
 - *A People's History of the United States* by Howard Zinn. 1980
 - *Never Split The Difference: Negotiating As If Your Life Depended On It* by Christopher Voss, Tahl Raz. 2016
 - *Purpose: What Evolution and Human Nature Imply about the Meaning of Our Existence* by Samuel Wilkinson. 2024
