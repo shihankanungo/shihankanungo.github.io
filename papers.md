@@ -9,7 +9,7 @@ title: Papers
 ## Research publications and preprints
 
 - Mixed Tensor Products, Capelli Berezinians, and Newton’s Formula for **gl**(*m*\|*n*)  <br />
-  S. Erat, A. Kannan, **S. Kanungo**. *Transformation Groups*. Submitted Sep 12, 2024. <br />
+  S. Erat, A. Kannan, **S. Kanungo**. *Transformation Groups*. Accepted Mar 13, 2025. <br />
   \[ [arXiv](https://arxiv.org/pdf/2409.02422) \]
   
   
