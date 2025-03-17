@@ -40,6 +40,12 @@ Make your mistakes, next year and forever."
 --- Neil Gaiman
 
 ![separator](images/sep.png)
+
+“I hope that one day you will have the experience of doing something you do not understand for someone you love.” <br>
+--- Jonathan Safran Foer, Extremely Loud & Incredibly Close
+
+![separator](images/sep.png)
+
 Nobody tells this to people who are beginners, and I really wish somebody had told this to me.
 
 All of us who do creative work, we get into it because we have good taste. But it’s like there is this gap. For the first couple years that you’re making stuff, what you’re making isn’t so good. It’s not that great. It’s trying to be good, it has ambition to be good, but it’s not that good.
