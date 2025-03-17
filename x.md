@@ -42,7 +42,7 @@ Make your mistakes, next year and forever."
 ![separator](images/sep.png)
 
 “I hope that one day you will have the experience of doing something you do not understand for someone you love.” <br>
---- Jonathan Safran Foer, Extremely Loud & Incredibly Close
+--- Jonathan Safran Foer, _Extremely Loud & Incredibly Close_
 
 ![separator](images/sep.png)
 
