@@ -10,12 +10,12 @@ title: Wrapped (2025)
 
 - City Lights (1931 d. Charlie Chaplin)
 - Modern Times (1936 d. Charlie Chaplin)
-- The Great Dictator (1940 d. Charlie Chaplin) **Massive favorite**
+- The Great Dictator (1940 d. Charlie Chaplin) **Favorite**
 - Good Will Hunting (1997 d. Gus Van Sant)
 - Easy A (2010 d. Will Gluck)
 - Love, Simon (2018 d. Greg Berlanti)
 - Miss Americana (2020 d. Lana Wilson)
-- Hundreds of Beavers (2022 d. Mike Cheslik)
+- Hundreds of Beavers (2022 d. Mike Cheslik) **Favorite**
 - Robot Dreams (2024 d. Pablo Berger)
 - Memoir of a Snail (2024 d. Adam Elliot)
 - Flow (2024 d. Gints Zilbalodis)
