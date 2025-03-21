@@ -13,6 +13,7 @@ title: Wrapped (2025)
 - The Great Dictator (1940 d. Charlie Chaplin) **Massive favorite**
 - Good Will Hunting (1997 d. Gus Van Sant)
 - Easy A (2010 d. Will Gluck)
+- Love, Simon (2018 d. Greg Berlanti)
 - Miss Americana (2020 d. Lana Wilson)
 - Hundreds of Beavers (2022 d. Mike Cheslik)
 - Robot Dreams (2024 d. Pablo Berger)
