@@ -8,6 +8,11 @@ title: Mathematics coursework
 > "Education: the path from cocky ignorance to miserable uncertainty." <br> --- Mark Twain
 
 <br> 
+
+![jvn](images/jvn.png)
+
+<br>
+
 I have undertaken advanced coursework at Euler Circle and at San José State University (SJSU). Euler Circle, run by Dr. Simon Rubinstein-Salzedo, offers college-level mathematics classes, each 10 weeks long, with weekly problem sets to help gain familiarity with new material. At the end of the class we write an expository paper on a topic related to the class material. At SJSU, courses run for 15 weeks and typically include 7 to 10 problem sets, two midterm exams, and a final exam. In graduate-level courses (shown below as **MATH 2****), there is often a project and/or presentation in lieu of the final. My experiences at Euler Circle and SJSU have significantly enriched both the breadth of my expertise and the depth of my understanding. Or, as von Neumann would put it, they have simply helped me get used to some of mathematics. <br> <br>
 <small>Grades indicated below where available. Euler Circle does not assign grades; they believe that grades tend to set achievement ceilings.</small>
 
