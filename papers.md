@@ -11,7 +11,9 @@ title: Papers
 - Mixed Tensor Products, Capelli Berezinians, and Newton’s Formula for **gl**(*m*\|*n*)  <br />
   S. Erat, A. Kannan, **S. Kanungo**. *Transformation Groups*. Accepted Mar 13, 2025. <br />
   \[ [arXiv](https://arxiv.org/pdf/2409.02422) \]
-  
+
+- Saturation Problems for Sequences. *In preparation* <br />
+  J. Geneson, **S. Kanungo**. <br />
   
 - Representations of Twisted Yangians in Complex Rank.  *In preparation* <br />
   A. Kannan, **S. Kanungo**.  <br />
