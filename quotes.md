@@ -9,8 +9,6 @@ title: Quotes
 
 > "You know you're in love when you can't fall asleep because reality is finally better than your dreams." --- Dr. Seuss
 
-> > > “Even <br> After <br> All this time <br> The Sun never says to the Earth, <br> <br> "You owe me."  <br><br> Look <br> What happens <br> With a love like that, <br> It lights the whole sky.” <br> --- Hafiz 
-
 <ul><ul><ul><ul><ul>
 “Even <br> After <br> All this time <br> The Sun never says to the Earth, <br> <br> "You owe me."  <br><br> Look <br> What happens <br> With a love like that, <br> It lights the whole sky.” <br> --- Hafiz
 </ul></ul></ul></ul></ul>
