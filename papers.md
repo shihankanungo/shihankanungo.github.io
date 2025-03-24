@@ -9,7 +9,7 @@ title: Papers
 ## Research publications and preprints
 
 - Mixed Tensor Products, Capelli Berezinians, and Newton’s Formula for **gl**(*m*\|*n*)  <br />
-  S. Erat, A. Kannan, **S. Kanungo**. *Transformation Groups* [doi.org/10.1007/s00031-025-09908-0](https://doi.org/10.1007/s00031-025-09908-0)  <br />
+  S. Erat, A. Kannan, **S. Kanungo**. *Transformation Groups* (2025)  <br />
   \[ [arXiv](https://arxiv.org/pdf/2409.02422) \] \[ [journal](https://doi.org/10.1007/s00031-025-09908-0) \]
 
 - Saturation Problems for Sequences. *In preparation* <br />
@@ -26,7 +26,7 @@ title: Papers
   
 - A weaker notion of the finite factorization property <br />
   H. Jiang, **S. Kanungo**, H. Kim. *Commun. Korean Math. Soc.* **39** (2024), No. 2, pp. 313--329 <br />
-  \[ [arXiv](https://arxiv.org/pdf/2307.09645) \]  <br />
+  \[ [arXiv](https://arxiv.org/pdf/2307.09645) \] \[ [journal](https://doi.org/10.4134/CKMS.c230178) \] <br />
   
 ## Expository 
 
