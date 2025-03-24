@@ -11,6 +11,11 @@ title: Quotes
 
 > > > “Even <br> After <br> All this time <br> The Sun never says to the Earth, <br> <br> "You owe me."  <br><br> Look <br> What happens <br> With a love like that, <br> It lights the whole sky.” <br> --- Hafiz 
 
+<ul>
+My indented text goes here, and it can be long and wrap if you like.
+And you can have multiple lines if you want.
+</ul>
+
 > "It is our choices, Harry, that show what we truly are, far more than our abilities." --- J.K. Rowling, <i>Harry Potter and the Chamber of Secrets</i>
 
 > “Unless someone like you cares a whole awful lot, Nothing is going to get better. It's not." --- Dr. Seuss, The Lorax
