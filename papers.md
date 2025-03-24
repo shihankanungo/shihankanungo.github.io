@@ -13,8 +13,8 @@ title: Papers
   \[ [arXiv](https://arxiv.org/pdf/2409.02422) \]
   
   
-- Representations of Twisted Yangians in Complex Rank.  <br />
-  S. Erat, A. Kannan, **S. Kanungo**. *In preparation* <br />
+- Representations of Twisted Yangians in Complex Rank.  *In preparation* <br />
+  A. Kannan, **S. Kanungo**.  <br />
   
   
 - On Product Formulas of Guillera and Sondow  <br />
