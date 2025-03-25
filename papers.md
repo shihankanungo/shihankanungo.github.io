@@ -26,7 +26,7 @@ title: Papers
   
 - A weaker notion of the finite factorization property <br />
   H. Jiang, **S. Kanungo**, H. Kim. *Commun. Korean Math. Soc.* **39** (2024), No. 2, pp. 313--329 <br />
-  \[ [arXiv](https://arxiv.org/pdf/2307.09645) \] \[ [journal](https://doi.org/10.4134/CKMS.c230178) \] <br />
+  \[ [arXiv](https://arxiv.org/pdf/2307.09645) \] \[ [journal](https://doi.org/10.4134/CKMS.c230178) \] \[ [PDF](https://koreascience.kr/article/JAKO202415057658670.pdf) \] <br />
   
 ## Expository 
 
