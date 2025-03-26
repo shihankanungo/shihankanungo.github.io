@@ -62,6 +62,6 @@ I took longer to figure out how to do this than anyone I’ve ever met. It takes
 
 <br>
 
-[![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/shihankanungo)
+[![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/shihankanungo/)
 
 
