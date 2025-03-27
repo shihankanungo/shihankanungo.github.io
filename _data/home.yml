@@ -36,8 +36,11 @@ personal_entries:
   - title: Tom Hull
     url: tomhull
 
-  - title: Christgau
-    url: xgau
+  # - title: Christgau
+  #   url: xgau
+
+  - title: Mar 27-Apr 7
+    url: india-trip
 
 project_entries:
   - title: MIT PRIMES-USA '25
