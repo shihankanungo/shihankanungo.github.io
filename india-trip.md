@@ -4,7 +4,9 @@ title: X
 ---
 
 
-## Day 1: Thu Mar 27 (10 days to go)
+## Shenanigans
+
+### Day 1: Thu Mar 27 (10 days to go)
 
 Shihan is already bereft the moment we step inside the house, having dropped off his beloved mama at the airport. 
 A few minutes later, he recovers enough to pull off an inredibly virtuosic violin practice session. I am seriously w-o-w-e-d.
