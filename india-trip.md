@@ -12,7 +12,8 @@ Today is going to be a bustling day. Mainly the two PRIMES-USA projects: "_A_" f
 Mostly finishing touches and Arun's approval for _A_. Shihan had a mini-breakthrough in _G_ which he will discuss 
 with Geneson in his meeting later on in the evening. Promises to be exciting!
 
-You will be landing in Dubai soon. In case you forgot, I had asked for **BLEU DE CHANEL** _Parfum Spray_. 
+You will be landing in Dubai soon. In case you forgot, I had asked for 
+> **BLEU DE CHANEL** _Parfum Spray_. 
 
 Hope you are rested and not jet-lagged when you reach New Delhi. Remember to stay hydrated.
 
