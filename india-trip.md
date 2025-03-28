@@ -8,8 +8,13 @@ title: X
 
 ### Day 2: Fri Mar 28 (9 days to go)
 
-Today is going to be a bustling day. Mainly the two PRIMES-USA projects. Finishing touches and Arun's approval for one and then meeting with
-Geneson for the other. Shihan had a mini-breakthrough in the latter, so it is exciting!
+Today is going to be a bustling day. Mainly the two PRIMES-USA projects: "_A_" for Arun's and "_G_" for Geneson's. 
+Mostly finishing touches and Arun's approval for _A_. Shihan had a mini-breakthrough in _G_ which he will discuss 
+with Geneson in his meeting later on in the evening. Promises to be exciting!
+
+You will be landing in Dubai soon. In case you forgot, I had asked for **BLEU DE CHANEL** _Parfum Spray_. 
+
+Hope you are rested and not jet-lagged when you reach New Delhi. Remember to stay hydrated.
 
 ### Day 1: Thu Mar 27 (10 days to go)
 
