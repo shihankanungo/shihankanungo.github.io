@@ -17,6 +17,10 @@ You will be landing in Dubai soon. In case you forgot, I had asked for
 
 Hope you are rested and not jet-lagged when you reach New Delhi. Remember to stay hydrated.
 
+1PM: Just got back from lunch at _Casa Lupe_. I had _camarones rancheros_ and Shihan had _crispy tacos_. It was fantastic.
+Djokovic won the SF match against Dimitrov. He served phenomenally -- for the first 40 minutes of the match, he did not miss
+a single first serve. Final on Sunday. Looking forward to it.
+
 ### Day 1: Thu Mar 27 (10 days to go)
 
 Shihan is already bereft the moment we step inside the house, having dropped off his beloved mama at the airport. 
