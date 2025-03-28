@@ -11,8 +11,8 @@ title: X
 Shihan is already bereft the moment we step inside the house, having dropped off his beloved mama at the airport. 
 A few minutes later, he recovers enough to pull off an inredibly virtuosic violin practice session. I am seriously w-o-w-e-d.
 
-It is 430PM: we are getting _chicken samosas_ from **Zareen's** as a snack. Might order pizza for dinner.
-Ended up getting _sweetgreen_ salads. 
+It is 430PM: UAE226/EK226 is about to take off; landing 740PM PT at Dubai. 
+we are getting _chicken samosas_ from **Zareen's** as a snack. Might order pizza for dinner. Ended up getting _sweetgreen_ salads. 
 
 Shihan is **obsessed** with his watch!!
 
