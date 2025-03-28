@@ -17,9 +17,16 @@ You will be landing in Dubai soon. In case you forgot, I had asked for
 
 Hope you are rested and not jet-lagged when you reach New Delhi. Remember to stay hydrated.
 
-1PM: Just got back from lunch at _Casa Lupe_. I had _camarones rancheros_ and Shihan had _crispy tacos_. It was fantastic.
-<br> Djokovic won the SF match against Dimitrov. He served phenomenally -- for the first 40 minutes of the match, he did not miss
-a single first serve. <br> Final on Sunday. Looking forward to it.
+1PM: Just got back from lunch at _Casa Lupe_. Shihan remembered to change into his Snoopy watch, since we were "going out".
+I had _camarones rancheros_ at Casa Lupe and Shihan had _crispy tacos_. It was fantastic!!
+<br> Djokovic won the SF match against Dimitrov. He served phenomenally -- he did not miss a single first serve for the first 
+40 minutes of the match. <br> Final on Sunday. Looking forward to it.
+
+4PM: You must have reached New Delhi. How was immigration? When is your flight to Lucknow? Hope you are feeling ok.
+
+5PM: Shihan had a wonderful violin session. He is now complaining that a single hour is too short. I told him that if he feels
+the same way for a month then we can increase to 1.5 hours and do a bit less of SJSU coursework. Now looking forward to meeting
+Geneson at 6PM. Shihan made yet another mini-breakthrough in _G_ so all the more exciting. 
 
 ### Day 1: Thu Mar 27 (10 days to go)
 
