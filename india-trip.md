@@ -16,6 +16,9 @@ Shihan has been working on _G_ this morning. He took care of his Saturday mornin
 We will be ordering Chipotle burrito bowls for lunch. I'd say that qualifies as _healthy_, which means we haven’t had a single 
 unhealthy meal since she left us to fend for ourselves in the Palo Alto wilderness.
 
+Tennis: Jessica Pegula vs. Aryna Sabalenka in the Finals of the Miami Open Masters 1000! <br>
+Djokovic plays tomorrow in the Men's Final.
+
 Shihan is missing you. I'm not sure if you noticed, but he was overjoyed when you asked to speak with him. I doubt he will 
 even mind a Zoom call with your entire "real family" in attendance.
 
