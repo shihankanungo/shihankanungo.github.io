@@ -6,6 +6,19 @@ title: X
 
 ## Shenanigans
 
+### Day 3: Sat Mar 29 (8 days to go)
+
+Shihan has managed to get a meeting out of Arun to discuss finishing touches for _A_. They are meeting tomorrow (Sunday)
+at 6PM. Arun has said he is hoping to publish this in **Algebras and Representation Theory**, another Q1 journal.
+
+He has been working on _G_ this morning. Finished his Saturday morning chore of laundry.
+
+We will be ordering Chipotle burrito bowls for lunch. I think that qualifies as _healthy_, in which case we have had not a single 
+unhealthy meal since she left us in the Palo Alto wilderness to fend for ourselves. 
+
+Shihan is missing you. I don't know if you noticed, but he was overjoyed that you asked to speak with him. I don't think he will 
+even mind a Zoom call with your entire "real family" in attendance.
+
 ### Day 2: Fri Mar 28 (9 days to go)
 
 Today is going to be a bustling day. Mainly the two PRIMES-USA projects: "_A_" for Arun's and "_G_" for Geneson's. 
@@ -27,23 +40,3 @@ I had _camarones rancheros_ at Casa Lupe and Shihan had _crispy tacos_. It was f
 5PM: Shihan had a wonderful violin session. He is now complaining that a single hour is too short. I told him that if he feels
 the same way for a month then we can increase to 1.5 hours and do a bit less of SJSU coursework. Now looking forward to meeting
 Geneson at 6PM. Shihan made yet another mini-breakthrough in _G_ so all the more exciting. 
-
-### Day 1: Thu Mar 27 (10 days to go)
-
-Shihan is already bereft the moment we step inside the house, having dropped off his beloved mama at the airport. 
-A few minutes later, he recovers enough to pull off an inredibly virtuosic violin practice session. I am seriously w-o-w-e-d.
-
-It is 430PM: UAE226/EK226 is about to take off; landing 740PM PT at Dubai. 
-we are getting _chicken samosas_ from **Zareen's** as a snack. Might order pizza for dinner. Ended up getting _sweetgreen_ salads. 
-
-Shihan is **obsessed** with his watch!!
-
-630PM: finished dinner. shihan has brushed and changed and is now on his MPK Mini Plus. he is excited about sampling 
-Phoebe Bridger's cover of Metallica's _Nothing Else Matters_. \[ [Spotify](https://open.spotify.com/track/1guCON9841cQwAlbNplLsY?si=90152dbdb5b94e54) \]
-
-8PM: Put Shihan to bed. He spent his entire bedtime admiring his watch. No reading or music today :) 
-I will be watching tennis: Jessica Pegula plays Alex Eala, a teenager from Phillipines, in the SF of Miami Open. Earlier, Djokovic beat Korda to book
-a spot in the Semi Final. 
-
-1130PM: Going to bed. Pegula won! After the match I did some background reading on Shihan's PRIMES-USA project (the one with Arun). 
-His paper looks really good!!
