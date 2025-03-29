@@ -9,7 +9,7 @@ title: X
 ### Day 3: Sat Mar 29 (8 days to go)
 
 Shihan has managed to get a meeting out of Arun. They are meeting tomorrow (Sunday) at 6PM to discuss finishing touches for _A_. 
-<br> Arun is hoping have this published **Algebras and Representation Theory**, another Q1 journal.
+<br> Arun is hoping have this published in **Algebras and Representation Theory**, another Q1 journal.
 
 He has been working on _G_ this morning. Finished his Saturday morning chore of laundry.
 
