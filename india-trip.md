@@ -19,7 +19,7 @@ We will be ordering Chipotle burrito bowls for lunch. I'd say that qualifies as 
 unhealthy meal since she left us to fend for ourselves in the Palo Alto wilderness.
 
 Tennis: Jessica Pegula vs. Aryna Sabalenka in the Finals of the Miami Open Masters 1000! <br>
-Djokovic plays tomorrow in the Men's Final.
+Sabalenka won. Djokovic plays tomorrow in the Men's Final.
 
 1PM: Just got back from a very pleasant walk. The weather is incredible --- slight nip in the air, a gentle and crisp breeze, just
 enough sunlight to make it pleasing, like a warm shower and incredible conversation. We are so fortunate to be living in such a 
