@@ -21,6 +21,10 @@ unhealthy meal since she left us to fend for ourselves in the Palo Alto wilderne
 Tennis: Jessica Pegula vs. Aryna Sabalenka in the Finals of the Miami Open Masters 1000! <br>
 Djokovic plays tomorrow in the Men's Final.
 
+1PM: Just got back from a very pleasant walk. The weather is incredible --- slight nip in the air, a gentle and crisp breeze, just
+enough sunlight to make it pleasing, like a warm shower and incredible conversation. We are so fortunate to be living in such a 
+beautiful neighborhood. Shihan is practicing violin now. 
+
 Shihan is missing you. I'm not sure if you noticed, but he was overjoyed when you asked to speak with him. I doubt he will 
 even mind a Zoom call with your entire "real family" in attendance.
 
