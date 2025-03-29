@@ -11,12 +11,12 @@ title: X
 Shihan has managed to get a meeting out of Arun. They are meeting tomorrow (Sunday) at 6PM to discuss finishing touches for _A_. 
 <br> Arun is hoping have this published in **Algebras and Representation Theory**, another Q1 journal.
 
-He has been working on _G_ this morning. Finished his Saturday morning chore of laundry.
+Shihan has been working on _G_ this morning. He took care of his Saturday morning chore of laundry.
 
-We will be ordering Chipotle burrito bowls for lunch. I think that qualifies as _healthy_, in which case we have had not a single 
-unhealthy meal since she left us in the Palo Alto wilderness to fend for ourselves. 
+We will be ordering Chipotle burrito bowls for lunch. I'd say that qualifies as _healthy_, which means we haven’t had a single 
+unhealthy meal since she left us to fend for ourselves in the Palo Alto wilderness.
 
-Shihan is missing you. I don't know if you noticed, but he was overjoyed that you asked to speak with him. I don't think he will 
+Shihan is missing you. I'm not sure if you noticed, but he was overjoyed when you asked to speak with him. I doubt he will 
 even mind a Zoom call with your entire "real family" in attendance.
 
 ### Day 2: Fri Mar 28 (9 days to go)
