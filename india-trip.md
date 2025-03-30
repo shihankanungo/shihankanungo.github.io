@@ -28,6 +28,10 @@ Sabalenka won. Djokovic plays tomorrow in the Men's Final.
 enough sunlight to make it pleasing, like a warm shower and incredible conversation. We are so fortunate to be living in such a 
 beautiful neighborhood. Shihan is practicing violin now. 
 
+**UPDATE:** <br>
+5PM: The weather was so nice we went for a second walk. It was fantastic this time too!! <br>
+Shihan is cooking up some serious stuff on his MPK Mini Plus.
+
 Shihan is missing you. I'm not sure if you noticed, but he was overjoyed when you asked to speak with him. I doubt he will 
 even mind a Zoom call with your entire "real family" in attendance.
 
