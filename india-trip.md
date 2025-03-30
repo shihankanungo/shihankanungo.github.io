@@ -8,8 +8,6 @@ title: X
 
 <center><img src="images/kanungo-mar-2025.jpg" alt="Alt Text" width="300"></center>
 
-<center><p float="left"><img src="images/sk-1.jpg" alt="Alt Text" width="150"><img hspace="5"/><img src="images/sk-2.jpg" alt="Alt Text" width="150"><img hspace="5"/><img src="images/sk-3.jpg" alt="Alt Text" width="150"></p></center>
-
 ### Day 4: Sun Mar 30 (7 days to go)
 
 Men's Final of the Miami Open Masters 1000: Djokovic vs. Jakub Mensik at 12PM PT.
@@ -19,6 +17,8 @@ prefer your drinks hot, not cold.
 
 Shihan is planning to go to _Sun of Wolf_ and order _chilaquiles_ for brunch. Sadly, that means we won't be visiting
 _Olympus_. 
+
+<center><p float="left"><img src="images/sk-123.jpg" alt="Alt Text" width="4000"></p></center>
 
 Revision/edits on _A_ are in hectic and full swing since morning. Arun was working past midnight yesterday. They are planning
 a major overhaul of the organization of the paper, which improves the paper significantly. I am very happy that Arun finally has 
