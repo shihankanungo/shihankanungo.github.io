@@ -8,6 +8,8 @@ title: X
 
 <center><img src="images/kanungo-mar-2025.jpg" alt="Alt Text" width="300"></center>
 
+<center><img src="images/sk-1.jpg" alt="Alt Text" width="150"><img src="images/sk-2.jpg" alt="Alt Text" width="150"><img src="images/sk-3.jpg" alt="Alt Text" width="150"></center>
+
 ### Day 4: Sun Mar 30 (7 days to go)
 
 Men's Final of the Miami Open Masters 1000: Djokovic vs. Jakub Mensik at 12PM PT.
