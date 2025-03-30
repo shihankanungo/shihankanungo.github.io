@@ -30,7 +30,8 @@ beautiful neighborhood. Shihan is practicing violin now.
 
 **UPDATE:** <br>
 5PM: The weather was so nice we went for a second walk. It was fantastic this time too!! <br>
-Shihan is cooking up some serious stuff on his MPK Mini Plus.
+We decided to have a late dinner at 7PM but when it was 7 Shihan said he would rather skip dinner. He did his music instead.
+Shihan is cooking up some serious stuff on his MPK Mini Plus. 
 
 Shihan is missing you. I'm not sure if you noticed, but he was overjoyed when you asked to speak with him. I doubt he will 
 even mind a Zoom call with your entire "real family" in attendance.
