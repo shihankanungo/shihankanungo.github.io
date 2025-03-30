@@ -8,7 +8,7 @@ title: X
 
 <center><img src="images/kanungo-mar-2025.jpg" alt="Alt Text" width="300"></center>
 
-<center><p float="left"><img src="images/sk-1.jpg" alt="Alt Text" width="150"><img hspace="20"/><img src="images/sk-2.jpg" alt="Alt Text" width="150"><img hspace="20"/><img src="images/sk-3.jpg" alt="Alt Text" width="150"></p></center>
+<center><p float="left"><img src="images/sk-1.jpg" alt="Alt Text" width="150"><img hspace="5"/><img src="images/sk-2.jpg" alt="Alt Text" width="150"><img hspace="5"/><img src="images/sk-3.jpg" alt="Alt Text" width="150"></p></center>
 
 ### Day 4: Sun Mar 30 (7 days to go)
 
