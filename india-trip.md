@@ -6,7 +6,9 @@ title: X
 
 ## Shenanigans
 
-![shihan](images/kanungo-mar-2025.jpg)
+![shihan](images/kanungo-mar-2025.jpg) 
+
+<img src="images/kanungo-mar-2025.jpg" alt="Alt Text" width="300">
 
 ### Day 3: Sat Mar 29 (8 days to go)
 
