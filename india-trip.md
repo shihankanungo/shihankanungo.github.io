@@ -28,7 +28,7 @@ have liked to watch it with me, so I couldn't bring myself to watch it without y
 
 Right now obsessed with _Carsie Blanton_ ([YT playlist](https://music.youtube.com/playlist?list=PL6HQpYuOe1KXm15iel1h8rZCf0eWvL8P-&si=9YNGkXfj6Gn988Jl)) and _Kalie Shorr_ ([YT playlist](https://music.youtube.com/playlist?list=PL6HQpYuOe1KWqv28EcA8EAejIxaI8gdjg&si=iKKw7tontvssZABA)). <br>
 **Carsie Blanton** is a singer-songwriter from Virginia, ran off at 16 to Oregon, then decided to turn pro and moved to Philadelphia 
-but wound up in New Orleans. <br> 
+but wound up in New Orleans. Songs are catchy, quotable, clever, sometimes cute. <br> 
 **Kalie Shorr** is a singer-songwriter from Maine, based in Nashville. Songs have some country in them and are often brash and pointed. 
 Rocks harder than probably any Nashville ingenue since Miranda Lambert. 
 
