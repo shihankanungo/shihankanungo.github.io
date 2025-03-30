@@ -23,7 +23,7 @@ a major overhaul of the organization of the paper, which improves the paper sign
 found some time to devote to this project. I am hopeful that this time the target deadline will be met and in fact, a much
 improved paper will come out of it. 
 
-I watched a movie last night: _The Trap+. It was not good. Actually, intended to watch _Beginners_(2011) but felt that you'd
+I watched a movie last night: _The Trap_. It was not good. Actually, intended to watch _Beginners_(2011) but felt that you'd
 have liked to watch it with me, so I couldn't bring myself to watch it without you. 
 
 Shihan doodled on the guitar during his pre-bedtime.
