@@ -18,7 +18,7 @@ prefer your drinks hot, not cold.
 Shihan is planning to go to _Sun of Wolf_ and order _chilaquiles_ for brunch. Sadly, that means we won't be visiting
 _Olympus_. 
 
-<center><p float="left"><img src="images/sk-123.jpg" alt="Alt Text" width="4000"></p></center>
+<center><p float="left"><img src="images/sk-123.jpg" alt="Alt Text" width="400"></p></center>
 
 Revision/edits on _A_ are in hectic and full swing since morning. Arun was working past midnight yesterday. They are planning
 a major overhaul of the organization of the paper, which improves the paper significantly. I am very happy that Arun finally has 
