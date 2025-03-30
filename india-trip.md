@@ -26,7 +26,7 @@ improved paper will come out of it.
 I watched a movie last night: _The Trap_. It was not good. Actually, intended to watch _Beginners_(2011) but felt that you'd
 have liked to watch it with me, so I couldn't bring myself to watch it without you. 
 
-Shihan doodled on the guitar during his pre-bedtime.
+Shihan doodled on the guitar during his pre-bedtime. He is missing you --- seems particularly bereft at bedtime.
 
 
 
