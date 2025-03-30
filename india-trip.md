@@ -12,6 +12,22 @@ title: X
 
 Men's Final of the Miami Open Masters 1000: Djokovic vs. Jakub Mensik.
 
+I have been ordering iced coffee from Philz since you left. I like it and also, less memories attached to it, since you
+prefer your drinks hot, not cold. 
+
+Shihan is planning to go to _Sun of Wolf_ and order _chilaquiles_ for brunch. Sadly, that means we won't be visiting
+_Olympus_. 
+
+Revision/edits on _A_ are in hectic and full swing since morning. Arun was working past midnight yesterday. They are planning
+a major overhaul of the organization of the paper, which improves the paper significantly. I am very happy that Arun finally has 
+found some time to devote to this project. I am hopeful that this time the target deadline will be met and in fact, a much
+improved paper will come out of it. 
+
+I watched a movie last night: _The Trap+. It was not good. Actually, intended to watch _Beginners_(2011) but felt that you'd
+have liked to watch it with me, so I couldn't bring myself to watch it without you. 
+
+Shihan doodled on the guitar during his pre-bedtime.
+
 
 
 ### Day 3: Sat Mar 29 (8 days to go)
