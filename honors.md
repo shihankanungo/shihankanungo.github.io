@@ -8,8 +8,8 @@ title: Honors and Awards
 - **The 85th Putnam Mathematical Competition.** *Honorable mention*, rank 58. 2024
 - **USAPhO (USA Physics Olympiad, AAPT)**. *U.S. Physics Team Training Camp*. 2024
 - **S.-T. Yau High School Science Award**. *USA Bronze Medalist in Mathematics*. 2024
-- **WSS**. World Science Scholar. 2024
-- **The Spirit of Ramanujan STEM Talent Initiative**. Spirit of Ramanujan Fellow. 2023
+- **WSS**. *World Science Scholar*. 2024
+- **The Spirit of Ramanujan STEM Talent Initiative**. *Spirit of Ramanujan Fellow*. 2023
 - **MIT PRIMES-USA (PRIMES: Program for Research in Mathematics, Engineering and Science for High School Students)**. *Researcher*. 2023, 2024, 2025
   - Combinatorics. *Saturation Problems for Sequences*. 2025
   - Representation Theory. *Representations of Twisted Yangians in Complex Rank*. 2024
@@ -18,7 +18,7 @@ title: Honors and Awards
 - **USAMTS (USA Mathematical Talent Search)**. *2-time Gold medal* and *highest scorer*
   - Year 36: 75/75 (2024-'25), Year 34: 74/75 (2022-'23)
 - **USAMO (USA Mathematical Olympiad)**. 2022, 2025
-- **AIME (American Invitational Mathematics Examination)**. _6-time qualifier_ 2020--'25.
+- **AIME (American Invitational Mathematics Examination)**. *6-time qualifier* 2020--'25.
   - Highlights 13/15 (2025), 11/15 (2022, 2024)
 - **Math Kangaroo, Level 12**. *4th in USA*. 2022
 
