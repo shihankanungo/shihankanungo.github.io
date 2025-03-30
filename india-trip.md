@@ -10,7 +10,7 @@ title: X
 
 ### Day 4: Sun Mar 30 (7 days to go)
 
-Men's Final of the Miami Open Masters 1000: Djokovic vs. Jakub Mensik.
+Men's Final of the Miami Open Masters 1000: Djokovic vs. Jakub Mensik at 12PM PT.
 
 I have been ordering iced coffee from Philz since you left. I like it and also, less memories attached to it, since you
 prefer your drinks hot, not cold. 
@@ -25,6 +25,12 @@ improved paper will come out of it.
 
 I watched a movie last night: _The Trap_. It was not good. Actually, intended to watch _Beginners_(2011) but felt that you'd
 have liked to watch it with me, so I couldn't bring myself to watch it without you. 
+
+Right now obsessed with _Carsie Blanton_ ([YT playlist](https://music.youtube.com/playlist?list=PL6HQpYuOe1KXm15iel1h8rZCf0eWvL8P-&si=9YNGkXfj6Gn988Jl)) and _Kalie Shorr_ ([YT playlist](https://music.youtube.com/playlist?list=PL6HQpYuOe1KWqv28EcA8EAejIxaI8gdjg&si=iKKw7tontvssZABA)). <br>
+**Carsie Blanton** is a singer-songwriter from Virginia, ran off at 16 to Oregon, then decided to turn pro and moved to Philadelphia 
+but wound up in New Orleans. <br> 
+**Kalie Shorr** is a singer-songwriter from Maine, based in Nashville. Songs have some country in them and are often brash and pointed. 
+Rocks harder than probably any Nashville ingenue since Miranda Lambert. 
 
 Shihan doodled on the guitar during his pre-bedtime. He is missing you --- seems particularly bereft at bedtime.
 
