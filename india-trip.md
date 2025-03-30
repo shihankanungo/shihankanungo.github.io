@@ -13,7 +13,7 @@ title: X
 Shihan has managed to get a meeting out of Arun. They are meeting tomorrow (Sunday) at 6PM to discuss finishing touches for _A_. 
 <br> Arun is hoping have this published in **Algebras and Representation Theory**, another Q1 journal.
 
-**UPDATE:** Shihan has been pulling hostage-negotiation-shenanigans on Arun. Arun tried valiantly to wiggle out but Shihan
+**UPDATE:** Shihan has been pulling hostage-negotiation-shihanigans on Arun. Arun tried valiantly to wiggle out but Shihan
 ruthlessly cornered him into yielding a deadline. Arun finally offered to get the paper ready by Apr 7. This is a HUGE win. 
 
 Shihan has been working on _G_ this morning. He took care of his Saturday morning chore of laundry.
