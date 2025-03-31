@@ -8,6 +8,17 @@ title: X
 
 <center><img src="images/kanungo-mar-2025.jpg" alt="Alt Text" width="300"></center>
 
+### Day 5: Mon Mar 31 (6 days to go)
+
+How was Eid? What was on the menu?
+
+Shihan has his violin lesson with Mr. Law. Then after, I will take him to Stanford for a talk on Probability.
+
+SJSU is on hiatus --- this week is spring break.
+
+Arun has made significant progress on the rewrite. Shihan is also picking up the mantle. 
+
+
 ### Day 4: Sun Mar 30 (7 days to go)
 
 Men’s Final of the Miami Open Masters 1000: Djokovic vs. Jakub Mensik at 12PM PT. 
@@ -42,32 +53,3 @@ Exciting development: My copy of *James* has arrived. Great things ahead.
 The weather continues to be absurdly delightful. Another two walks today--at this rate, we’ll become professional strollers. 
 
 Shihan, in his pre-bedtime melancholy, strummed the guitar absentmindedly. Seems to miss you a lot -- especially at night. The bedtime blues are real.
-
-
-### Day 3: Sat Mar 29 (8 days to go)
-
-Shihan has managed to get a meeting out of Arun. They are meeting tomorrow (Sunday) at 6PM to discuss finishing touches for _A_. 
-<br> Arun is hoping have this published in **Algebras and Representation Theory**, another Q1 journal.
-
-**UPDATE:** Shihan has been pulling hostage-negotiation-shihanigans on Arun. Arun tried valiantly to wiggle out but Shihan
-ruthlessly cornered him into yielding a deadline. Arun finally offered to get the paper ready by Apr 7. This is a HUGE win. 
-
-Shihan has been working on _G_ this morning. He took care of his Saturday morning chore of laundry.
-
-We will be ordering Chipotle burrito bowls for lunch. I'd say that qualifies as _healthy_, which means we haven’t had a single 
-unhealthy meal since she left us to fend for ourselves in the Palo Alto wilderness.
-
-Tennis: Jessica Pegula vs. Aryna Sabalenka in the Finals of the Miami Open Masters 1000! <br>
-Sabalenka won. Djokovic plays tomorrow in the Men's Final.
-
-1PM: Just got back from a very pleasant walk. The weather is incredible --- slight nip in the air, a gentle and crisp breeze, just
-enough sunlight to make it pleasing, like a warm shower and incredible conversation. We are so fortunate to be living in such a 
-beautiful neighborhood. Shihan is practicing violin now. 
-
-**UPDATE:** <br>
-5PM: The weather was so nice we went for a second walk. It was fantastic this time too!! <br>
-We decided to have a late dinner at 7PM but when it was 7 Shihan said he would rather skip dinner. He did his music instead.
-Shihan is cooking up some serious stuff on his MPK Mini Plus. 
-
-Shihan is missing you. I'm not sure if you noticed, but he was overjoyed when you asked to speak with him. I doubt he will 
-even mind a Zoom call with your entire "real family" in attendance.
