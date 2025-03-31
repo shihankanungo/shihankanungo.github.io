@@ -34,8 +34,8 @@ Watched a movie last night: *The Trap.* It was bad. Like, “why did I do this t
 but then I realized you’d want to watch it with me, and I simply couldn’t betray our sacred movie pact.
 
 Current musical obsessions:  
-- **Carsie Blanton** ([YT playlist](https://music.youtube.com/playlist?list=PL6HQpYuOe1KXm15iel1h8rZCf0eWvL8P-&si=9YNGkXfj6Gn988Jl)) –-- Virginia-born, fled to Oregon at 16, turned pro, tried Philly, landed in New Orleans. Songs are catchy, quotable, clever, sometimes cute.  <br>
-- **Kalie Shorr** ([YT playlist](https://music.youtube.com/playlist?list=PL6HQpYuOe1KWqv28EcA8EAejIxaI8gdjg&si=iKKw7tontvssZABA)) –-- Maine native, now in Nashville. Country-tinged but brash, loud, and probably rocks harder than any Nashville ingenue since Miranda Lambert.
+- **Carsie Blanton** \[ [YT](https://music.youtube.com/playlist?list=PL6HQpYuOe1KXm15iel1h8rZCf0eWvL8P-&si=9YNGkXfj6Gn988Jl) \] –-- Virginia-born, fled to Oregon at 16, turned pro, tried Philly, landed in New Orleans. Songs are catchy, quotable, clever, sometimes cute.  <br>
+- **Kalie Shorr** \[ [YT](https://music.youtube.com/playlist?list=PL6HQpYuOe1KWqv28EcA8EAejIxaI8gdjg&si=iKKw7tontvssZABA) \] –-- Maine native, now in Nashville. Country-tinged but brash, loud, and probably rocks harder than any Nashville ingenue since Miranda Lambert.
 
 Exciting development: My copy of *James* has arrived. Great things ahead.
 
