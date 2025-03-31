@@ -21,6 +21,10 @@ Shihan is planning to go to _Sun of Wolf_ and order _chilaquiles_ for brunch.
 
 Sadly, that means we won't be visiting _Olympus_. 
 
+After lunch at _Sun of Wolf_, Shihan wanted to sample the Farmer's Market. I gave him $5 to spend as he wanted. He bought 4 sticks
+of honey for $1 and then a _Black Forest_ pastry, for which he had to beg me for $6 more, but in return, offered to share the pastry 
+with me. He is becoming quite worldly-wise!!
+
 Revision/edits on _A_ are in hectic and full swing since morning. Arun was working past midnight yesterday. They are planning
 a major overhaul of the organization of the paper, which improves the paper significantly. I am very happy that Arun finally has 
 found some time to devote to this project. I am hopeful that this time the target deadline will be met and in fact, a much
@@ -35,6 +39,10 @@ and _Kalie Shorr_ ([YT playlist](https://music.youtube.com/playlist?list=PL6HQpY
 but wound up in New Orleans. Songs are catchy, quotable, clever, sometimes cute. <br> 
 **Kalie Shorr** is a singer-songwriter from Maine, based in Nashville. Songs have some country in them and are often brash and pointed. 
 Rocks harder than probably any Nashville ingenue since Miranda Lambert. 
+
+My copy of _James_ has arrived in the mail. Looking forward to reading it. 
+
+The run of awesome weather continues. We again went out twice walking. 
 
 Shihan doodled on the guitar during his pre-bedtime. He is missing you --- seems particularly bereft at bedtime.
 
