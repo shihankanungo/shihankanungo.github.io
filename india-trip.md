@@ -10,42 +10,38 @@ title: X
 
 ### Day 4: Sun Mar 30 (7 days to go)
 
-Men's Final of the Miami Open Masters 1000: Djokovic vs. Jakub Mensik at 12PM PT.
+Men’s Final of the Miami Open Masters 1000: Djokovic vs. Jakub Mensik at 12PM PT. 
+The battle of the ages vs. the fresh-faced upstart --- tennis or an HBO drama? You decide.
 
-I have been ordering iced coffee from Philz since you left. I like it and also, less memories attached to it, since you
-prefer your drinks hot, not cold. 
+I’ve been ordering iced coffee from Philz ever since you left. It’s pretty good, and also, no memories attached --- 
+since you have always preferred your drinks hot, not cold. 
 
-Shihan is planning to go to _Sun of Wolf_ and order _chilaquiles_ for brunch. 
+Shihan is plotting a brunch heist at _Sun of Wolf_, targeting the _chilaquiles_. 
 
 <center><p float="left"><img src="images/sk-123.png" alt="Alt Text" width="500"></p></center>
 
-Sadly, that means we won't be visiting _Olympus_. 
+Tragically, this means we won't be visiting _Olympus_. 
 
-After lunch at _Sun of Wolf_, Shihan wanted to sample the Farmer's Market. I gave him $5 to spend as he wanted. He bought 4 sticks
-of honey for $1 and then a _Black Forest_ pastry, for which he had to beg me for $6 more, but in return, offered to share the pastry 
-with me. He is becoming quite worldly-wise!!
+Post-brunch, Shihan expressed a desire to "_experience the Farmer’s Market_." I magnanimously gave him $5 for this cultural expedition. 
+He acquired 4 sticks of honey for $1 (an absolute steal) but then, in an unforeseen twist, begged me for an additional $6 to secure a 
+_Black Forest_ pastry. As a shrewd negotiator, he offered to share in return. The boy is rapidly evolving into a seasoned dealmaker.  
 
-Revision/edits on _A_ are in hectic and full swing since morning. Arun was working past midnight yesterday. They are planning
-a major overhaul of the organization of the paper, which improves the paper significantly. I am very happy that Arun finally has 
-found some time to devote to this project. I am hopeful that this time the target deadline will be met and in fact, a much
-improved paper will come out of it. 
+Meanwhile, on Planet _A_ (read Project _A_), revision madness is at full throttle. Arun was burning the midnight oil (possibly the 3AM oil). 
+A major structural overhaul is underway, making the paper infinitely better. I’m thrilled that Arun has found the time to wrestle this 
+beast into shape, and dare I say, the deadline might actually be met. The paper itself will also be significantly improved.
 
-I watched a movie last night: _The Trap_. It was not good. Actually, intended to watch _Beginners_(2011) but felt that you'd
-have liked to watch it with me, so I couldn't bring myself to watch it without you. 
+Watched a movie last night: *The Trap.* It was bad. Like, “why did I do this to myself” bad. Originally planned to watch *Beginners* (2011), 
+but then I realized you’d want to watch it with me, and I simply couldn’t betray our sacred movie pact.
 
-Right now obsessed with _Carsie Blanton_ ([YT playlist](https://music.youtube.com/playlist?list=PL6HQpYuOe1KXm15iel1h8rZCf0eWvL8P-&si=9YNGkXfj6Gn988Jl)) 
-and _Kalie Shorr_ ([YT playlist](https://music.youtube.com/playlist?list=PL6HQpYuOe1KWqv28EcA8EAejIxaI8gdjg&si=iKKw7tontvssZABA)). <br>
-**Carsie Blanton** is a singer-songwriter from Virginia, ran off at 16 to Oregon, then decided to turn pro and moved to Philadelphia 
-but wound up in New Orleans. Songs are catchy, quotable, clever, sometimes cute. <br> 
-**Kalie Shorr** is a singer-songwriter from Maine, based in Nashville. Songs have some country in them and are often brash and pointed. 
-Rocks harder than probably any Nashville ingenue since Miranda Lambert. 
+Current musical obsessions:  
+- **Carsie Blanton** ([YT playlist](https://music.youtube.com/playlist?list=PL6HQpYuOe1KXm15iel1h8rZCf0eWvL8P-&si=9YNGkXfj6Gn988Jl)) –-- Virginia-born, fled to Oregon at 16, turned pro, tried Philly, landed in New Orleans. Songs are catchy, quotable, clever, sometimes cute.  <br>
+- **Kalie Shorr** ([YT playlist](https://music.youtube.com/playlist?list=PL6HQpYuOe1KWqv28EcA8EAejIxaI8gdjg&si=iKKw7tontvssZABA)) –-- Maine native, now in Nashville. Country-tinged but brash, loud, and probably rocks harder than any Nashville ingenue since Miranda Lambert.
 
-My copy of _James_ has arrived in the mail. Looking forward to reading it. 
+Exciting development: My copy of *James* has arrived. Great things ahead.
 
-The run of awesome weather continues. We again went out twice walking. 
+The weather continues to be absurdly delightful. Another two walks today--at this rate, we’ll become professional strollers. 
 
-Shihan doodled on the guitar during his pre-bedtime. He is missing you --- seems particularly bereft at bedtime.
-
+Shihan, in his pre-bedtime melancholy, strummed the guitar absentmindedly. Seems to miss you a lot -- especially at night. The bedtime blues are real.
 
 
 ### Day 3: Sat Mar 29 (8 days to go)
