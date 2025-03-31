@@ -19,7 +19,7 @@ Shihan is planning to go to _Sun of Wolf_ and order _chilaquiles_ for brunch.
 
 <center><p float="left"><img src="images/sk-123.png" alt="Alt Text" width="500"></p></center>
 
-<center><p float="left"><img src="images/sk-1.jpg" alt="Alt Text" width="150"><img hspace="1"/>img src="images/sk-2.jpg" alt="Alt Text" width="150"><img hspace="1"/>img src="images/sk-3.jpg" alt="Alt Text" width="150"></p></center>
+<center><p float="left"><img src="images/sk-1.jpg" alt="Alt Text" width="150"><img hspace="1"/><img src="images/sk-2.jpg" alt="Alt Text" width="150"><img hspace="1"/><img src="images/sk-3.jpg" alt="Alt Text" width="150"></p></center>
 
 Sadly, that means we won't be visiting _Olympus_. 
 
