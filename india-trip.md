@@ -17,7 +17,7 @@ Big news: The "silver tube" from MIT arrived!
 <center><img src="images/sk-apr-2025.jpg" alt="Alt Text" width="200"></center>
 
 Inside? An offer of admission, a fancy certificate that screams "frame me", and, of course, some confetti (because MIT knows how to party). 
-Also included: a sticker, which, in a move of great decisiveness, was instantly slapped onto the Chromebook. No hesitation there. Pure instinct. 
+Also included: a sticker, which, in a move of great decisiveness, was instantly slapped onto the Chromebook---no hesitation there, pure instinct. 
 There was also a poster, presumably to remind us all that MIT is, in fact, MIT.
 
 Shihan is back in ISL _grind mode_. Four hours today. The boy is locked in. But, alas, he is starved of celestial encouragement---he misses your stars. :(
