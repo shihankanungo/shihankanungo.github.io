@@ -10,18 +10,24 @@ title: X
 
 ### Day 6: Tue Apr 1 (5 days to go)
 
-It again rained today --- Shihan might have been right after all, about not needing to water mama's plants. 
+It again rained today --- Shihan may have been onto something with his “let nature do the work” strategy. A true visionary.
 
-Shihan got "the silver tube" from MIT in the mail today. 
+Big news: The "silver tube" from MIT arrived! 
 
 <center><img src="images/sk-apr-2025.jpg" alt="Alt Text" width="200"></center>
 
-It has the offer of admission and a very nice certificate/plaque that can be framed and put in
-his study if you wish. It also had confetti, a sticker (which was immediately planted on the chromebook) and a poster. 
+Inside? An offer of admission, a fancy certificate that screams "frame me", and, of course, some confetti (because MIT knows how to party). 
+Also included: a sticker, which, in a move of great decisiveness, was instantly slapped onto the Chromebook. No hesitation there. Pure instinct. 
+There was also a poster, presumably to remind us all that MIT is, in fact, MIT.
 
-Shihan has resumed ISL prep. He did 4 hours today. He is missing your stars :(
+Shihan is back in ISL _grind mode_. Four hours today. The boy is locked in. But, alas, he is starved of celestial encouragement---he misses your stars. :(
 
-We went for a walk after lunch. It was nice. We talked about life. Also about Kanye West, and Eminem, and Gracie.
+Post-lunch, we took a walk. It was peaceful. We pondered the mysteries of life. Also of Kanye West, and Eminem, and Gracie. A well-rounded discussion.
+
+130PM: It is still raining. Shihan has assumed his philosopher-in-the-window pose, perched on the living room sill, allegedly working on PRIMES project _G_. 
+He requested tea, to which I complied. Now, he sips his mint-ginger chai with an air of deep contemplation. Progress on _G_? Unclear. But the tea? 10/10.
+
+Stay tuned for further developments.
 
 ### Day 5: Mon Mar 31 (6 days to go)
 
