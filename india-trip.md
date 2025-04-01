@@ -10,7 +10,7 @@ title: X
 
 ### Day 6: Tue Apr 1 (5 days to go)
 
-It again rained today --- Shihan may have been onto something with his “let nature do the work” strategy. A true visionary.
+It again rained today --- Shihan may have been onto something with his “let nature do the work” strategy re. the watering of mama's plants. A true visionary!
 
 Big news: The "silver tube" from MIT arrived! 
 
