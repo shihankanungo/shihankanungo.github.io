@@ -10,13 +10,19 @@ title: X
 
 ### Day 5: Mon Mar 31 (6 days to go)
 
-How was Eid? What was on the menu?
+How was Eid? What was on the menu? <br> 
+In our neck of the woods, it is today. We are getting _chicken biryani_ from Ettan. I don't know if any place has good sewain, so just gonna skip that. 
 
-Shihan has his violin lesson with Mr. Law. Then after, I will take him to Stanford for a talk on Probability.
+It rained today --- not monsoon yet, but enough for Shihan to confidently declare that he doesn't have to water Mama’s plants anymore. Seems a bold 
+conclusion, and also entirely incorrect. 
+
+Shihan had his violin lesson with Mr. Law. He got 8.9. He seemed a bit disappointed, but maintained that Mr. Law was unusually happy with his playing today.
+After that, I took Shihan to a talk on Probability at Stanford. The biggest probability lesson of the evening? If you drag a kid to a math talk, the probability 
+of them getting hungry immediately afterward is 100%. So, I ordered momos from _Everest Cuisine_, and oh boy --- those dumplings did **not** disappoint.
 
 SJSU is on hiatus --- this week is spring break.
 
-Arun has made significant progress on the rewrite. Shihan is also picking up the mantle. 
+Arun is _crushing_ the rewrite. Shihan is also picking up the mantle --- seems to think the paper will be ready before the weekend. 
 
 
 ### Day 4: Sun Mar 30 (7 days to go)
