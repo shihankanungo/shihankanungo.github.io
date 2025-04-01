@@ -12,7 +12,7 @@ title: X
 
 It again rained today --- Shihan may have been onto something with his “let nature do the work” strategy re. the watering of mama's plants. A true visionary!
 
-Big news: The "silver tube" from MIT arrived! 
+Big news: The "silver tube" from MIT arrived in the mail today! 
 
 <center><img src="images/sk-apr-2025.jpg" alt="Alt Text" width="200"></center>
 
