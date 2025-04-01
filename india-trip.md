@@ -10,6 +10,10 @@ title: X
 
 ### Day 6: Tue Apr 1 (5 days to go)
 
+> April Fool's Day! Here’s an interesting fact: In 1957, the **BBC pulled one of the most famous April Fool’s Day pranks** by airing a segment about the 
+**Swiss Spaghetti Harvest.** The program showed Swiss farmers picking spaghetti from trees, claiming that a mild winter had led to a bumper crop. Viewers 
+actually called in, asking how they could grow their own spaghetti trees! 🍝😂
+
 It again rained today --- Shihan may have been onto something with his “let nature do the work” strategy re. the watering of mama's plants. A true visionary!
 
 Big news: The "silver tube" from MIT arrived in the mail today! 
