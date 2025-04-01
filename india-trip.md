@@ -22,7 +22,10 @@ There was also a goofy-nerdy-scifi poster, presumably to remind us all that MIT 
 
 Shihan is back in ISL _grind mode_. Four hours today. The boy is locked in. But, alas, he is starved of celestial encouragement---he misses your stars. :(
 
-Post-lunch, we took a walk. It was peaceful. We pondered the mysteries of life. Also of Kanye West, and Eminem, and Gracie. A well-rounded discussion.
+We ordered fish and rice for lunch today, from _Da Sichuan Bistro_. Perhaps a smidgen of extra salt in the fish, but otherwise quite tasty and healthy.
+
+Post-lunch, we took a walk. It was peaceful. We pondered the mysteries of life. Also of Kanye West, and Eminem, and Gracie. A well-rounded discussion. 
+We could feel a few drops of rain as we got back home.
 
 130PM: It is still raining. Shihan has assumed his philosopher-in-the-window pose, perched on the living room sill, allegedly working on PRIMES project _G_. 
 He requested tea, to which I complied. Now, he sips his mint-ginger chai with an air of deep contemplation. Progress on _G_? Unclear. But the tea? 10/10.
