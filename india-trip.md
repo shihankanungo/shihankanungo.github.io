@@ -12,7 +12,11 @@ title: X
 
 It again rained today --- Shihan might have been right after all, about not needing to water mama's plants. 
 
-Shihan got "the silver tube" from MIT in the mail today. It has the offer of admission and a very nice certificate/plaque that can be framed and put in
+Shihan got "the silver tube" from MIT in the mail today. 
+
+<center><img src="images/sk-apr-2025.jpg" alt="Alt Text" width="200"></center>
+
+It has the offer of admission and a very nice certificate/plaque that can be framed and put in
 his study if you wish. It also had confetti, a sticker (which was immediately planted on the chromebook) and a poster. 
 
 Shihan has resumed ISL prep. He did 4 hours today. He is missing your stars :(
