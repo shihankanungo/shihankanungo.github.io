@@ -34,6 +34,8 @@ We could feel a few drops of rain as we got back home.
 130PM: It is still raining. Shihan has assumed his philosopher-in-the-window pose, perched on the living room sill, allegedly working on PRIMES project _G_. 
 He requested tea, to which I complied. Now, he sips his mint-ginger chai with an air of deep contemplation. Progress on _G_? Unclear. But the tea? 10/10.
 
+We miss you like an idiot misses the point---pretty much all the time. 😆
+
 Stay tuned for further developments.
 
 ### Day 5: Mon Mar 31 (6 days to go)
