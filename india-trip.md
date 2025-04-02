@@ -8,6 +8,14 @@ title: X
 
 <center><img src="images/kanungo-mar-2025.jpg" alt="Alt Text" width="300"></center>
 
+### Day 7: Wed Apr 2 (4 days to go)
+
+> Spring is in the air ... wait, no, it's just pollen.
+
+My allergies have been acting up big time. Lots of sneezing, sniffling, and irritation in the eyes. 😧 ☹️ 😬
+
+Thank you so much 😚 for the UNIQLO shirts.
+
 ### Day 6: Tue Apr 1 (5 days to go)
 
 > **April Fool's Day!** <br> Here’s an interesting fact: In 1957, the **BBC pulled one of the most famous April Fool’s Day pranks** by airing a segment about the 
@@ -36,21 +44,4 @@ He requested tea, to which I complied. Now, he sips his mint-ginger chai with an
 
 We miss you like an idiot misses the point---pretty much all the time. 😆
 
-Stay tuned for further developments.
-
-### Day 5: Mon Mar 31 (6 days to go)
-
-How was Eid? What was on the menu? <br> 
-In our neck of the woods, it is today. We are getting _chicken biryani_ from Ettan. I don't know if any place has good sewain, so just gonna skip that. 
-
-It rained today --- not monsoon yet, but enough for Shihan to confidently declare that he doesn't have to water Mama’s plants anymore. Seems a bold 
-conclusion, and also entirely incorrect. 
-
-Shihan had his violin lesson with Mr. Law. He got 8.9. He seemed a bit disappointed, but maintained that Mr. Law was unusually happy with his playing today.
-After that, I took Shihan to a talk on Probability at Stanford. The biggest probability lesson of the evening? If you drag a kid to a math talk, the probability 
-of them getting hungry immediately afterward is 100%. So, I ordered momos from _Everest Cuisine_, and oh boy --- those dumplings did **not** disappoint.
-
-SJSU is on hiatus --- this week is spring break.
-
-Arun is _crushing_ the rewrite. Shihan is also picking up the mantle --- seems to think the paper will be ready before the weekend. 
-
+Stay tuned for further updates.
