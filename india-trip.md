@@ -12,9 +12,25 @@ title: X
 
 > Spring is in the air ... wait, no, it's just pollen.
 
-My allergies have been acting up big time. Lots of sneezing, sniffling, and irritation in the eyes. 😧 ☹️ 😬
+My allergies are in full rebellion --- I am sneezing like a malfunctioning sprinkler, sniffling like a sad movie character, and my eyes? 
+Let’s just say they’ve gone full "red-eyed Sith Lord" mode.  😧 ☹️ 😬
 
-Thank you so much 😚 for the UNIQLO shirts.
+Thank you so much 😚 for the UNIQLO shirts. I can sneeze into them in style. 
+
+I finally replaced our rainbow-colored cutting mats. The old ones had seen too much---battle scars, exhaustion, probably some existential crises. 
+The new ones arrived today, looking all fresh and vibrant, so I did what had to be done: tossed the old ones into a well-earned retirement.
+
+Started reading _James_ at last! It's a fun ride so far. Have you already finished it? If so, I expect a full book club analysis, preferably with 
+dramatic reenactments.
+
+Meanwhile, Shihan has been grinding ISL. Today’s highlight though? A lengthy discussion (read: lecture) on violin lessons. Honestly, I feel like 
+he does not have any aspirations from it and is just going through the motions; and if that’s the case, I’m ready to cut the cord. Told him he 
+needs to convince me why we should keep investing time and money in this. Debate scheduled for June 1. Also, if his scores keep tanking, that 
+deadline might get ... expedited.
+
+Went for a lovely walk today---perfect weather, good company, and deep discussions about the truly important things in life: tennis and soccer 
+and such. 
+
 
 ### Day 6: Tue Apr 1 (5 days to go)
 
