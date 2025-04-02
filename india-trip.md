@@ -25,7 +25,7 @@ dramatic reenactments.
 
 Meanwhile, Shihan has been grinding ISL. Today’s highlight though? A lengthy discussion (read: lecture) on violin lessons. Honestly, I feel like 
 he does not have any aspirations from it and is just going through the motions; and if that’s the case, I’m ready to cut the cord. Told him he 
-needs to convince me why we should keep investing time and money in this. Debate scheduled for June 1. Also, if his scores keep tanking, that 
+needs to convince me why we should keep investing time and money into this. Debate scheduled for June 1. Also, if his scores keep tanking, that 
 deadline might get ... expedited.
 
 Went for a lovely walk today---perfect weather, good company, and deep discussions about the truly important things in life: tennis and soccer 
