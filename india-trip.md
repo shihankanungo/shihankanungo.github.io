@@ -20,7 +20,12 @@ Thank you so much 😚 for the UNIQLO shirts. I can sneeze into them in style.
 I finally replaced our rainbow-colored cutting mats. The old ones had seen too much---battle scars, exhaustion, probably some existential crises. 
 The new ones arrived today, looking all fresh and vibrant, so I did what had to be done: tossed the old ones into a well-earned retirement.
 
-Started reading _James_ at last! It's a fun ride so far. Have you already finished it? If so, I expect a full book club analysis, preferably with 
+Started reading _James_ at last! 
+
+> "Way I sees it is dis. If'n ya gots to hab a rule to tells ya wha's good, if'n ya gots to hab good 'splained to ya, den ya cain't be good.
+If’n ya need sum kinda God to tells ya right from wrong, den you won't never know." --- Percival Everett, James
+
+It's a fun ride so far. Have you already finished it? If so, I expect a full book club analysis, preferably with 
 dramatic reenactments.
 
 Meanwhile, Shihan has been grinding ISL. Today’s highlight though? A lengthy discussion (read: lecture) on violin lessons. Honestly, I feel like 
