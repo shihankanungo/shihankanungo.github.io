@@ -10,7 +10,7 @@ title: X
 
 ### Day 8: Thu Apr 3 (3 days to go)
 
-
+> “Fiction is the lie through which we tell the truth.” --- Albert Camus
 
 ### Day 7: Wed Apr 2 (4 days to go)
 
