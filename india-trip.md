@@ -12,6 +12,10 @@ title: X
 
 > “Fiction is the lie through which we tell the truth.” --- Albert Camus
 
+> "Stories you read when you're the right age never quite leave you. You may forget who wrote them or what the story was called.
+Sometimes you'll forget precisely what happened, but if a story touches you it will stay with you, haunting the places in your mind
+that you rarely ever visit." <br> --- Neil Gaiman, M Is for Magic
+
 ### Day 7: Wed Apr 2 (4 days to go)
 
 > Spring is in the air ... wait, no, it's just pollen.
