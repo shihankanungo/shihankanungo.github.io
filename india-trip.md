@@ -15,6 +15,8 @@ title: X
 My allergies are in full rebellion --- I am sneezing like a malfunctioning sprinkler, sniffling like a sad movie character, and my eyes? 
 Let’s just say they’ve gone full "red-eyed Sith Lord" mode.  😧 ☹️ 😬
 
+<center><img src="images/gmd.png" alt="Alt Text" width="200"></center>
+
 Thank you so much 😚 for the UNIQLO shirts. I can sneeze into them in style. 
 
 I finally replaced our rainbow-colored cutting mats. The old ones had seen too much---battle scars, exhaustion, probably some existential crises. 
