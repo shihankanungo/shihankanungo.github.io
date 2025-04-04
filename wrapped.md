@@ -62,6 +62,7 @@ title: Wrapped (2025)
 - *Jonathan Livingston Seagull* by Richard Bach. 1970
 - *Remains of the Day* by Kazuo Ishiguro. 1989
 - *Never Let Me Go* by Kazuo Ishiguro. 2005
+- *Klara and the Sun* by Kazuo Ishiguro. 2021
 - *A Sense of Where You Are: Bill Bradley at Princeton* by John McPhee. 1965
 - *Oranges* by John McPhee. 1967
 - *A People's History of the United States* by Howard Zinn. 1980
