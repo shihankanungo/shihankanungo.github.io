@@ -14,10 +14,7 @@ title: X
 
 Watched _The Order_ last night. 
 
-> **The Order** is a 2024 Canadian action thriller that follows FBI agent Terry Husk (Jude Law) as he investigates a series of violent
-bank robberies believed to be orchestrated by a domestic terrorist group called _The Order_, which aims to finance an armed uprising
-against the U.S. government. The film is based on the true story of a white supremacist group active in the 1980s and features a cast
-including Jude Law and Nicholas Hoult.
+![order](images/order.png)
 
 It was entertaining in a “discount Harry Potter meets secret society” kind of way. A fun watch, but nothing that’ll haunt my dreams or 
 make me rethink my life choices.
