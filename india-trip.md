@@ -39,7 +39,8 @@ coming home, if home were slightly overpriced and extremely caffeinated.
 
 Today’s walk turned into a surprisingly deep TED Talk. We discussed the different categories of communication: (1) respond instantly or risk guilt 
 forever, (2) respond when Mercury is in retrograde, and (3) pretend it never arrived. Also talked about Big Picture college agendas---interspersed, 
-of course, with wisecracks, hypotheticals, and at least one impersonation of a confused academic.
+of course, with wisecracks, hypotheticals, and at least one impersonation of a confused academic. Here's a nugget:
+> There are two types of people who use statistics: liars, and outliers!! --- Shihan
 
 And then—Inchin’s! 
 
