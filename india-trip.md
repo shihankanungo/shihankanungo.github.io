@@ -10,17 +10,35 @@ title: X
 
 ### Day 9: Fri Apr 4 (2 days to go)
 
-Shihan has **Physics Bowl** at Gunn HS at 130PM. 
+It’s Friday, so of course, Ilsa came by! I chatted with her for a bit---she asked when you'd be back. I told her Monday and that 
+you're off having loads of fun (possibly too much?). I also mentioned Iliyin and that your whole extended clan will be there, so 
+she’s now fully updated on your social itinerary.
 
-Ilsa will be coming. 
+Arun unleashed a storm of emails last night---concern, confusion, probably a little existential despair. He demanded an emergency 
+weekend summit... but unable to contain his anxiety, decided to have it this morning around 7AM. Yes, seven. A.M. On a Friday 
+(because apparently nothing says "math crisis" like a sunrise summit) Anyway, crisis averted! They hashed it out, decisions were made, 
+nods exchanged. They wrestled with the notation demons and came to an agreement. Arun is now on cleanup duty. April 7 is still in play. 
+Everyone breathe.
 
-I will also be taking Shihan to Stanford for a talk on Probability. 
+However, this wave of frantic-ness distracted from the ISL grind. Only three hours today. Oh well! 
 
-Jesse Geneson has postponed his weekly meeting with Shihan to Sunday 6PM.
+Shihan is putting in serious work on his new violin piece. Progress is being made, though the violin might not agree. Also, he’s racing through 
+Klara and the Sun by Kazuo Ishiguro like it’s a beach read. Kazuo Ishiguro should probably send him a thank-you note. He expressed a desire to
+readd **all** of Ishiguro's works if I let him.
 
-Arun has called for a meeting over the weekend; possibly Saturday morning. 
+We visited Casa Lupe for lunch. The server there knows us, our orders, where we like to sit and how we like our dishes customized. It
+is a regal experience each time. Today was no different!
 
-We are planning to go to _Casa Lupe_ for lunch.
+I took him to **Physics Bowl** at Gunn High. He said it was fun and casually bumped into Neil Dixit and Alex Tsagaan. You know, just 
+catching up on the underground physics tea---which is probably teen-speak for trading gossip thinly disguised as academic conversation. 
+You know how it goes.. 
+
+Then I teleported him to Stanford for a talk on _Fluid Analysis_ or _Analytical Fluids_ or... just something fluid-y. The speaker? 
+A grad student with... shall we say... avant-garde handwriting and a "formidable accent" (Shihan’s words). Our hero caught approximately 
+2.5 words from the entire talk. He was mildly devastated. Throughout the drive back home, he buried himself in his Ishiguro and cultivated
+an air of being spiritually wounded by the whole experience.
+
+Jesse Geneson’s weekly pow-wow with Shihan has been postponed---he’s off visiting family on the East Coast. It's now happening Sunday at 6PM. 
 
 Stay tuned for updates.
 
