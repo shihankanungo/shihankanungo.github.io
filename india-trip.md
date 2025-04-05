@@ -8,6 +8,10 @@ title: X
 
 <center><img src="images/kanungo-mar-2025.jpg" alt="Alt Text" width="300"></center>
 
+### Day 10: Sat Apr 5 (1 day to go)
+
+The weekend is here!
+
 ### Day 9: Fri Apr 4 (2 days to go)
 
 It’s Friday, so of course, Ilsa came by! I chatted with her for a bit---she asked when you'd be back. I told her Monday and that 
