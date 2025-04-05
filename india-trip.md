@@ -29,9 +29,7 @@ However, this wave of frantic-ness distracted from the ISL grind. Only three hou
 Shihan is putting in serious work on his new violin piece. Progress is being made, though the violin might not agree. Also, he’s racing through 
 _Klara and the Sun_ by Kazuo Ishiguro like it’s a beach read. He expressed a desire to read **all** of Ishiguro's works if I let him.
 
-![kazuo](images/kazuo.png) 
-
-<center><img src="images/ishiguro.png" alt="Alt Text" width="300"></center>
+<center><img src="images/ishiguro.png" alt="Alt Text" width="450"></center>
 
 Kazuo Ishiguro should probably send him a thank-you note. 
 
