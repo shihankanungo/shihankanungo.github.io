@@ -10,7 +10,9 @@ title: X
 
 ### Day 10: Sat Apr 5 (1 day to go)
 
-The weekend is here!
+The weekend is here! 
+
+Today's big plan is to go to Gulzaar for lunch! We have skipped breakfast in anticipation.
 
 ### Day 9: Fri Apr 4 (2 days to go)
 
