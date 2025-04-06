@@ -12,6 +12,7 @@ title: Wrapped (2025)
 - Modern Times (1936 d. Charlie Chaplin)
 - The Great Dictator (1940 d. Charlie Chaplin) **Favorite**
 - Good Will Hunting (1997 d. Gus Van Sant)
+- Juno (2007 d. Jason Reitman)
 - Easy A (2010 d. Will Gluck)
 - Love, Simon (2018 d. Greg Berlanti)
 - Miss Americana (2020 d. Lana Wilson)
