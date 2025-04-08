@@ -29,6 +29,7 @@ title: Papers
   \[ [arXiv](https://arxiv.org/pdf/2307.09645) \] \[ [journal](https://doi.org/10.4134/CKMS.c230178) \] \[ [PDF](https://koreascience.kr/article/JAKO202415057658670.pdf) \] <br />
   
 ## Expository 
+_click on the title to see a short description_
 
 <details>
   <summary><i>David Gale's Subset Takeaway Game</i>. Combinatorial Game Theory [ <a href="subset-takeaway.pdf">pdf</a> ] </summary>
