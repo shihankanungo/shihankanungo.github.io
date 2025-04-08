@@ -35,7 +35,7 @@ title: Papers
   <summary><i>David Gale's Subset Takeaway Game</i>. Combinatorial Game Theory [ <a href="subset-takeaway.pdf">pdf</a> ] </summary>
   <small>We describe the natural interpretation of the game in terms of simplicial complexes, and the binary star reduction technique that shows that <i>Subset 
   Takeaway</i> is a second player win for <i>n</i> < 7. We also look at Subset Takeway played on a graph, and compute the Grundy values for complete <i>n</i>-partite 
-  graphs and all bipartite graphs.<br></small>
+  graphs and all bipartite graphs.<br></small><br>
 </details>
 
 <details>
