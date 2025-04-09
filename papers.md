@@ -36,7 +36,7 @@ title: Papers
   <summary><i>David Gale's Subset Takeaway Game</i>. Combinatorial Game Theory [ <a href="subset-takeaway.pdf">pdf</a> ] </summary>
   <small>We describe the natural interpretation of the game in terms of simplicial complexes, and the binary star reduction technique that shows that <i>Subset 
   Takeaway</i> is a second player win for <i>n</i> < 7. We also look at Subset Takeway played on a graph, and compute the Grundy values for complete <i>n</i>-partite 
-  graphs and all bipartite graphs.<br></small><br>
+  graphs and all bipartite graphs.<br></small>
 </details>
 </li> </ul>
 
@@ -46,8 +46,21 @@ title: Papers
   <small>We examine space-filling curves, which are surjective continuous maps from [0, 1] to some higher-dimensional space, usually the unit square [0, 1]<sup>2</sup>. In 
   particular, we define Peano’s curve and Lebesgue’s curve, and state some of their properties. We also discuss the Hahn-Mazurkiewicz theorem, which characterizes those 
   subsets of <b>R</b><sup>n</sup> that are the image of a space-filling curve. Finally, we discuss real-world applications of Hilbert curves, in particular Google’s 
-  <b>S2</b> Cells.<br></small><br>
-  </details>
+  <b>S2</b> Cells.</small><br>
+</details>
+
+<details>
+  <summary><i>Chromatic Polynomials</i>. Graph Theory [ <a href="chromatic-polynomials.pdf">pdf</a> ] </summary>
+  <small>A general introduction to the theory of chromatic polynomials. We derive their salient properties, and describe some practicaI methods for computing them. We 
+  briefly discuss the connection between the theory of chromatic polynomials and map coloring problems.</small>
+</details>
+
+<details>
+  <summary><i>Lagrangian and Hamiltonian Mechanics</i>. Dynamical Systems [ <a href="lhd.pdf">pdf</a> ] </summary>
+  <small>we discuss the basics of Lagrangian and Hamiltonian dynamics. We derive the Euler-Lagrange equations fro D’Alembert’s principle, show that they are equivalent to 
+  Hamilton’s principle of least actions, and finally use them to derive Hamilton’s equations. We also provide some examples to illustrate the use of Lagrangian and 
+  Hamiltonian dynamics.</small>
+</details>
 </li> </ul>
 
 <details>
