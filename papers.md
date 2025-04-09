@@ -53,7 +53,7 @@ title: Papers
 </details>
 
 <details>
-  <summary><i>Lagrangian and Hamiltonian Mechanics</i>. Dynamical Systems [ <a href="lhd.pdf">arXiv</a> ] </summary>
+  <summary><i>Lagrangian and Hamiltonian Mechanics</i>. Dynamical Systems [ <a href="lhd.pdf">pdf</a> ] </summary>
   <small>we discuss the basics of Lagrangian and Hamiltonian dynamics. We derive the Euler-Lagrange equations fro D’Alembert’s principle, show that they are equivalent to 
   Hamilton’s principle of least actions, and finally use them to derive Hamilton’s equations. We also provide some examples to illustrate the use of Lagrangian and 
   Hamiltonian dynamics.<br></small><br>
