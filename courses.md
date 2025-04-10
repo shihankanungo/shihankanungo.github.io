@@ -109,7 +109,7 @@ I haven't taken a formal course in representation theory, but I gained substanti
 
 - **Karin Erdmann.** (2006) *Introduction to Lie algebras*. <small>Springer Verlag, London.</small>
 - **Humphreys, J.E.** (1972) *Introduction to Lie Algebras and Representation Theory*. <br><small>Springer Verlag, New York.</small>
-- **Humphreys, J.E.** (2008) *Representations of Semisimple Lie Algebras in the BGG Category O*. <small>Providence, R.I. : American Mathematical Society</small>
+- **Humphreys, J.E.** (2008) *Representations of Semisimple Lie Algebras in the BGG Category O*. <small>Graduate Studies in Mathematics 94, AMS</small>
 - **Cheng, S. and Wang, W.** (2012) *Dualities and Representations of Lie Superalgebras*. <br><small>Graduate Studies in Mathematics 144, AMS</small>
 - **Ian. M. Musson.** (2012) *Lie Superalgebras and Enveloping Algebras*. <br><small>Graduate Studies in Mathematics 131, AMS</small>
 - **Alexander Molev.** (2007) *Yangians and Classical Lie algebras*. <br><small>Mathematical Surveys and Monographs 143, AMS</small>
