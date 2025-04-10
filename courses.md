@@ -159,9 +159,9 @@ I haven't taken a formal course in representation theory, but I gained substanti
 
 ![separator](images/sep.png) 
 
-# Coursework grouped by institution
+## Coursework grouped by institution
 
-## San José State University
+### San José State University
 
 **𝗚𝗿𝗮𝗱𝘂𝗮𝘁𝗲 𝗖𝗼𝘂𝗿𝘀𝗲𝘀**
 
@@ -184,7 +184,7 @@ I haven't taken a formal course in representation theory, but I gained substanti
 - MATH 138 𝘊𝘰𝘮𝘱𝘭𝘦𝘹 𝘝𝘢𝘳𝘪𝘢𝘣𝘭𝘦𝘴 (A+)
 - MATH 179 𝘐𝘯𝘵𝘳𝘰𝘥𝘶𝘤𝘵𝘪𝘰𝘯 𝘵𝘰 𝘎𝘳𝘢𝘱𝘩 𝘛𝘩𝘦𝘰𝘳𝘺 (A+)
 
-## Euler Circle
+### Euler Circle
 
 - 𝘊𝘰𝘮𝘣𝘪𝘯𝘢𝘵𝘰𝘳𝘪𝘢𝘭 𝘎𝘢𝘮𝘦 𝘛𝘩𝘦𝘰𝘳𝘺
 - 𝘊𝘰𝘮𝘣𝘪𝘯𝘢𝘵𝘰𝘳𝘪𝘤𝘴
@@ -197,7 +197,7 @@ I haven't taken a formal course in representation theory, but I gained substanti
 - 𝘌𝘳𝘨𝘰𝘥𝘪𝘤 𝘛𝘩𝘦𝘰𝘳𝘺 
 - 𝘔𝘢𝘳𝘬𝘰𝘷 𝘊𝘩𝘢𝘪𝘯𝘴
 
-## Art of Problem Solving 
+### Art of Problem Solving 
 
 **𝗠𝗮𝘁𝗵𝗲𝗺𝗮𝘁𝗶𝗰𝘀**
 - 𝘎𝘳𝘰𝘶𝘱 𝘛𝘩𝘦𝘰𝘳𝘺 (A+)
