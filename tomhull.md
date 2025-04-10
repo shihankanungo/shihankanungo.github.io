@@ -147,7 +147,7 @@ Note: listing is alphabetical, by artist, then by year; except for Various Artis
 - Anthony Braxton: Creative Orchestra Music 1976 (1976, Arista) [jazz-60s]
 - Anthony Braxton: Charlie Parker Project 1993 (1993, Hat Art, 2CD) [jazz-60s]
 - Anthony Braxton: 20 Standards (Quartet) 2003 (2003 [2005], Leo, 4CD) [jazz-60s]
-- Cedric Im Brooks: Cedric Im Brooks and the Light of Saba (1974-76 [2003], Honest Jons) [reggae]
+- Cedric Im Brooks: Cedric Im Brooks and the Light of Saba (1974-76 [2003], Honest Jons) [reggae] \[ [YT](https://www.youtube.com/playlist?list=PLtgLFft7gB_mtFLOro3BewKXNrMDLNmYb) \]
 - Tina Brooks: Minor Move (1958 [2000], Blue Note) [jazz-40s]
 - Big Bill Broonzy: The Young Big Bill Broonzy 1928-1935 (1928-35, Yazoo) [blues]
 - Clifford Brown/Max Roach: Study in Brown (1955, Emarcy) [jazz-40s] +
