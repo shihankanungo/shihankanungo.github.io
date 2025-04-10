@@ -3,9 +3,6 @@ layout: personal
 title: X
 ---
 
-Hello there! I’m Shihan---thanks for stopping by. I’m a high school junior from Palo Alto, CA, with a keen interest in mathematics, physics, language, and music. I play the violin, compose with my MPK Mini Plus, and have a music taste that defies genre (and occasionally logic).
-
-When I’m not actively immersed in one of these pursuits, there’s a good chance I’m sitting very still, appearing contemplative---while secretly daydreaming about my next snack. I aspire to nurture my passions and use them to make meaningful contributions to the world… ideally with a bit of joy, curiosity, and the occasional pastry along the way.
 
 ## The Four Agreements
 
