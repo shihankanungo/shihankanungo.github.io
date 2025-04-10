@@ -26,6 +26,19 @@ title: X
 - MATH 138 𝘊𝘰𝘮𝘱𝘭𝘦𝘹 𝘝𝘢𝘳𝘪𝘢𝘣𝘭𝘦𝘴 (A+)
 - MATH 179 𝘐𝘯𝘵𝘳𝘰𝘥𝘶𝘤𝘵𝘪𝘰𝘯 𝘵𝘰 𝘎𝘳𝘢𝘱𝘩 𝘛𝘩𝘦𝘰𝘳𝘺 (A+)
 
+## Euler Circle
+
+- Combinatorial Game Theory
+- Combinatorics
+- Generating Functions
+- Abstract Algebra
+- Real Analysis
+- Number Theory
+- Analytic Number Theory 
+- Ergodic Theory 
+- Differential Geometry 
+- Markov Chains
+
 ## The Four Agreements
 
 1. **Be Impeccable With Your Word** <br>
