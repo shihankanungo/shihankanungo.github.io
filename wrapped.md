@@ -70,6 +70,7 @@ title: Wrapped (2025)
 - *Remains of the Day* by Kazuo Ishiguro. 1989
 - *Never Let Me Go* by Kazuo Ishiguro. 2005
 - *Klara and the Sun* by Kazuo Ishiguro. 2021
+- *London: The Biography* by Peter Ackroyd. 2000
 - *Elliptic Tales: Curves, Counting, and Number Theory* by Avner Ash and Robert Gross. 2012
 - *Never Split The Difference: Negotiating As If Your Life Depended On It* by Christopher Voss, Tahl Raz. 2016
 - *Purpose: What Evolution and Human Nature Imply about the Meaning of Our Existence* by Samuel Wilkinson. 2024
