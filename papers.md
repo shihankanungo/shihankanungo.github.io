@@ -4,7 +4,7 @@ title: Papers
 ---
 <br>
 
-> "The difference between a research paper and toilet paper is that toilet paper only has crap on one side." --- Anonymous academic joke
+> "The difference between a research paper and toilet paper is that toilet paper has crap only on one side." --- Anonymous academic joke
 
 ## Research publications and preprints
 
