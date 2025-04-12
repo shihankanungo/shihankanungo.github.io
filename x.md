@@ -5,7 +5,7 @@ title: X
 
 <img align="left" src="images/timeline.png" alt="HS timelines" width="500">
 
-<br />
+![separator](images/sep.png) 
 
 ## The Four Agreements
 
