@@ -3,6 +3,9 @@ layout: personal
 title: X
 ---
 
+![about](images/about.png)
+
+<br>
 
 ![HS timelines](images/timeline.png)
 
