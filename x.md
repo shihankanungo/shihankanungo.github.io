@@ -3,7 +3,6 @@ layout: personal
 title: X
 ---
 
-<img align="left" src="images/timeline.png" alt="HS timelines" width="700">
 
 ![HS timelines](images/timeline.png)
 
