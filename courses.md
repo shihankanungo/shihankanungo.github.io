@@ -14,8 +14,8 @@ I have undertaken advanced coursework at Euler Circle (2019--_now_) and at San J
 
 <br>
 
-<small>Below is a list of coursework, grouped by subject area. We include a short description of each course, and grades are indicated where available---Euler Circle does not assign grades; they believe that grades tend to set achievement ceilings. 
-<!--<br> You can scroll down for the same list, but grouped by institution instead. [ <b><a href="https://shihankanungo.github.io/courses#coursework-grouped-by-institution">Link</a></b> ]. </small>-->
+Below is a list of coursework, grouped by subject area. We include a short description of each course, and grades are indicated where available---Euler Circle does not assign grades; they believe that grades tend to set achievement ceilings. 
+<!--<br><small>You can scroll down for the same list, but grouped by institution instead. [ <b><a href="https://shihankanungo.github.io/courses#coursework-grouped-by-institution">Link</a></b> ]. </small>-->
 
 ## Analysis and Geometry 
 
