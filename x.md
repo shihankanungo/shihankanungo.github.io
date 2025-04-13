@@ -7,6 +7,8 @@ title: X
 
 ![HS timelines](images/timeline.png)
 
+![courses](images/courses-25sp.png)
+
 <br>
 
 ![separator](images/sep.png) 
