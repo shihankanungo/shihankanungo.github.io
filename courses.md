@@ -12,6 +12,8 @@ title: Mathematics coursework
 I have undertaken advanced coursework at Euler Circle (2019--_now_) and at San José State University (SJSU, 2023--_now_). Euler Circle, run by Dr. Simon Rubinstein-Salzedo, offers college-level mathematics classes, each 10 weeks long, with weekly problem sets to help gain familiarity with new material. At the end of the class we write an expository paper on a topic related to the class material. At SJSU, courses run for 15 weeks and typically include 7 to 10 problem sets, two midterm exams, and a final exam. In graduate-level courses (shown below as **MATH 2****), there is often a project and/or presentation in lieu of the final. My experiences at Euler Circle and SJSU have significantly enriched both the breadth of my expertise and the depth of my understanding. Or, as von Neumann would put it, they have simply helped me get used to some of mathematics. <br> <br>
 ![courses](images/courses-25sp.png)
 
+<br><br>
+
 <small>Below is a list of coursework, grouped by subject area. We include a short description of each course, and grades are indicated where available---Euler Circle does not assign grades; they believe that grades tend to set achievement ceilings. 
 <!--<br> You can scroll down for the same list, but grouped by institution instead. [ <b><a href="https://shihankanungo.github.io/courses#coursework-grouped-by-institution">Link</a></b> ]. </small>-->
 
@@ -160,55 +162,3 @@ I haven't taken a formal course in representation theory, but I gained substanti
 - **Combinatorics**. Winter 2020. Euler Circle <br>
   <small>Binomial coefficients, double-counting; Stirling numbers; counting labeled trees.</small>
 
-<br><br>
-![separator](images/sep.png) 
-<br><br>
-
-## Coursework grouped by institution
-
-### San José State University
-
-**𝗚𝗿𝗮𝗱𝘂𝗮𝘁𝗲 𝗖𝗼𝘂𝗿𝘀𝗲𝘀**
-
-- MATH 226 𝘛𝘩𝘦𝘰𝘳𝘺 𝘰𝘧 𝘕𝘶𝘮𝘣𝘦𝘳𝘴 (A+)
-- MATH 231A 𝘙𝘦𝘢𝘭 𝘈𝘯𝘢𝘭𝘺𝘴𝘪𝘴 (A+)
-- MATH 231B 𝘍𝘶𝘯𝘤𝘵𝘪𝘰𝘯𝘢𝘭 𝘈𝘯𝘢𝘭𝘺𝘴𝘪𝘴
-- MATH 233A 𝘈𝘱𝘱𝘭𝘪𝘦𝘥 𝘔𝘢𝘵𝘩𝘦𝘮𝘢𝘵𝘪𝘤𝘴 𝘐
-- MATH 234 𝘈𝘥𝘷𝘢𝘯𝘤𝘦𝘥 𝘋𝘺𝘯𝘢𝘮𝘪𝘤𝘢𝘭 𝘚𝘺𝘴𝘵𝘦𝘮𝘴 (A+)
-- MATH 285A 𝘚𝘵𝘰𝘤𝘩𝘢𝘴𝘵𝘪𝘤 𝘔𝘦𝘵𝘩𝘰𝘥𝘴
-- MATH 229 𝘈𝘥𝘷𝘢𝘯𝘤𝘦𝘥 𝘔𝘢𝘵𝘳𝘪𝘹 𝘛𝘩𝘦𝘰𝘳𝘺 (A+)
-- MATH 285M 𝘕𝘰𝘯𝘯𝘦𝘨𝘢𝘵𝘪𝘷𝘦 𝘔𝘢𝘵𝘳𝘪𝘤𝘦𝘴
-- MATH 279A 𝘎𝘳𝘢𝘱𝘩 𝘛𝘩𝘦𝘰𝘳𝘺 (A+)
-
-**𝗨𝗻𝗱𝗲𝗿𝗴𝗿𝗮𝗱𝘂𝗮𝘁𝗲 𝗖𝗼𝘂𝗿𝘀𝗲𝘀**
-
-- MATH 129A 𝘓𝘪𝘯𝘦𝘢𝘳 𝘈𝘭𝘨𝘦𝘣𝘳𝘢 𝘐 (A)
-- MATH 129B 𝘓𝘪𝘯𝘦𝘢𝘳 𝘈𝘭𝘨𝘦𝘣𝘳𝘢 𝘐𝘐 (A+)
-- MATH 131A 𝘐𝘯𝘵𝘳𝘰𝘥𝘶𝘤𝘵𝘪𝘰𝘯 𝘵𝘰 𝘈𝘯𝘢𝘭𝘺𝘴𝘪𝘴 (A+)
-- MATH 131B 𝘐𝘯𝘵𝘳𝘰𝘥𝘶𝘤𝘵𝘪𝘰𝘯 𝘵𝘰 𝘙𝘦𝘢𝘭 𝘝𝘢𝘳𝘪𝘢𝘣𝘭𝘦𝘴 (A+)
-- MATH 138 𝘊𝘰𝘮𝘱𝘭𝘦𝘹 𝘝𝘢𝘳𝘪𝘢𝘣𝘭𝘦𝘴 (A+)
-- MATH 179 𝘐𝘯𝘵𝘳𝘰𝘥𝘶𝘤𝘵𝘪𝘰𝘯 𝘵𝘰 𝘎𝘳𝘢𝘱𝘩 𝘛𝘩𝘦𝘰𝘳𝘺 (A+)
-
-### Euler Circle
-
-- 𝘊𝘰𝘮𝘣𝘪𝘯𝘢𝘵𝘰𝘳𝘪𝘢𝘭 𝘎𝘢𝘮𝘦 𝘛𝘩𝘦𝘰𝘳𝘺
-- 𝘊𝘰𝘮𝘣𝘪𝘯𝘢𝘵𝘰𝘳𝘪𝘤𝘴
-- 𝘎𝘦𝘯𝘦𝘳𝘢𝘵𝘪𝘯𝘨 𝘍𝘶𝘯𝘤𝘵𝘪𝘰𝘯𝘴
-- 𝘈𝘣𝘴𝘵𝘳𝘢𝘤𝘵 𝘈𝘭𝘨𝘦𝘣𝘳𝘢
-- 𝘙𝘦𝘢𝘭 𝘈𝘯𝘢𝘭𝘺𝘴𝘪𝘴
-- 𝘋𝘪𝘧𝘧𝘦𝘳𝘦𝘯𝘵𝘪𝘢𝘭 𝘎𝘦𝘰𝘮𝘦𝘵𝘳𝘺 
-- 𝘈𝘯𝘢𝘭𝘺𝘵𝘪𝘤 𝘕𝘶𝘮𝘣𝘦𝘳 𝘛𝘩𝘦𝘰𝘳𝘺 
-- 𝘕𝘶𝘮𝘣𝘦𝘳 𝘛𝘩𝘦𝘰𝘳𝘺
-- 𝘌𝘳𝘨𝘰𝘥𝘪𝘤 𝘛𝘩𝘦𝘰𝘳𝘺 
-- 𝘔𝘢𝘳𝘬𝘰𝘷 𝘊𝘩𝘢𝘪𝘯𝘴
-
-### Art of Problem Solving 
-
-**𝗠𝗮𝘁𝗵𝗲𝗺𝗮𝘁𝗶𝗰𝘀**
-- 𝘎𝘳𝘰𝘶𝘱 𝘛𝘩𝘦𝘰𝘳𝘺 (A+)
-- 𝘊𝘢𝘭𝘤𝘶𝘭𝘶𝘴 (A+)
-- 𝘐𝘯𝘵𝘦𝘳𝘮𝘦𝘥𝘪𝘢𝘵𝘦 𝘈𝘭𝘨𝘦𝘣𝘳𝘢 (A+)
-- 𝘖𝘭𝘺𝘮𝘱𝘪𝘢𝘥 𝘎𝘦𝘰𝘮𝘦𝘵𝘳𝘺 (A+)
-
-**𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴**
-- 𝘐𝘯𝘵𝘦𝘳𝘮𝘦𝘥𝘪𝘢𝘵𝘦 𝘗𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨 𝘸𝘪𝘵𝘩 𝘗𝘺𝘵𝘩𝘰𝘯 (A+)
