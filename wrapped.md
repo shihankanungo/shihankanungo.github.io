@@ -14,6 +14,7 @@ title: Wrapped (2025)
 - Good Will Hunting (1997 d. Gus Van Sant)
 - Juno (2007 d. Jason Reitman)
 - Easy A (2010 d. Will Gluck)
+- Zero Dark Thirty (2012 d. Kathryn Bigelow)
 - Love, Simon (2018 d. Greg Berlanti)
 - Miss Americana (2020 d. Lana Wilson)
 - Hundreds of Beavers (2022 d. Mike Cheslik) **Favorite**
