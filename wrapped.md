@@ -21,7 +21,7 @@ title: Wrapped (2025)
 - Robot Dreams (2024 d. Pablo Berger)
 - Memoir of a Snail (2024 d. Adam Elliot)
 - Flow (2024 d. Gints Zilbalodis)
-- We Want The Funk! (2025 d. Stanley Nelson and Nicole London) _PBS Independent Lens documentary_
+- We Want The Funk! (2025 d. Stanley Nelson and Nicole London) <br> <small>_PBS Independent Lens documentary_</small>
 
 
 ## Music 
