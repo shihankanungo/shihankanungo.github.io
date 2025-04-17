@@ -84,4 +84,5 @@ title: Wrapped (2025)
 - **Pasadena, CA --- Jan 24--26**. Caltech Math Meet (CMM). Road trip with dad. Had *Din Tai Fung* for both dinners. Highlight: listening to music on the drive to and from. It was snowing near LA on the way back!!
 - **Boston, MA --- Feb 14--16**. Harvard-MIT Math Tournament (HMMT Feb). Got to hang out with WZ; dinner from *Himalayan Kitchen* on Fri; "*Ghana Bitter*" from Royce chocolates on Sat. Several inches of snow coated the streets from a storm Saturday night into Sunday morning.
 - **San Francisco, CA --- Feb 22**. *Strings for Peace*. Ustad Amjad Ali Khan & Sharon Isbin. Dinner at *Mochica Peruvian* followed by hangout at the corner bookstore. Concert at Herbst Theater from 730PM--10PM. It was fantastic!
-- **San Francisco, CA --- Mar 15**. To celebrate adMIT. Lunch at *La Mar* (empanadas, inca cola, lomo saltado) followed by _Ferry Building_ (s'more, blondie). Baba got me a *Dandelion chocolate, 85% dark*. 
+- **San Francisco, CA --- Mar 15**. To celebrate adMIT. Lunch at *La Mar* (empanadas, inca cola, lomo saltado) followed by _Ferry Building_ (s'more, blondie). Baba got me a *Dandelion chocolate, 85% dark*.
+- **London, UK --- Apr 15--23**. To commemorate the year-long 1000hr-ProjectIMO to make it to the TST group of the USA IMO team.
