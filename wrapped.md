@@ -16,7 +16,7 @@ title: Wrapped (2025)
 - Easy A (2010 d. Will Gluck)
 - Zero Dark Thirty (2012 d. Kathryn Bigelow)
 - The Hunger Games (2012 d. Gary Ross)
-- The Hunger Games: Catching Fire (2013 d. Gary Ross)
+- The Hunger Games: Catching Fire (2013 d. Francis Lawrence)
 - Love, Simon (2018 d. Greg Berlanti)
 - Miss Americana (2020 d. Lana Wilson)
 - Hundreds of Beavers (2022 d. Mike Cheslik) **Favorite**
