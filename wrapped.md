@@ -11,11 +11,12 @@ title: Wrapped (2025)
 - City Lights (1931 d. Charlie Chaplin)
 - Modern Times (1936 d. Charlie Chaplin)
 - The Great Dictator (1940 d. Charlie Chaplin) **Favorite**
-- Good Will Hunting (1997 d. Gus Van Sant)
+- Good Will Hunting (1997 d. Gus Van Sant) **Favorite**
 - Juno (2007 d. Jason Reitman)
 - Easy A (2010 d. Will Gluck)
 - Zero Dark Thirty (2012 d. Kathryn Bigelow)
 - The Hunger Games (2012 d. Gary Ross)
+- The Hunger Games: Catching Fire (2013 d. Gary Ross)
 - Love, Simon (2018 d. Greg Berlanti)
 - Miss Americana (2020 d. Lana Wilson)
 - Hundreds of Beavers (2022 d. Mike Cheslik) **Favorite**
