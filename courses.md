@@ -9,12 +9,13 @@ title: Mathematics coursework
 
 <br> 
 
-I have undertaken advanced coursework at Euler Circle (2019--_now_) and at San José State University (SJSU, 2023--_now_). Euler Circle, run by Dr. Simon Rubinstein-Salzedo, offers college-level mathematics classes, each 10 weeks long, with weekly problem sets to help gain familiarity with new material. At the end of the class we write an expository paper on a topic related to the class material. At SJSU, courses run for 15 weeks and typically include 7 to 10 problem sets, two midterm exams, and a final exam. In graduate-level courses, there is often a project and/or presentation in lieu of the final. My experiences at Euler Circle and SJSU have significantly enriched both the breadth of my expertise and the depth of my understanding. Or, as von Neumann would put it, they have simply helped me get used to some of mathematics. Here is a list of my coursework. <br> <br>
+I have undertaken advanced coursework at Euler Circle (2019--_now_) and at San José State University (SJSU, 2023--_now_). Euler Circle, run by Dr. Simon Rubinstein-Salzedo, offers college-level mathematics classes, each 10 weeks long, with weekly problem sets to help gain familiarity with new material. At the end of the class we write an expository paper on a topic related to the class material. At SJSU, courses run for 15 weeks and typically include 7 to 10 problem sets, two midterm exams, and a final exam. In graduate-level courses, there is often a project and/or presentation in lieu of the final. My experiences at Euler Circle and SJSU have significantly enriched both the breadth of my expertise and the depth of my understanding. Or, as von Neumann would put it, they have simply helped me get used to some of mathematics. Here is a list of my coursework. Grades are indicated where available---Euler Circle does not assign grades; they believe that grades tend to set achievement ceilings. 
+<br> <br>
 ![courses](images/courses-25sp.png)
 
 <br>
 
-Below is a list of coursework, grouped by subject area. We include a short description of each course, and grades are indicated where available---Euler Circle does not assign grades; they believe that grades tend to set achievement ceilings. 
+Below is a list of coursework, grouped by subject area. We include a short description of each course. 
 <!--<br><small>You can scroll down for the same list, but grouped by institution instead. [ <b><a href="https://shihankanungo.github.io/courses#coursework-grouped-by-institution">Link</a></b> ]. </small>-->
 
 ## Analysis and Geometry 
