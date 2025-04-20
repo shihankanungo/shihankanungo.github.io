@@ -30,8 +30,8 @@ title: Wrapped (2025)
 
 - City Lights (1931 d. Charlie Chaplin)
 - Modern Times (1936 d. Charlie Chaplin)
-- The Great Dictator (1940 d. Charlie Chaplin) ☀️ 🔆 **Favorite**
-- Good Will Hunting (1997 d. Gus Van Sant) 💛 ♥️ **Favorite**
+- The Great Dictator (1940 d. Charlie Chaplin)  👍
+- Good Will Hunting (1997 d. Gus Van Sant)  👍
 - Juno (2007 d. Jason Reitman)
 - Easy A (2010 d. Will Gluck)
 - Zero Dark Thirty (2012 d. Kathryn Bigelow)
@@ -39,11 +39,11 @@ title: Wrapped (2025)
 - The Hunger Games: Catching Fire (2013 d. Francis Lawrence)
 - Love, Simon (2018 d. Greg Berlanti)
 - Miss Americana (2020 d. Lana Wilson)
-- Hundreds of Beavers (2022 d. Mike Cheslik) 👍 **Favorite**
+- Hundreds of Beavers (2022 d. Mike Cheslik) 👍
 - Robot Dreams (2024 d. Pablo Berger)
 - Memoir of a Snail (2024 d. Adam Elliot)
 - Flow (2024 d. Gints Zilbalodis)
-- We Want The Funk! (2025 d. Stanley Nelson and Nicole London) 👌 <br> <small>_PBS Independent Lens documentary_</small> **Favorite**
+- We Want The Funk! (2025 d. Stanley Nelson and Nicole London)  👍 <br> <small>_PBS Independent Lens documentary_</small>
 
 
 ## Music 
