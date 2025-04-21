@@ -31,6 +31,7 @@ title: Wrapped (2025)
 - City Lights (1931 d. Charlie Chaplin)
 - Modern Times (1936 d. Charlie Chaplin)
 - The Great Dictator (1940 d. Charlie Chaplin)  👍
+- Top Gun (1986 d. Tony Scott)
 - Good Will Hunting (1997 d. Gus Van Sant)  👍
 - Juno (2007 d. Jason Reitman)
 - Easy A (2010 d. Will Gluck)
