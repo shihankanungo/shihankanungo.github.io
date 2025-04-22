@@ -8,17 +8,20 @@ title: Wrapped (2025)
 
 > "What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn't happen much, though." --- J.D. Salinger, The Catcher in the Rye
 
+### Fiction
 - *Siddhartha* by Herman Hesse. 1922
-- *A Sense of Where You Are: Bill Bradley at Princeton* by John McPhee. 1965
-- *Oranges* by John McPhee. 1967
 - *Love Story* by Erich Segal. 1970
 - *Jonathan Livingston Seagull* by Richard Bach. 1970
-- *A People's History of the United States* by Howard Zinn. 1980
 - *A Pale View of Hills* by Kazuo Ishiguro. 1982
 - *An Artist of the Floating World* by Kazuo Ishiguro. 1986
 - *Remains of the Day* by Kazuo Ishiguro. 1989
 - *Never Let Me Go* by Kazuo Ishiguro. 2005
 - *Klara and the Sun* by Kazuo Ishiguro. 2021
+
+### Non-fiction
+- *A Sense of Where You Are: Bill Bradley at Princeton* by John McPhee. 1965
+- *Oranges* by John McPhee. 1967
+- *A People's History of the United States* by Howard Zinn. 1980
 - *London: The Biography* by Peter Ackroyd. 2000
 - *Elliptic Tales: Curves, Counting, and Number Theory* by Avner Ash and Robert Gross. 2012
 - *Never Split The Difference: Negotiating As If Your Life Depended On It* by Christopher Voss, Tahl Raz. 2016
