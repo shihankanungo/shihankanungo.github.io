@@ -6,7 +6,7 @@ title: Honors and Awards
 ## STEM (science, technology, engineering, and mathematics)
 
 - **USAMO (USA Mathematical Olympiad).** *Qualifier* 2022, 2025. *Gold medal*. 2025
-- **MOP (Math Olympiad Summer Program).** *'Blue' MOP*. 2025
+- **MOP (Mathematical Olympiad Program).** *'Blue' MOP*. 2025
 - **The 85th Putnam Mathematical Competition.** *Honorable mention*, rank 58. 2024
 - **USAPhO (USA Physics Olympiad, AAPT)**. *U.S. Physics Team Training Camp*. 2024
 - **S.-T. Yau High School Science Award**. *USA Bronze Medalist in Mathematics*. 2024
