@@ -19,7 +19,7 @@ title: Honors and Awards
 - **The Spirit of Ramanujan STEM Talent Initiative**. *Spirit of Ramanujan Fellow*. 2023
 - **USAMTS (USA Mathematical Talent Search)**. *2-time Gold medal* and *highest scorer*
   - Year 36: 75/75 (2024-'25), Year 34: 74/75 (2022-'23)
-- **AIME (American Invitational Mathematics Exam)**. *Qualifier every year since Gr.4*.
+- **AIME (American Invitational Mathematics Exam)**. *Qualifier every year since Gr. 4*.
   - Highlights 13/15 (2025), 11/15 (2022, 2024)
 - **Math Kangaroo, Level 12**. *4th in USA*. 2022
 
