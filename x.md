@@ -8,7 +8,9 @@ title: X
 ![HS timelines](images/timelines.png)
 
 <br> 
+
 ![separator](images/sep.png) 
+
 <br>
 
 ## Coursework grouped by institution
