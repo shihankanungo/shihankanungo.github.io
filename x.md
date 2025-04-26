@@ -5,8 +5,6 @@ title: X
 
 ![about](images/about.png)
 
-![HS timeline](images/timeline.png)
-
 ![HS timelines](images/timelines.png)
 
 <br> 
