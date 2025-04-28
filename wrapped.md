@@ -42,6 +42,7 @@ title: Wrapped (2025)
 - The Hunger Games (2012 d. Gary Ross)
 - The Hunger Games: Catching Fire (2013 d. Francis Lawrence)
 - The Hunger Games: Mockingjay – Part 1 (2014 d. Francis Lawrence)
+- The Hunger Games: Mockingjay – Part 2 (2015 d. Francis Lawrence)
 - Love, Simon (2018 d. Greg Berlanti)
 - Miss Americana (2020 d. Lana Wilson)
 - Hundreds of Beavers (2022 d. Mike Cheslik) 👍
