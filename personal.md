@@ -27,6 +27,10 @@ I want to be able to listen to recording of piano sonatas and know who's playing
 
 ![separator](images/sep.png)
 
+"The notion that my decisions in every moment of every day are the final deciders for the future was something that I needed to think about differently. Nothing that happens now will restrict what you can change later because people always have the ability to learn and do new things." --- Richard Oti, MIT '28
+
+![separator](images/sep.png)
+
 "The most beautiful people we have known are those who have known defeat, known suffering, known struggle, known loss, and have found their way out of the depths. These persons have an appreciation, a sensitivity, and an understanding of life that fills them with compassion, gentleness, and a deep loving concern. Beautiful people do not just happen." <br> --- Elisabeth Kübler-Ross
 
 ![separator](images/sep.png)
