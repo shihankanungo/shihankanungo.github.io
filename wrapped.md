@@ -17,6 +17,7 @@ title: Wrapped (2025)
 - *Remains of the Day* by Kazuo Ishiguro. 1989
 - *Never Let Me Go* by Kazuo Ishiguro. 2005
 - *Klara and the Sun* by Kazuo Ishiguro. 2021
+- *American Gods* by Neil Gaiman. 2001
 
 ### Non-fiction
 - *A Sense of Where You Are: Bill Bradley at Princeton* by John McPhee. 1965
