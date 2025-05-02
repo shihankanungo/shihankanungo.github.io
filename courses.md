@@ -17,7 +17,7 @@ Here is a list of my coursework. Grades are indicated where available---Euler Ci
 ![courses](images/courses-25sp.png)
 <br>
 
-Below is a list of coursework, grouped by subject area. We include a short description of each course. 
+Here are the courses grouped by subject area, along with a short description of each course. 
 <!--<br><small>You can scroll down for the same list, but grouped by institution instead. [ <b><a href="https://shihankanungo.github.io/courses#coursework-grouped-by-institution">Link</a></b> ]. </small>-->
 
 ## Analysis and Geometry 
