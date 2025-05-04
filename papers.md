@@ -15,7 +15,7 @@ title: Papers
 - Saturation Problems for Sequences. *In preparation* <br />
   J. Geneson, **S. Kanungo**. <br />
   
-- Representations of Twisted Yangians in Complex Rank.  *In preparation* <br />
+- Representation Theory of the Twisted Yangian in Complex Rank.  *In preparation* <br />
   A. Kannan, **S. Kanungo**.  <br />
   
   
