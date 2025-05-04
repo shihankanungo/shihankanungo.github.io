@@ -12,11 +12,13 @@ title: Papers
   S. Erat, A. Kannan, **S. Kanungo**. *Transformation Groups* (2025)  <br />
   \[ [arXiv](https://arxiv.org/abs/2409.02422) \] \[ [journal](https://doi.org/10.1007/s00031-025-09908-0) \] \[ [PDF](https://rdcu.be/eeVBJ) \]
 
-- Saturation Problems for Sequences. *In preparation* <br />
+- Saturation Problems for Sequences. <br />
   J. Geneson, **S. Kanungo**. <br />
+  *In preparation* 
   
-- Representation Theory of the Twisted Yangian in Complex Rank.  *In preparation* <br />
+- Representation Theory of the Twisted Yangian in Complex Rank. <br />
   A. Kannan, **S. Kanungo**.  <br />
+  *In preparation*
   
   
 - On Product Formulas of Guillera and Sondow  <br />
