@@ -51,6 +51,11 @@ title: Papers
 </details>
 
 <details>
+  <summary><i>The Hahn-Banach Theorem and Applications</i>. Functional Analysis [ <a href="hbt.pdf">pdf</a> ] </summary>
+  <small>We explore the Hahn–Banach Theorem’s foundational role in functional analysis and its critical applications in mathematical finance. Through both conceptual exposition and a worked example, we demonstrate how the theorem enables the extension of pricing functionals and underpins the existence of risk-neutral measures in arbitrage-free markets.<br></small><br>
+</details>
+
+<details>
   <summary><i>Chromatic Polynomials</i>. Graph Theory [ <a href="chromatic-polynomials.pdf">pdf</a> ] </summary>
   <small>A general introduction to the theory of chromatic polynomials. We derive their salient properties, and describe some practicaI methods for computing them. We 
   briefly discuss the connection between the theory of chromatic polynomials and map coloring problems.<br></small><br>
