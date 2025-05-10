@@ -16,7 +16,7 @@ title: Papers
   J. Geneson, **S. Kanungo**. <br />
   *In preparation* 
   
-- Representation Theory of the Twisted Yangian in Complex Rank. <br />
+- Representation Theory of the Twisted Yangians in Complex Rank. <br />
   A. Kannan, **S. Kanungo**.  <br />
   *In preparation*
   
