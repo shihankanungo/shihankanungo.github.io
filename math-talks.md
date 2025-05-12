@@ -66,27 +66,29 @@ _Floer cohomology and invariants of singularities_ <br>
 _Finding Arithmetic Progressions in Dense Sets of Integers_
 
 ## Stanford University, Math Department Talks
- 
-![stanford-feb-27](images/02-27.png)
 
-![stanford-mar-04](images/03-04.png)
-
-![stanford-mar-13](images/03-13.png)
-
-![stanford-mar-17](images/03-17.png)
-
-![stanford-mar-31](images/03-31.png)
-
-![stanford-apr-04](images/04-04.png)
-
-![stanford-apr-24](images/04-24.png)
-
-![stanford-may-1](images/05-1.png)
-
-![stanford-may-5](images/05-05.png)
-
-![stanford-may-7](images/05-07.png)
+![stanford-may-8](images/05-08b.png)
 
 ![stanford-may-8](images/05-08a.png)
 
-![stanford-may-8](images/05-08b.png)
+![stanford-may-7](images/05-07.png)
+
+![stanford-may-5](images/05-05.png)
+
+![stanford-may-1](images/05-1.png)
+
+![stanford-apr-24](images/04-24.png)
+
+![stanford-apr-04](images/04-04.png)
+
+![stanford-mar-31](images/03-31.png)
+
+![stanford-mar-17](images/03-17.png)
+
+![stanford-mar-13](images/03-13.png)
+
+![stanford-mar-04](images/03-04.png)
+ 
+![stanford-feb-27](images/02-27.png)
+
+
