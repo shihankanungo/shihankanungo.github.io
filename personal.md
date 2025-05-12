@@ -77,6 +77,10 @@ I want to be able to listen to recording of piano sonatas and know who's playing
 
 ![separator](images/septhin.png)
 
+"I recommend success to anybody. I can’t think of anything good about fame, though." --- Mark Knopfler
+
+![separator](images/septhin.png)
+
 "Pain and suffering are always inevitable for a large intelligence and a deep heart. The really great men must, I think, have great sadness on earth." <br> --- Fyodor Dostoevsky, <i>Crime and Punishment</i>
 
 ![separator](images/septhin.png)
