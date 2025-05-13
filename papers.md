@@ -18,7 +18,7 @@ title: Papers
   
 - Representation Theory of the Twisted Yangians in Complex Rank. <br />
   A. Kannan, **S. Kanungo**.  <br />
-  *In preparation*
+  \[ [arXiv](https://arxiv.org/abs/2505.06463) \] 
   
   
 - On Product Formulas of Guillera and Sondow  <br />
