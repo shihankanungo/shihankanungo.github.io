@@ -55,6 +55,11 @@ title: Papers
 </details>
 
 <details>
+  <summary><i>On the S-matrix Conjecture for even n</i>. Nonnegative Matrices [ <a href="smatrix.pdf">pdf</a> ] </summary>
+  <small>Motivated with a problem in spectroscopy, Sloane and Harwit conjectured in 1976 what is the minimal Frobenius norm of the inverse of a matrix having all entries from the interval [0,1]. This is known as the <i>S</i>-matrix conjecture. In 1987, Cheng proved their conjecture in the case of odd dimensions, while for even dimensions he obtained a slightly weaker lower bound for the norm. In this report we discuss Frankel and Urschel's proof of the <i>S</i>-matrix conjecture for all even <i>n</i> larger than a small constant.<br></small><br>
+</details>
+
+<details>
   <summary><i>Chromatic Polynomials</i>. Graph Theory [ <a href="chromatic-polynomials.pdf">pdf</a> ] </summary>
   <small>A general introduction to the theory of chromatic polynomials. We derive their salient properties, and describe some practicaI methods for computing them. We 
   briefly discuss the connection between the theory of chromatic polynomials and map coloring problems.<br></small><br>
