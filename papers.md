@@ -17,7 +17,7 @@ title: Papers
   *In preparation* 
   
 - Representation Theory of the Twisted Yangians in Complex Rank. <br />
-  A. Kannan, **S. Kanungo**.  <br />
+  A. Kannan, **S. Kanungo**. *Journal of Algebra*. Submitted May 14, 2025 <br /> 
   \[ [arXiv](https://arxiv.org/abs/2505.06463) \] 
   
   
