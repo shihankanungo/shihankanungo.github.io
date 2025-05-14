@@ -69,6 +69,8 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 
 ![stanford-may-15](images/05-15a.png)
 
+![stanford-may-15](images/05-15b.png)
+
 ![stanford-may-12](images/05-12a.png)
 
 ![stanford-may-12](images/05-12b.png)
