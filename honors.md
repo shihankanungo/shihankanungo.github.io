@@ -15,14 +15,14 @@ title: Honors and Awards
   - Representation Theory. *Representations of Lie Superalgebras*. 2024
   - Commutative Algebra. *Factorization Theory in Monoids and Semirings*. 2023  
 - **S.-T. Yau High School Science Award**. *USA Bronze Medalist in Mathematics*. 2024
-- **WSS**. *World Science Scholar*. 2024
-- **The Spirit of Ramanujan STEM Talent Initiative**. *Spirit of Ramanujan Fellow*. 2023
 - **USAMTS (USA Mathematical Talent Search)**. *2-time Gold medal* and *highest scorer*
   - Year 36: 75/75 (2024-'25), Year 34: 74/75 (2022-'23)
 - **AIME (American Invitational Mathematics Exam)**. *Qualifier every year since 4th grade*.
   - Highlights 13/15 (2025), 11/15 (2022, 2024)
 - **Math Kangaroo, Level 12**. *4th in USA*. 2022
-
+- **The Spirit of Ramanujan STEM Talent Initiative**. *Spirit of Ramanujan Fellow*. 2023
+- **WSS**. *World Science Scholar*. 2024
+- **Global Child Prodigy Awards**. *Recipient*. 2025
 
 ## Music
 
