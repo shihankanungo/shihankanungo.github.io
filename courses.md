@@ -32,11 +32,11 @@ Here are the courses grouped by subject area, along with a short description of 
   <small>Sigma algebras, differentiation, product measures, integration, the spaces *L*<sup>1</sup> and **C**.</small> <br>
   <small><small>Textbook: Stein and Shakarchi. <i>Real Analysis: Measure Theory, Integration, and Hilbert Spaces</i>.</small></small>
 
-- **MATH 231B** *Functional Analysis*. Spring 2025. SJSU (Grade pending)<br>
+- **MATH 231B** *Functional Analysis*. Spring 2025. SJSU (current)<br>
   <small>Function spaces and their duals, operators on function spaces, applications to analysis.</small> <br>
   <small><small>Textbook: Debnath and Mikusiński. <i>Introduction to Hilbert Spaces with Applications</i>.</small></small>
 
-- **MATH 233A** *Applied Mathematics I*. Spring 2025. SJSU (Grade pending)<br>
+- **MATH 233A** *Applied Mathematics I*. Spring 2025. SJSU (current)<br>
   <small>Initial and boundary value problems for hyperbolic, parabolic and elliptic equations. Fourier series and transforms. Nonlinear partial differential equations.</small> <br>
   <small><small>Textbook: Peter John Olver. <i>Introduction to Partial Differential Equations.</i></small></small>
 
@@ -44,7 +44,7 @@ Here are the courses grouped by subject area, along with a short description of 
   <small>Continuous and discrete systems; stability of equilibria and closed orbits, structural stability.</small> <br>
   <small><small>Textbook: Hirsch, Smale, and Devaney. <i>Differential Equations, Dynamical Systems, and an Introduction to Chaos.</i></small></small>
 
-- **MATH 285A** *Stochastic Methods*. Spring 2025. SJSU (Grade pending)<br>
+- **MATH 285A** *Stochastic Methods*. Spring 2025. SJSU (current)<br>
   <small>Monte Carlo methods, Metropolis-Hastings algorithm, random-number generation.</small> <br>
   <small><small>Textbook: Kalos and Whitlock. <i>Monte Carlo Methods.</i></small></small>
 
@@ -131,7 +131,7 @@ I haven't taken a formal course in representation theory, but I gained substanti
   <small>Eigenvalues, unitary equivalence and Schur’s theorem. Normal, Hermitian and symmetric real matrices. Positive definite matrices, polar and singular value factorizations</small> <br>
   <small><small>Textbook: Horn and Johnson. <i>Matrix Analysis</i></small></small>
 
-- **MATH 285M** *Nonnegative matrices and Perron-Frobenius Theory*. Spring 2025. SJSU (Grade pending)<br>
+- **MATH 285M** *Nonnegative matrices and Perron-Frobenius Theory*. Spring 2025. SJSU (current)<br>
   <small>Perron Theory for positive matrices, Frobenius Theory for irreducible matrices, spectral graph theory, spectral digraph theory.</small> <br>
   <small><small>Textbook: Horn and Johnson. <i>Matrix Analysis</i>; C. Godsil and G. Royle. <i>Algebraic Graph Theory</i>, GTM 207.</small></small>
 
