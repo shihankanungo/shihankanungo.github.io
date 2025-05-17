@@ -55,6 +55,11 @@ title: Papers
 </details>
 
 <details>
+  <summary><i>Sobolev Spaces and Applications to PDEs</i>. Theory of PDEs [ <a href="sobolev.pdf">pdf</a> ] </summary>
+  <small>We provide an introduction to Sobolev spaces, a foundational concept in modern analysis and the theory of partial differential equations (PDEs). These spaces are useful for studying, among other things, the well-posedness of partial differential equations and their approximation using finite elements. We begin with a historical overview, tracing the development of weak derivatives and the shift from classical to variational formulations of PDEs. After establishing the basic definitions and presenting key examples, we survey central theorems such as the Sobolev Embedding Theorem and Rellich's Theorem, emphasizing their significance in ensuring existence, uniqueness, and regularity of solutions. Finally, we discuss a classic application to PDEs, the Elliptic Regularity Theorem. We aim to provide a self-contained and accessible introduction for students with a background in real analysis and the theory of PDEs.<br></small><br>
+</details>
+
+<details>
   <summary><i>On the S-matrix Conjecture for even n</i>. Nonnegative Matrices [ <a href="smatrix.pdf">pdf</a> ] </summary>
   <small>Motivated with a problem in spectroscopy, Sloane and Harwit conjectured in 1976 what is the minimal Frobenius norm of the inverse of a matrix having all entries from the interval [0,1]. This is known as the <i>S</i>-matrix conjecture. In 1987, Cheng proved their conjecture in the case of odd dimensions, while for even dimensions he obtained a slightly weaker lower bound for the norm. In this report we discuss Frankel and Urschel's proof of the <i>S</i>-matrix conjecture for all even <i>n</i> larger than a small constant.<br></small><br>
 </details>
