@@ -124,6 +124,7 @@ blockquote {
 }
 a {
   color: var(--links);
+  text-decoration: none;
 }
 *:target { background-color: var(--bg-secondary); }
 
