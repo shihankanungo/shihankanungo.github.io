@@ -35,7 +35,7 @@ title: Papers
 
 <ul> <li style="list-style-type: none;">
 <details>
-  <summary><i>David Gale's Subset Takeaway Game</i>. Combinatorial Game Theory [ <a href="subset-takeaway.pdf">pdf</a> ] </summary>
+  <summary><i>David Gale's Subset Takeaway Game</i>. Combinatorial Game Theory [ <a href="subset-takeaway.pdf">PDF</a> ] </summary>
   <small>We describe the natural interpretation of the game in terms of simplicial complexes, and the binary star reduction technique that shows that <i>Subset 
   Takeaway</i> is a second player win for <i>n</i> < 7. We also look at Subset Takeway played on a graph, and compute the Grundy values for complete <i>n</i>-partite 
   graphs and all bipartite graphs.<br></small><br>
@@ -50,49 +50,49 @@ title: Papers
 </details>
 
 <details>
-  <summary><i>The Hahn-Banach Theorem and Applications</i>. Functional Analysis [ <a href="hbt.pdf">pdf</a> ] </summary>
+  <summary><i>The Hahn-Banach Theorem and Applications</i>. Functional Analysis [ <a href="hbt.pdf">PDF</a> ] </summary>
   <small>We explore the Hahn–Banach Theorem’s foundational role in functional analysis and its critical applications in mathematical finance. Through both conceptual exposition and a worked example, we demonstrate how the theorem enables the extension of pricing functionals and underpins the existence of risk-neutral measures in arbitrage-free markets.<br></small><br>
 </details>
 
 <details>
-  <summary><i>Sobolev Spaces and Applications to PDEs</i>. Theory of PDEs [ <a href="sobolev.pdf">pdf</a> ] </summary>
+  <summary><i>Sobolev Spaces and Applications to PDEs</i>. Theory of PDEs [ <a href="sobolev.pdf">PDF</a> ] </summary>
   <small>We provide an introduction to Sobolev spaces, a foundational concept in modern analysis and the theory of partial differential equations (PDEs). These spaces are useful for studying, among other things, the well-posedness of partial differential equations and their approximation using finite elements. We begin with a historical overview, tracing the development of weak derivatives and the shift from classical to variational formulations of PDEs. After establishing the basic definitions and presenting key examples, we survey central theorems such as the Sobolev Embedding Theorem and Rellich's Theorem, emphasizing their significance in ensuring existence, uniqueness, and regularity of solutions. Finally, we discuss a classic application to PDEs, the Elliptic Regularity Theorem. We aim to provide a self-contained and accessible introduction for students with a background in real analysis and the theory of PDEs.<br></small><br>
 </details>
 
 <details>
-  <summary><i>On the S-matrix Conjecture for even n</i>. Nonnegative Matrices [ <a href="smatrix.pdf">pdf</a> ] </summary>
+  <summary><i>On the S-matrix Conjecture for even n</i>. Nonnegative Matrices [ <a href="smatrix.pdf">PDF</a> ] </summary>
   <small>Motivated with a problem in spectroscopy, Sloane and Harwit conjectured in 1976 what is the minimal Frobenius norm of the inverse of a matrix having all entries from the interval [0,1]. This is known as the <i>S</i>-matrix conjecture. In 1987, Cheng proved their conjecture in the case of odd dimensions, while for even dimensions he obtained a slightly weaker lower bound for the norm. In this report we discuss Frankel and Urschel's proof of the <i>S</i>-matrix conjecture for all even <i>n</i> larger than a small constant.<br></small><br>
 </details>
 
 <details>
-  <summary><i>Chromatic Polynomials</i>. Graph Theory [ <a href="chromatic-polynomials.pdf">pdf</a> ] </summary>
+  <summary><i>Chromatic Polynomials</i>. Graph Theory [ <a href="chromatic-polynomials.pdf">PDF</a> ] </summary>
   <small>A general introduction to the theory of chromatic polynomials. We derive their salient properties, and describe some practicaI methods for computing them. We 
   briefly discuss the connection between the theory of chromatic polynomials and map coloring problems.<br></small><br>
 </details>
 
 <details>
-  <summary><i>Lagrangian and Hamiltonian Mechanics</i>. Dynamical Systems [ <a href="lhd.pdf">pdf</a> ] </summary>
+  <summary><i>Lagrangian and Hamiltonian Mechanics</i>. Dynamical Systems [ <a href="lhd.pdf">PDF</a> ] </summary>
   <small>we discuss the basics of Lagrangian and Hamiltonian dynamics. We derive the Euler-Lagrange equations fro D’Alembert’s principle, show that they are equivalent to 
   Hamilton’s principle of least actions, and finally use them to derive Hamilton’s equations. We also provide some examples to illustrate the use of Lagrangian and 
   Hamiltonian dynamics.<br></small><br>
 </details>
 
 <details>
-  <summary><i>Brun's Theorem</i>. Number Theory [ <a href="brun.pdf">pdf</a> ] </summary>
+  <summary><i>Brun's Theorem</i>. Number Theory [ <a href="brun.pdf">PDF</a> ] </summary>
   <small>The mathematician Viggo Brun was born in Sweden in 1885. He is known for his outstanding contributions to the field of number theory. In his early career, Brun 
   focused on analytic number theory and prime number theory. One of his most famous achievements was Brun’s theorem in 1915, which gave an upper bound on the distance 
   between prime numbers.<br></small><br>
 </details>
 
 <details>
-  <summary><i>Large Gaps Between Primes</i>. Analytic Number Theory [ <a href="http://simonrs.com/eulercircle/analyticnt2024/shihan-largegaps.pdf">pdf</a> ] </summary>
+  <summary><i>Large Gaps Between Primes</i>. Analytic Number Theory [ <a href="http://simonrs.com/eulercircle/analyticnt2024/shihan-largegaps.pdf">PDF</a> ] </summary>
   <small>We give a summary of the upper bounds that have been obtained for the maximal prime gap, <i>G(x)</i>, over the last century, particularly Rankin’s lower bound, 
   and the improvement to it discovered independently by Ford-Green-Konyagin-Tao and Maynard in 2014. We go over a sketch of Rankin’s, Ford-Green-Konyagin-Tao’s, and 
   Maynard’s proofs of their bounds, omitting technical details but still presenting the main ideas.<br></small><br>
 </details>
 
 <details>
-  <summary><i>Dynamical Billiards</i>. Ergodic Theory [ <a href="http://simonrs.com/eulercircle/ergodic2024/shihan-billiards.pdf">pdf</a> ] </summary>
+  <summary><i>Dynamical Billiards</i>. Ergodic Theory [ <a href="http://simonrs.com/eulercircle/ergodic2024/shihan-billiards.pdf">PDF</a> ] </summary>
   <small>The field of dynamical billiards studies the motion of a ball bouncing within a billiard table, which is bounded by a smooth, closed curve. The ball's movement 
   adheres to two key properties: it always travels in a straight line, and the angle of incidence equals the angle of reflection at the boundary. The latter property is an 
   empirical observation from physics. In this paper, we analyze the dynamics of various billiard tables in <b>R</b><sup>2</sup>, employing Euclidean geometric methods to 
@@ -103,7 +103,7 @@ title: Papers
 </details>
 
 <details>
-  <summary><i>Arithmetic Dynamics</i>. Number Theory [ <a href="http://simonrs.com/eulercircle/nt2023/shihan-arithdyn.pdf">pdf</a> ] </summary>
+  <summary><i>Arithmetic Dynamics</i>. Number Theory [ <a href="http://simonrs.com/eulercircle/nt2023/shihan-arithdyn.pdf">PDF</a> ] </summary>
   <small>We explore the field of arithmetic dynamics, which lies at the intersection of discrete dynamical systems and number theory. Discrete dynamical systems focus on 
   the iterative behavior of functions, while number theory examines the properties of integers. Combining these two areas gives rise to arithmetic dynamics, where we 
   investigate the number-theoretic properties of orbits of integers and rational numbers under the iteration of polynomials and rational functions. The core idea of 
@@ -113,7 +113,7 @@ title: Papers
 </details>
 
 <details>
-  <summary><i>Minimal surfaces</i>. Differential Geometry [ <a href="http://simonrs.com/eulercircle/diffgeo/shihan-minimal.pdf">pdf</a> ] </summary>
+  <summary><i>Minimal surfaces</i>. Differential Geometry [ <a href="http://simonrs.com/eulercircle/diffgeo/shihan-minimal.pdf">PDF</a> ] </summary>
   <small>We introduce the theory of minimal surfaces. In the chapter on Geodesics, we considered the problem of finding the shortest distance between two points. We 
   investigate the higher dimensional analogue of this, where we find ways to construct a surface of "minimal" area with a given boundary. Such surfaces can be represented 
   by soap films, where the surface tension of the film ensures that it attains a shape with the minimal surface area. Minimal surfaces can be found in anything from the 
@@ -121,13 +121,13 @@ title: Papers
 </details>
 
 <details>
-  <summary><i>Mixing-time estimates for riffle shuffle</i>. Markov Chains [ <a href="http://simonrs.com/eulercircle/markovchains/shihan-riffle.pdf">pdf</a> ] </summary>
+  <summary><i>Mixing-time estimates for riffle shuffle</i>. Markov Chains [ <a href="http://simonrs.com/eulercircle/markovchains/shihan-riffle.pdf">PDF</a> ] </summary>
   <small>We talk about one of the most well-known shuffling methods, called the <i>riffle shuffle</i> or <i>dovetail shuffle</i>. We are interested in the number of 
   shuffles that will make the deck of <i>n</i> cards well-mixed, or <i>close</i> to uniformly random.<br></small><br>
 </details>
 
 <details>
-  <summary><i>Classifying groups of certain orders</i>. Abstract Algebra [ <a href="http://simonrs.com/eulercircle/algebra2020/shihan-orders.pdf">pdf</a> ] </summary>
+  <summary><i>Classifying groups of certain orders</i>. Abstract Algebra [ <a href="http://simonrs.com/eulercircle/algebra2020/shihan-orders.pdf">PDF</a> ] </summary>
   <small>We first discuss the question of which integers <i>n</i> have exactly one group of order <i>n</i>, namely the cyclic group <b>Z</b>/<i>n</i><b>Z</b>. We will see 
   that these are the integers that are relatively prime to the Euler totient function &phi;(<i>n</i>). Then we discuss how many groups there are of order <i>p</i>  
   <sup>3</sup> for each prime <i>p</i>. We end with a couple of interesting results and conjectures pertaining to groups of squarefree order.<br></small><br>
