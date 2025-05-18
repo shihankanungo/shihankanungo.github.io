@@ -59,6 +59,11 @@ title: Papers
 </details>
 
 <details>
+  <summary><i>Stochastic Gradient Descent Method in Stochastic Optimization</i>. Stochastic Methods [ <a href="sgd.pdf">PDF</a> ] </summary>
+  <small>Stochastic Gradient Descent (SGD) is a cornerstone algorithm in modern optimization, especially prevalent in large-scale machine learning. This paper introduces the theoretical foundation of SGD, contrasts it with deterministic gradient descent, and explores its convergence properties, practical implementation considerations, and typical applications in applied mathematics and data science. We also give some basic numerical simulations which showcase the strengths of different variants of SGD.<br></small><br>
+</details>
+
+<details>
   <summary><i>On the S-matrix Conjecture for even n</i>. Nonnegative Matrices [ <a href="smatrix.pdf">PDF</a> ] </summary>
   <small>Motivated with a problem in spectroscopy, Sloane and Harwit conjectured in 1976 what is the minimal Frobenius norm of the inverse of a matrix having all entries from the interval [0,1]. This is known as the <i>S</i>-matrix conjecture. In 1987, Cheng proved their conjecture in the case of odd dimensions, while for even dimensions he obtained a slightly weaker lower bound for the norm. In this report we discuss Frankel and Urschel's proof of the <i>S</i>-matrix conjecture for all even <i>n</i> larger than a small constant.<br></small><br>
 </details>
