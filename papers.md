@@ -59,7 +59,7 @@ title: Papers
 </details>
 
 <details>
-  <summary><i>Stochastic Gradient Descent Method in Stochastic Optimization</i>. Stochastic Methods [ <a href="sgd.pdf">PDF</a> ] </summary>
+  <summary><i>The Stochastic Gradient Descent Method</i>. Stochastic Methods [ <a href="sgd.pdf">PDF</a> ] </summary>
   <small>Stochastic Gradient Descent (SGD) is a cornerstone algorithm in modern optimization, especially prevalent in large-scale machine learning. This paper introduces the theoretical foundation of SGD, contrasts it with deterministic gradient descent, and explores its convergence properties, practical implementation considerations, and typical applications in applied mathematics and data science. We also give some basic numerical simulations which showcase the strengths of different variants of SGD.<br></small><br>
 </details>
 
