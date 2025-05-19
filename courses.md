@@ -9,13 +9,13 @@ title: Mathematics coursework
 
 <br> 
 
-I have undertaken advanced coursework at Euler Circle[^1] (2019--_now_) and at San José State University[^2] (SJSU, 2023--_now_). Euler Circle, run by Dr. Simon Rubinstein-Salzedo, offers college-level mathematics classes, each 10 weeks long, with weekly problem sets to help gain familiarity with new material. At the end of the class we write an expository paper on a topic related to the class material. At SJSU, courses run for 15 weeks and typically include 7 to 10 problem sets, two midterm exams, and a final exam. In graduate-level courses, there is often a project and/or presentation in lieu of the final. My experiences at Euler Circle and SJSU have significantly enriched both the breadth of my expertise and the depth of my understanding. Or, as von Neumann would put it, they have simply helped me get used to some of mathematics. 
+I have undertaken advanced coursework at Euler Circle[^1] (2019--_now_) and at San José State University[^2] (SJSU, 2023--_now_) which have significantly enriched both the breadth of my expertise and the depth of my understanding. Or, as von Neumann would put it, they have simply helped me get used to some of mathematics. 
 <br> 
 
 [^1]: Euler Circle, run by Dr. Simon Rubinstein-Salzedo, offers college-level mathematics classes, each 10 weeks long, with weekly problem sets to help gain familiarity with new material. At the end of the class we write an expository paper on a topic related to the class material. 
 [^2]: At SJSU, courses run for 15 weeks and typically include 7 to 10 problem sets, two midterm exams, and a final exam. In graduate-level courses, there is often a project and/or presentation in lieu of the final. 
 
-Here is a list of my coursework. Grades are indicated where available---Euler Circle does not assign grades; they believe that grades tend to set achievement ceilings. 
+Here is a list of my coursework, with grades indicated where available---Euler Circle does not assign grades; they believe that grades tend to set achievement ceilings. 
 <br> <br>
 ![courses](images/courses-25sp.png)
 <br>
