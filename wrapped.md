@@ -39,6 +39,7 @@ title: Wrapped (2025)
 - Top Gun (1986 d. Tony Scott)
 - Good Will Hunting (1997 d. Gus Van Sant)  👍
 - Juno (2007 d. Jason Reitman)
+- Hard Problems: The Road to the World's Toughest Math Contest (2008 d. George Paul Csicsery)
 - Kung Fu Panda (2008 d. John Stevenson and Mark Osborne)
 - Easy A (2010 d. Will Gluck)
 - Zero Dark Thirty (2012 d. Kathryn Bigelow)
