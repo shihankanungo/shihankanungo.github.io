@@ -18,7 +18,7 @@ navbar_entries:
     url: honors
 
   - title: CV
-    url: cv.pdf#zoom=page-fit
+    url: cv.pdf#zoom=fitH
 
   # - title: About
   #   url: about
