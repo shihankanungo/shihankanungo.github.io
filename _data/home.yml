@@ -18,7 +18,7 @@ navbar_entries:
     url: honors
 
   - title: CV
-    url: cv.pdf
+    url: cv.pdf#zoom=200
 
   # - title: About
   #   url: about
