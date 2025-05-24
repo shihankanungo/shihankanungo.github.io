@@ -49,6 +49,7 @@ title: Wrapped (2025)
 - The Hunger Games: Mockingjay – Part 2 (2015 d. Francis Lawrence)
 - Love, Simon (2018 d. Greg Berlanti)
 - Miss Americana (2020 d. Lana Wilson)
+- Secrets of the Surface: The Mathematical Vision of Maryam Mirzakhani (2020 d. George Paul Csicsery)
 - Hundreds of Beavers (2022 d. Mike Cheslik) 👍
 - Robot Dreams (2024 d. Pablo Berger)
 - Memoir of a Snail (2024 d. Adam Elliot)
