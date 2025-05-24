@@ -35,7 +35,7 @@ Here are the courses grouped by subject area, along with a short description of 
   <small>Sigma algebras, differentiation, product measures, integration, the spaces *L*<sup>1</sup> and **C**.</small> <br>
   <small><small>Textbook: Stein and Shakarchi. <i>Real Analysis: Measure Theory, Integration, and Hilbert Spaces</i>.</small></small>
 
-- **MATH 231B** *Functional Analysis*. Spring 2025. SJSU (current)<br>
+- **MATH 231B** *Functional Analysis*. Spring 2025. SJSU (A+)<br>
   <small>Function spaces and their duals, operators on function spaces, applications to analysis.</small> <br>
   <small><small>Textbook: Debnath and Mikusiński. <i>Introduction to Hilbert Spaces with Applications</i>.</small></small>
 
@@ -134,7 +134,7 @@ I haven't taken a formal course in representation theory, but I gained substanti
   <small>Eigenvalues, unitary equivalence and Schur’s theorem. Normal, Hermitian and symmetric real matrices. Positive definite matrices, polar and singular value factorizations</small> <br>
   <small><small>Textbook: Horn and Johnson. <i>Matrix Analysis</i></small></small>
 
-- **MATH 285M** *Nonnegative matrices and Perron-Frobenius Theory*. Spring 2025. SJSU (current)<br>
+- **MATH 285M** *Nonnegative matrices & Perron-Frobenius Theory*. Spring 2025. SJSU (A+)<br>
   <small>Perron Theory for positive matrices, Frobenius Theory for irreducible matrices, spectral graph theory, spectral digraph theory.</small> <br>
   <small><small>Textbook: Horn and Johnson. <i>Matrix Analysis</i>; C. Godsil and G. Royle. <i>Algebraic Graph Theory</i>, GTM 207.</small></small>
 
