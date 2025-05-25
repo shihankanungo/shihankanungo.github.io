@@ -12,6 +12,7 @@ title: Wrapped (2025)
 - *Siddhartha* by Herman Hesse. 1922
 - *Love Story* by Erich Segal. 1970
 - *Jonathan Livingston Seagull* by Richard Bach. 1970
+- *The Eye of the World* by Robert Jordan. 1990
 - *A Pale View of Hills* by Kazuo Ishiguro. 1982
 - *An Artist of the Floating World* by Kazuo Ishiguro. 1986
 - *Remains of the Day* by Kazuo Ishiguro. 1989
