@@ -70,32 +70,32 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 
 <details>
   <summary><i>2-descent in polynomial twist families</i>. Carlo Pagano (Concordia University)</summary>
-  <small><img src="images/05-28.png" alt="May 28"><br></small><br>
+  <small><img src="images/05-28.png" alt="May 28"></small>
 </details>
 
 <details>
   <summary><i>Exotic Diffeomorphisms: A Conversation Between Equivariant Stable Homotopy and Spin Four-Manifolds</i>. Scotty Tilton (UCSD)</summary>
-  <small><img src="images/05-27.png" alt="May 27"><br></small><br>
+  <small><img src="images/05-27.png" alt="May 27"></small>
 </details>
 
 <details>
   <summary><i>Introduction to Pencil Puzzles</i>. Shintaro Fushida-Hardy (Stanford)</summary>
-  <small><img src="images/05-22a.png" alt="May 22"><br></small><br>
+  <small><img src="images/05-22a.png" alt="May 22"></small>
 </details>
 
 <details>
   <summary><i>The Kakeya set conjecture in three dimensions</i>. Joshua Zahl (UBC)</summary>
-  <small><img src="images/05-22b.png" alt="May 22"><br></small><br>
+  <small><img src="images/05-22b.png" alt="May 22"></small>
 </details>
 
 <details>
   <summary><i>On the first passage times of spatial branching processes</i>. Zhenyuan Zhang (Stanford)</summary>
-  <small><img src="images/05-19b.png" alt="May 19"></small><br>
+  <small><img src="images/05-19b.png" alt="May 19"></small>
 </details>
 
 <details>
   <summary><i>On forms in many variables of different degrees</i>. Kiseok Yeon (UC Davis)</summary>
-  <small><img src="images/05-19a.png" alt="May 19"><br></small><br>
+  <small><img src="images/05-19a.png" alt="May 19"></small>
 </details>
 
 ![stanford-may-15](images/05-15a.png)
