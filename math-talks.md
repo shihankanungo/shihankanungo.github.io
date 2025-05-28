@@ -66,13 +66,19 @@ _Floer cohomology and invariants of singularities_ <br>
 _Finding Arithmetic Progressions in Dense Sets of Integers_
 
 ## Stanford University, Math Department Talks
+### May
 
 <details>
   <summary><i>2-descent in polynomial twist families</i>. Carlo Pagano (Concordia University)</summary>
   <small><img src="images/05-28.png" alt="May 28"><br></small><br>
 </details>
 
-![stanford-may-28](images/05-28.png)
+<details>
+  <summary><i>Exotic Diffeomorphisms: A Conversation Between Equivariant Stable Homotopy and Spin Four-Manifolds</i>. Scotty Tilton (UCSD)</summary>
+  <small>Exotic diffeomorphisms are those diffeomorphisms which are in the same path component as the identity of the homeomorphism group, but are not in the identity component in the diffeomorphism group. Several people have found the boundary Dehn twist is an exotic diffeomorphism on some four manifolds. This talk will be on the methods I used to find a novel result where we use tools from equivariant stable homotopy to detect that the Dehn twist is not isotopic to the identity on K3#K3\B^4. <br></small><br>
+</details>
+
+
 
 ![stanford-may-27](images/05-27.png)
 
