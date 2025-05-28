@@ -69,46 +69,64 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 ### May
 
 <details>
-  <summary><i>2-descent in polynomial twist families</i>. Carlo Pagano (Concordia University)</summary>
+  <summary><b>ANALYTIC NUMBER THEORY</b>. <i>2-descent in polynomial twist families</i>. Carlo Pagano (Concordia University)</summary>
   <small><img src="images/05-28.png" alt="May 28"></small>
 </details>
 
 <details>
-  <summary><i>Exotic Diffeomorphisms: A Conversation Between Equivariant Stable Homotopy and Spin Four-Manifolds</i>. Scotty Tilton (UCSD)</summary>
+  <summary><b>TOPOLOGY</b>. <i>Exotic Diffeomorphisms: A Conversation Between Equivariant Stable Homotopy and Spin Four-Manifolds</i>. Scotty Tilton (UCSD)</summary>
   <small><img src="images/05-27.png" alt="May 27"></small>
 </details>
 
 <details>
-  <summary><i>Introduction to Pencil Puzzles</i>. Shintaro Fushida-Hardy (Stanford)</summary>
+  <summary><b>KIDDIE COLLOQUIUM</b>. <i>Introduction to Pencil Puzzles</i>. Shintaro Fushida-Hardy (Stanford)</summary>
   <small><img src="images/05-22a.png" alt="May 22"></small>
 </details>
 
 <details>
-  <summary><i>The Kakeya set conjecture in three dimensions</i>. Joshua Zahl (UBC)</summary>
+  <summary><b>DEPARTMENT COLLOQUIUM</b>. <i>The Kakeya set conjecture in three dimensions</i>. Joshua Zahl (UBC)</summary>
   <small><img src="images/05-22b.png" alt="May 22"></small>
 </details>
 
 <details>
-  <summary><i>On the first passage times of spatial branching processes</i>. Zhenyuan Zhang (Stanford)</summary>
+  <summary><b>PROBABILITY</b>. <i>On the first passage times of spatial branching processes</i>. Zhenyuan Zhang (Stanford)</summary>
   <small><img src="images/05-19b.png" alt="May 19"></small>
 </details>
 
 <details>
-  <summary><i>On forms in many variables of different degrees</i>. Kiseok Yeon (UC Davis)</summary>
+  <summary><b>NUMBER THEORY</b>. <i>On forms in many variables of different degrees</i>. Kiseok Yeon (UC Davis)</summary>
   <small><img src="images/05-19a.png" alt="May 19"></small>
 </details>
 
-![stanford-may-15](images/05-15a.png)
+<details>
+  <summary><b>KIDDIE COLLOQUIUM</b>. <i>Classification Theorems</i>. Stepan Kazanin (Stanford)</summary>
+  <small><img src="images/05-15a.png" alt="May 15"></small>
+</details>
 
-![stanford-may-15](images/05-15b.png)
+<details>
+  <summary><b>DISTINGUISHED LECTURE</b>. <i>Profinite rigidity: Chasing finite shadows of infinite groups through geometry</i>.  Martin Bridson (University of Oxford)</summary>
+  <small><img src="images/05-15b.png" alt="May 15"></small>
+</details>
 
-![stanford-may-12](images/05-12a.png)
+<details>
+  <summary><b>NUMBER THEORY</b>. <i>Pointwise perfectoidness of Shimura varieties at infinite level</i>. Tongmu He (Princeton)</summary>
+  <small><img src="images/05-12a.png" alt="May 12"></small>
+</details>
 
-![stanford-may-12](images/05-12b.png)
+<details>
+  <summary><b>PROBABILITY</b>. <i>Paths and cliques in random temporal graphs</i>. Gabor Lugosi (Pompeu Fabra University)</summary>
+  <small><img src="images/05-12b.png" alt="May 12"></small>
+</details>
 
-![stanford-may-8](images/05-08b.png)
+<details>
+  <summary><b>KIDDIE COLLOQUIUM</b>. <i>Quergodicity</i>. Romain Speciel (Stanford)</summary>
+  <small><img src="images/05-08a.png" alt="May 8"></small>
+</details>
 
-![stanford-may-8](images/05-08a.png)
+<details>
+  <summary><b>FARS</b>. <i>Finding multidimensional configurations in subsets of the integer grid</i>. Sarah Peluse (Stanford)</summary>
+  <small><img src="images/05-08b.png" alt="May 8"></small>
+</details>
 
 ![stanford-may-7](images/05-07.png)
 
