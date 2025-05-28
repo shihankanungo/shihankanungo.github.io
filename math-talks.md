@@ -128,11 +128,20 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
   <small><img src="images/05-08b.png" alt="May 8"></small>
 </details>
 
-![stanford-may-7](images/05-07.png)
+<details>
+  <summary><b>ANALYTIC NUMBER THEORY</b>. <i>On primes represented by aX^2+bY^3</i>. Jori Merikoski (Oxford)</summary>
+  <small><img src="images/05-07.png" alt="May 7"></small>
+</details>
 
-![stanford-may-5](images/05-05.png)
+<details>
+  <summary><b>NUMBER THEORY</b>. <i>A new approach to p-Hecke correspondences and Rapoport-Zink spaces</i>. Keerthi Madapusi (Boston College)</summary>
+  <small><img src="images/05-05.png" alt="May 5"></small>
+</details>
 
-![stanford-may-1](images/05-1.png)
+<details>
+  <summary><b>REPRESENTATION THEORY</b>. <i>Fargues' categorical conjecture for elliptic parameters for SL(n)</i>. Kenta Suzuki (MIT)</summary>
+  <small><img src="images/05-01.png" alt="May 1"></small>
+</details>
 
 ![stanford-apr-24](images/04-24.png)
 
