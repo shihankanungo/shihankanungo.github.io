@@ -88,10 +88,15 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
   <small><img src="images/05-22b.png" alt="May 22"><br></small><br>
 </details>
 
+<details>
+  <summary><i>On the first passage times of spatial branching processes</i>. Zhenyuan Zhang (Stanford)</summary>
+  <small><img src="images/05-19b.png" alt="May 19"></small><br>
+</details>
 
-![stanford-may-19](images/05-19a.png)
-
-![stanford-may-19](images/05-19b.png)
+<details>
+  <summary><i>On forms in many variables of different degrees</i>. Kiseok Yeon (UC Davis)</summary>
+  <small><img src="images/05-19a.png" alt="May 19"><br></small><br>
+</details>
 
 ![stanford-may-15](images/05-15a.png)
 
