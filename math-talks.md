@@ -140,7 +140,7 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 
 <details>
   <summary><b>REPRESENTATION THEORY</b>. <i>Fargues' categorical conjecture for elliptic parameters for SL(n)</i>. Kenta Suzuki (MIT)</summary>
-  <small><img src="images/05-01.png" alt="May 1"></small>
+  <small><img src="images/05-1.png" alt="May 1"></small>
 </details>
 
 ![stanford-apr-24](images/04-24.png)
