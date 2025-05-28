@@ -143,18 +143,41 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
   <small><img src="images/05-1.png" alt="May 1"></small>
 </details>
 
-![stanford-apr-24](images/04-24.png)
+### April
 
-![stanford-apr-04](images/04-04.png)
+<details>
+  <summary><b>ANALYSIS</b>. <i>Fluids I</i>. Yuefong Song (Stanford)</summary>
+  <small><img src="images/04-04.png" alt="Apr 4"></small>
+</details>
 
-![stanford-mar-31](images/03-31.png)
+### March
 
-![stanford-mar-17](images/03-17.png)
+<details>
+  <summary><b>BERGMAN LECTURE</b>. <i>Stochastic Blocks Models: Detection and Recovery</i>. Allan Sly (Princeton)</summary>
+  <small><img src="images/03-17.png" alt="Mar 17"></small>
+</details>
 
-![stanford-mar-13](images/03-13.png)
+<details>
+  <summary><b>PROBABILITY</b>. <i>Stochastic block model with many communities</i>. Youngtak Sohn (Brown)</summary>
+  <small><img src="images/03-31.png" alt="Mar 31"></small>
+</details>
 
-![stanford-mar-04](images/03-04.png)
+<details>
+  <summary><b>BERGMAN LECTURE</b>. <i>Spatial shuffling: Large Cycles in the Interchange ​Process in dimension 5</i>. Allan Sly (Princeton)</summary>
+  <small><img src="images/03-13.png" alt="Mar 13"></small>
+</details>
+
+<details>
+  <summary><b>LECTURES</b>. <i>How Curved are Level Sets of Eigenfunctions?</i>. David Jerison (MIT)</summary>
+  <small><img src="images/03-04.png" alt="Mar 4"></small>
+</details>
+
+### February
+
+<details>
+  <summary><b>DEPARTMENT COLLOQUIUM</b>. <i>Improved Bounds for Szemerédi's Theorem</i>. Mehtaab Sawhney (Columbia)</summary>
+  <small><img src="images/02-27.png" alt="Feb 27"></small>
+</details>
  
-![stanford-feb-27](images/02-27.png)
 
 
