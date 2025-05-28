@@ -69,6 +69,21 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 ### May
 
 <details>
+  <summary><img src="images/05-29a-title.png" alt="May 29 title"></summary>
+  <small><img src="images/05-29a-body.png" alt="May 29 body"></small>
+</details>
+
+<details>
+  <summary><b>COMBINATORICS</b>. <i>Some combinatorial applications of cyclotomic polynomials</i>. Richard Stanley (MIT & Miami)</summary>
+  <small><img src="images/05-29a.png" alt="May 29"></small>
+</details>
+
+<details>
+  <summary><b>DEPARTMENT COLLOQUIUM</b>. <i>Hilbert's 10th problem via additive combinatorics</i>. Carlo Pagano (Concordia University)</summary>
+  <small><img src="images/05-29b.png" alt="May 29"></small>
+</details>
+
+<details>
   <summary><b>ANALYTIC NUMBER THEORY</b>. <i>2-descent in polynomial twist families</i>. Carlo Pagano (Concordia University)</summary>
   <small><img src="images/05-28.png" alt="May 28"></small>
 </details>
