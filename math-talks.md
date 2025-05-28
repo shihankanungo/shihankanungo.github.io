@@ -67,6 +67,11 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 
 ## Stanford University, Math Department Talks
 
+<details>
+  <summary><i>2-descent in polynomial twist families</i>. Carlo Pagano (Concordia University)</summary>
+  <small><img src="images/05-28.png" alt="May 28"><br></small><br>
+</details>
+
 ![stanford-may-28](images/05-28.png)
 
 ![stanford-may-27](images/05-27.png)
