@@ -74,82 +74,82 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 </details>
 
 <details>
-  <summary><b>DEPARTMENT COLLOQUIUM</b>. <i>Hilbert's 10th problem via additive combinatorics</i>. Carlo Pagano (Concordia University)</summary>
+  <summary><b>DEPARTMENT COLLOQUIUM</b><br><i>Hilbert's 10th problem via additive combinatorics</i> &mdash; Carlo Pagano (Concordia University)</summary>
   <small><img src="images/05-29b.png" alt="May 29"></small>
 </details>
 
 <details>
-  <summary><b>ANALYTIC NUMBER THEORY</b>. <i>2-descent in polynomial twist families</i>. Carlo Pagano (Concordia University)</summary>
+  <summary><b>ANALYTIC NUMBER THEORY</b><br><i>2-descent in polynomial twist families</i> &mdash; Carlo Pagano (Concordia University)</summary>
   <small><img src="images/05-28.png" alt="May 28"></small>
 </details>
 
 <details>
-  <summary><b>TOPOLOGY</b>. <i>Exotic Diffeomorphisms: A Conversation Between Equivariant Stable Homotopy and Spin Four-Manifolds</i>. Scotty Tilton (UCSD)</summary>
+  <summary><b>TOPOLOGY</b><br><i>Exotic Diffeomorphisms: A Conversation Between Equivariant Stable Homotopy and Spin Four-Manifolds</i> &mdash; Scotty Tilton (UCSD)</summary>
   <small><img src="images/05-27.png" alt="May 27"></small>
 </details>
 
 <details>
-  <summary><b>KIDDIE COLLOQUIUM</b>. <i>Introduction to Pencil Puzzles</i>. Shintaro Fushida-Hardy (Stanford)</summary>
+  <summary><b>KIDDIE COLLOQUIUM</b><br><i>Introduction to Pencil Puzzles</i> &mdash; Shintaro Fushida-Hardy (Stanford)</summary>
   <small><img src="images/05-22a.png" alt="May 22"></small>
 </details>
 
 <details>
-  <summary><b>DEPARTMENT COLLOQUIUM</b>. <i>The Kakeya set conjecture in three dimensions</i>. Joshua Zahl (UBC)</summary>
+  <summary><b>DEPARTMENT COLLOQUIUM</b><br><i>The Kakeya set conjecture in three dimensions</i> &mdash; Joshua Zahl (UBC)</summary>
   <small><img src="images/05-22b.png" alt="May 22"></small>
 </details>
 
 <details>
-  <summary><b>PROBABILITY</b>. <i>On the first passage times of spatial branching processes</i>. Zhenyuan Zhang (Stanford)</summary>
+  <summary><b>PROBABILITY</b><br><i>On the first passage times of spatial branching processes</i> &mdash; Zhenyuan Zhang (Stanford)</summary>
   <small><img src="images/05-19b.png" alt="May 19"></small>
 </details>
 
 <details>
-  <summary><b>NUMBER THEORY</b>. <i>On forms in many variables of different degrees</i>. Kiseok Yeon (UC Davis)</summary>
+  <summary><b>NUMBER THEORY</b><br><i>On forms in many variables of different degrees</i> &mdash; Kiseok Yeon (UC Davis)</summary>
   <small><img src="images/05-19a.png" alt="May 19"></small>
 </details>
 
 <details>
-  <summary><b>KIDDIE COLLOQUIUM</b>. <i>Classification Theorems</i>. Stepan Kazanin (Stanford)</summary>
+  <summary><b>KIDDIE COLLOQUIUM</b><br><i>Classification Theorems</i> &mdash; Stepan Kazanin (Stanford)</summary>
   <small><img src="images/05-15a.png" alt="May 15"></small>
 </details>
 
 <details>
-  <summary><b>DISTINGUISHED LECTURE</b>. <i>Profinite rigidity: Chasing finite shadows of infinite groups through geometry</i>.  Martin Bridson (University of Oxford)</summary>
+  <summary><b>DISTINGUISHED LECTURE</b><br><i>Profinite rigidity: Chasing finite shadows of infinite groups through geometry</i> &mdash; Martin Bridson (University of Oxford)</summary>
   <small><img src="images/05-15b.png" alt="May 15"></small>
 </details>
 
 <details>
-  <summary><b>NUMBER THEORY</b>. <i>Pointwise perfectoidness of Shimura varieties at infinite level</i>. Tongmu He (Princeton)</summary>
+  <summary><b>NUMBER THEORY</b><br><i>Pointwise perfectoidness of Shimura varieties at infinite level</i> &mdash; Tongmu He (Princeton)</summary>
   <small><img src="images/05-12a.png" alt="May 12"></small>
 </details>
 
 <details>
-  <summary><b>PROBABILITY</b>. <i>Paths and cliques in random temporal graphs</i>. Gabor Lugosi (Pompeu Fabra University)</summary>
+  <summary><b>PROBABILITY</b><br><i>Paths and cliques in random temporal graphs</i> &mdash; Gabor Lugosi (Pompeu Fabra University)</summary>
   <small><img src="images/05-12b.png" alt="May 12"></small>
 </details>
 
 <details>
-  <summary><b>KIDDIE COLLOQUIUM</b>. <i>Quergodicity</i>. Romain Speciel (Stanford)</summary>
+  <summary><b>KIDDIE COLLOQUIUM</b><br><i>Quergodicity</i> &mdash; Romain Speciel (Stanford)</summary>
   <small><img src="images/05-08a.png" alt="May 8"></small>
 </details>
 
 <details>
-  <summary><b>FARS</b>. <i>Finding multidimensional configurations in subsets of the integer grid</i>. Sarah Peluse (Stanford)</summary>
+  <summary><b>FARS</b><br><i>Finding multidimensional configurations in subsets of the integer grid</i> &mdash; Sarah Peluse (Stanford)</summary>
   <small><img src="images/05-08b.png" alt="May 8"></small>
 </details>
 
 <details>
-  <summary><b>ANALYTIC NUMBER THEORY</b>. <i>On primes represented by aX^2+bY^3</i>. Jori Merikoski (Oxford)</summary>
+  <summary><b>ANALYTIC NUMBER THEORY</b><br><i>On primes represented by aX^2+bY^3</i> &mdash; Jori Merikoski (Oxford)</summary>
   <small><img src="images/05-07.png" alt="May 7"></small>
 </details>
 
 <details>
-  <summary><b>NUMBER THEORY</b>. <i>A new approach to p-Hecke correspondences and Rapoport-Zink spaces</i>. Keerthi Madapusi (Boston College)</summary>
+  <summary><b>NUMBER THEORY</b><br><i>A new approach to p-Hecke correspondences and Rapoport-Zink spaces</i> &mdash; Keerthi Madapusi (Boston College)</summary>
   <small><img src="images/05-05.png" alt="May 5"></small>
 </details>
 
 <details>
-  <summary><b>REPRESENTATION THEORY</b>. <i>Fargues' categorical conjecture for elliptic parameters for SL(n)</i>. Kenta Suzuki (MIT)</summary>
+  <summary><b>REPRESENTATION THEORY</b><br><i>Fargues' categorical conjecture for elliptic parameters for SL(n)</i> &mdash; Kenta Suzuki (MIT)</summary>
   <small><img src="images/05-1.png" alt="May 1"></small>
 </details>
 
