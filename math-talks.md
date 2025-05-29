@@ -147,7 +147,7 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 </details>
 
 <details>
-  <summary><b>FARS &mdash; Sarah Peluse (Stanford)</b><br>&nbsp;&nbsp;&nbsp;
+  <summary><b>FACULTY AREA RESEARCH (FARS) &mdash; Sarah Peluse (Stanford)</b><br>&nbsp;&nbsp;&nbsp;
     <i>Finding multidimensional configurations in subsets of the integer grid</i></summary>
   <small><img src="images/05-08b.png" alt="May 8"></small>
 </details>
