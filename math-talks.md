@@ -69,7 +69,7 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 ### May
 
 <details>
-  <summary><b>COMBINATORICS</b>. <i>Some combinatorial applications of cyclotomic polynomials</i>. Richard Stanley (MIT & Miami)</summary>
+  <summary><b>COMBINATORICS</b><br><i>Some combinatorial applications of cyclotomic polynomials</i> &mdash; Richard Stanley (MIT & Miami)</summary>
   <small><img src="images/05-29a.png" alt="May 29"></small>
 </details>
 
