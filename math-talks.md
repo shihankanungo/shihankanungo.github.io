@@ -69,12 +69,12 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 ### May
 
 <details>
-  <summary><b>COMBINATORICS</b><br><i>Some combinatorial applications of cyclotomic polynomials</i> &mdash; Richard Stanley (MIT & Miami)</summary>
+  <summary><b>COMBINATORICS &mdash; Richard Stanley (MIT & Miami)</b><br><i>Some combinatorial applications of cyclotomic polynomials</i> </summary>
   <small><img src="images/05-29a.png" alt="May 29"></small>
 </details>
 
 <details>
-  <summary><b>DEPARTMENT COLLOQUIUM</b><br><i>Hilbert's 10th problem via additive combinatorics</i> &mdash; Carlo Pagano (Concordia University)</summary>
+  <summary><b>DEPARTMENT COLLOQUIUM - Carlo Pagano (Concordia University)</b><br><i>Hilbert's 10th problem via additive combinatorics</i></summary>
   <small><img src="images/05-29b.png" alt="May 29"></small>
 </details>
 
