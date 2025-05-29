@@ -69,103 +69,103 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 ### May
 
 <details>
-  <summary><b>COMBINATORICS &mdash; Richard Stanley (MIT & Miami)</b><br>&nbsp;&nbsp;&nbsp;
+  <summary><b>COMBINATORICS &mdash; Richard Stanley (MIT & Miami)</b><br>&nbsp;&nbsp;
     <i>Some combinatorial applications of cyclotomic polynomials</i> </summary>
   <small><img src="images/05-29a.png" alt="May 29"></small>
 </details>
 
 <details>
-  <summary><b>DEPARTMENT COLLOQUIUM &mdash; Carlo Pagano (Concordia University)</b><br>&nbsp;&nbsp;&nbsp;
+  <summary><b>DEPARTMENT COLLOQUIUM &mdash; Carlo Pagano (Concordia University)</b><br>&nbsp;&nbsp;
     <i>Hilbert's 10th problem via additive combinatorics</i></summary>
   <small><img src="images/05-29b.png" alt="May 29"></small>
 </details>
 
 <details>
-  <summary><b>ANALYTIC NUMBER THEORY &mdash; Carlo Pagano (Concordia University)</b><br>&nbsp;&nbsp;&nbsp;
+  <summary><b>ANALYTIC NUMBER THEORY &mdash; Carlo Pagano (Concordia University)</b><br>&nbsp;&nbsp;
     <i>2-descent in polynomial twist families</i></summary>
   <small><img src="images/05-28.png" alt="May 28"></small>
 </details>
 
 <details>
-  <summary><b>TOPOLOGY &mdash; Scotty Tilton (UCSD)</b><br>&nbsp;&nbsp;&nbsp;
+  <summary><b>TOPOLOGY &mdash; Scotty Tilton (UCSD)</b><br>&nbsp;&nbsp;
     <i>Exotic Diffeomorphisms: A Conversation Between Equivariant Stable Homotopy and Spin Four-Manifolds</i></summary>
   <small><img src="images/05-27.png" alt="May 27"></small>
 </details>
 
 <details>
-  <summary><b>KIDDIE COLLOQUIUM &mdash; Shintaro Fushida-Hardy (Stanford)</b><br>&nbsp;&nbsp;&nbsp;
+  <summary><b>KIDDIE COLLOQUIUM &mdash; Shintaro Fushida-Hardy (Stanford)</b><br>&nbsp;&nbsp;
     <i>Introduction to Pencil Puzzles</i></summary>
   <small><img src="images/05-22a.png" alt="May 22"></small>
 </details>
 
 <details>
-  <summary><b>DEPARTMENT COLLOQUIUM &mdash; Joshua Zahl (UBC)</b><br>&nbsp;&nbsp;&nbsp;
+  <summary><b>DEPARTMENT COLLOQUIUM &mdash; Joshua Zahl (UBC)</b><br>&nbsp;&nbsp;
     <i>The Kakeya set conjecture in three dimensions</i></summary>
   <small><img src="images/05-22b.png" alt="May 22"></small>
 </details>
 
 <details>
-  <summary><b>PROBABILITY &mdash; Zhenyuan Zhang (Stanford)</b><br>&nbsp;&nbsp;&nbsp;
+  <summary><b>PROBABILITY &mdash; Zhenyuan Zhang (Stanford)</b><br>&nbsp;&nbsp;
     <i>On the first passage times of spatial branching processes</i></summary>
   <small><img src="images/05-19b.png" alt="May 19"></small>
 </details>
 
 <details>
-  <summary><b>NUMBER THEORY &mdash; Kiseok Yeon (UC Davis)</b><br>&nbsp;&nbsp;&nbsp;
+  <summary><b>NUMBER THEORY &mdash; Kiseok Yeon (UC Davis)</b><br>&nbsp;&nbsp;
     <i>On forms in many variables of different degrees</i></summary>
   <small><img src="images/05-19a.png" alt="May 19"></small>
 </details>
 
 <details>
-  <summary><b>KIDDIE COLLOQUIUM &mdash; Stepan Kazanin (Stanford)</b><br>&nbsp;&nbsp;&nbsp;
+  <summary><b>KIDDIE COLLOQUIUM &mdash; Stepan Kazanin (Stanford)</b><br>&nbsp;&nbsp;
     <i>Classification Theorems</i></summary>
   <small><img src="images/05-15a.png" alt="May 15"></small>
 </details>
 
 <details>
-  <summary><b>DISTINGUISHED LECTURE &mdash; Martin Bridson (University of Oxford)</b><br>&nbsp;&nbsp;&nbsp;
+  <summary><b>DISTINGUISHED LECTURE &mdash; Martin Bridson (University of Oxford)</b><br>&nbsp;&nbsp;
     <i>Profinite rigidity: Chasing finite shadows of infinite groups through geometry</i></summary>
   <small><img src="images/05-15b.png" alt="May 15"></small>
 </details>
 
 <details>
-  <summary><b>NUMBER THEORY &mdash; Tongmu He (Princeton)</b><br>&nbsp;&nbsp;&nbsp;
+  <summary><b>NUMBER THEORY &mdash; Tongmu He (Princeton)</b><br>&nbsp;&nbsp;
     <i>Pointwise perfectoidness of Shimura varieties at infinite level</i></summary>
   <small><img src="images/05-12a.png" alt="May 12"></small>
 </details>
 
 <details>
-  <summary><b>PROBABILITY &mdash; Gabor Lugosi (Pompeu Fabra University)</b><br>&nbsp;&nbsp;&nbsp;
+  <summary><b>PROBABILITY &mdash; Gabor Lugosi (Pompeu Fabra University)</b><br>&nbsp;&nbsp;
     <i>Paths and cliques in random temporal graphs</i></summary>
   <small><img src="images/05-12b.png" alt="May 12"></small>
 </details>
 
 <details>
-  <summary><b>KIDDIE COLLOQUIUM &mdash; Romain Speciel (Stanford)</b><br>&nbsp;&nbsp;&nbsp;
+  <summary><b>KIDDIE COLLOQUIUM &mdash; Romain Speciel (Stanford)</b><br>&nbsp;&nbsp;
     <i>Quergodicity</i></summary>
   <small><img src="images/05-08a.png" alt="May 8"></small>
 </details>
 
 <details>
-  <summary><b>FACULTY AREA RESEARCH (FARS) &mdash; Sarah Peluse (Stanford)</b><br>&nbsp;&nbsp;&nbsp;
+  <summary><b>FACULTY AREA RESEARCH (FARS) &mdash; Sarah Peluse (Stanford)</b><br>&nbsp;&nbsp;
     <i>Finding multidimensional configurations in subsets of the integer grid</i></summary>
   <small><img src="images/05-08b.png" alt="May 8"></small>
 </details>
 
 <details>
-  <summary><b>ANALYTIC NUMBER THEORY &mdash; Jori Merikoski (Oxford)</b><br>&nbsp;&nbsp;&nbsp;
+  <summary><b>ANALYTIC NUMBER THEORY &mdash; Jori Merikoski (Oxford)</b><br>&nbsp;&nbsp;
     <i>On primes represented by aX^2+bY^3</i></summary>
   <small><img src="images/05-07.png" alt="May 7"></small>
 </details>
 
 <details>
-  <summary><b>NUMBER THEORY &mdash; Keerthi Madapusi (Boston College)</b><br>&nbsp;&nbsp;&nbsp;
+  <summary><b>NUMBER THEORY &mdash; Keerthi Madapusi (Boston College)</b><br>&nbsp;&nbsp;
     <i>A new approach to p-Hecke correspondences and Rapoport-Zink spaces</i></summary>
   <small><img src="images/05-05.png" alt="May 5"></small>
 </details>
 
 <details>
-  <summary><b>REPRESENTATION THEORY &mdash; Kenta Suzuki (MIT)</b><br>&nbsp;&nbsp;&nbsp;
+  <summary><b>REPRESENTATION THEORY &mdash; Kenta Suzuki (MIT)</b><br>&nbsp;&nbsp;
     <i>Fargues' categorical conjecture for elliptic parameters for SL(n)</i></summary>
   <small><img src="images/05-1.png" alt="May 1"></small>
 </details>
@@ -173,7 +173,7 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 ### April
 
 <details>
-  <summary><b>ANALYSIS &mdash; Yuefong Song (Stanford)</b><br>&nbsp;&nbsp;&nbsp;
+  <summary><b>ANALYSIS &mdash; Yuefong Song (Stanford)</b><br>&nbsp;&nbsp;
     <i>Fluids I</i></summary>
   <small><img src="images/04-04.png" alt="Apr 4"></small>
 </details>
@@ -181,25 +181,25 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 ### March
 
 <details>
-  <summary><b>BERGMAN LECTURE &mdash; Allan Sly (Princeton)</b><br>&nbsp;&nbsp;&nbsp;
+  <summary><b>BERGMAN LECTURE &mdash; Allan Sly (Princeton)</b><br>&nbsp;&nbsp;
     <i>Stochastic Blocks Models: Detection and Recovery</i></summary>
   <small><img src="images/03-17.png" alt="Mar 17"></small>
 </details>
 
 <details>
-  <summary><b>PROBABILITY &mdash; Youngtak Sohn (Brown)</b><br>&nbsp;&nbsp;&nbsp;
+  <summary><b>PROBABILITY &mdash; Youngtak Sohn (Brown)</b><br>&nbsp;&nbsp;
     <i>Stochastic block model with many communities</i></summary>
   <small><img src="images/03-31.png" alt="Mar 31"></small>
 </details>
 
 <details>
-  <summary><b>BERGMAN LECTURE &mdash; Allan Sly (Princeton)</b><br>&nbsp;&nbsp;&nbsp;
+  <summary><b>BERGMAN LECTURE &mdash; Allan Sly (Princeton)</b><br>&nbsp;&nbsp;
     <i>Spatial shuffling: Large Cycles in the Interchange ​Process in dimension 5</i></summary>
   <small><img src="images/03-13.png" alt="Mar 13"></small>
 </details>
 
 <details>
-  <summary><b>LECTURES &mdash; David Jerison (MIT)</b><br>&nbsp;&nbsp;&nbsp;
+  <summary><b>LECTURES &mdash; David Jerison (MIT)</b><br>&nbsp;&nbsp;
     <i>How Curved are Level Sets of Eigenfunctions?</i></summary>
   <small><img src="images/03-04.png" alt="Mar 4"></small>
 </details>
@@ -207,7 +207,7 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 ### February
 
 <details>
-  <summary><b>DEPARTMENT COLLOQUIUM &mdash; Mehtaab Sawhney (Columbia)</b><br>&nbsp;&nbsp;&nbsp; 
+  <summary><b>DEPARTMENT COLLOQUIUM &mdash; Mehtaab Sawhney (Columbia)</b><br>&nbsp;&nbsp;
     <i>Improved Bounds for Szemerédi's Theorem</i></summary>
   <small><img src="images/02-27.png" alt="Feb 27"></small>
 </details>
