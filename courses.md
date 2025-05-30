@@ -47,7 +47,7 @@ Here are the courses grouped by subject area, along with a short description of 
   <small>Continuous and discrete systems; stability of equilibria and closed orbits, structural stability.</small> <br>
   <small><small>Textbook: Hirsch, Smale, and Devaney. <i>Differential Equations, Dynamical Systems, and an Introduction to Chaos.</i></small></small>
 
-- **MATH 285A** *Stochastic Methods*. Spring 2025. SJSU (current)<br>
+- **MATH 285A** *Stochastic Methods*. Spring 2025. SJSU (A)<br>
   <small>Monte Carlo methods, Metropolis-Hastings algorithm, random-number generation.</small> <br>
   <small><small>Textbook: Kalos and Whitlock. <i>Monte Carlo Methods.</i></small></small>
 
