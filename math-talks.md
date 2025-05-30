@@ -69,6 +69,12 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 ### May
 
 <details>
+  <summary><b>FACULTY AREA RESEARCH (FARS) &mdash; Jan Vondrak (Stanford)</b><br>&nbsp;&nbsp;
+    <i>The "core" conjecture for approval-based elections</i></summary>
+  <small><img src="images/05-30.png" alt="May 30"></small>
+</details>
+
+<details>
   <summary><b>COMBINATORICS &mdash; Richard Stanley (MIT & Miami)</b><br>&nbsp;&nbsp;
     <i>Some combinatorial applications of cyclotomic polynomials</i> </summary>
   <small><img src="images/05-29a.png" alt="May 29"></small>
