@@ -12,13 +12,16 @@ title: Wrapped (2025)
 - *Siddhartha* by Herman Hesse. 1922
 - *Love Story* by Erich Segal. 1970
 - *Jonathan Livingston Seagull* by Richard Bach. 1970
-- *The Eye of the World* by Robert Jordan. 1990
-- *The Great Hunt* by Robert Jordan. 1990
-- *A Pale View of Hills* by Kazuo Ishiguro. 1982
-- *An Artist of the Floating World* by Kazuo Ishiguro. 1986
-- *Remains of the Day* by Kazuo Ishiguro. 1989
-- *Never Let Me Go* by Kazuo Ishiguro. 2005
-- *Klara and the Sun* by Kazuo Ishiguro. 2021
+- **Robert Jordan** &mdash; ***The Wheel of Time*** trilogy <br>
+  *The Eye of the World*. 1990 <br>
+  *The Great Hunt*. 1990 <br>
+  *The Dragon Reborn. 1991
+- **Kazuo Ishiguro** <br>
+  *A Pale View of Hills*. 1982 <br>
+  *An Artist of the Floating World*. 1986 <br>
+  *Remains of the Day*. 1989 <br>
+  *Never Let Me Go*. 2005 <br>
+  *Klara and the Sun*. 2021
 - *American Gods* by Neil Gaiman. 2001
 
 ### Non-fiction
