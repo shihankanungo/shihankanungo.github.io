@@ -12,7 +12,7 @@ title: Wrapped (2025)
 - *Siddhartha* by Herman Hesse. 1922
 - *Love Story* by Erich Segal. 1970
 - *Jonathan Livingston Seagull* by Richard Bach. 1970
-- **Robert Jordan** &mdash; ***The Wheel of Time*** trilogy <br>
+- **Robert Jordan** &mdash; ***The Wheel of Time*** **trilogy**  <br>
   *The Eye of the World*. 1990 <br>
   *The Great Hunt*. 1990 <br>
   *The Dragon Reborn. 1991
