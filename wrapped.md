@@ -15,7 +15,7 @@ title: Wrapped (2025)
 - **Robert Jordan** &mdash; ***The Wheel of Time*** **trilogy**  <br>
   *The Eye of the World*. 1990 <br>
   *The Great Hunt*. 1990 <br>
-  *The Dragon Reborn. 1991
+  *The Dragon Reborn*. 1991
 - **Kazuo Ishiguro** <br>
   *A Pale View of Hills*. 1982 <br>
   *An Artist of the Floating World*. 1986 <br>
