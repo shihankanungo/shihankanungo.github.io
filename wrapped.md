@@ -29,9 +29,9 @@ title: Wrapped (2025)
 - *Oranges* by John McPhee. 1967
 - *A People's History of the United States* by Howard Zinn. 1980
 - *London: The Biography* by Peter Ackroyd. 2000
-- *Elliptic Tales: Curves, Counting, and Number Theory* by Avner Ash and Robert Gross. 2012
-- *Never Split The Difference: Negotiating As If Your Life Depended On It* by Christopher Voss, Tahl Raz. 2016
-- *Purpose: What Evolution and Human Nature Imply about the Meaning of Our Existence* by Samuel Wilkinson. 2024
+- *Elliptic Tales: Curves, Counting, and Number Theory* <br> by Avner Ash and Robert Gross. 2012
+- *Never Split The Difference: Negotiating As If Your Life Depended On It* <br> by Christopher Voss, Tahl Raz. 2016
+- *Purpose: What Evolution and Human Nature Imply about the Meaning of Our Existence* <br> by Samuel Wilkinson. 2024
 
 ## Movies
 
