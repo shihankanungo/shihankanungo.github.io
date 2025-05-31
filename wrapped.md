@@ -44,24 +44,28 @@ title: Wrapped (2025)
 - Top Gun (1986 d. Tony Scott)
 - Good Will Hunting (1997 d. Gus Van Sant)  👍
 - Juno (2007 d. Jason Reitman)
-- Hard Problems: The Road to the World's Toughest Math Contest (2008 d. George Paul Csicsery)
 - Kung Fu Panda (2008 d. John Stevenson and Mark Osborne)
 - Easy A (2010 d. Will Gluck)
 - Zero Dark Thirty (2012 d. Kathryn Bigelow)
-- The Hunger Games (2012 d. Gary Ross)
-- The Hunger Games: Catching Fire (2013 d. Francis Lawrence)
-- The Hunger Games: Mockingjay – Part 1 (2014 d. Francis Lawrence)
-- The Hunger Games: Mockingjay – Part 2 (2015 d. Francis Lawrence)
 - Love, Simon (2018 d. Greg Berlanti)
-- Miss Americana (2020 d. Lana Wilson)
-- Secrets of the Surface: The Mathematical Vision of Maryam Mirzakhani (2020 d. George Paul Csicsery)
 - Hundreds of Beavers (2022 d. Mike Cheslik) 👍
 - Robot Dreams (2024 d. Pablo Berger)
 - Memoir of a Snail (2024 d. Adam Elliot)
 - Flow (2024 d. Gints Zilbalodis)
-- Becoming Led Zeppelin (2025 d. Bernard MacMahon)
-- Pink Floyd at Pompeii – MCMLXXII (2025 d. Adrian Maben)
-- We Want The Funk! (2025 d. Stanley Nelson and Nicole London) 👍 <br> <small>_PBS Independent Lens documentary_</small>
+- **George Paul Csicsery** <br>
+  Hard Problems: The Road to the World's Toughest Math Contest (2008) <br>
+  Secrets of the Surface: The Mathematical Vision of Maryam Mirzakhani (2020)
+- **The Hunger Games** <br>
+  The Hunger Games (2012 d. Gary Ross) <br>
+  The Hunger Games: Catching Fire (2013 d. Francis Lawrence) <br>
+  The Hunger Games: Mockingjay – Part 1 (2014 d. Francis Lawrence) <br>
+  The Hunger Games: Mockingjay – Part 2 (2015 d. Francis Lawrence)
+- **Music documentaries** <br>
+  Miss Americana (2020 d. Lana Wilson) <br>
+  Becoming Led Zeppelin (2025 d. Bernard MacMahon) <br>
+  Pink Floyd at Pompeii – MCMLXXII (2025 d. Adrian Maben) <br>
+  We Want The Funk! (2025 d. Stanley Nelson and Nicole London) 👍 <br> <small>_PBS Independent Lens documentary_</small>
+
 
 
 ## Music 
