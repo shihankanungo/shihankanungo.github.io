@@ -70,6 +70,18 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 ### June
 
 <details>
+  <summary><b>KIDDIE COLLOQUIUM &mdash; Milo Marsden (Stanford University)</b><br>&nbsp;&nbsp;
+    <i>Eigenvalues of Wigner Matrices: A dip into Random Matrix Theory</i></summary>
+  <small><img src="images/06-05a.png" alt="June 5"></small>
+</details>
+
+<details>
+  <summary><b>DEPARTMENT COLLOQUIUM &mdash; Aravind Asok (USC)</b><br>&nbsp;&nbsp;
+    <i>Constructing projective modules</i></summary>
+  <small><img src="images/06-05b.png" alt="June 5"></small>
+</details>
+
+<details>
   <summary><b>NUMBER THEORY &mdash; David Zywina (Cornell)</b><br>&nbsp;&nbsp;
     <i>There are infinitely many elliptic curves over the rationals of rank 2</i></summary>
   <small><img src="images/06-02a.png" alt="June 2"></small>
