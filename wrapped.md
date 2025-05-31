@@ -37,9 +37,10 @@ title: Wrapped (2025)
 
 > "It's not what a movie is about, it's how it is about it." --- Roger Ebert 
 
-- City Lights (1931 d. Charlie Chaplin)
-- Modern Times (1936 d. Charlie Chaplin)
-- The Great Dictator (1940 d. Charlie Chaplin)  👍
+- **Charlie Chaplin** <br>
+  City Lights (1931 d. Charlie Chaplin) <br>
+  Modern Times (1936 d. Charlie Chaplin) <br>
+  The Great Dictator (1940 d. Charlie Chaplin)  👍
 - Alice Doesn't Live Here Anymore (1974 d. Martin Scorsese)
 - Top Gun (1986 d. Tony Scott)
 - Good Will Hunting (1997 d. Gus Van Sant)  👍
