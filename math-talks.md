@@ -66,6 +66,21 @@ _Floer cohomology and invariants of singularities_ <br>
 _Finding Arithmetic Progressions in Dense Sets of Integers_
 
 ## Stanford University, Math Department Talks
+
+### June
+
+<details>
+  <summary><b>NUMBER THEORY &mdash; David Zywina (Cornell)</b><br>&nbsp;&nbsp;
+    <i>There are infinitely many elliptic curves over the rationals of rank 2</i></summary>
+  <small><img src="images/06-02a.png" alt="June 2"></small>
+</details>
+
+<details>
+  <summary><b>PROBABILITY &mdash; Chun Yin Siu (Stanford Psychiatry)</b><br>&nbsp;&nbsp;
+    <i>Random topology: The topology of preferential attachment graphs</i></summary>
+  <small><img src="images/06-02b.png" alt="June 2"></small>
+</details>
+
 ### May
 
 <details>
