@@ -22,7 +22,7 @@ title: Honors and Awards
 - **Math Kangaroo, Level 12**. *4th in USA*. 2022
 - **The Spirit of Ramanujan STEM Talent Initiative**. *Spirit of Ramanujan Fellow*. 2023
 - **WSS**. *World Science Scholar*. 2024
-- **Global Child Prodigy Awards**. *Recipient*. 2025
+- **2025 Global Child Prodigy Awards**. *Recipient*. 2025
 
 ## Music
 
