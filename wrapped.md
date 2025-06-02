@@ -45,14 +45,15 @@ title: Wrapped (2025)
 - Top Gun (1986 d. Tony Scott)
 - Good Will Hunting (1997 d. Gus Van Sant)  👍
 - Juno (2007 d. Jason Reitman)
-- Kung Fu Panda (2008 d. John Stevenson and Mark Osborne)
 - Easy A (2010 d. Will Gluck)
 - Zero Dark Thirty (2012 d. Kathryn Bigelow)
 - Love, Simon (2018 d. Greg Berlanti)
-- Hundreds of Beavers (2022 d. Mike Cheslik) 👍
-- Robot Dreams (2024 d. Pablo Berger)
-- Memoir of a Snail (2024 d. Adam Elliot)
-- Flow (2024 d. Gints Zilbalodis)
+- **Animation** <br>
+  Kung Fu Panda (2008 d. John Stevenson and Mark Osborne) <br>
+  Hundreds of Beavers (2022 d. Mike Cheslik) 👍
+  Robot Dreams (2024 d. Pablo Berger)
+  Memoir of a Snail (2024 d. Adam Elliot)
+  Flow (2024 d. Gints Zilbalodis)
 - **George Paul Csicsery** <br>
   Hard Problems: The Road to the World's Toughest Math Contest (2008) <br>
   Secrets of the Surface: The Mathematical Vision of Maryam Mirzakhani (2020)
