@@ -50,10 +50,10 @@ title: Wrapped (2025)
 - Love, Simon (2018 d. Greg Berlanti)
 - **Animation** <br>
   Kung Fu Panda (2008 d. John Stevenson and Mark Osborne) <br>
-  Hundreds of Beavers (2022 d. Mike Cheslik) 👍
-  Robot Dreams (2024 d. Pablo Berger)
-  Memoir of a Snail (2024 d. Adam Elliot)
-  Flow (2024 d. Gints Zilbalodis)
+  Hundreds of Beavers (2022 d. Mike Cheslik) 👍  <br>
+  Robot Dreams (2024 d. Pablo Berger) <br>
+  Memoir of a Snail (2024 d. Adam Elliot) <br>
+  Flow (2024 d. Gints Zilbalodis) <br>
 - **George Paul Csicsery** <br>
   Hard Problems: The Road to the World's Toughest Math Contest (2008) <br>
   Secrets of the Surface: The Mathematical Vision of Maryam Mirzakhani (2020)
