@@ -82,6 +82,12 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 </details>
 
 <details>
+  <summary><b>REPRESENTATION THEORY &mdash; Jeremy Taylor (UC Berkeley)</b><br>&nbsp;&nbsp;
+    <i>The universal monodromic Bezrukavnikov equivalence</i></summary>
+  <small><img src="images/06-05c.png" alt="June 5"></small>
+</details>
+
+<details>
   <summary><b>DEPARTMENT COLLOQUIUM &mdash; Aravind Asok (USC)</b><br>&nbsp;&nbsp;
     <i>Constructing projective modules</i></summary>
   <small><img src="images/06-05b.png" alt="June 5"></small>
