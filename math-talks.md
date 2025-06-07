@@ -70,12 +70,6 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 ### June
 
 <details>
-  <summary><b>FACULTY AREA RESEARCH (FARS) &mdash; Amir Dembo (Stanford)</b><br>&nbsp;&nbsp;
-    <i>Ferromagnetic Potts measures on large locally tree-like graphs</i></summary>
-  <small><img src="images/06-06.png" alt="June 6"></small>
-</details>
-
-<details>
   <summary><b>KIDDIE COLLOQUIUM &mdash; Milo Marsden (Stanford University)</b><br>&nbsp;&nbsp;
     <i>Eigenvalues of Wigner Matrices: A dip into Random Matrix Theory</i></summary>
   <small><img src="images/06-05a.png" alt="June 5"></small>
