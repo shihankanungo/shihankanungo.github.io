@@ -9,7 +9,7 @@ title: Honors and Awards
 - **MOP (Mathematical Olympiad Program).** *'Blue' MOP*. 2025
 - **The 85th Putnam Mathematical Competition.** *Honorable mention*, rank 58. 2024
 - **USAPhO (USA Physics Olympiad, AAPT)**. *Gold medal* and *US Physics Team*. 2024
-- **MIT PRIMES-USA (PRIMES: Program for Research in Mathematics, Engineering and Science for High School Students)**. *Researcher*. 2023, 2024, 2025
+- **MIT PRIMES-USA (PRIMES: Program for Research in Mathematics, Engineering and Science)**. *Researcher*. 2023, 2024, 2025
   - Combinatorics. *Saturation Problems for Sequences*. 2025
   - Representation Theory. *Representations of Twisted Yangians in Complex Rank*. 2024
   - Representation Theory. *Representations of Lie Superalgebras*. 2024
