@@ -45,7 +45,7 @@ I’m excited for MOP. I think that I will have a great time, and make a lot of 
 
 ![mop-classes](images/mop-classes.png)
 
-<p align="center"><img src="/images/mop-classes.png" width="400" /></p>
+<p align="center"><img src="/images/mop-classes.png" width="800" /></p>
 
 ### Music
 
