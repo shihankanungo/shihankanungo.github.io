@@ -6,7 +6,7 @@ This year, MAA’s Mathematical Olympiad Program (MOP '25) is at the *Illinois M
 
 ## Table of contents
 - [Table of contents](#table-of-contents)
-- [The start](#the-start)
+- [Day 1](#day-1)
 - [The middle](#the-middle)
 - [The end](#the-end)
 
