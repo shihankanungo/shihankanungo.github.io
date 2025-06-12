@@ -33,9 +33,11 @@ A bunch of MOPpers started throwing olympiad problems at each other when we were
 
 The general community at MOP is quite friendly and inclusive. People play a lot of cards, and we also played pickleball.
 
-I’m rooming with Evan Fan, another junior. I like him quite a bit, and he reminds me of Allen Li from physics camp.
+Our rooms are pretty good; exactly like the pictures Hannah shared. We overlook a really nice view from the window. I’m sharing the room with Evan Fan, another junior. I like him quite a bit, and he reminds me of Allen Li from physics camp.
 
 <p align="center"><img src="/images/mop1.jpeg" width="400" /></p>
+
+Yoll is exactly like Jerry Guo, but nicer I think; he is also quite funny! I will be going for a run in the morning with Liam. 
 
 I’m excited for MOP. I think that I will have a great time, and make a lot of friends.
 
