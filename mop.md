@@ -27,7 +27,7 @@ In the evening, we had a fabulous dinner at _Kama Bistro_ --- black pepper lamb 
 
 ## [Day 1](#day-1)
 
-**Wednedsay, June 11, 2025**.
+### Wednedsay, June 11, 2025.
 
 A bunch of MOPpers started throwing olympiad problems at each other when we were roaming through the IMSA halls. It was quite fun!
 
@@ -38,6 +38,10 @@ I’m rooming with Evan Fan, another junior. I like him quite a bit, and he remi
 <p align="center"><img src="/images/mop1.jpeg" width="400" /></p>
 
 I’m excited for MOP. I think that I will have a great time, and make a lot of friends.
+
+### Music
+
+**Cosmic Ear: Traces** (2025, We Jazz) \[[Spotify](https://open.spotify.com/album/5w9BePfYZwwK2aaXq3HnJt?si=VkKfQ_4zRbyjpuH4Fodwpw)\]<br> New free jazz group, mostly well known Scandinavians remembering and revering Don Cherry: Christer Bothén (bass/contrabass clarinet, ngoni, piano); Mats Gustafsson (tenor sax, flutes, clarinets, electronics, organ, harmonica); Goran Kajfes (trumpets, electronics); Kansan Zetterberg (bass, ngoni); Juan Romero (percussion, berimbau, congas); with "special guest" Manane N Lemwo (kangnan). 
 
 
 ## [The middle](#the-middle)
