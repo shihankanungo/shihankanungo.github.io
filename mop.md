@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MOP (June 11--July 2, 2025)
+title: MOP (June 11&mdash;July 2, 2025)
 ---
 
 
