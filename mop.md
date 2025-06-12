@@ -41,9 +41,16 @@ Yoll is exactly like Jerry Guo, but nicer I think; he is also quite funny! I wil
 
 I’m excited for MOP. I think that I will have a great time, and make a lot of friends.
 
+### Schedule of classes
+
+![mop-classes](images/mop-classes.png)
+
+<p align="center"><img src="/images/mop-classes.png" width="400" /></p>
+
 ### Music
 
 **Cosmic Ear: Traces** (2025, We Jazz) \[[Spotify](https://open.spotify.com/album/5w9BePfYZwwK2aaXq3HnJt?si=VkKfQ_4zRbyjpuH4Fodwpw)\]<br> New free jazz group, mostly well known Scandinavians remembering and revering Don Cherry: Christer Bothén (bass/contrabass clarinet, ngoni, piano); Mats Gustafsson (tenor sax, flutes, clarinets, electronics, organ, harmonica); Goran Kajfes (trumpets, electronics); Kansan Zetterberg (bass, ngoni); Juan Romero (percussion, berimbau, congas); with "special guest" Manane N Lemwo (kangnan). 
+
 
 
 ## [The middle](#the-middle)
