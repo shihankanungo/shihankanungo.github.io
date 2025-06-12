@@ -12,15 +12,15 @@ This year, MAA’s Mathematical Olympiad Program (MOP '25) is at the *Illinois M
 
 Reached Chicago a few days early and stayed at *The Chicago Marriott Southwest at Burr Ridge* – fantastic hotel! Our room overlooked a beautiful view with a pond within a lush green rolling meadow. 
 
-<p align="center"><img src="/images/burr-ridge.png" width="200" /></p>
+<p align="center"><img src="/images/burr-ridge.png" width="500" /></p>
 
 Dinner on Sunday was pizza at _Stix and Stones_ which was incredible. On Monday I met with Isaac at Univ. of Chicago. 
 
-<p align="center"><img src="/images/isaac.jpg" width="200" /></p>
+<p align="center"><img src="/images/isaac.jpg" width="300" /></p>
 
 In the evening, we had a fabulous dinner at _Kama Bistro_ --- black pepper lamb and achari chicken. I met with Arun on Tuesday at _Cupitol Coffee & Eatery_. We then had lunch at _Momo Factory_. Wednesday morning, mama and baba dropped me off at Terminal 2 of the Chicago O'Hare International Airport for the 1145AM shuttle to IMSA.
 
-<p align="center"><img src="/images/mop0.jpg" width="200" /></p>
+<p align="center"><img src="/images/mop0.jpg" width="300" /></p>
 
 
 ## [Day 1](#day-1)
