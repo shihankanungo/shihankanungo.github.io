@@ -14,7 +14,7 @@ Reached Chicago a few days early and stayed at *The Chicago Marriott Southwest a
 
 <p align="center"><img src="/images/burr-ridge.png" width="500" /></p>
 
-Dinner on Sunday was pizza at _Stix and Stones_ which was incredible. On Monday I met with Isaac at Univ. of Chicago. 
+Dinner on Sunday was pizza at _Stix and Stones_ which was incredible. <br> On Monday I met with Isaac at Univ. of Chicago. 
 
 <p align="center"><img src="/images/isaac.jpg" width="300" /></p>
 
