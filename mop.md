@@ -49,7 +49,7 @@ I’m excited for MOP. I think that I will have a great time, and make a lot of 
 
 ### Thursday, June 12, 2025.
 
-<p align="center"><img src="/images/mop2a.jpeg" width="400" /> <img src="/images/mop2b.jpeg" width="400" /> </p>
+<p align="center"><img src="/images/mop2a.png" width="400" /> <img src="/images/mop2b.png" width="400" /> </p>
 
 ### Music
 
