@@ -35,7 +35,7 @@ The general community at MOP is quite friendly and inclusive. People play a lot 
 
 Our rooms are pretty good; exactly like the pictures Hannah shared. We overlook a really nice view from the window. I’m sharing the room with Evan Fan, another junior. I like him quite a bit, and he reminds me of Allen Li from physics camp.
 
-<p align="center"><img src="/images/mop1.jpeg" width="400" /> <br> <span style="color: blue"> Evan Fan &mdash; my roommate! </span> </p> 
+<p align="center"><img src="/images/mop1.jpeg" width="400" /> <br> <span style="color: gray"> Evan Fan &mdash; my roommate! </span> </p> 
 
 Yoll is exactly like Jerry Guo, but nicer I think; he is also quite funny! I will be going for a run in the morning with Liam. 
 
@@ -58,7 +58,7 @@ I met Aryan Raj on the bus to IMSA. I like talking to him a lot; I think it is b
 I had a lot of fun at MOP today. Tomorrow is our first test. Time to lock in!
 
 
-<p align="center"><img src="/images/mop2a.png" width="200" /> <img src="/images/mop2b.png" width="200" /> </p>
+<p align="center"><img src="/images/mop2a.png" width="300"/><img src="/images/mop2b.png" width="300"/> <br> <span style="color: gray"> with Jonathan Du </span> </p>
 
 ### Music
 
