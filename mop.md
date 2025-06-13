@@ -41,7 +41,7 @@ Yoll is exactly like Jerry Guo, but nicer I think; he is also quite funny! I wil
 
 I’m excited for MOP. I think that I will have a great time, and make a lot of friends.
 
-### Schedule of classes
+### Schedule of classes ("Blue" group)
 
 ![mop-classes](images/mop-classes.png)
 
