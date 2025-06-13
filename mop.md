@@ -58,7 +58,7 @@ I met Aryan Raj on the bus to IMSA. I like talking to him a lot; I think it is b
 I had a lot of fun at MOP today. Tomorrow is our first test. Time to lock in!
 
 
-<p align="center"><img src="/images/mop2a.png" width="300"/><img src="/images/mop2b.png" width="300"/> <br> <span style="color: gray"> with Jonathan Du </span> </p>
+<p align="center"><img src="/images/mop2b.png" width="400"/> <br> <span style="color: gray"> with Jonathan Du </span> </p>
 
 ### Music
 
