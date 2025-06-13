@@ -35,7 +35,7 @@ The general community at MOP is quite friendly and inclusive. People play a lot 
 
 Our rooms are pretty good; exactly like the pictures Hannah shared. We overlook a really nice view from the window. I’m sharing the room with Evan Fan, another junior. I like him quite a bit, and he reminds me of Allen Li from physics camp.
 
-<p align="center"><img src="/images/mop1.jpeg" width="400" /></p>
+<p align="center"><img src="/images/mop1.jpeg" width="400" /> <br> Evan Fan &mdash; my roommate! </p> 
 
 Yoll is exactly like Jerry Guo, but nicer I think; he is also quite funny! I will be going for a run in the morning with Liam. 
 
@@ -48,6 +48,15 @@ I’m excited for MOP. I think that I will have a great time, and make a lot of 
 ## [Day 2](#day-2)
 
 ### Thursday, June 12, 2025.
+
+We had our first MOP classes today: on prime powers and hidden graphs in combo problems. I enjoyed both of them, and what I really appreciated were the little insights that the instructors gave us while walking us through the solutions. I also presented my 17-page solution in MOP homework review.
+
+MOP loves to play sports! I went for a run with Liam, Tiger, and Aryan in the morning. I think that this is going to be the running group. All four of us are serious. I also played basketball for an hour, and then played Frisbee for an hour. I played for 3 hours today ... would make Baba proud!
+
+I met Aryan Raj on the bus to IMSA. I like talking to him a lot; I think it is because we are on the same wavelength about many things.
+
+I had a lot of fun at MOP today. Tomorrow is our first test. Time to lock in!
+
 
 <p align="center"><img src="/images/mop2a.png" width="400" /> <img src="/images/mop2b.png" width="400" /> </p>
 
