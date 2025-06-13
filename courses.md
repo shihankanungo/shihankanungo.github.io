@@ -39,7 +39,7 @@ Here are the courses grouped by subject area, along with a short description of 
   <small>Function spaces and their duals, operators on function spaces, applications to analysis.</small> <br>
   <small><small>Textbook: Debnath and Mikusiński. <i>Introduction to Hilbert Spaces with Applications</i>.</small></small>
 
-- **MATH 233A** *Applied Mathematics I*. Spring 2025. SJSU (current)<br>
+- **MATH 233A** *Applied Mathematics I*. Spring 2025. SJSU (A+)<br>
   <small>Initial and boundary value problems for hyperbolic, parabolic and elliptic equations. Fourier series and transforms. Nonlinear partial differential equations.</small> <br>
   <small><small>Textbook: Peter John Olver. <i>Introduction to Partial Differential Equations.</i></small></small>
 
