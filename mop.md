@@ -45,6 +45,11 @@ I’m excited for MOP. I think that I will have a great time, and make a lot of 
 
 ![mop-classes](images/mop-classes.png)
 
+## [Day 2](#day-2)
+
+### Thursday, June 12, 2025.
+
+<p align="center"><img src="/images/mop2a.jpeg" width="400" /> <img src="/images/mop2b.jpeg" width="400" /> </p>
 
 ### Music
 
