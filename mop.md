@@ -57,7 +57,7 @@ ELMO teams were decided; Jonathan told me I was in the first draft.
 
 <p align="center"><img src="/images/mop2b.png" width="400"/> <br> <span style="color: gray"> with Jonathan Du </span> </p>
 
-There are 7 teams in ELMO and they compete for the best score. Its a team captain format &mdash; each captain is one of the returners. I found out that I'm on team **xooks** (captains: Calvin Wang and Oron Wang) and my team id is XOO7 ... so I guess that makes me James Bond!
+There are 7 teams in ELMO and they compete for the best score. Its a team captain format &mdash; each captain is one of the returners. I found out that I'm on team **Xooks** (captains: Calvin Wang and Oron Wang) and my team id is XOO7 ... so I guess that makes me James Bond!
 
 I met Aryan Raj on the bus to IMSA. I like talking to him a lot; I think it is because we are on the same wavelength about many things.
 
