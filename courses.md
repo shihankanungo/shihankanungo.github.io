@@ -168,3 +168,5 @@ I haven't taken a formal course in representation theory, but I gained substanti
 - **Combinatorics**. Winter 2020. Euler Circle <br>
   <small>Binomial coefficients, double-counting; Stirling numbers; counting labeled trees.</small>
 
+  <br><br><br>
+
