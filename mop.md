@@ -24,6 +24,10 @@ In the evening, we had a fabulous dinner at _Kama Bistro_ --- black pepper lamb 
 
 <p align="center"><img src="/images/mop0.jpg" width="300" /></p>
 
+### Schedule of classes ("Blue" group)
+
+![mop-classes](images/mop-classes.png)
+
 
 ## [Day 1](#day-1)
 
@@ -41,9 +45,6 @@ Yoll is exactly like Jerry Guo, but nicer I think; he is also quite funny! I wil
 
 I’m excited for MOP. I think that I will have a great time, and make a lot of friends.
 
-### Schedule of classes ("Blue" group)
-
-![mop-classes](images/mop-classes.png)
 
 ## [Day 2](#day-2)
 
