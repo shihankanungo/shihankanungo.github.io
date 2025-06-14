@@ -73,7 +73,7 @@ We had a 2-Sigma dinner, where they gave a presentation and also got us free bob
 
 Today I found out that Liam skipped two grades &mdash; just like me! He is a very nice person, and he cares about other people. He will always help you out if you ask him.
 
-ELMO is tomorrow. I’m feeling good about it -- coming in strong after the MOP test. I will skip my run tomorrow&mdash;after all, it’s Saturday. I will also be doing my laundry.
+ELMO is tomorrow. I’m feeling good about it &mdash; coming in strong after the MOP test. I will skip my run tomorrow&mdash;after all, it’s Saturday. I will also be doing my laundry.
 
 
 ### Music
