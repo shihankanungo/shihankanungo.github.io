@@ -67,7 +67,7 @@ I had a lot of fun at MOP today. Tomorrow is our first test. Time to lock in!
 
 ### Friday, June 13, 2025.
 
-The MOP classes today were both lecture-based: we had an inequalities class, which was just analysis and Lagrange multipliers, and a class on cubic curves which was very interesting, but I have no clue how to apply it. We also had our first MOP test, which I did reasonably well on (expecting 750).
+The MOP classes today were both lecture-based: we had an inequalities class, which was just analysis and Lagrange multipliers, and a class on cubic curves which was very interesting, but I have no clue how to apply it. We also had our first MOP test, which I did reasonably well on (expecting 750). I spent a lot of time on P2 with a completely wrong idea but I ultimately figured it out. However I didn't have time to fully finish the writeup &mdash; I got to a point where the finish is quite easy. Also, my solution has a small (patchable) error.
 
 We had a 2-Sigma dinner, where they gave a presentation and also got us free boba. The boba was good, but Arun’s explanation of what quants do was much better than the presentation.
 
