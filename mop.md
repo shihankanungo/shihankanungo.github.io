@@ -74,7 +74,21 @@ We had a 2-Sigma dinner, where they gave a presentation and also got us free bob
 
 Today I found out that Liam skipped two grades &mdash; just like me! He is a very nice person, and he cares about other people. He will always help you out if you ask him.
 
+<p align="center"><img src="/images/mop3.png" width="400"/> <br> <span style="color: gray"> with Liam Reddy and Aryan Raj </span> </p>
+
 ELMO is tomorrow. I’m feeling good about it &mdash; coming in strong after the MOP test. I will skip my run tomorrow&mdash;after all, it’s Saturday. I will also be doing my laundry.
+
+## [Day 4](#day-4)
+
+### Saturday, June 14, 2025.
+
+Today was ELMO day 1. Dotted decided to troll us by making the ELMO as the “Error-Ridden Math Olympiad”, where all the problems were covered with random error messages and one of them was in Japanese. The ELSMO (which is supposed to be the troll version) was the “Elmo Loves Swapping Math Olympiads”, and was the actual test. I got P1 pretty quickly: it was an arrow problem. P2 was easy for me as well, mostly because I was able to reduce it to a problem from the Blue MOP combinatorics class (which I solved). I then proceeded to spend 3 hours on P3, continually fakesolving and patching my solution until I finally got it. But right after the test, I realized that I got the wrong answer, and then someone pointed out that I misread the problem. It turns out that this happened to a bunch of people, and I was feeling very grumpy about that. But, in the evening, as Dotted was going through our team’s P3 submissions, he said that I should get a 4 or a 5 (which would be one of the top scores)! It turns out that my solution was on the right track, and most of it actually matched the official (correct) solution! So I’m feeling good now! Yay!
+
+Oron is a very interesting character. Whenever he is working on a problem he starts randomly saying the words "Yay", "Spam", and "Buh". Someone said that MOP has a tradition of degen a few days ago. I think this is it.
+
+Today Grant Blitz and I were able to figure out who _quantumelectrodynamics_ (QED) was. A lot of people have been trying to find out, and yesterday Liam and Oron concluded that it was an alt account. At breakfast, Grant saw that QED was online, so I asked him to text QED "are u at breakfast?" to which QED replied "yes", so we immediately looked around to see who was on their phones. But then QED went offline, so we looked to see who had just put away their phone. There was one person who did: it was Dotted. We then sent him a few more texts, and the online/offline and typing patterns exactly matched! Dotted still won’t admit that he’s QED though.
+
+Tomorrow is an off day: no classes or tests. It will be nice to relax and just hang out. 
 
 
 ### Music
