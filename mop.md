@@ -9,6 +9,7 @@ This year, MAA’s Mathematical Olympiad Program (MOP '25) is at the *Illinois M
 ## Table of contents
 - [Table of contents](#table-of-contents)
 - [Day 1](#day-1)
+- [Day 5](#day-5)
 - [The middle](#the-middle)
 - [The end](#the-end)
 
@@ -89,6 +90,20 @@ Oron is a very interesting character. Whenever he is working on a problem he sta
 Today Grant Blitz and I were able to figure out who _quantumelectrodynamics_ (QED) was. A lot of people have been trying to find out, and yesterday Liam and Oron concluded that it was an alt account. At breakfast, Grant saw that QED was online, so I asked him to text QED "are u at breakfast?" to which QED replied "yes", so we immediately looked around to see who was on their phones. But then QED went offline, so we looked to see who had just put away their phone. There was one person who did: it was Dotted. We then sent him a few more texts, and the online/offline and typing patterns exactly matched! Dotted still won’t admit that he’s QED though.
 
 Tomorrow is an off day: no classes or tests. It will be nice to relax and just hang out. 
+
+## [Day 5](#day-5)
+
+### Sunday, June 15, 2025.
+
+Today was an off day: there were no classes (except for a seminar on elliptic integrals). But ELMO coordination was in full swing. Calvin spent 5 hours arguing with Liam about our team’s problem 1 submissions, and a good bit of that was on mine. They were debating whether to give a 4 or a 5. I felt that I should have got a 5, but due to the way that other peoples solutions were graded, we had to settle on a 4. But this caused me to decide to join in participating in writing the RELMO, and I’ve started working on a problem which imitates ELMO P2 and my p1 coordination, except in the problem I win.
+
+I hang out with Jonathan quite a bit; we often sit together during MOP classes. He has an extremely good sense of humor and often makes very funny jokes. 
+
+Today Jiahe organized a walk where a bunch of people went on an “excursion” to a place with a bunch of restaurants. I planned on going, but I was talking with Calvin about ELMO coordination when they left.
+
+<p align="center"><img src="/images/mop5.png" width="400"/> <br> <span style="color: gray"> Playing poker with friends. Note the seven-two hand. </span> </p>
+
+I have made too many silly mistakes on the tests: 3 out of 5 problems I attempted. I think I need to sleep earlier so that I don’t get woken up by random noises, and I also need to be calmer during the tests.
 
 
 ### Music
