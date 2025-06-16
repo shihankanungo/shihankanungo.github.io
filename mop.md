@@ -112,6 +112,8 @@ I have made too many silly mistakes on the tests: 3 out of 5 problems I attempte
 
 ### Monday, June 16, 2025.
 
+<p align="center"><img src="/images/mop6.png" width="400"/> <br> <span style="color: gray"> Breakfast in the cafeteria. </span> </p>
+
 ### Music
 
 **Cosmic Ear: Traces** (2025, We Jazz) \[[Spotify](https://open.spotify.com/album/5w9BePfYZwwK2aaXq3HnJt?si=VkKfQ_4zRbyjpuH4Fodwpw)\]<br> New free jazz group, mostly well known Scandinavians remembering and revering Don Cherry: Christer Bothén (bass/contrabass clarinet, ngoni, piano); Mats Gustafsson (tenor sax, flutes, clarinets, electronics, organ, harmonica); Goran Kajfes (trumpets, electronics); Kansan Zetterberg (bass, ngoni); Juan Romero (percussion, berimbau, congas); with "special guest" Manane N Lemwo (kangnan). 
