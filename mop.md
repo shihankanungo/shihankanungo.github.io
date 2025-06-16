@@ -108,6 +108,10 @@ Today Jiahe organized a walk where a bunch of people went on an “excursion” 
 I have made too many silly mistakes on the tests: 3 out of 5 problems I attempted. I think I need to sleep earlier so that I don’t get woken up by random noises, and I also need to be calmer during the tests.
 
 
+## [Day 6](#day-6)
+
+### Monday, June 16, 2025.
+
 ### Music
 
 **Cosmic Ear: Traces** (2025, We Jazz) \[[Spotify](https://open.spotify.com/album/5w9BePfYZwwK2aaXq3HnJt?si=VkKfQ_4zRbyjpuH4Fodwpw)\]<br> New free jazz group, mostly well known Scandinavians remembering and revering Don Cherry: Christer Bothén (bass/contrabass clarinet, ngoni, piano); Mats Gustafsson (tenor sax, flutes, clarinets, electronics, organ, harmonica); Goran Kajfes (trumpets, electronics); Kansan Zetterberg (bass, ngoni); Juan Romero (percussion, berimbau, congas); with "special guest" Manane N Lemwo (kangnan). 
