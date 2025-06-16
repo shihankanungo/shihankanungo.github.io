@@ -87,6 +87,8 @@ Today was ELMO day 1. Dotted decided to troll us by making the ELMO as the “Er
 
 Oron is a very interesting character. Whenever he is working on a problem he starts randomly saying the words "Yay", "Spam", and "Buh". Someone said that MOP has a tradition of degen a few days ago. I think this is it.
 
+<p align="center"><img src="/images/mop4.jpeg" width="400" /> <br> <span style="color: gray"> Oron Wang </span> </p> 
+
 Today Grant Blitz and I were able to figure out who _quantumelectrodynamics_ (QED) was. A lot of people have been trying to find out, and yesterday Liam and Oron concluded that it was an alt account. At breakfast, Grant saw that QED was online, so I asked him to text QED "are u at breakfast?" to which QED replied "yes", so we immediately looked around to see who was on their phones. But then QED went offline, so we looked to see who had just put away their phone. There was one person who did: it was Dotted. We then sent him a few more texts, and the online/offline and typing patterns exactly matched! Dotted still won’t admit that he’s QED though.
 
 Tomorrow is an off day: no classes or tests. It will be nice to relax and just hang out. 
