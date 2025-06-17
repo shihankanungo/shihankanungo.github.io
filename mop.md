@@ -112,6 +112,14 @@ I have made too many silly mistakes on the tests: 3 out of 5 problems I attempte
 
 ### Monday, June 16, 2025.
 
+Today we had a class by Vivian Loh on spiral similarity! (Baba’s favorite subject). Then we had two consecutive classes on polynomials. The first one had a nerfed version of ELMO P3 on the first problem, and the second had Decartes’ Rule of Signs 💀. I also talked to Dotted about RELMO, and it turns out that we both ripped a problem from our PRIMES projects, and they are both about extremal functions.
+
+Connor Leong is an excellent Frisbee player. After the ELMO, he said that my P3 submission was “brilliant” multiple times. Also, when we play Frisbee, if we are on opposite teams, he always guards me and if we are on the same team, he always dabs me up when we score a point. I think that he likes me a lot, and I like him too. He is part of the "cards group”, which also includes Vihaan, Rohan, David (who is probably the best at Frisbee), Ryan, and Kailua. I’ve started joining them for cards in the past few days.
+
+Our second Assembly was today. We voted on the MOP t-shirt. There were 3 designs: one about a cross-section of a cube (which had nothing to do with the USAMO), one with the letters M,O,S,P in a grid, and one which had the words MOSP and YAY which looked like they were written with a computer mouse, and a graph symbolizing USAMO P2. I wanted the last one to win, but alas common sense prevailed and the first one won. 
+
+Yesterday, I was able to get a sound sleep by wrapping a shirt around my eyes as an eye mask, and playing Max Richter “Sleep” on my earbuds. I think that I will do that for the rest of camp. Baba has also ordered an eye mask for me, which I will probably get tomorrow.
+
 <p align="center"><img src="/images/mop6.png" width="400"/> <br> <span style="color: gray"> Breakfast in the cafeteria. </span> </p>
 
 ### Music
