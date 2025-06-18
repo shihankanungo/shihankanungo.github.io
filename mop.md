@@ -10,7 +10,7 @@ This year, MAA’s Mathematical Olympiad Program (MOP '25) is at the *Illinois M
 - [Table of contents](#table-of-contents)
 - [Day 1](#day-1)
 - [Day 5](#day-5)
-- [The middle](#the-middle)
+- [Music](#music)
 - [The end](#the-end)
 
 Reached Chicago a few days early and stayed at *The Chicago Marriott Southwest at Burr Ridge* – fantastic hotel! Our room overlooked a beautiful view with a pond within a lush green rolling meadow. 
