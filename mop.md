@@ -141,6 +141,8 @@ In this MOP test, I didn’t make any mistakes. However, I think that I might ha
 
 ### Music
 
+**Resilient Vessels: Live at the Cell** (2021, RR Gems) \[[Spotify](https://open.spotify.com/album/2X8jItn6ZOL8UjbsA2rWJQ?si=7r8AiRu5TQiKuDrXvlJJnA)\]<br>  Live set, from a quartet with James Brandon Lewis (sax), Josh Werner (bass), Patrick Holmes (clarinet), and Ches Smith (drums). Pretty scintilating -- an element somewhat missing in JBL's other, otherwise excellent, album.
+
 **Cosmic Ear: Traces** (2025, We Jazz) \[[Spotify](https://open.spotify.com/album/5w9BePfYZwwK2aaXq3HnJt?si=VkKfQ_4zRbyjpuH4Fodwpw)\]<br> New free jazz group, mostly well known Scandinavians remembering and revering Don Cherry: Christer Bothén (bass/contrabass clarinet, ngoni, piano); Mats Gustafsson (tenor sax, flutes, clarinets, electronics, organ, harmonica); Goran Kajfes (trumpets, electronics); Kansan Zetterberg (bass, ngoni); Juan Romero (percussion, berimbau, congas); with "special guest" Manane N Lemwo (kangnan). 
 
 
