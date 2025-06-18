@@ -123,7 +123,7 @@ Yesterday, I was able to get a sound sleep by wrapping a shirt around my eyes as
 <p align="center"><img src="/images/mop6.png" width="400"/> <br> <span style="color: gray"> Breakfast in the cafeteria. </span> </p>
 
 
-## [Day 7](#day-7)
+## [Day 7 &mdash; Tuesday, June 17, 2025](#day-7)
 
 ### Tuesday, June 17, 2025.
 
