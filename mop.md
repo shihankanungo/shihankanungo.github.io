@@ -25,14 +25,14 @@ In the evening, we had a fabulous dinner at _Kama Bistro_ --- black pepper lamb 
 
 <p align="center"><img src="/images/mop0.jpg" width="300" /></p>
 
-### Schedule of classes ("Blue" group)
+### Schedule of classes &mdash; "Blue" group
 
 ![mop-classes](images/mop-classes.png)
 
 
-## [Day 1](#day-1)
+## [Day 1 &mdash; Wednedsay, June 11, 2025](#day-1)
 
-### Wednedsay, June 11, 2025.
+### Rooms, Evan Fan, Yoll Feng
 
 A bunch of MOPpers started throwing olympiad problems at each other when we were roaming through the IMSA halls. It was quite fun!
 
@@ -47,9 +47,9 @@ Yoll is exactly like Jerry Guo, but nicer I think; he is also quite funny! I wil
 I’m excited for MOP. I think that I will have a great time, and make a lot of friends.
 
 
-## [Day 2](#day-2)
+## [Day 2 &mdash; Thursday, June 12, 2025](#day-2)
 
-### Thursday, June 12, 2025.
+### First day of classes, run group, ELMO teams, Aryan Raj
 
 We had our first MOP classes today: on prime powers and hidden graphs in combo problems. I enjoyed both of them, and what I really appreciated were the little insights that the instructors gave us while walking us through the solutions. I also presented my 17-page solution in MOP homework review.
 
@@ -65,9 +65,9 @@ I met Aryan Raj on the bus to IMSA. I like talking to him a lot; I think it is b
 
 I had a lot of fun at MOP today. Tomorrow is our first test. Time to lock in!
 
-## [Day 3](#day-3)
+## [Day 3 &mdash; Friday, June 13, 2025](#day-3)
 
-### Friday, June 13, 2025.
+### Cubic curves, MOP Test 1, 2-sigma, Liam Reddy.
 
 The MOP classes today were both lecture-based: we had an inequalities class, which was just analysis and Lagrange multipliers, and a class on cubic curves which was very interesting, but I have no clue how to apply it. We also had our first MOP test, which I did reasonably well on (expecting 750). I spent a lot of time on P2 with a completely wrong idea but I ultimately figured it out. However I didn't have time to fully finish the writeup &mdash; I got to a point where the finish is quite easy. Also, my solution has a small (patchable) error.
 
@@ -79,9 +79,9 @@ Today I found out that Liam skipped two grades &mdash; just like me! He is a ver
 
 ELMO is tomorrow. I’m feeling good about it &mdash; coming in strong after the MOP test. I will skip my run tomorrow&mdash;after all, it’s Saturday. I will also be doing my laundry.
 
-## [Day 4](#day-4)
+## [Day 4 &mdash; Saturday, June 14, 2025](#day-4)
 
-### Saturday, June 14, 2025.
+### ELMO Day 1, Oron Wang, quantumelectrodynamics.
 
 Today was ELMO day 1. Dotted decided to troll us by making the ELMO as the “Error-Ridden Math Olympiad”, where all the problems were covered with random error messages and one of them was in Japanese. The ELSMO (which is supposed to be the troll version) was the “Elmo Loves Swapping Math Olympiads”, and was the actual test. I got P1 pretty quickly: it was an arrow problem. P2 was easy for me as well, mostly because I was able to reduce it to a problem from the Blue MOP combinatorics class (which I had solved). I then proceeded to spend 3 hours on P3, continually fakesolving and patching my solution until I finally got it. But right after the test, I realized that I got the wrong answer, and then someone pointed out that I misread the problem. It turns out that this happened to a bunch of people, and I was feeling very grumpy about that. But, in the evening, as Dotted was going through our team’s P3 submissions, he said that I should get a 4 or a 5 (which would be one of the top scores)! It turns out that my solution was on the right track, and most of it actually matched the official (correct) solution! So I’m feeling good now! Yay!
 
@@ -93,9 +93,9 @@ Today Grant Blitz and I were able to figure out who _quantumelectrodynamics_ (QE
 
 Tomorrow is an off day: no classes or tests. It will be nice to relax and just hang out. 
 
-## [Day 5](#day-5)
+## [Day 5 &mdash; Sunday, June 15, 2025](#day-5)
 
-### Sunday, June 15, 2025.
+### First free day, ELMO coordination, Jonathan Du, excursion.
 
 Today was an off day: there were no classes (except for a seminar on elliptic integrals). But ELMO coordination was in full swing. Calvin spent 5 hours arguing with Liam about our team’s problem 1 submissions, and a good bit of that was on mine. They were debating whether to give a 4 or a 5. I felt that I should have got a 5, but due to the way that other peoples solutions were graded, we had to settle on a 4. But this caused me to decide to join in participating in writing the RELMO, and I’ve started working on a problem which imitates ELMO P2 and my p1 coordination, except in the problem I win.
 
@@ -108,9 +108,9 @@ Today Jiahe organized a walk where a bunch of people went on an “excursion” 
 I have made too many silly mistakes on the tests: 3 out of 5 problems I attempted. I think I need to sleep earlier so that I don’t get woken up by random noises, and I also need to be calmer during the tests.
 
 
-## [Day 6](#day-6)
+## [Day 6 &mdash; Monday, June 16, 2025](#day-6)
 
-### Monday, June 16, 2025.
+### Spiral similarity, Alexander Wang, RELMO committee, Connor Leong.
 
 Today we had a class by Vivian Loh on spiral similarity! (Baba’s favorite subject). Then we had two consecutive classes on polynomials. The first one had a nerfed version of ELMO P3 on the first problem, and the second had Decartes’ Rule of Signs 💀. I also talked to Dotted about RELMO, and it turns out that we both ripped a problem from our PRIMES projects, and they are both about extremal functions.
 
@@ -125,7 +125,7 @@ Yesterday, I was able to get a sound sleep by wrapping a shirt around my eyes as
 
 ## [Day 7 &mdash; Tuesday, June 17, 2025](#day-7)
 
-### Tuesday, June 17, 2025.
+### MOP Test 2, Yoll Feng, story-time.
 
 MOP Test 2 was today. Problem 1 was an anti-problem!!!! I spent almost 3 hours on it, and I seriously thought that I was going to get swept. But I got it eventually. Unfortunately, I didn’t have time to solve P2, which was hard. I had all the right ideas though, and if I had more time I think I would have got it. It turns out that I was kind of right to be scared &mdash; Jonathan and Oron both got swept, and I am predicting 720. 
 
