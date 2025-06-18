@@ -103,7 +103,7 @@ I hang out with Jonathan quite a bit; we often sit together during MOP classes. 
 
 Today Jiahe organized a walk where a bunch of people went on an “excursion” to a place with a bunch of restaurants. I planned on going, but I was talking with Calvin about ELMO coordination when they left.
 
-<p align="center"><img src="/images/mop5.png" width="500"/> <br> <span style="color: gray"> Poker with a 7-2 hand. <br> From left to right: Daniel, Eden, Evan, and Grant </span> </p>
+<p align="center"><img src="/images/mop5.png" width="500"/> <br> <span style="color: gray"> Poker with a 7-2 hand. <br> L to R: Daniel Ge, Eden He, Evan Fan, and Grant Blitz </span> </p>
 
 I have made too many silly mistakes on the tests: 3 out of 5 problems I attempted. I think I need to sleep earlier so that I don’t get woken up by random noises, and I also need to be calmer during the tests.
 
