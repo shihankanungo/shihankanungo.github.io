@@ -122,6 +122,19 @@ Yesterday, I was able to get a sound sleep by wrapping a shirt around my eyes as
 
 <p align="center"><img src="/images/mop6.png" width="400"/> <br> <span style="color: gray"> Breakfast in the cafeteria. </span> </p>
 
+
+## [Day 7](#day-7)
+
+### Tuesday, June 17, 2025.
+
+MOP Test 2 was today. Problem 1 was an anti-problem!!!! I spent almost 3 hours on it, and I seriously thought that I was going to get swept. But I got it eventually. Unfortunately, I didn’t have time to solve P2, which was hard. I had all the right ideas though, and if I had more time I think I would have got it. It turns out that I was kind of right to be scared &mdash; Jonathan and Oron both got swept. We had classes on determinants and entropy today; they were both interesting, although the problems felt a bit like AIME problems &mdash; i.e., computational.
+
+I think Yoll Feng looks up to me; he has often expressed concern about the TSTST and asked me for advice. And today he asked me for some of my “orzness” before the test. I told him that he’d do fine.
+
+Today was storytime; I had completely forgotten about it. I hadn’t checked my computer the whole day since I didn’t take it in my bag, so I didn’t see Baba’s message. I went after I called Baba and I saw the message, but it was too late. Hopefully, I will catch another one before MOP ends.
+
+In this MOP test, I didn’t make any mistakes. However, I think that I might have spent a bit too much time on P1 going down a rabbit hole. I think that I should remember to stop and look for alternate approaches; I sometimes trust my intuition too much.
+
 ### Music
 
 **Cosmic Ear: Traces** (2025, We Jazz) \[[Spotify](https://open.spotify.com/album/5w9BePfYZwwK2aaXq3HnJt?si=VkKfQ_4zRbyjpuH4Fodwpw)\]<br> New free jazz group, mostly well known Scandinavians remembering and revering Don Cherry: Christer Bothén (bass/contrabass clarinet, ngoni, piano); Mats Gustafsson (tenor sax, flutes, clarinets, electronics, organ, harmonica); Goran Kajfes (trumpets, electronics); Kansan Zetterberg (bass, ngoni); Juan Romero (percussion, berimbau, congas); with "special guest" Manane N Lemwo (kangnan). 
