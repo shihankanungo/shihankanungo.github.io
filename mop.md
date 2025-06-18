@@ -7,7 +7,6 @@ title: MOP (June 11-July 2, 2025)
 This year, MAA’s Mathematical Olympiad Program (MOP '25) is at the *Illinois Mathematics and Science Academy* (IMSA) from June 11--Jul 2, 2025.
 
 ## Table of contents
-- [Table of contents](#table-of-contents)
 - [Day 1](#day-1)
 - [Day 5](#day-5)
 - [Music](#music)
@@ -139,15 +138,16 @@ Today was storytime; I had completely forgotten about it. I hadn’t checked my 
 
 In this MOP test, I didn’t make any mistakes. However, I think that I might have spent a bit too much time on P1 going down a rabbit hole. I think that I should remember to stop and look for alternate approaches; I sometimes trust my intuition too much.
 
+<br><br>
 
 ![separator](images/sep.png)
 
 
 ## [Music](#music)
 
-**Resilient Vessels: Live at the Cell** (2021, RR Gems) \[[Spotify](https://open.spotify.com/album/2X8jItn6ZOL8UjbsA2rWJQ?si=7r8AiRu5TQiKuDrXvlJJnA)\]<br>  Live set, from a quartet with James Brandon Lewis (sax), Josh Werner (bass), Patrick Holmes (clarinet), and Ches Smith (drums). Pretty scintilating -- an element somewhat missing in JBL's other, otherwise excellent, album.
+**Resilient Vessels: Live at the Cell** (2021, RR Gems) \[[Spotify](https://open.spotify.com/album/2X8jItn6ZOL8UjbsA2rWJQ?si=7r8AiRu5TQiKuDrXvlJJnA)\] \[[YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_muxnFcXW9egcyb0arjnleV3IhC9fEzBfk&si=IhTF6TMUORi8E5qO)\] <br>  Live set, from a quartet with James Brandon Lewis (sax), Josh Werner (bass), Patrick Holmes (clarinet), and Ches Smith (drums). Pretty scintilating -- an element somewhat missing in JBL's other, otherwise excellent, album.
 
-**Cosmic Ear: Traces** (2025, We Jazz) \[[Spotify](https://open.spotify.com/album/5w9BePfYZwwK2aaXq3HnJt?si=VkKfQ_4zRbyjpuH4Fodwpw)\]<br> New free jazz group, mostly well known Scandinavians remembering and revering Don Cherry: Christer Bothén (bass/contrabass clarinet, ngoni, piano); Mats Gustafsson (tenor sax, flutes, clarinets, electronics, organ, harmonica); Goran Kajfes (trumpets, electronics); Kansan Zetterberg (bass, ngoni); Juan Romero (percussion, berimbau, congas); with "special guest" Manane N Lemwo (kangnan). 
+**Cosmic Ear: Traces** (2025, We Jazz) \[[Spotify](https://open.spotify.com/album/5w9BePfYZwwK2aaXq3HnJt?si=VkKfQ_4zRbyjpuH4Fodwpw)\] \[[YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_mfbGTqJGsu1ETmAzqncoR99Li1xZX1Gwc&si=rv3Is-8Qstax6J2c)\] <br> New free jazz group, mostly well known Scandinavians remembering and revering Don Cherry: Christer Bothén (bass/contrabass clarinet, ngoni, piano); Mats Gustafsson (tenor sax, flutes, clarinets, electronics, organ, harmonica); Goran Kajfes (trumpets, electronics); Kansan Zetterberg (bass, ngoni); Juan Romero (percussion, berimbau, congas); with "special guest" Manane N Lemwo (kangnan). 
 
 
 ![separator](images/sep.png)
