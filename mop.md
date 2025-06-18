@@ -127,7 +127,9 @@ Yesterday, I was able to get a sound sleep by wrapping a shirt around my eyes as
 
 ### Tuesday, June 17, 2025.
 
-MOP Test 2 was today. Problem 1 was an anti-problem!!!! I spent almost 3 hours on it, and I seriously thought that I was going to get swept. But I got it eventually. Unfortunately, I didn’t have time to solve P2, which was hard. I had all the right ideas though, and if I had more time I think I would have got it. It turns out that I was kind of right to be scared &mdash; Jonathan and Oron both got swept. We had classes on determinants and entropy today; they were both interesting, although the problems felt a bit like AIME problems &mdash; i.e., computational.
+MOP Test 2 was today. Problem 1 was an anti-problem!!!! I spent almost 3 hours on it, and I seriously thought that I was going to get swept. But I got it eventually. Unfortunately, I didn’t have time to solve P2, which was hard. I had all the right ideas though, and if I had more time I think I would have got it. It turns out that I was kind of right to be scared &mdash; Jonathan and Oron both got swept, and I am predicting 720. 
+
+We had classes on determinants and entropy today; they were both interesting, although the problems felt a bit like AIME problems &mdash; i.e., computational.
 
 I think Yoll Feng looks up to me; he has often expressed concern about the TSTST and asked me for advice. And today he asked me for some of my “orzness” before the test. I told him that he’d do fine.
 
