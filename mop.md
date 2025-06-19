@@ -146,7 +146,7 @@ In this MOP test, I didn’t make any mistakes. However, I think that I might ha
 ## [Music](#music)
 
 
-<img src="/images/brendel.png" width="500"/> 
+<img src="/images/brendel.png" align="left" width="500"/> 
 
 - [Alfred Brendel obituary: legendary pianist with an anarchic spirit](https://www.thetimes.com/uk/obituaries/article/alfred-brendel-obituary-legendary-pianist-7rll6ln3z)
 - [BBC: Pianist Alfred Brendel dies aged 94](https://www.bbc.com/news/articles/cjmmmrl4mz7o)
