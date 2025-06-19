@@ -146,9 +146,7 @@ In this MOP test, I didn’t make any mistakes. However, I think that I might ha
 ## [Music](#music)
 
 
-![brendel](images/brendel.png)
-
-<p align="left"><img src="/images/brendel.png" width="400"/> </p>
+<p align="left"><img src="/images/brendel.png" width="500"/> </p>
 
 **Resilient Vessels: Live at the Cell** (2021, RR Gems) \[[Spotify](https://open.spotify.com/album/2X8jItn6ZOL8UjbsA2rWJQ?si=7r8AiRu5TQiKuDrXvlJJnA)\] \[[YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_muxnFcXW9egcyb0arjnleV3IhC9fEzBfk&si=IhTF6TMUORi8E5qO)\] <br>  Live set, from a quartet with James Brandon Lewis (sax), Josh Werner (bass), Patrick Holmes (clarinet), and Ches Smith (drums). Pretty scintilating -- an element somewhat missing in JBL's other, otherwise excellent, album.
 
