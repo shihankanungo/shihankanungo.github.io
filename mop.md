@@ -138,6 +138,23 @@ Today was storytime; I had completely forgotten about it. I hadn’t checked my 
 
 In this MOP test, I didn’t make any mistakes. However, I think that I might have spent a bit too much time on P1 going down a rabbit hole. I think that I should remember to stop and look for alternate approaches; I sometimes trust my intuition too much.
 
+
+## [Day 8 &mdash; Wednesday, June 18, 2025](#day-8)
+
+### RELMO, Jane Street, Grant Blitz, "Combination Pizza Hut and Taco Bell".
+
+I worked on my Relmo problems today. It’s not easy to write problems; even if you’re trying to make them as bad as possible.
+
+I like talking to Grant Blitz. He is refreshingly “not-asian” and his voice is very nice to listen to.
+
+Today, I started singing “Combination Pizza Hut and Taco Bell” in class, and now it’s become kind of a meme.
+
+We had Jane Street today &mdash; the estimathon was unbelievably hard! My team came in second-to-last!!
+
+<p align="center"><img src="/images/mop8.png" width="500"/> <br> <span style="color: gray"> Estimathon! L to R: Daniel, Kevin, Tarun, Aryan, (also Michael, Oron). </span> </p>
+
+MOP test 3 is tomorrow; I want to make this my “comeback”. I would like to solve a hard problem; a problem that I’m proud of doing.
+
 <br><br>
 
 ![separator](images/sep.png)
