@@ -146,7 +146,7 @@ In this MOP test, I didn’t make any mistakes. However, I think that I might ha
 ## [Music](#music)
 
 
-<p align="left"><img src="/images/brendel.png" align="left" width="500"/> </p> <br><br>
+<p align="left"><img src="/images/brendel.png" align="left" width="500"/> </p> <br><br><br>
 
 
 - [Alfred Brendel obituary: legendary pianist with an anarchic spirit](https://www.thetimes.com/uk/obituaries/article/alfred-brendel-obituary-legendary-pianist-7rll6ln3z)
