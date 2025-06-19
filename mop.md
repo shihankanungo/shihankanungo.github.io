@@ -146,12 +146,13 @@ In this MOP test, I didn’t make any mistakes. However, I think that I might ha
 ## [Music](#music)
 
 
-<img src="/images/brendel.png" align="left" width="500"/> <br>
+<p align="left"><img src="/images/brendel.png" align="left" width="500"/> </p> <br>
 
 
 - [Alfred Brendel obituary: legendary pianist with an anarchic spirit](https://www.thetimes.com/uk/obituaries/article/alfred-brendel-obituary-legendary-pianist-7rll6ln3z)
 - [BBC: Pianist Alfred Brendel dies aged 94](https://www.bbc.com/news/articles/cjmmmrl4mz7o)
 - [Alfred Brendel, the cerebral pianist with a dry wit, dies at 94](https://www.yourclassical.org/story/2025/06/17/npr-alfred-brendel-obituary)
+
 
 **Resilient Vessels: Live at the Cell** (2021, RR Gems) \[[Spotify](https://open.spotify.com/album/2X8jItn6ZOL8UjbsA2rWJQ?si=7r8AiRu5TQiKuDrXvlJJnA)\] \[[YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_muxnFcXW9egcyb0arjnleV3IhC9fEzBfk&si=IhTF6TMUORi8E5qO)\] <br>  Live set, from a quartet with James Brandon Lewis (sax), Josh Werner (bass), Patrick Holmes (clarinet), and Ches Smith (drums). Pretty scintilating -- an element somewhat missing in JBL's other, otherwise excellent, album.
 
