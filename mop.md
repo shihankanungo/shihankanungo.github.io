@@ -159,15 +159,15 @@ MOP test 3 is tomorrow; I want to make this my “comeback”. I would like to s
 
 ### MOP Test 3, "Combination Pizza Hut and Taco Bell", ANT, Jiahe Liu, story-time.
 
-MOP Test 3 was today; I was able to solve p1 quite easily using “Combination Pizza Hut and Taco Bell”; essentially, we had a sequence with two properties and I called the first one “Pizza Hut” and the second one “Taco Bell”. P2 was a hard geo problem (which only Tiger solved synthetically; everyone else complex bashed or used the isoptic cubic). I just submitted the lyrics to Combination Pizza Hut and Taco bell; I’m hoping to get a style score satisfying x(1-x)=0. P3 was a combo problem which I fakesolved (argh!!). I got the first idea, which was to make it a graph, but I thought there was only one possibility for the graph. I had even checked and rewritten my solution, but I didn’t catch the mistake.
+MOP Test 3 was today; I was able to solve P1 quite easily using _Combination Pizza Hut and Taco Bell_; essentially, we had a sequence with two properties and I called the first one _Pizza Hut_ and the second one _Taco Bell_. P2 was a hard geo problem (which only Tiger solved synthetically; everyone else complex bashed or used the isoptic cubic) &mdash; I just submitted the lyrics to _Combination Pizza Hut and Taco Bell_; I’m hoping to get a style score satisfying x(1-x)=0. P3 was a combo problem which I fakesolved (argh!!). I got the first idea, which was to make it a graph, but I thought there was only one possibility for the graph. I had even checked and rewritten my solution, but I didn’t catch the mistake. I believe I would have solved the problem if I had caught the mistake.
 
-We had a class on analytic number theory, and the problem set was exactly like Euler Circle: the problems were super hard and there was even an open problem! One of the problems was to show that every Diophantine equation is equivalent to a quartic. 
+We had a class on analytic number theory, and the problem set was exactly like in Euler Circle: the problems were super hard and there was even an open problem! One of the problems was to show that every Diophantine equation is equivalent to a quartic. 
 
 Jiahe is very good at both olympiad math and theory; like me. In all of the non-geo theory classes, we are usually the ones answering all the questions. For example, in the entropy class, the instructor at one point asked a question and said “could somebody who is not one of the two people who’ve been answering everything please tell us how to do this?”
 
-I attended storytime today. The discussions were quite stimulating. We talked about old MOP vs new MOP, how COVID affected math olympiads, Zuming Feng stories, and more. I’m glad that I attended, and I’ll definitely go again.
+I attended storytime today. The discussions were quite stimulating. We talked about old- vs. new MOP; how COVID affected math olympiads; Zuming Feng stories; and more. I’m glad that I attended, and I’ll definitely go again.
 
-Tomorrow, I will ask Evan to make me a geo bashing handout. I’ve realized that I might become a geo antimain if I’m not careful. That’s something I do not want to be.
+Tomorrow, I will ask Evan Chen to make me a geo bashing handout. I’ve realized that I might become a geo antimain if I’m not careful. That’s something I do not want to be.
 
 
 <br><br>
