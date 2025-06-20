@@ -174,6 +174,9 @@ Tomorrow, I will ask Evan Chen to make me a geo bashing handout. I’ve realized
 
 ### Picture Day!! and lots of other cool stuff
 
+
+<p align="center"><img src="/images/mop8.png" width="700"/> <br> <span style="color: gray"> MOP 2025 on the bleachers!!. </span> </p>
+
 <br><br>
 
 ![separator](images/sep.png)
