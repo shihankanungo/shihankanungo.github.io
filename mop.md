@@ -169,6 +169,9 @@ I attended storytime today. The discussions were quite stimulating. We talked ab
 
 Tomorrow, I will ask Evan Chen to make me a geo bashing handout. I’ve realized that I might become a geo antimain if I’m not careful. That’s something I do not want to be.
 
+## [Day 10 &mdash; Friday, June 20, 2025](#day-10)
+
+### Lots of cool stuff
 
 <br><br>
 
