@@ -143,17 +143,32 @@ In this MOP test, I didn’t make any mistakes. However, I think that I might ha
 
 ### RELMO, Jane Street, Grant Blitz, "Combination Pizza Hut and Taco Bell".
 
-I worked on my Relmo problems today. It’s not easy to write problems; even if you’re trying to make them as bad as possible.
+I worked on my Relmo problems today. It’s not easy to write problems; even if you’re trying to make them as bad as possible. I have a problem taken from my Geneson project; unfortunately I don’t know how to solve it. I was able to finish the second one; about the S-matrix conjecture.
 
-I like talking to Grant Blitz. He is refreshingly “not-asian” and his voice is very nice to listen to.
+I like talking to Grant Blitz. He is refreshingly “not-asian” and his voice is very nice to listen to. He is a geo-main, and he goes to Exeter, just like Evan Fan. I think he is a very unselfish person; and he cares about others.
 
-Today, I started singing “Combination Pizza Hut and Taco Bell” in class, and now it’s become kind of a meme.
+Today, I started singing “Combination Pizza Hut and Taco Bell” in class, and now it’s become kind of a meme. My favorite target was Oron, but he went home and listened to the song; and now he’s my partner in crime.
 
 We had Jane Street today &mdash; the estimathon was unbelievably hard! My team came in second-to-last!!
 
 <p align="center"><img src="/images/mop8.png" width="500"/> <br> <span style="color: gray"> Estimathon! L to R: Daniel, Kevin, Tarun, Aryan, (also Michael, Oron). </span> </p>
 
 MOP test 3 is tomorrow; I want to make this my “comeback”. I would like to solve a hard problem; a problem that I’m proud of doing.
+
+## [Day 9 &mdash; Thursday, June 19, 2025](#day-9)
+
+### MOP Test 3, "Combination Pizza Hut and Taco Bell", ANT, Jiahe Liu, story-time.
+
+MOP Test 3 was today; I was able to solve p1 quite easily using “Combination Pizza Hut and Taco Bell”; essentially, we had a sequence with two properties and I called the first one “Pizza Hut” and the second one “Taco Bell”. P2 was a hard geo problem (which only Tiger solved synthetically; everyone else complex bashed or used the isoptic cubic). I just submitted the lyrics to Combination Pizza Hut and Taco bell; I’m hoping to get a style score satisfying x(1-x)=0. P3 was a combo problem which I fakesolved (argh!!). I got the first idea, which was to make it a graph, but I thought there was only one possibility for the graph. I had even checked and rewritten my solution, but I didn’t catch the mistake.
+
+We had a class on analytic number theory, and the problem set was exactly like Euler Circle: the problems were super hard and there was even an open problem! One of the problems was to show that every Diophantine equation is equivalent to a quartic. 
+
+Jiahe is very good at both olympiad math and theory; like me. In all of the non-geo theory classes, we are usually the ones answering all the questions. For example, in the entropy class, the instructor at one point asked a question and said “could somebody who is not one of the two people who’ve been answering everything please tell us how to do this?”
+
+I attended storytime today. The discussions were quite stimulating. We talked about old MOP vs new MOP, how COVID affected math olympiads, Zuming Feng stories, and more. I’m glad that I attended, and I’ll definitely go again.
+
+Tomorrow, I will ask Evan to make me a geo bashing handout. I’ve realized that I might become a geo antimain if I’m not careful. That’s something I do not want to be.
+
 
 <br><br>
 
