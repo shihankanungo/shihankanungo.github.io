@@ -30,7 +30,7 @@ In the evening, we had a fabulous dinner at _Kama Bistro_ --- black pepper lamb 
 ![mop-classes](images/mop-classes.png)
 
 
-## [Day 1 &mdash; Wednedsay, June 11, 2025](#day-1)
+## [Day 1](#day-1) &mdash; Wednedsay, June 11, 2025
 
 ### Rooms, Evan Fan, Yoll Feng
 
