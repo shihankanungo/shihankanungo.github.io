@@ -143,7 +143,7 @@ In this MOP test, I didn’t make any mistakes. However, I think that I might ha
 
 ### RELMO, Jane Street, Grant Blitz, "Combination Pizza Hut and Taco Bell".
 
-I worked on my Relmo problems today. It’s not easy to write problems; even if you’re trying to make them as bad as possible. I have a problem taken from my Geneson project; unfortunately I don’t know how to solve it. I was able to finish the second one; about the S-matrix conjecture.
+I worked on my RELMO problems today. It’s not easy to write problems; even if you’re trying to make them as bad as possible. I have a problem taken from my Geneson project; unfortunately I don’t know how to solve it. I was able to finish the second one; about the S-matrix conjecture.
 
 I like talking to Grant Blitz. He is refreshingly “not-asian” and his voice is very nice to listen to. He is a geo-main, and he goes to Exeter, just like Evan Fan. I think he is a very unselfish person; and he cares about others.
 
