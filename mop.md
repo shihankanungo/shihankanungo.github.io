@@ -7,9 +7,9 @@ title: MOP (June 11-July 2, 2025)
 This year, MAA’s Mathematical Olympiad Program (MOP '25) is at the *Illinois Mathematics and Science Academy* (IMSA) from June 11--Jul 2, 2025.
 
 ## Table of contents
-- [Day 1](#day-1--wednedsay-june-11-2025) 
-- [Day 5](#day-5)
-- [Day 10](#day-10)
+- [Day 1](#day-1--wednesday-june-11-2025) 
+- [Day 5](#day-5--sunday-june-15-2025)
+- [Day 10](#day-10--friday-june-20-2025)
 - [Music](#music)
 - [The end](#the-end)
 
@@ -30,7 +30,7 @@ In the evening, we had a fabulous dinner at _Kama Bistro_ --- black pepper lamb 
 ![mop-classes](images/mop-classes.png)
 
 
-## Day 1 &mdash; Wednedsay, June 11, 2025
+## Day 1 &mdash; Wednesday, June 11, 2025
 
 ### Rooms, Evan Fan, Yoll Feng
 
@@ -47,7 +47,7 @@ Yoll is exactly like Jerry Guo, but nicer I think; he is also quite funny! I wil
 I’m excited for MOP. I think that I will have a great time, and make a lot of friends.
 
 
-## [Day 2 &mdash; Thursday, June 12, 2025](#day-2)
+## Day 2 &mdash; Thursday, June 12, 2025
 
 ### First day of classes, run group, ELMO teams, Aryan Raj
 
@@ -65,7 +65,7 @@ I met Aryan Raj on the bus to IMSA. I like talking to him a lot; I think it is b
 
 I had a lot of fun at MOP today. Tomorrow is our first test. Time to lock in!
 
-## [Day 3 &mdash; Friday, June 13, 2025](#day-3)
+## Day 3 &mdash; Friday, June 13, 2025
 
 ### MOP Test 1, cubic curves, 2-sigma, Liam Reddy.
 
@@ -79,7 +79,7 @@ Today I found out that Liam skipped two grades &mdash; just like me! He is a ver
 
 ELMO is tomorrow. I’m feeling good about it &mdash; coming in strong after the MOP test. I will skip my run tomorrow&mdash;after all, it’s Saturday. I will also be doing my laundry.
 
-## [Day 4 &mdash; Saturday, June 14, 2025](#day-4)
+## Day 4 &mdash; Saturday, June 14, 2025
 
 ### ELMO Day 1, Oron Wang, quantumelectrodynamics.
 
@@ -93,7 +93,7 @@ Today Grant Blitz and I were able to figure out who _quantumelectrodynamics_ (QE
 
 Tomorrow is an off day: no classes or tests. It will be nice to relax and just hang out. 
 
-## [Day 5 &mdash; Sunday, June 15, 2025](#day-5)
+## Day 5 &mdash; Sunday, June 15, 2025
 
 ### First free day, ELMO coordination, Jonathan Du, excursion.
 
@@ -108,7 +108,7 @@ Today Jiahe organized a walk where a bunch of people went on an “excursion” 
 I have made too many silly mistakes on the tests: 3 out of 5 problems I attempted. I think I need to sleep earlier so that I don’t get woken up by random noises, and I also need to be calmer during the tests.
 
 
-## [Day 6 &mdash; Monday, June 16, 2025](#day-6)
+## Day 6 &mdash; Monday, June 16, 2025
 
 ### Spiral similarity, Alexander Wang, RELMO committee, Connor Leong.
 
@@ -125,7 +125,7 @@ Yesterday, I was able to get a sound sleep by wrapping a shirt around my eyes as
 <p align="center"><img src="/images/mop6.png" width="400"/> <br> <span style="color: gray"> Breakfast in the cafeteria. </span> </p>
 
 
-## [Day 7 &mdash; Tuesday, June 17, 2025](#day-7)
+## Day 7 &mdash; Tuesday, June 17, 2025
 
 ### MOP Test 2, Yoll Feng, story-time.
 
@@ -140,7 +140,7 @@ Today was storytime; I had completely forgotten about it. I hadn’t checked my 
 In this MOP test, I didn’t make any mistakes. However, I think that I might have spent a bit too much time on P1 going down a rabbit hole. I think that I should remember to stop and look for alternate approaches; I sometimes trust my intuition too much.
 
 
-## [Day 8 &mdash; Wednesday, June 18, 2025](#day-8)
+## Day 8 &mdash; Wednesday, June 18, 2025
 
 ### RELMO, Jane Street, Grant Blitz, "Combination Pizza Hut and Taco Bell".
 
@@ -156,7 +156,7 @@ We had Jane Street today &mdash; the estimathon was unbelievably hard! My team c
 
 MOP test 3 is tomorrow; I want to make this my “comeback”. I would like to solve a hard problem; a problem that I’m proud of doing.
 
-## [Day 9 &mdash; Thursday, June 19, 2025](#day-9)
+## Day 9 &mdash; Thursday, June 19, 2025
 
 ### MOP Test 3, "Combination Pizza Hut and Taco Bell", ANT, Jiahe Liu, story-time.
 
@@ -170,9 +170,9 @@ I attended storytime today. The discussions were quite stimulating. We talked ab
 
 Tomorrow, I will ask Evan Chen to make me a geo bashing handout. I’ve realized that I might become a geo antimain if I’m not careful. That’s something I do not want to be.
 
-## [Day 10 &mdash; Friday, June 20, 2025](#day-10)
+## Day 10 &mdash; Friday, June 20, 2025
 
-### Lots of cool stuff
+### Picture Day!! and lots of other cool stuff
 
 <br><br>
 
