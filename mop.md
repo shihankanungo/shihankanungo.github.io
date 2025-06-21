@@ -17,11 +17,11 @@ Reached Chicago a few days early and stayed at *The Chicago Marriott Southwest a
 
 <p align="center"><img src="/images/burr-ridge.png" width="500" /></p>
 
-Dinner on Sunday was pizza at _Stix and Stones_ which was incredible. <br> On Monday I met with Isaac at Univ. of Chicago. 
+Dinner on Sunday was pizza at _Stix and Stones_ which was incredible. <br> On Monday I met with Isaac at the University of Chicago, where he is doing a triple major &mdash; Math, Physics, and CS!  
 
 <p align="center"><img src="/images/isaac.jpg" width="300" /></p>
 
-In the evening, we had a fabulous dinner at _Kama Bistro_ --- black pepper lamb and achari chicken. I met with Arun on Tuesday at _Cupitol Coffee & Eatery_. We then had lunch at _Momo Factory_ followed by dinner at  _Stix and Stones_ (a repeat &mdash; yes it was that good!!). On Wednesday morning, mama and baba dropped me off at Terminal 2 of the Chicago O'Hare International Airport for the 1145AM shuttle to IMSA.
+Isaac showed us around the campus and told us many interesting anecdotes. Mama took us to lunch at West 57th. In the evening, we had a fabulous dinner at _Kama Bistro_ --- black pepper lamb and achari chicken. I met with Arun on Tuesday at _Cupitol Coffee & Eatery_. We then had lunch at _Momo Factory_ followed by dinner at  _Stix and Stones_ (a repeat &mdash; yes it was that good!!). On Wednesday morning, mama and baba dropped me off at Terminal 2 of the Chicago O'Hare International Airport for the 1145AM shuttle to IMSA.
 
 <p align="center"><img src="/images/mop0.jpg" width="300" /></p>
 
