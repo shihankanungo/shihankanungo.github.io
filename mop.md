@@ -174,8 +174,17 @@ Tomorrow, I will ask Evan Chen to make me a geo bashing handout. I’ve realized
 
 ### Picture Day!! and lots of other cool stuff
 
+Today was picture day!! 
 
 <p align="center"><img src="/images/mop10.jpg" width="700"/> <br> <span style="color: gray"> MOP 2025 on the bleachers!!. </span> </p>
+
+I also have a surprise for baba — I said I won’t tell him what till the talent show. It's going to be a surprise. It will involve me and Oron playing improv piano.
+
+The classes today were super good! Our first class was “Problem Solving Geometry”, taught by Brian Lawrence. There were no configs, big theorems or bashing; just pure geo. I really liked how he told us to pay attention to how we got unstuck on a problem, and made a list of questions to ask ourselves. I think that if I use these ideas, I can become very good at synthetic geo.  We next had a probabilistic method class taught by Milan, and Jiahe and I solved an RMM 3 in two different ways! We even generalized the problem. Finally, Jordan gave us a True/False class, where each question becomes easy once you’re convinced what the answer is. I spent a lot of time on a problem involving Liam and Tiger playing a game; but I wasn’t able to get it. I’ll keep thinking about it because Jordan said it was a nice problem.
+
+Alexander Wang is not very mature, but he’s nice to talk to once you get to know him. He’s a loud person, and he tends to be at the center of the conversation (but not in a bad way!). He’s also quite good at piano; we heard him practicing when Tiger, Oron, and I were in the music rooms. Tiger and Oron are also very good; I think that Tiger is the best. 
+
+I’ve made far too many mistakes on the tests. Tomorrow is ELMO, and the TSTSTs are coming up. No more fooling around. I need to be 100% focused on the tests and make sure that I perform to the peak of my ability.
 
 <br><br>
 
