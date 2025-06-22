@@ -202,6 +202,11 @@ Rohan Garg is a pretty chill guy. He’s not a super excitable person like many 
 
 ELMO Day 2 went well, but I still made a mistake (even though I caught it). I need to figure out how to stay calm, and do everything correctly the first time.
 
+## Day 12 &mdash; Sunday, June 22, 2025
+
+### 2nd Free Day!
+
+<p align="center"><img src="/images/mop12.png" width="300"/> <br> <span style="color: gray"> Tomfoolery at MOP </span> </p>
 
 
 
