@@ -208,10 +208,15 @@ ELMO Day 2 went well, but I still made a mistake (even though I caught it). I ne
 
 ## Day 12 &mdash; Sunday, June 22, 2025
 
-### 2nd Free Day!
+### 2nd Free Day! Lightning talks, seminar.
+
+Today was Sunday &mdash; a free day! Yay! 
 
 <p align="center"><img src="/images/mop12.jpg" width="500"/> <br> <span style="color: gray"> Tomfoolery at MOP; L to R: Michael Luo, Kevin Long, Daniel Ge.  </span> </p>
 
+We had lightning talks!! There were 40 talks total. It was a lot of fun.
+
+<p align="center"><img src="/images/mop12a.png" width="500"/> <br> <span style="color: gray"> Speakers for "lightning talks"  </span> </p>
 
 
 <br><br>
