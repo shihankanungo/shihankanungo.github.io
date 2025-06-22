@@ -198,7 +198,7 @@ Today was a relaxed day; nothing much besides the ELMO happened. We had pizza fo
 
 Rohan Garg is a pretty chill guy. He’s not a super excitable person like many other MOPpers, but he does like to talk, especially while playing cards. He is a "geo super-antimain", and say’s that he’s an NT main, but he solved the geo and didn’t solve the NT on this test…
 
-<p align="center"><img src="/images/mop11a.png" width="400"/> <br> <span style="color: gray"> Rohan Garg </span> </p>
+<p align="center"><img src="/images/mop11a.png" width="300"/> <br> <span style="color: gray"> Rohan Garg </span> </p>
 
 ELMO Day 2 went well, but I still made a mistake (even though I caught it). I need to figure out how to stay calm, and do everything correctly the first time.
 
