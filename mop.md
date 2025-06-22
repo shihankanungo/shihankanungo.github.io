@@ -210,7 +210,7 @@ ELMO Day 2 went well, but I still made a mistake (even though I caught it). I ne
 
 ### 2nd Free Day!
 
-<p align="center"><img src="/images/mop12.jpg" width="500"/> <br> <span style="color: gray"> Tomfoolery at MOP; L to R: Kevin Long, Daniel Ge, Michael Luo.  </span> </p>
+<p align="center"><img src="/images/mop12.jpg" width="500"/> <br> <span style="color: gray"> Tomfoolery at MOP; L to R: Michael Luo, Kevin Long, Daniel Ge.  </span> </p>
 
 
 
