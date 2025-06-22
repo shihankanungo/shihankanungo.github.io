@@ -194,9 +194,11 @@ Today was ELMO day 2. P4 was a geo problem; we had to prove that a circle and a 
 
 Today was a relaxed day; nothing much besides the ELMO happened. We had pizza for dinner after the ELMO, and we also had storytime. There were not many people at storytime, but it was still fun. Now even the staff know about Combination Pizza Hut and Taco Bell! I think it was because I put it on all of my MOP Test 3 solutions. Some people also made a trio of polls on the MOP server: “I’m at the Pizza Hut”, “I’m at the Taco Bell”, “I’m at the combination pizza hut and taco bell”. As of Saturday evening, it has 15 likes and only 5 thumbs downs. 
 
-<p align="center"><img src="/images/mop11.png" width="400"/> <br> <span style="color: gray"> Polls in the MOP discord server. </span> </p>
+<p align="center"><img src="/images/mop11.png" width="400"/> <br> <span style="color: gray"> Polls in the MOP discord server </span> </p>
 
 Rohan Garg is a pretty chill guy. He’s not a super excitable person like many other MOPpers, but he does like to talk, especially while playing cards. He is a "geo super-antimain", and say’s that he’s an NT main, but he solved the geo and didn’t solve the NT on this test…
+
+<p align="center"><img src="/images/mop11a.png" width="400"/> <br> <span style="color: gray"> Rohan Garg </span> </p>
 
 ELMO Day 2 went well, but I still made a mistake (even though I caught it). I need to figure out how to stay calm, and do everything correctly the first time.
 
