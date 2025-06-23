@@ -214,7 +214,7 @@ It was super hot today! We had an excursion planned, but the RCs didn’t let us
 
 <p align="center"><img src="/images/mop12a.png" width="500"/> <br> <span style="color: gray"> Speakers for "lightning talks" &mdash; I am in 8 of the 40!  </span> </p>
 
-I think that up untill just a few days ago, I was not fully tuned into the MOP experience. I would basically just go to classes, take tests, and play frisbee and cards; I didn’t really get to interact with other people. But starting from a few days I go, I’ve begun to utilize all the things that I can do at MOP that I can’t do at home. For example: playing “Combination” with Oron and Tiger in the music rooms, attending storytime, working on the RELMO with Dotted, and more. I am having so much fun now; I wasn’t even able to sleep yesterday!
+I think that up untill just a few days ago, I was not fully tuned into the MOP experience. I would basically just go to classes, take tests, and play frisbee and cards; I didn’t really get to interact with other people. But starting from a few days ago, I’ve begun to utilize all the things that I can do at MOP that I can’t do at home. For example: playing “Combination” with Oron and Tiger in the music rooms, attending storytime, working on the RELMO with Dotted, and more. I am having so much fun now; I wasn’t even able to sleep yesterday!
 
 
 <p align="center"><img src="/images/mop12.jpg" width="500"/> <br> <span style="color: gray"> Tomfoolery at MOP; L to R: Michael Luo, Kevin Long, Daniel Ge.  </span> </p>
