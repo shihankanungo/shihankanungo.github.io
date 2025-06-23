@@ -219,6 +219,10 @@ I think that up untill just a few days ago, I was not fully tuned into the MOP e
 
 <p align="center"><img src="/images/mop12.jpg" width="500"/> <br> <span style="color: gray"> Tomfoolery at MOP; L to R: Michael Luo, Kevin Long, Daniel Ge.  </span> </p>
 
+## Day 13 &mdash; Monday, June 23, 2025
+
+### Alex Song class, Yi Sun talks.
+
 
 <br><br>
 
