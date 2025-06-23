@@ -210,13 +210,16 @@ ELMO Day 2 went well, but I still made a mistake (even though I caught it). I ne
 
 ### 2nd Free Day! Lightning talks, seminar.
 
-Today was Sunday &mdash; a free day! Yay! 
+Today was Sunday &mdash; a free day! Yay! There were no classes and no tests. The only math-related thing I did was work on the RELMO with Dotted. We have 12 problems, which is perfect: we can do a RELMO with 6 and a RELSMO with the other 6. Tony Lu gave us a really nice problem based on his PRIMES research with Prof. Gotti. Most of the problems are intended to be solvable, or at least possible to get some points. But all of them are extremely annoying.
 
-<p align="center"><img src="/images/mop12.jpg" width="500"/> <br> <span style="color: gray"> Tomfoolery at MOP; L to R: Michael Luo, Kevin Long, Daniel Ge.  </span> </p>
-
-We had lightning talks!! There were 40 talks total. It was a lot of fun.
+It was super hot today! We had an excursion planned, but the RCs didn’t let us go because of the heat. This also meant that most people were pretty lethargic, and obviously there were no outdoor sports. One good thing was “Lightning Talks”, where people sign up to give short 4-minute presentations. People kept signing up during the event, and we ended up having 40 talks in total. I did eight of them! Some notable ones: I told a long joke about pizzas and tacos, Leo and I speedran factorization theory and got Samuel to admit orz with a card “trick”, and I presented about ultraproducts. Karn did a lot of “morally incorrect” geometry, Samuel had a really cool geo presentation about the British Flag Theorem, and Oron, me and Tiger sang “Combination Pizza Hut and Taco Bell” a capella.
 
 <p align="center"><img src="/images/mop12a.png" width="500"/> <br> <span style="color: gray"> Speakers for "lightning talks" &mdash; I am in 8 of the 40!  </span> </p>
+
+I think that up untill just a few days ago, I was not fully tuned into the MOP experience. I would basically just go to classes, take tests, and play frisbee and cards; I didn’t really get to interact with other people. But starting from a few days I go, I’ve begun to utilize all the things that I can do at MOP that I can’t do at home. For example: playing “Combination” with Oron and Tiger in the music rooms, attending storytime, working on the RELMO with Dotted, and more. I am having so much fun now; I wasn’t even able to sleep yesterday!
+
+
+<p align="center"><img src="/images/mop12.jpg" width="500"/> <br> <span style="color: gray"> Tomfoolery at MOP; L to R: Michael Luo, Kevin Long, Daniel Ge.  </span> </p>
 
 
 <br><br>
