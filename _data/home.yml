@@ -39,6 +39,23 @@ personal_entries:
   - title: Christgau
     url: xgau
 
+mop_entries:
+  - title: Day 1
+    url: mop#day-1--wednesday-june-11-2025
+
+  - title: Day 5
+    url: mop#day-5--sunday-june-15-2025
+
+  - title: Day 10
+    url: mop#day-10--friday-june-20-2025
+
+  - title: Music
+    url: mop#music
+
+  - title: The end
+    url: mop#the-end
+
+
 project_entries:
   - title: MIT PRIMES-USA '25
     url: primes-25
