@@ -6,12 +6,10 @@ title: MOP (June 11-July 2, 2025)
 
 This year, MAA’s Mathematical Olympiad Program (MOP '25) was held at the *Illinois Mathematics and Science Academy* (IMSA) from June 11--Jul 2, 2025.
 
-## Table of contents
-- [Day 1](#day-1--wednesday-june-11-2025) 
-- [Day 5](#day-5--sunday-june-15-2025)
-- [Day 10](#day-10--friday-june-20-2025)
-- [Music](#music)
-- [The end](#the-end)
+
+## Day 0 &mdash; Sunday, June 8-11, 2025
+
+### Chicago, Isaac Chang, Arun Kannan.
 
 Reached Chicago a few days early and stayed at *The Chicago Marriott Southwest at Burr Ridge* – fantastic hotel! Our room overlooked a beautiful view with a pond within a lush green rolling meadow. 
 
