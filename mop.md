@@ -216,7 +216,7 @@ Today was Sunday &mdash; a free day! Yay!
 
 We had lightning talks!! There were 40 talks total. It was a lot of fun.
 
-<p align="center"><img src="/images/mop12a.png" width="500"/> <br> <span style="color: gray"> Speakers for "lightning talks"  </span> </p>
+<p align="center"><img src="/images/mop12a.png" width="500"/> <br> <span style="color: gray"> Speakers for "lightning talks" &mdash; I am in 8 of the 40!  </span> </p>
 
 
 <br><br>
