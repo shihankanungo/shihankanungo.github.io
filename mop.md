@@ -23,7 +23,7 @@ Isaac showed us around the campus and told us many interesting anecdotes. Mama t
 
 <p align="center"><img src="/images/mop0.jpg" width="400" /></p>
 
-### Schedule of classes &mdash; "Blue" group
+## Schedule of classes (and tests) &mdash; "Blue" group
 
 ![mop-classes](images/mop-classes.png)
 
