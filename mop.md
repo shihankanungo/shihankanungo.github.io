@@ -235,6 +235,8 @@ Catherine Xu is making a digraph of students at MOP and their crushes, but it tu
 
 Jonathan has a funny app on his phone which lets him scan objects to get a 3D picture of them. He used it to make a funny video of Oron and me spinning around. We look like action figures.
 
+<p align="center"><img src="/images/mop13b.png" width="200"/> </p>
+
 Karn Chutinan is a fun person to talk to. He somehow knew “Combination Pizza Hut and Taco Bell” from before MOP, and he also plays improv piano like Oron does. His playing is extremely funny (you heard that right $mdash; piano playing _can_ be funny). He sometimes self-deprecates though, and he is a bit moody sometimes.
 
 Another camp called “Promise” is at IMSA now, and it’s pretty big. There are lots of middle schoolers. This means that we have to share the dining hall, and somehow our lunch period got cut to just 30 minutes! 
