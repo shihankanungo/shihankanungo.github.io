@@ -231,7 +231,7 @@ Another camp called “Promise” is at IMSA now, and it’s pretty big. There a
 
 Karn Chutinan is a fun person to talk to. He somehow knew “Combination Pizza Hut and Taco Bell” from before MOP, and he also plays improv piano like Oron. His playing is extremely funny (yes, piano playing that is funny). He sometimes self-deprecates though, and he is a bit moody sometimes.
 
-
+Today was the day before TSTST. People seem to be less worried about it than I expect; but of course some people are locked in. These people include Liam, Jonathan, me, and Yoll (he really wants to make TST group). I don’t know if Oron is locked in or not; he is generally kind of silly all the time. On the other hand, many people are just going on with their day as usual. I guess that for many people, MOP is the end of their career. But not for me (I hope)!
 
 <br><br>
 
