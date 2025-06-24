@@ -243,7 +243,7 @@ Catherine Xu is making a digraph of students at MOP and their crushes, but it tu
 
 Karn Chutinan is a fun person to talk to. He somehow knew “Combination Pizza Hut and Taco Bell” from before MOP, and he also plays improv piano like Oron does. His playing is extremely funny (you heard that right &mdash; piano playing _can_ be funny). He sometimes self-deprecates though, and he is a bit moody sometimes.
 
-Another camp called “Promise” is at IMSA now, and it’s pretty big. There are lots of middle schoolers. This means that we have to share the dining hall, and somehow our lunch period got cut to just 30 minutes! 
+Another camp called “Promise” is at IMSA now, and it’s pretty big. IMSA’s  PROMISE Program addresses the unique challenges of culturally, linguistically, and economically diverse (CLED) students interested in STEM education by providing academic enrichment programming at low to no cost. There are lots of middle schoolers. This means that we have to share the dining hall, and somehow our lunch period got cut to just 30 minutes! 
 
 Today is the day before TSTST. People seem to be less worried about it than I expected; but of course some people are locked in. These people include Liam, Jonathan, me, and Yoll (he really wants to make TST group). I don’t know if Oron is locked in or not; he is generally kind of silly all the time. On the other hand, many people are just going on with their day as usual. I guess that for many people, MOP is the pinnacle of their HS career. But not for me (I hope)!
 
