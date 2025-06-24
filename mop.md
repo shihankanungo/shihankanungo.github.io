@@ -184,6 +184,8 @@ The classes today were super good! Our first class was “Problem Solving Geomet
 
 Alexander Wang is not very mature, but he’s nice to talk to once you get to know him. He’s a loud person, and he tends to be at the center of the conversation (but not in a bad way!). He’s also quite good at piano; we heard him practicing when Tiger, Oron, and I were in the music rooms. Tiger and Oron are also very good; I think that Tiger is the best. 
 
+<p align="center"><img src="/images/mop10a.jpg" width="400"/> <br> <span style="color: gray"> Alexander Wang aka <i>dottedcaculator</i> </span> </p>
+
 I’ve made far too many mistakes on the tests. Tomorrow is ELMO, and the TSTSTs are coming up. No more fooling around. I need to be 100% focused on the tests and make sure that I perform to the peak of my ability.
 
 ## Day 11 &mdash; Saturday, June 21, 2025
