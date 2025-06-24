@@ -227,6 +227,10 @@ Today we had a class called “A fun problem” by Alex Song, which was an Euler
 
 After this, I went with Oron to jam in the music rooms. We later got Karn and Tiger, and for some reason Liam and Jonathan also came into the room (even though they hate the song that we were playing). It was pretty fun, and we made a lot of progress. 
 
+Jonathan has a funny app on his phone which lets him scan objects to get a 3D picture of them. He used it to make a funny video of Oron and me spinning around. We look like action figures.
+
+<p align="center"><img src="/images/mop13b.png" width="300"/> </p>
+
 Its still super hot, so today it got a bit boring at times. There was an assembly in the evening, which was fun; Dotted announced that the RELMO would be on Wednesday and Friday. I’m excited to see the returners’ (especially Liam's) reactions to the problems. We played Frisbee after the assembly, which was pretty fun. 
 
 David Fox is organizing Mafia, which is starting tonight; I’m a “town vigilante”, which means that I get to kill people! (not irl of course). 
@@ -236,10 +240,6 @@ David Fox is organizing Mafia, which is starting tonight; I’m a “town vigila
 Catherine Xu is making a digraph of students at MOP and their crushes, but it turns out that all 38 responses to the form so far are trolls. One of them was “everyone” likes “Alexander Wang”.  
 
 <p align="center"><img src="/images/mop13a.png" width="400"/> <br> <span style="color: gray"> Catherine Xu </span> </p>
-
-Jonathan has a funny app on his phone which lets him scan objects to get a 3D picture of them. He used it to make a funny video of Oron and me spinning around. We look like action figures.
-
-<p align="center"><img src="/images/mop13b.png" width="300"/> </p>
 
 Karn Chutinan is a fun person to talk to. He somehow knew “Combination Pizza Hut and Taco Bell” from before MOP, and he also plays improv piano like Oron does. His playing is extremely funny (you heard that right $mdash; piano playing _can_ be funny). He sometimes self-deprecates though, and he is a bit moody sometimes.
 
