@@ -223,6 +223,10 @@ I think that up untill just a few days ago, I was not fully tuned into the MOP e
 
 ### Alex Song class, Yi Sun talks.
 
+Today we had a class called “A fun problem” by Alex Song, which was an Euler-Circle style Dirichlet character problem. It was fun to revisit the subject. We then had a class called “Combinatorial Geometry”, which is my favorite subject. Unfortunately, it was more like geometrical combo: it was about the combinatorial aspects of triangulations, which is less interesting for me. I prefer a more geometrical approach, like the Thaiangulations problem. We also had a talk by Yi Sun about zero-knowledge proof. Unfortunately, I didn’t understand much. I somehow don’t understand finance “money math” very well. 
+
+After this, I went with Oron to jam in the music rooms. We later got Karn and Tiger, and for some reason Liam and Jonathan also came into the room (even though they hate the song that we were playing). It was pretty fun, and we made a lot of progress. Catherine Xu is making a digraph of students at MOP and their crushes, but it turns out that all 38 responses to the form so far are trolls. One of them was “everyone” likes “Alexander Wang”.  Its still super hot, so today was a bit boring. There was an assembly in the evening, which was fun; Dotted announced that the RELMO would be on Wednesday and Friday. I’m excited to see the returners’ (especially Liam) reactions to the problems. We played Frisbee after the assembly, which was pretty fun. Mafia (organized by David Fox) is starting this night; I’m a “town vigilante”, which means that I get to kill people! (not irl of course). Jonathan has a funny app on his phone which lets him scan objects to get a 3d picture of them. He did this to Oron and me and made a funny video of us spinning around. We kind of look like action figures.
+
 
 <br><br>
 
