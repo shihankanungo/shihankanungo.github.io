@@ -221,7 +221,7 @@ I think that up untill just a few days ago, I was not fully tuned into the MOP e
 
 ## Day 13 &mdash; Monday, June 23, 2025
 
-### Alex Song class, Yi Sun talks.
+### Alex Song class, Yi Sun talks, Mafia, MOP graph.
 
 Today we had a class called “A fun problem” by Alex Song, which was an Euler-Circle style Dirichlet character problem. It was fun to revisit the subject. We then had a class called “Combinatorial Geometry”, which is my favorite subject. Unfortunately, it was more like geometrical combo: it was about the combinatorial aspects of triangulations, which is less interesting for me. I prefer a more geometrical approach, like the Thaiangulations problem. We also had a talk by Yi Sun about zero-knowledge proof. Unfortunately, I didn’t understand much. I somehow don’t understand finance “money math” very well. 
 
