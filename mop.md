@@ -227,7 +227,11 @@ Today we had a class called “A fun problem” by Alex Song, which was an Euler
 
 After this, I went with Oron to jam in the music rooms. We later got Karn and Tiger, and for some reason Liam and Jonathan also came into the room (even though they hate the song that we were playing). It was pretty fun, and we made a lot of progress. 
 
-Its still super hot, so today it got a bit boring at times. There was an assembly in the evening, which was fun; Dotted announced that the RELMO would be on Wednesday and Friday. I’m excited to see the returners’ (especially Liam's) reactions to the problems. We played Frisbee after the assembly, which was pretty fun. Mafia (organized by David Fox) is starting this night; I’m a “town vigilante”, which means that I get to kill people! (not irl of course). 
+Its still super hot, so today it got a bit boring at times. There was an assembly in the evening, which was fun; Dotted announced that the RELMO would be on Wednesday and Friday. I’m excited to see the returners’ (especially Liam's) reactions to the problems. We played Frisbee after the assembly, which was pretty fun. 
+
+David Fox is organizing Mafia, which is starting tonight; I’m a “town vigilante”, which means that I get to kill people! (not irl of course). 
+
+<p align="center"><img src="/images/mop13c.png" width="400"/> <br> <span style="color: gray"> David Fox </span> </p>
 
 Catherine Xu is making a digraph of students at MOP and their crushes, but it turns out that all 38 responses to the form so far are trolls. One of them was “everyone” likes “Alexander Wang”.  
 
