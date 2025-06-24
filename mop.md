@@ -164,6 +164,8 @@ We had a class on analytic number theory, and the problem set was exactly like i
 
 Jiahe is very good at both olympiad math and theory; like me. In all of the non-geo theory classes, we are usually the ones answering all the questions. For example, in the entropy class, the instructor at one point asked a question and said “could somebody who is not one of the two people who’ve been answering everything please tell us how to do this?”
 
+<p align="center"><img src="/images/mop9.png" width="400"/> <br> <span style="color: gray"> Jiahe Liu </span> </p>
+
 I attended storytime today. The discussions were quite stimulating. We talked about old- vs. new MOP; how COVID affected math olympiads; Zuming Feng stories; and more. I’m glad that I attended, and I’ll definitely go again.
 
 Tomorrow, I will ask Evan Chen to make me a geo bashing handout. I’ve realized that I might become a geo antimain if I’m not careful. That’s something I do not want to be.
