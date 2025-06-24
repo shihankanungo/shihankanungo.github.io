@@ -247,6 +247,12 @@ Another camp called “Promise” is at IMSA now, and it’s pretty big. IMSA’
 
 Today is the day before TSTST. People seem to be less worried about it than I expected; but of course some people are locked in. These people include Liam, Jonathan, me, and Yoll (he really wants to make TST group). I don’t know if Oron is locked in or not; he is generally kind of silly all the time. On the other hand, many people are just going on with their day as usual. I guess that for many people, MOP is the pinnacle of their HS career. But not for me (I hope)!
 
+
+## Day 14 &mdash; Tuesday, June 24, 2025
+
+### TSTST Day 1!!!
+
+
 <br><br>
 
 ![separator](images/sep.png)
