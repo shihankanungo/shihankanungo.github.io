@@ -227,13 +227,15 @@ Today we had a class called “A fun problem” by Alex Song, which was an Euler
 
 After this, I went with Oron to jam in the music rooms. We later got Karn and Tiger, and for some reason Liam and Jonathan also came into the room (even though they hate the song that we were playing). It was pretty fun, and we made a lot of progress. 
 
+Its still super hot, so today it got a bit boring at times. There was an assembly in the evening, which was fun; Dotted announced that the RELMO would be on Wednesday and Friday. I’m excited to see the returners’ (especially Liam's) reactions to the problems. We played Frisbee after the assembly, which was pretty fun. Mafia (organized by David Fox) is starting this night; I’m a “town vigilante”, which means that I get to kill people! (not irl of course). 
+
 Catherine Xu is making a digraph of students at MOP and their crushes, but it turns out that all 38 responses to the form so far are trolls. One of them was “everyone” likes “Alexander Wang”.  
 
-Its still super hot, so today was a bit boring. There was an assembly in the evening, which was fun; Dotted announced that the RELMO would be on Wednesday and Friday. I’m excited to see the returners’ (especially Liam's) reactions to the problems. We played Frisbee after the assembly, which was pretty fun. Mafia (organized by David Fox) is starting this night; I’m a “town vigilante”, which means that I get to kill people! (not irl of course). Jonathan has a funny app on his phone which lets him scan objects to get a 3D picture of them. He used it to make a funny video of Oron and me spinning around. We look like action figures.
-
-Another camp called “Promise” is at IMSA now, and it’s pretty big. There are lots of middle schoolers. This means that we have to share the dining hall, and somehow our lunch period got cut to just 30 minutes! 
+Jonathan has a funny app on his phone which lets him scan objects to get a 3D picture of them. He used it to make a funny video of Oron and me spinning around. We look like action figures.
 
 Karn Chutinan is a fun person to talk to. He somehow knew “Combination Pizza Hut and Taco Bell” from before MOP, and he also plays improv piano like Oron does. His playing is extremely funny (you heard that right $mdash; piano playing _can_ be funny). He sometimes self-deprecates though, and he is a bit moody sometimes.
+
+Another camp called “Promise” is at IMSA now, and it’s pretty big. There are lots of middle schoolers. This means that we have to share the dining hall, and somehow our lunch period got cut to just 30 minutes! 
 
 Today is the day before TSTST. People seem to be less worried about it than I expected; but of course some people are locked in. These people include Liam, Jonathan, me, and Yoll (he really wants to make TST group). I don’t know if Oron is locked in or not; he is generally kind of silly all the time. On the other hand, many people are just going on with their day as usual. I guess that for many people, MOP is the pinnacle of their HS career. But not for me (I hope)!
 
