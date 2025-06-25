@@ -6,7 +6,7 @@ title: MOP (June 11-July 2, 2025)
 
 This year, MAA’s Mathematical Olympiad Summer Program (MOP '25) was held at IMSA &mdash; *The Illinois Mathematics and Science Academy*, from June 11--July 2, 2025.
 
-## Schedule 
+### Schedule 
 <details>
 <summary><b>Classes and tests &mdash; "Blue" group.</b></summary>
 
@@ -18,7 +18,7 @@ This year, MAA’s Mathematical Olympiad Summer Program (MOP '25) was held at IM
 </details>
 
 
-## Day 0 &mdash; Sunday, June 8-11, 2025
+### Day 0 &mdash; Sunday, June 8-11, 2025
 
 <details>
 <summary><b>Chicago, Isaac Chang, Arun Kannan.</b></summary>
@@ -39,7 +39,7 @@ Isaac showed us around the campus and told us many interesting anecdotes. Mama t
 </details>
 
 
-## Day 1 &mdash; Wednesday, June 11, 2025
+### Day 1 &mdash; Wednesday, June 11, 2025
 
 <details>
 <summary><b>Rooms, Evan Fan, Yoll Feng.</b></summary>
@@ -61,7 +61,7 @@ I’m excited for MOP. I think that I will have a great time, and make a lot of 
 </details>
 
 
-## Day 2 &mdash; Thursday, June 12, 2025
+### Day 2 &mdash; Thursday, June 12, 2025
 
 <details>
 <summary><b>First day of classes, run group, ELMO teams, Aryan Raj.</b></summary> 
@@ -85,7 +85,7 @@ I had a lot of fun at MOP today. Tomorrow is our first test. Time to lock in! <b
 </details>
 
 
-## Day 3 &mdash; Friday, June 13, 2025
+### Day 3 &mdash; Friday, June 13, 2025
 
 <details>
 <summary><b>MOP Test 1, cubic curves, 2-sigma, Liam Reddy.</b></summary> 
@@ -105,7 +105,7 @@ ELMO is tomorrow. I’m feeling good about it &mdash; coming in strong after the
 </details>
 
 
-## Day 4 &mdash; Saturday, June 14, 2025
+### Day 4 &mdash; Saturday, June 14, 2025
 
 <details>
 <summary><b>ELMO Day 1, Oron Wang, quantumelectrodynamics.</b></summary> 
@@ -125,7 +125,7 @@ Tomorrow is an off day: no classes or tests. It will be nice to relax and just h
 </details>
 
 
-## Day 5 &mdash; Sunday, June 15, 2025
+### Day 5 &mdash; Sunday, June 15, 2025
 
 <details>
 <summary><b>First free day, ELMO coordination, Jonathan Du, excursion.</b></summary> 
@@ -144,7 +144,7 @@ I have made too many silly mistakes on the tests: 3 out of 5 problems I attempte
 
 </details>
 
-## Day 6 &mdash; Monday, June 16, 2025
+### Day 6 &mdash; Monday, June 16, 2025
 
 <details>
 <summary><b>Spiral similarity, Alexander Wang, RELMO committee, Connor Leong.</b></summary> 
@@ -166,7 +166,7 @@ Yesterday, I was able to get a sound sleep by wrapping a shirt around my eyes as
 </details>
 
 
-## Day 7 &mdash; Tuesday, June 17, 2025
+### Day 7 &mdash; Tuesday, June 17, 2025
 
 <details>
 <summary><b>MOP Test 2, Yoll Feng, story-time.</b></summary> 
@@ -185,7 +185,7 @@ In this MOP test, I didn’t make any mistakes. However, I think that I might ha
 
 </details>
 
-## Day 8 &mdash; Wednesday, June 18, 2025
+### Day 8 &mdash; Wednesday, June 18, 2025
 
 <details>
 <summary><b>RELMO, Jane Street, Grant Blitz, "Combination Pizza Hut and Taco Bell".</b></summary>  
@@ -206,7 +206,7 @@ MOP test 3 is tomorrow; I want to make this my “comeback”. I would like to s
 
 </details>
 
-## Day 9 &mdash; Thursday, June 19, 2025
+### Day 9 &mdash; Thursday, June 19, 2025
 
 <details>
 <summary><b>MOP Test 3, "Combination Pizza Hut and Taco Bell", ANT, Jiahe Liu, story-time.</b></summary> 
@@ -228,7 +228,7 @@ Tomorrow, I will ask Evan Chen to make me a geo bashing handout. I’ve realized
 </details>
 
 
-## Day 10 &mdash; Friday, June 20, 2025
+### Day 10 &mdash; Friday, June 20, 2025
 
 <details>
 <summary><b>Picture Day!! Problem Solving Geometry, and Probabilistic method; Alexander Wang.</b></summary>  
