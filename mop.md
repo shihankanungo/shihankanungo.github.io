@@ -31,7 +31,7 @@ Isaac showed us around the campus and told us many interesting anecdotes. Mama t
 
 <br><br>
 
-:arrow_right_hook: [Back to top](#mop)
+[↪️ Back to top](#mop)
 
 <br>
 
