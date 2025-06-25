@@ -10,7 +10,7 @@ This year, MAA’s Mathematical Olympiad Summer Program (MOP '25) was held at IM
 ## Day 0 &mdash; Sunday, June 8-11, 2025
 
 <details open>
-<summary>### Chicago, Isaac Chang, Arun Kannan.</summary>
+###  <summary>Chicago, Isaac Chang, Arun Kannan.</summary>
 
 Reached Chicago a few days early and stayed at *The Chicago Marriott Southwest at Burr Ridge* – which is a fantastic hotel! Our room overlooked a beautiful view with a pond within a lush green rolling meadow. 
 
