@@ -6,15 +6,16 @@ title: MOP (June 11-July 2, 2025)
 
 This year, MAA’s Mathematical Olympiad Summer Program (MOP '25) was held at IMSA &mdash; *The Illinois Mathematics and Science Academy*, from June 11--July 2, 2025.
 
-## Schedule of classes (and tests) &mdash; "Blue" group
+## Schedule 
+<details>
+<summary><b>Classes and tests &mdash; "Blue" group.</b></summary>
 
-![mop-classes](images/mop-classes.png)
+<p align="center"><img src="/images/mop-classes.png" width="700" /></p>
 
-![mop-classes](images/mop-classes-a.png)
+<p align="center"><img src="/images/mop-classes-a.png" width="700" /></p>
 
-[↪️ Back to top](https://shihankanungo.github.io/mop)
-
-<br>
+<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
+</details>
 
 
 ## Day 0 &mdash; Sunday, June 8-11, 2025
