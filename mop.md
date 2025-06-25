@@ -27,6 +27,8 @@ Isaac showed us around the campus and told us many interesting anecdotes. Mama t
 
 ![mop-classes](images/mop-classes.png)
 
+![mop-classes](images/mop-classes-a.png)
+
 
 ## Day 1 &mdash; Wednesday, June 11, 2025
 
