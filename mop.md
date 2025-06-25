@@ -87,7 +87,8 @@ I had a lot of fun at MOP today. Tomorrow is our first test. Time to lock in!
 
 ## Day 3 &mdash; Friday, June 13, 2025
 
-### MOP Test 1, cubic curves, 2-sigma, Liam Reddy.
+<details>
+<summary><b>MOP Test 1, cubic curves, 2-sigma, Liam Reddy.</b></summary> 
 
 The MOP classes today were both lecture-based: we had an inequalities class, which was just analysis and Lagrange multipliers, and a class on cubic curves which was very interesting, but I have no clue how to apply it. We also had our first MOP test, which I did reasonably well on (expecting 750). I spent a lot of time on P2 with a completely wrong idea but I ultimately figured it out. However I didn't have time to fully finish the writeup &mdash; I got to a point where the finish is quite easy. Also, my solution has a small (patchable) error.
 
@@ -99,13 +100,15 @@ Today I found out that Liam skipped two grades &mdash; just like me! He is a ver
 
 ELMO is tomorrow. I’m feeling good about it &mdash; coming in strong after the MOP test. I will skip my run tomorrow&mdash;after all, it’s Saturday. I will also be doing my laundry.
 
-[↪️ Back to top](https://shihankanungo.github.io/mop)
-<br>
+<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
+
+</details>
 
 
 ## Day 4 &mdash; Saturday, June 14, 2025
 
-### ELMO Day 1, Oron Wang, quantumelectrodynamics.
+<details>
+<summary><b>ELMO Day 1, Oron Wang, quantumelectrodynamics.</b></summary> 
 
 Today was ELMO day 1. Dotted decided to troll us by making the ELMO as the “Error-Littered Math Olympiad”, where all the problems were covered with random error messages and one of them was in Japanese. The ELSMO (which is supposed to be the troll version) was the “Elmo Loves Swapping Math Olympiads”, and was the actual test. I got P1 pretty quickly: it was an arrow problem. P2 was easy for me as well, mostly because I was able to reduce it to a problem from the Blue MOP combinatorics class (which I had solved). I then proceeded to spend 3 hours on P3, continually fakesolving and patching my solution until I finally got it. But right after the test, I realized that I got the wrong answer, and then someone pointed out that I misread the problem. It turns out that this happened to a bunch of people, and I was feeling very grumpy about that. But, in the evening, as Dotted was going through our team’s P3 submissions, he said that I should get a 4 or a 5 (which would be one of the top scores)! It turns out that my solution was on the right track, and most of it actually matched the official (correct) solution! So I’m feeling good now! Yay!
 
@@ -113,18 +116,19 @@ Oron is a very interesting character. Whenever he is working on a problem he sta
 
 <p align="center"><img src="/images/mop4.png" width="400" /> <br> <span style="color: gray"> Oron Wang </span> </p> 
 
-Today Grant Blitz and I were able to figure out who _quantumelectrodynamics_ (QED) was. A lot of people have been trying to find out, and yesterday Liam and Oron concluded that it was an alt account. At breakfast, Grant saw that QED was online, so I asked him to text QED "are u at breakfast?" to which QED replied "yes", so we immediately looked around to see who was on their phones. But then QED went offline, so we looked to see who had just put away their phone. There was one person who did: it was Dotted. We then sent him a few more texts, and the online/offline and typing patterns exactly matched! Dotted still won’t admit that he’s QED though.
+Today Grant Blitz and I were able to figure out who <i>quantumelectrodynamics</i> (QED) was. A lot of people have been trying to find out, and yesterday Liam and Oron concluded that it was an alt account. At breakfast, Grant saw that QED was online, so I asked him to text QED "are u at breakfast?" to which QED replied "yes", so we immediately looked around to see who was on their phones. But then QED went offline, so we looked to see who had just put away their phone. There was one person who did: it was Dotted. We then sent him a few more texts, and the online/offline and typing patterns exactly matched! Dotted still won’t admit that he’s QED though.
 
 Tomorrow is an off day: no classes or tests. It will be nice to relax and just hang out. 
 
-[↪️ Back to top](https://shihankanungo.github.io/mop)
+<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
 
-<br>
+</details>
 
 
 ## Day 5 &mdash; Sunday, June 15, 2025
 
-### First free day, ELMO coordination, Jonathan Du, excursion.
+<details>
+<summary><b>First free day, ELMO coordination, Jonathan Du, excursion.</b></summary> 
 
 Today was an off day: there were no classes (except for a seminar on elliptic integrals). But ELMO coordination was in full swing. Calvin spent 5 hours arguing with Liam about our team’s problem 1 submissions, and a good bit of that was on mine. They were debating whether to give a 4 or a 5. I felt that I should have got a 5, but due to the way that other peoples solutions were graded, we had to settle on a 4. But this caused me to decide to join in participating in writing the RELMO, and I’ve started working on a problem which imitates ELMO P2 and my p1 coordination, except in the problem I win.
 
@@ -136,9 +140,9 @@ Today Jiahe organized a walk where a bunch of people went on an “excursion” 
 
 I have made too many silly mistakes on the tests: 3 out of 5 problems I attempted. I think I need to sleep earlier so that I don’t get woken up by random noises, and I also need to be calmer during the tests.
 
-[↪️ Back to top](https://shihankanungo.github.io/mop)
+<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
 
-<br>
+</details>
 
 ## Day 6 &mdash; Monday, June 16, 2025
 
