@@ -251,7 +251,6 @@ Another camp called “Promise” is at IMSA now, and it’s pretty big. IMSA’
 
 Today is the day before TSTST. People seem to be less worried about it than I expected; but of course some people are locked in. These people include Liam, Jonathan, me, and Yoll (he really wants to make TST group). I don’t know if Oron is locked in or not; he is generally kind of silly all the time. On the other hand, many people are just going on with their day as usual. I guess that for many people, MOP is the pinnacle of their HS career. But not for me (I hope)!
 
-
 ## Day 14 &mdash; Tuesday, June 24, 2025
 
 ### TSTST Day 1, two MOPpers expelled, Tiger Zhang, introspection.
@@ -267,6 +266,11 @@ Tiger Zhang is one of the most mature people at MOP, but he also has a silly sid
 Today there was a lot of drama. Apparently some RC saw footage of two people kissing in the hall commons between 12:00 and 3:00 (when you’re not allowed to be inside). This resulted in the two people getting expelled from MOP (by IMSA and MAA; MOP staff fought hard for them), as well as the staff member who opened the door for them. Practically everyone at MOP is worked up about this and they did some kind of protest (where they went on an unauthorised walk to get food for the two people) in the evening.
 
 On a more personal note, I had a long talk with Baba about my relationship with math, and me wasting my time and not paying attention to the math at MOP. I am going to do some introspection in the remainder of MOP and decide what I am going to do going forward. I think that I want to do math, but I need to be stronger about my commitments.
+
+
+## Day 15 &mdash; Wednesday, June 25, 2025
+
+### Rest Day 1.
 
 
 <br><br>
