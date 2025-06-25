@@ -11,7 +11,7 @@ This year, MAA’s Mathematical Olympiad Program (MOP '25) was held at IMSA &mda
 
 ### Chicago, Isaac Chang, Arun Kannan.
 
-Reached Chicago a few days early and stayed at *The Chicago Marriott Southwest at Burr Ridge* – fantastic hotel! Our room overlooked a beautiful view with a pond within a lush green rolling meadow. 
+Reached Chicago a few days early and stayed at *The Chicago Marriott Southwest at Burr Ridge* – which is a fantastic hotel! Our room overlooked a beautiful view with a pond within a lush green rolling meadow. 
 
 <p align="center"><img src="/images/burr-ridge.png" width="500" /></p>
 
