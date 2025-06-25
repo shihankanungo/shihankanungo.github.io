@@ -29,7 +29,7 @@ Isaac showed us around the campus and told us many interesting anecdotes. Mama t
 
 ![mop-classes](images/mop-classes-a.png)
 
-[↪️ Back to top](#mop)
+[↪️ Back to top](https://shihankanungo.github.io/mop)
 
 <br>
 
@@ -49,7 +49,7 @@ Yoll is exactly like Jerry Guo, but nicer I think; he is also quite funny! I wil
 
 I’m excited for MOP. I think that I will have a great time, and make a lot of friends.
 
-[↪️ Back to top](#mop)
+[↪️ Back to top](https://shihankanungo.github.io/mop)
 
 <br>
 
@@ -72,7 +72,7 @@ I met Aryan Raj on the bus to IMSA. I like talking to him a lot; I think it is b
 
 I had a lot of fun at MOP today. Tomorrow is our first test. Time to lock in!
 
-[↪️ Back to top](#mop)
+[↪️ Back to top](https://shihankanungo.github.io/mop)
 
 <br>
 
@@ -91,8 +91,7 @@ Today I found out that Liam skipped two grades &mdash; just like me! He is a ver
 
 ELMO is tomorrow. I’m feeling good about it &mdash; coming in strong after the MOP test. I will skip my run tomorrow&mdash;after all, it’s Saturday. I will also be doing my laundry.
 
-[↪️ Back to top](#mop)
-
+[↪️ Back to top](https://shihankanungo.github.io/mop)
 <br>
 
 
@@ -110,7 +109,7 @@ Today Grant Blitz and I were able to figure out who _quantumelectrodynamics_ (QE
 
 Tomorrow is an off day: no classes or tests. It will be nice to relax and just hang out. 
 
-[↪️ Back to top](#mop)
+[↪️ Back to top](https://shihankanungo.github.io/mop)
 
 <br>
 
@@ -129,7 +128,7 @@ Today Jiahe organized a walk where a bunch of people went on an “excursion” 
 
 I have made too many silly mistakes on the tests: 3 out of 5 problems I attempted. I think I need to sleep earlier so that I don’t get woken up by random noises, and I also need to be calmer during the tests.
 
-[↪️ Back to top](#mop)
+[↪️ Back to top](https://shihankanungo.github.io/mop)
 
 <br>
 
@@ -149,7 +148,7 @@ Yesterday, I was able to get a sound sleep by wrapping a shirt around my eyes as
 
 <p align="center"><img src="/images/mop6.png" width="400"/> <br> <span style="color: gray"> Breakfast in the cafeteria. </span> </p>
 
-[↪️ Back to top](#mop)
+[↪️ Back to top](https://shihankanungo.github.io/mop)
 
 <br>
 
@@ -167,7 +166,7 @@ Today was storytime; I had completely forgotten about it. I hadn’t checked my 
 
 In this MOP test, I didn’t make any mistakes. However, I think that I might have spent a bit too much time on P1 going down a rabbit hole. I think that I should remember to stop and look for alternate approaches; I sometimes trust my intuition too much.
 
-[↪️ Back to top](#mop)
+[↪️ Back to top](https://shihankanungo.github.io/mop)
 
 <br>
 
@@ -187,7 +186,7 @@ We had Jane Street today &mdash; the estimathon was unbelievably hard! My team c
 
 MOP test 3 is tomorrow; I want to make this my “comeback”. I would like to solve a hard problem; a problem that I’m proud of doing.
 
-[↪️ Back to top](#mop)
+[↪️ Back to top](https://shihankanungo.github.io/mop)
 
 <br>
 
@@ -207,7 +206,7 @@ I attended storytime today. The discussions were quite stimulating. We talked ab
 
 Tomorrow, I will ask Evan Chen to make me a geo bashing handout. I’ve realized that I might become a geo antimain if I’m not careful. That’s something I do not want to be.
 
-[↪️ Back to top](#mop)
+[↪️ Back to top](https://shihankanungo.github.io/mop)
 
 <br>
 
@@ -229,7 +228,7 @@ Alexander Wang is not very mature, but he’s nice to talk to once you get to kn
 
 I’ve made far too many mistakes on the tests. Tomorrow is ELMO, and the TSTSTs are coming up. No more fooling around. I need to be 100% focused on the tests and make sure that I perform to the peak of my ability.
 
-[↪️ Back to top](#mop)
+[↪️ Back to top](https://shihankanungo.github.io/mop)
 
 <br>
 
@@ -253,7 +252,7 @@ Rohan Garg is a pretty chill guy. He’s not a super excitable person like many 
 
 ELMO Day 2 went well, but I still made a mistake (even though I caught it). I need to figure out how to stay calm, and do everything correctly the first time.
 
-[↪️ Back to top](#mop)
+[↪️ Back to top](https://shihankanungo.github.io/mop)
 
 <br>
 
@@ -272,7 +271,7 @@ I think that up untill just a few days ago, I was not fully tuned into the MOP e
 
 <p align="center"><img src="/images/mop12.jpg" width="500"/> <br> <span style="color: gray"> Tomfoolery at MOP; L to R: Michael Luo, Kevin Long, Daniel Ge.  </span> </p>
 
-[↪️ Back to top](#mop)
+[↪️ Back to top](https://shihankanungo.github.io/mop)
 
 <br>
 
@@ -304,7 +303,7 @@ Another camp called “Promise” is at IMSA now, and it’s pretty big. IMSA’
 
 Today is the day before TSTST. People seem to be less worried about it than I expected; but of course some people are locked in. These people include Liam, Jonathan, me, and Yoll (he really wants to make TST group). I don’t know if Oron is locked in or not; he is generally kind of silly all the time. On the other hand, many people are just going on with their day as usual. I guess that for many people, MOP is the pinnacle of their HS career. But not for me (I hope)!
 
-[↪️ Back to top](#mop)
+[↪️ Back to top](https://shihankanungo.github.io/mop)
 
 <br>
 
@@ -324,7 +323,7 @@ Today there was a lot of drama. Apparently some RC saw footage of two people kis
 
 On a more personal note, I had a long talk with Baba about my relationship with math, and me wasting my time and not paying attention to the math at MOP. I am going to do some introspection in the remainder of MOP and decide what I am going to do going forward. I think that I want to do math, but I need to be stronger about my commitments.
 
-[↪️ Back to top](#mop)
+[↪️ Back to top](https://shihankanungo.github.io/mop)
 
 <br>
 
@@ -333,7 +332,7 @@ On a more personal note, I had a long talk with Baba about my relationship with 
 ### Rest Day 1.
 
 
-[↪️ Back to top](#mop)
+[↪️ Back to top](https://shihankanungo.github.io/mop)
 
 <br>
 
@@ -341,7 +340,7 @@ On a more personal note, I had a long talk with Baba about my relationship with 
 
 ### TSTST Day 2.
 
-[↪️ Back to top](#mop)
+[↪️ Back to top](https://shihankanungo.github.io/mop)
 
 <br>
 
