@@ -4,7 +4,7 @@ title: MOP (June 11-July 2, 2025)
 ---
 
 
-This year, MAA’s Mathematical Olympiad Program (MOP '25) was held at IMSA &mdash; *The Illinois Mathematics and Science Academy*, from June 11--July 2, 2025.
+This year, MAA’s Mathematical Olympiad Summer Program (MOP '25) was held at IMSA &mdash; *The Illinois Mathematics and Science Academy*, from June 11--July 2, 2025.
 
 
 ## Day 0 &mdash; Sunday, June 8-11, 2025
