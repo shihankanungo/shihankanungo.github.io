@@ -45,17 +45,17 @@ This year, MAA’s Mathematical Olympiad Summer Program (MOP '25) was held at IM
 
 <details>
 <summary><b>TSTST Day 1, two MOPpers expelled, Tiger Zhang, introspection.</b></summary>  
-
+<br>
 Today was TSTST Day 1, but let me not get ahead of myself here. Let's start with the AM classes. We had an interesting class about projective geometry, which is going to be a warm-up for moving points. It was taught without using any lengths, and the instructor asked me to present my solution to one of the exercises. It ended with the statement of DIT (but there were no applications to olympiad problems in this class).
-
+<br>
 Now for TSTST-1: I solved P1 in less than 10 minutes, and P2 was a functional equation similar to an ISL problem that I had seen before. It took a bit less than two hours. P3 turned out to be an anti-problem, but I was actually quite close. If I had written down every single one of my ideas, I might have gotten a couple more points.
-
+<br>
 Tiger Zhang is one of the most mature people at MOP, but he also has a silly side. He was one of the first people to appreciate “Combination”, and he likes to banter. He’s generally pretty quiet, but he’s not shy at all. 
 
 <p align="center"><img src="/images/mop14.png" width="400"/> <br> <span style="color: gray"> Tiger (Qiao) Zhang </span> </p>
 
 Today there was a lot of drama. Apparently some RC saw footage of two people kissing in the hall commons between 12:00 and 3:00 (when you’re not allowed to be inside). This resulted in the two people getting expelled from MOP (by IMSA and MAA; MOP staff fought hard for them), as well as the staff member who opened the door for them. Practically everyone at MOP is worked up about this and they did some kind of protest (where they went on an unauthorised walk to get food for the two people) in the evening.
-
+<br>
 On a more personal note, I had a long talk with Baba about my relationship with math, and me wasting my time and not paying attention to the math at MOP. I am going to do some introspection in the remainder of MOP and decide what I am going to do going forward. I think that I want to do math, but I need to be stronger about my commitments. <br>
 
 <a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
