@@ -10,17 +10,17 @@ This year, MAA’s Mathematical Olympiad Summer Program (MOP '25) was held at IM
 ## Day 0 &mdash; Sunday, June 8-11, 2025
 
 <details>
-<summary><h3>Chicago, Isaac Chang, Arun Kannan.</h3></summary>
+<summary><b>Chicago, Isaac Chang, Arun Kannan.</b></summary>
 
-Reached Chicago a few days early and stayed at *The Chicago Marriott Southwest at Burr Ridge* – which is a fantastic hotel! Our room overlooked a beautiful view with a pond within a lush green rolling meadow. 
+Reached Chicago a few days early and stayed at <i>The Chicago Marriott Southwest at Burr Ridge</i> &mdash; which is a fantastic hotel! Our room overlooked a beautiful view with a pond within a lush green rolling meadow. 
 
 <p align="center"><img src="/images/burr-ridge.png" width="500" /></p>
 
-Dinner on Sunday was pizza at _Stix and Stones_ which was incredible. <br> On Monday I met with Isaac Chang at the University of Chicago, where he is doing a triple major &mdash; Math, Physics, and CS!  
+Dinner on Sunday was pizza at <i>Stix and Stones</i> which was incredible. <br> On Monday I met with Isaac Chang at the University of Chicago, where he is doing a triple major &mdash; Math, Physics, and CS!  
 
 <p align="center"><img src="/images/isaac.jpg" width="400" /></p>
 
-Isaac showed us around the campus and told us many interesting anecdotes. Mama took us to lunch at West 57th. In the evening, we had a fabulous dinner at _Kama Bistro_ --- black pepper lamb and achari chicken. I met with Arun on Tuesday at _Cupitol Coffee & Eatery_. We then had lunch at _Momo Factory_ followed by dinner at  _Stix and Stones_ (a repeat &mdash; yes it was that good!!). On Wednesday morning, mama and baba dropped me off at Terminal 2 of the Chicago O'Hare International Airport for the 1145AM shuttle to IMSA.
+Isaac showed us around the campus and told us many interesting anecdotes. Mama took us to lunch at <i>West 57th</i>. In the evening, we had a fabulous dinner at <i>Kama Bistro</i> &mdash; black pepper lamb and achari chicken. I met with Arun on Tuesday at <i>Cupitol Coffee & Eatery</i>. For lunch, we went to <i>Momo Factory</i> followed by dinner at <i>Stix and Stones</i> (a repeat &mdash; yes it was that good!!). On Wednesday morning, mama and baba dropped me off at Terminal 2 of the Chicago O'Hare International Airport for the 1145AM shuttle to IMSA.
 
 <p align="center"><img src="/images/mop0.jpg" width="400" /></p>
 </details>
