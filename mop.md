@@ -146,7 +146,8 @@ I have made too many silly mistakes on the tests: 3 out of 5 problems I attempte
 
 ## Day 6 &mdash; Monday, June 16, 2025
 
-### Spiral similarity, Alexander Wang, RELMO committee, Connor Leong.
+<details>
+<summary><b>Spiral similarity, Alexander Wang, RELMO committee, Connor Leong.</b></summary> 
 
 Today we had a class by Vivian Loh on spiral similarity! (Baba’s favorite subject). Then we had two consecutive classes on polynomials. The first one had a nerfed version of ELMO P3 on the first problem, and the second had Decartes’ Rule of Signs 💀. I also talked to Dotted about RELMO, and it turns out that we both ripped a problem from our PRIMES projects, and they are both about extremal functions.
 
@@ -160,13 +161,15 @@ Yesterday, I was able to get a sound sleep by wrapping a shirt around my eyes as
 
 <p align="center"><img src="/images/mop6.png" width="400"/> <br> <span style="color: gray"> Breakfast in the cafeteria. </span> </p>
 
-[↪️ Back to top](https://shihankanungo.github.io/mop)
+<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
 
-<br>
+</details>
+
 
 ## Day 7 &mdash; Tuesday, June 17, 2025
 
-### MOP Test 2, Yoll Feng, story-time.
+<details>
+<summary><b>MOP Test 2, Yoll Feng, story-time.</b></summary> 
 
 MOP Test 2 was today. Problem 1 was an anti-problem!!!! I spent almost 3 hours on it, and I seriously thought that I was going to get swept. But I got it eventually. Unfortunately, I didn’t have time to solve P2, which was hard. I had all the right ideas though, and if I had more time I think I would have got it. It turns out that I was kind of right to be scared &mdash; Jonathan and Oron both got swept, and I am predicting 720. 
 
@@ -176,15 +179,16 @@ I think Yoll Feng looks up to me; he has often expressed concern about the TSTST
 
 Today was storytime; I had completely forgotten about it. I hadn’t checked my computer the whole day since I didn’t take it in my bag, so I didn’t see Baba’s message. I went after I called Baba and I saw the message, but it was too late. Hopefully, I will catch another one before MOP ends.
 
-In this MOP test, I didn’t make any mistakes. However, I think that I might have spent a bit too much time on P1 going down a rabbit hole. I think that I should remember to stop and look for alternate approaches; I sometimes trust my intuition too much.
+In this MOP test, I didn’t make any mistakes. However, I think that I might have spent a bit too much time on P1 going down a rabbit hole. I think that I should remember to stop and look for alternate approaches; I sometimes trust my intuition too much. <br>
 
-[↪️ Back to top](https://shihankanungo.github.io/mop)
+<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
 
-<br>
+</details>
 
 ## Day 8 &mdash; Wednesday, June 18, 2025
 
-### RELMO, Jane Street, Grant Blitz, "Combination Pizza Hut and Taco Bell".
+<details>
+<summary><b>RELMO, Jane Street, Grant Blitz, "Combination Pizza Hut and Taco Bell".</b></summary>  
 
 I worked on my RELMO problems today. It’s not easy to write problems; even if you’re trying to make them as bad as possible. I have a problem taken from my Geneson project; unfortunately I don’t know how to solve it. I was able to finish the second one; about the S-matrix conjecture.
 
@@ -196,15 +200,16 @@ We had Jane Street today &mdash; the estimathon was unbelievably hard! My team c
 
 <p align="center"><img src="/images/mop8.png" width="500"/> <br> <span style="color: gray"> Estimathon! L to R: Daniel, Kevin, Tarun, Aryan, (also Michael, Oron). </span> </p>
 
-MOP test 3 is tomorrow; I want to make this my “comeback”. I would like to solve a hard problem; a problem that I’m proud of doing.
+MOP test 3 is tomorrow; I want to make this my “comeback”. I would like to solve a hard problem; a problem that I’m proud of doing. <br>
 
-[↪️ Back to top](https://shihankanungo.github.io/mop)
+<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
 
-<br>
+</details>
 
 ## Day 9 &mdash; Thursday, June 19, 2025
 
-### MOP Test 3, "Combination Pizza Hut and Taco Bell", ANT, Jiahe Liu, story-time.
+<details>
+<summary><b>MOP Test 3, "Combination Pizza Hut and Taco Bell", ANT, Jiahe Liu, story-time.</b></summary> 
 
 MOP Test 3 was today; I was able to solve P1 quite easily using _Combination Pizza Hut and Taco Bell_; essentially, we had a sequence with two properties and I called the first one _Pizza Hut_ and the second one _Taco Bell_. P2 was a hard geo problem (which only Tiger solved synthetically; everyone else complex bashed or used the isoptic cubic) &mdash; I just submitted the lyrics to _Combination Pizza Hut and Taco Bell_; I’m hoping to get a style score satisfying x(1-x)=0. P3 was a combo problem which I fakesolved (argh!!). I got the first idea, which was to make it a graph, but I thought there was only one possibility for the graph. I had even checked and rewritten my solution, but I didn’t catch the mistake. I believe I would have solved the problem if I had caught the mistake.
 
@@ -216,15 +221,17 @@ Jiahe is very good at both olympiad math and theory; like me. In all of the non-
 
 I attended storytime today. The discussions were quite stimulating. We talked about old- vs. new MOP; how COVID affected math olympiads; Zuming Feng stories; and more. I’m glad that I attended, and I’ll definitely go again.
 
-Tomorrow, I will ask Evan Chen to make me a geo bashing handout. I’ve realized that I might become a geo antimain if I’m not careful. That’s something I do not want to be.
+Tomorrow, I will ask Evan Chen to make me a geo bashing handout. I’ve realized that I might become a geo antimain if I’m not careful. That’s something I do not want to be. <br>
 
-[↪️ Back to top](https://shihankanungo.github.io/mop)
+<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
 
-<br>
+</details>
+
 
 ## Day 10 &mdash; Friday, June 20, 2025
 
-### Picture Day!! Problem Solving Geometry, and Probabilistic method; Alexander Wang
+<details>
+<summary><b>Picture Day!! Problem Solving Geometry, and Probabilistic method; Alexander Wang.</b></summary>  
 
 Today was picture day!! 
 
@@ -238,11 +245,12 @@ Alexander Wang is not very mature, but he’s nice to talk to once you get to kn
 
 <p align="center"><img src="/images/mop10a.jpg" width="400"/> <br> <span style="color: gray"> Alexander Wang aka <i>dottedcaculator</i> </span> </p>
 
-I’ve made far too many mistakes on the tests. Tomorrow is ELMO, and the TSTSTs are coming up. No more fooling around. I need to be 100% focused on the tests and make sure that I perform to the peak of my ability.
+I’ve made far too many mistakes on the tests. Tomorrow is ELMO, and the TSTSTs are coming up. No more fooling around. I need to be 100% focused on the tests and make sure that I perform to the peak of my ability. <br>
 
-[↪️ Back to top](https://shihankanungo.github.io/mop)
+<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
 
-<br>
+</details>
+
 
 ## Day 11 &mdash; Saturday, June 21, 2025
 
