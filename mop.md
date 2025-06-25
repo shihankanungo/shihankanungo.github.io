@@ -34,6 +34,8 @@ Dinner on Sunday was pizza at <i>Stix and Stones</i> which was incredible. <br> 
 Isaac showed us around the campus and told us many interesting anecdotes. Mama took us to lunch at <i>West 57th</i>. In the evening, we had a fabulous dinner at <i>Kama Bistro</i> &mdash; black pepper lamb and achari chicken. I met with Arun on Tuesday at <i>Cupitol Coffee & Eatery</i>. For lunch, we went to <i>Momo Factory</i> followed by dinner at <i>Stix and Stones</i> (a repeat &mdash; yes it was that good!!). On Wednesday morning, mama and baba dropped me off at Terminal 2 of the Chicago O'Hare International Airport for the 1145AM shuttle to IMSA.
 
 <p align="center"><img src="/images/mop0.jpg" width="400" /></p>
+
+<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
 </details>
 
 
@@ -54,14 +56,15 @@ Yoll is exactly like Jerry Guo, but nicer I think; he is also quite funny! I wil
 
 I’m excited for MOP. I think that I will have a great time, and make a lot of friends.
 
-[↪️ Back to top](https://shihankanungo.github.io/mop)
+<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
 
 </details>
 
 
 ## Day 2 &mdash; Thursday, June 12, 2025
 
-### First day of classes, run group, ELMO teams, Aryan Raj
+<details>
+<summary><b>First day of classes, run group, ELMO teams, Aryan Raj.</b></summary> 
 
 We had our first MOP classes today: on prime powers and hidden graphs in combo problems. I enjoyed both of them, and what I really appreciated were the little insights that the instructors gave us while walking us through the solutions. I also presented my 17-page solution in MOP homework review.
 
@@ -71,15 +74,15 @@ ELMO teams were decided; Jonathan told me I was in the first draft.
 
 <p align="center"><img src="/images/mop2b.png" width="400"/> <br> <span style="color: gray"> with Jonathan Du </span> </p>
 
-There are 7 teams in ELMO and they compete for the best score. Its a team captain format &mdash; each captain is one of the returners. I found out that I'm on team **Xooks** (captains: Calvin Wang and Oron Wang) and my team id is XOO7 ... so I guess that makes me James Bond!
+There are 7 teams in ELMO and they compete for the best score. Its a team captain format &mdash; each captain is one of the returners. I found out that I'm on team <b>Xooks</b> (captains: Calvin Wang and Oron Wang) and my team id is XOO7 ... so I guess that makes me James Bond!
 
 I met Aryan Raj on the bus to IMSA. I like talking to him a lot; I think it is because we are on the same wavelength about many things.
 
 I had a lot of fun at MOP today. Tomorrow is our first test. Time to lock in!
 
-[↪️ Back to top](https://shihankanungo.github.io/mop)
+<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
 
-<br>
+</details>
 
 
 ## Day 3 &mdash; Friday, June 13, 2025
