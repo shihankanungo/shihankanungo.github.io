@@ -54,7 +54,7 @@ Our rooms are pretty good; exactly like the pictures Hannah shared. We overlook 
 
 Yoll is exactly like Jerry Guo, but nicer I think; he is also quite funny! I will be going for a run in the morning with Liam. 
 
-I’m excited for MOP. I think that I will have a great time, and make a lot of friends.
+I’m excited for MOP. I think that I will have a great time, and make a lot of friends. <br>
 
 <a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
 
@@ -78,7 +78,7 @@ There are 7 teams in ELMO and they compete for the best score. Its a team captai
 
 I met Aryan Raj on the bus to IMSA. I like talking to him a lot; I think it is because we are on the same wavelength about many things.
 
-I had a lot of fun at MOP today. Tomorrow is our first test. Time to lock in!
+I had a lot of fun at MOP today. Tomorrow is our first test. Time to lock in! <br>
 
 <a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
 
@@ -98,7 +98,7 @@ Today I found out that Liam skipped two grades &mdash; just like me! He is a ver
 
 <p align="center"><img src="/images/mop3.png" width="400"/> <br> <span style="color: gray"> with Liam Reddy and Aryan Raj </span> </p>
 
-ELMO is tomorrow. I’m feeling good about it &mdash; coming in strong after the MOP test. I will skip my run tomorrow&mdash;after all, it’s Saturday. I will also be doing my laundry.
+ELMO is tomorrow. I’m feeling good about it &mdash; coming in strong after the MOP test. I will skip my run tomorrow&mdash;after all, it’s Saturday. I will also be doing my laundry. <br>
 
 <a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
 
@@ -118,7 +118,7 @@ Oron is a very interesting character. Whenever he is working on a problem he sta
 
 Today Grant Blitz and I were able to figure out who <i>quantumelectrodynamics</i> (QED) was. A lot of people have been trying to find out, and yesterday Liam and Oron concluded that it was an alt account. At breakfast, Grant saw that QED was online, so I asked him to text QED "are u at breakfast?" to which QED replied "yes", so we immediately looked around to see who was on their phones. But then QED went offline, so we looked to see who had just put away their phone. There was one person who did: it was Dotted. We then sent him a few more texts, and the online/offline and typing patterns exactly matched! Dotted still won’t admit that he’s QED though.
 
-Tomorrow is an off day: no classes or tests. It will be nice to relax and just hang out. 
+Tomorrow is an off day: no classes or tests. It will be nice to relax and just hang out.  <br>
 
 <a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
 
@@ -138,7 +138,7 @@ Today Jiahe organized a walk where a bunch of people went on an “excursion” 
 
 <p align="center"><img src="/images/mop5.png" width="500"/> <br> <span style="color: gray"> Poker with a 7-2 hand. <br> L to R: Daniel Ge, Eden He, Evan Fan, and Grant Blitz </span> </p>
 
-I have made too many silly mistakes on the tests: 3 out of 5 problems I attempted. I think I need to sleep earlier so that I don’t get woken up by random noises, and I also need to be calmer during the tests.
+I have made too many silly mistakes on the tests: 3 out of 5 problems I attempted. I think I need to sleep earlier so that I don’t get woken up by random noises, and I also need to be calmer during the tests. <br>
 
 <a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
 
