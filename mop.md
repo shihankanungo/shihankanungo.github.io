@@ -254,7 +254,7 @@ Today is the day before TSTST. People seem to be less worried about it than I ex
 
 ## Day 14 &mdash; Tuesday, June 24, 2025
 
-### TSTST Day 1!!!
+### TSTST Day 1, two MOPpers expelled, Tiger Zhang, introspection.
 
 Today was TSTST Day 1, but let me not get ahead of myself here. Let's start with the AM classes. We had an interesting class about projective geometry, which is going to be a warm-up for moving points. It was taught without using any lengths, and the instructor asked me to present my solution to one of the exercises. It ended with the statement of DIT (but there were no applications to olympiad problems in this class).
 
