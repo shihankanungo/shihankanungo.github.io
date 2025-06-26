@@ -288,6 +288,16 @@ I have made too many silly mistakes on the tests: 3 out of 5 problems I attempte
 <details>
 <summary><b>ELMO Day 1, Oron Wang, quantumelectrodynamics.</b></summary> 
 <br>
+First class was NT about stuff of the form <i>x<sup>n</sup>-y<sup>n</sup></i>. It was taught by John Berman. It was interesting and had some cyclotomic polynomial stuff. At the end there was this one problem of Erdös that had a crazy black magic feeling solution. A problem i liked: 
+<details>
+<summary><b>Number Theory. Problem</b></summary>
+  <img src="/images/mop4p.png" width="600"/>
+</details>
+Second class was a Geometry class taught by Rachel Zhang about expansion which is a weird technique in geo (and NOT anything else). Basically the idea is to orient all lines and circles, then expansion is to increase the radius of all circles and lines in a directed sense. This way, tangencies are preserved, and nice stuff can happen if you turn some circles into points. Here are some problems
+<details>
+<summary><b>Geo Transformations. Problems</b></summary>
+  <img src="/images/mop4pa.png" width="600"/>
+</details>
 Today was ELMO day 1. Dotted decided to troll us by making the ELMO as the “Error-Littered Math Olympiad”, where all the problems were covered with random error messages and one of them was in Japanese. The ELSMO (which is supposed to be the troll version) was the “Elmo Loves Swapping Math Olympiads”, and was the actual test. I got P1 pretty quickly: it was an arrow problem. P2 was easy for me as well, mostly because I was able to reduce it to a problem from the Blue MOP combinatorics class (which I had solved). I then proceeded to spend 3 hours on P3, continually fakesolving and patching my solution until I finally got it. But right after the test, I realized that I got the wrong answer, and then someone pointed out that I misread the problem. It turns out that this happened to a bunch of people, and I was feeling very grumpy about that. But, in the evening, as Dotted was going through our team’s P3 submissions, he said that I should get a 4 or a 5 (which would be one of the top scores)! It turns out that my solution was on the right track, and most of it actually matched the official (correct) solution! So I’m feeling good now! Yay!
 <br><br>
 Oron is a very interesting character. Whenever he is working on a problem he starts randomly saying the words "Yay", "Spam", and "Buh". Someone said that MOP has a tradition of degen a few days ago. I think this is it.
