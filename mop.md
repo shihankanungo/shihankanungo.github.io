@@ -331,16 +331,16 @@ ELMO is tomorrow. I’m feeling good about it &mdash; coming in strong after the
 We had our first MOP classes today: on prime powers and hidden graphs in combo problems. The class on prime powers was taught by Jordan Lefkowitz. I sat at a table with Michael, Jonathan, Oron, Grant and Jason. There were several funny problems. 
 <details>
 <summary><b>Prime Powers. Problems</b></summary>
-  <p align="left"><img src="/images/mop2p.png" width="500"/></p>
+  <img src="/images/mop2p.png" width="500"/>
 </details>
 Except, instead of only doing the problems we also said stuff like "those who know" while we were doing them. yay <br>
 The combinatorics class was with Milan Haiman. The theme of the class was graphs and the problems were like all pretty hard&mdash;like P1 was at least 20 mohs. One problem that was interesting was 
 <details>
 <summary><b>Combinatorics. 2016 EGMO Problem 3</b></summary>
-  <p align="left"><img src="/images/mop2pa.png" width="500"/></p>
+  <img src="/images/mop2pa.png" width="500"/>
 </details>
   
-I enjoyed both of them, and what I really appreciated were the little insights that the instructors gave us while walking us through the solutions. I also presented my 17-page solution in MOP homework review.
+I enjoyed both the classes, and what I really appreciated were the little insights that the instructors gave us while walking us through the solutions. I also presented my 17-page solution in MOP homework review.
 <br><br>
 MOP loves to play sports! I went for a run with Liam, Tiger, and Aryan in the morning. I think that this is going to be the running group. All four of us are serious. I also played basketball for an hour, and then played Frisbee for an hour. I played for 3 hours today ... would make Baba proud!
 <br><br>
