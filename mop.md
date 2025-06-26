@@ -308,7 +308,19 @@ Tomorrow is an off day: no classes or tests. It will be nice to relax and just h
 <details>
 <summary><b>MOP Test 1, cubic curves, 2-sigma, Liam Reddy.</b></summary> 
 <br>
-The MOP classes today were both lecture-based: we had an inequalities class, which was just analysis and Lagrange multipliers, and a class on cubic curves which was very interesting, but I have no clue how to apply it. We also had our first MOP test, which I did reasonably well on (expecting 750). I spent a lot of time on P2 with a completely wrong idea but I ultimately figured it out. However I didn't have time to fully finish the writeup &mdash; I got to a point where the finish is quite easy. Also, my solution has a small (patchable) error.
+The MOP classes today were both lecture-based. First class was Inequalities 1 with Alex (Zhuo Qun) Song. It was actually just an intro to Lagrange multipliers. Almost all of the class was theory and we only did one problem:
+<details>
+<summary><b>Inequalities 1. Problem</b></summary>
+  <img src="/images/mop3p.png" width="500"/>
+</details>
+The second class was probably the best overall class that MOP will ever see. Evan Chen taught a class on Cubic curves. First he talked about Cayley-Bacharach, both cubic and quartic, then a little about the circle points, and then he went over isoptic and isopivotal cubics. The problems were very fun. 
+<details>
+<summary><b>Cubic curves. Problems</b></summary>
+  <img src="/images/mop3pa.png" width="500"/>
+</details>
+However, I have no clue how to apply it. 
+<br><br>
+We also had our first MOP test, which I did reasonably well on (expecting 750). I spent a lot of time on P2 with a completely wrong idea but I ultimately figured it out. However I didn't have time to fully finish the writeup &mdash; I got to a point where the finish is quite easy. Also, my solution has a small (patchable) error.
 <br><br>
 We had a 2-Sigma dinner, where they gave a presentation and also got us free boba. The boba was good, but Arun’s explanation of what quants do was much better than the presentation.
 <br><br>
