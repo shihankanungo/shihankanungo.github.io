@@ -313,13 +313,12 @@ The MOP classes today were both lecture-based. First class was Inequalities 1 wi
 <summary><b>Inequalities 1. Problem</b></summary>
   <img src="/images/mop3p.png" width="500"/>
 </details>
-The second class was probably the best overall class that MOP will ever see. Evan Chen taught a class on Cubic curves. First he talked about Cayley-Bacharach, both cubic and quartic, then a little about the circle points, and then he went over isoptic and isopivotal cubics. The problems were very fun. 
+The second class was probably the best overall class that MOP will ever see. Evan Chen taught a class on Cubic curves. First he talked about Cayley-Bacharach, both cubic and quartic, then a little about the circle points, and then he went over isoptic and isopivotal cubics. However, I have no clue how to apply any of this to olympiad problems. The problems were very fun though. 
 <details>
 <summary><b>Cubic curves. Problems</b></summary>
   <img src="/images/mop3pa.png" width="500"/>
 </details>
-However, I have no clue how to apply it. 
-<br><br>
+
 We also had our first MOP test, which I did reasonably well on (expecting 750). I spent a lot of time on P2 with a completely wrong idea but I ultimately figured it out. However I didn't have time to fully finish the writeup &mdash; I got to a point where the finish is quite easy. Also, my solution has a small (patchable) error.
 <br><br>
 We had a 2-Sigma dinner, where they gave a presentation and also got us free boba. The boba was good, but Arun’s explanation of what quants do was much better than the presentation.
