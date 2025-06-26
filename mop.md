@@ -328,7 +328,14 @@ ELMO is tomorrow. I’m feeling good about it &mdash; coming in strong after the
 <details>
 <summary><b>First day of classes, run group, ELMO teams, Aryan Raj.</b></summary> 
 <br>
-We had our first MOP classes today: on prime powers and hidden graphs in combo problems. I enjoyed both of them, and what I really appreciated were the little insights that the instructors gave us while walking us through the solutions. I also presented my 17-page solution in MOP homework review.
+We had our first MOP classes today: on prime powers and hidden graphs in combo problems. The class on prime powers was taught by Jordan Lefkowitz. I sat at a table with Michael, Jonathan, Oron, Grant and Jason. There were several funny problems. 
+<details>
+<summary><b>Prime Powers. Problems</b></summary>
+  <p align="center"><img src="/images/mop2p.png" width="400"/></p>
+</details>
+Except, instead of only doing the problems we also said stuff like "those who know" while we were doing them. yay
+  
+I enjoyed both of them, and what I really appreciated were the little insights that the instructors gave us while walking us through the solutions. I also presented my 17-page solution in MOP homework review.
 <br><br>
 MOP loves to play sports! I went for a run with Liam, Tiger, and Aryan in the morning. I think that this is going to be the running group. All four of us are serious. I also played basketball for an hour, and then played Frisbee for an hour. I played for 3 hours today ... would make Baba proud!
 <br><br>
