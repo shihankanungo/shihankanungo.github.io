@@ -33,10 +33,20 @@ This year, MAA’s Mathematical Olympiad Summer Program (MOP '25) was held at IM
 
 <details>
 <summary><b>Rest Day 1.</b></summary> 
+<br>
+Today was Team Contest. It was like a guts round, except for olympiad problems. My team consisted of Oron, Tiger, Grant, Karn, and Brian (an international from Singapore). Everyone except me and Brian were geo mains, which was kind of funny. I spent a lot of time on problem 2, which was a very tricky combo problem. Grant was working on it, and then Tiger also tried it with me. I was finally able to get it, and I’m proud of my solution. I then spent the remainder of the time on an inequality, which I used Lagrange Multipliers on. I got really close, but I was not able to resolve the last inequality (which was pretty much just a bash) in time to present my solution to the graders. We also had a class on the derivatives on polynomials. Unfortunately I got stuck on one problem and I was not able to get it.
+<br><br>
+The drama from yesterday is escalating: Evan (Chen) is leaving MOP! The overwhelming sentiment is now that IMSA+MOP = evil and MOP is becoming like 1984/Animal Farm. I disagree strongly with everyone else. I think that the punishment was deserved and certainly not worth the outcry: rules are rules, we do not know all the facts or even most of them, and I think that IMSA and MAA were just doing their job. On a brighter note, I attended Karn’s PowerPoint karaoke session, where people present a slideshow they’ve never seen before. I submitted my superalgebra presentation. I presented Royce’s submission, which was a super weird hodgepodge of random images and words.
+<br><br>
+I talked to Leo Hong for quite a bit during dinner today, and he has a very interesting story. His dad made him do math when he was younger, and even gave him punishments, like jump roping for three hours (because of this, Leo won some jump roping competitions when he was 10). But Leo actually really likes to do math now. Unfortunately, his dad now wants him to play basketball at Chapel Hill for college and get a girlfriend. And both of these take priority over math. Leo wants to do math (he likes basketball, but he just does it for fun). I’m not sure if Leo has a good time at home; he says that a summer away from his dad is heaven for him, and he would not know how to deal with another summer at home. Leo’s also much more mature than he lets on. Out of the many people I talked to about the expulsion situation, he’s the only person who independently has the same viewpoint as me. He says that he’s done a lot of thinking about morals and ethics, and I think I see a lot of myself in him. 
+
+<p align="center"><img src="/images/mop15.png" width="400"/> <br> <span style="color: gray"> ... with Leo Hong. </span> </p>
+
+I’m having a much better time at MOP now that I’m focused on my priorities. Even though I’m doing less “fun stuff”, I think that my interactions are more meaningful, such as talking to Leo. I also feel more satisfied; when you put energy into something, it gives you a feeling like nothing else.
+
 
 
 <br>
-
 <a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
 
 </details>
