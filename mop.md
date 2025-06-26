@@ -32,7 +32,7 @@ This year, MAA’s Mathematical Olympiad Summer Program (MOP '25) was held at IM
 ### Day 15 &mdash; Wednesday, June 25, 2025
 
 <details>
-<summary><b>Rest Day 1.</b></summary> 
+<summary><b>Rest Day 1, Team contest, drama continues, Leo Hong.</b></summary> 
 <br>
 Today was Team Contest. It was like a guts round, except for olympiad problems. My team consisted of Oron, Tiger, Grant, Karn, and Brian (an international from Singapore). Everyone except me and Brian were geo mains, which was kind of funny. I spent a lot of time on problem 2, which was a very tricky combo problem. Grant was working on it, and then Tiger also tried it with me. I was finally able to get it, and I’m proud of my solution. I then spent the remainder of the time on an inequality, which I used Lagrange Multipliers on. I got really close, but I was not able to resolve the last inequality (which was pretty much just a bash) in time to present my solution to the graders. We also had a class on the derivatives on polynomials. Unfortunately I got stuck on one problem and I was not able to get it.
 <br><br>
