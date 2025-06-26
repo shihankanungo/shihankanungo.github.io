@@ -358,7 +358,7 @@ We started off in the cafeteria, which was pretty big, and then tried to make ou
 <br><br>
 After that, we stumbled upon an open area with whiteboards and two very sad-looking markers. They were almost out of ink, but that didn’t stop Oron from drawing a Skibidi Toilet and an Amogus. As we were about to leave, we ran into some other people who were also exploring, so they joined us in the whiteboard zone. We started sharing our favorite problems—someone wrote up 2010 N3—and more people kept trickling in. Eventually, the whiteboards were completely filled with math problems (and a skibidi toilet and amogus). 
 <br><br>
-By that time, it was almost 5, so we headed to dinner. The food was worse than last year, but honestly better than I expected, given how much the pre-MOPpers had complained.
+By that time, it was almost 5, so we headed to dinner. The food was (apparently) worse than last year, but honestly better than I expected, given how much the pre-MOPpers had complained.
 <br><br>
 The general community at MOP is quite friendly and inclusive. People play a lot of cards, and we also played pickleball.
 <br><br>
