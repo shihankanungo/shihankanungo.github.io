@@ -331,7 +331,7 @@ ELMO is tomorrow. I’m feeling good about it &mdash; coming in strong after the
 We had our first MOP classes today: on prime powers and hidden graphs in combo problems. The class on prime powers was taught by Jordan Lefkowitz. I sat at a table with Michael, Jonathan, Oron, Grant and Jason. There were several funny problems. 
 <details>
 <summary><b>Prime Powers. Problems</b></summary>
-  <p align="center"><img src="/images/mop2p.png" width="400"/></p>
+  <p align="left"><img src="/images/mop2p.png" width="400"/></p>
 </details>
 Except, instead of only doing the problems we also said stuff like "those who know" while we were doing them. yay
   
