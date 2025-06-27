@@ -268,7 +268,12 @@ MOP test 3 is tomorrow; I want to make this my “comeback”. I would like to s
 <br>
 MOP Test 2 was today. Problem 1 was an anti-problem!!!! I spent almost 3 hours on it, and I seriously thought that I was going to get swept. But I got it eventually. Unfortunately, I didn’t have time to solve P2, which was hard. I had all the right ideas though, and if I had more time I think I would have got it. It turns out that I was kind of right to be scared &mdash; Jonathan and Oron both got swept, and I am predicting 720. 
 <br><br>
-We had classes on determinants and entropy today; they were both interesting, although the problems felt a bit like AIME problems &mdash; i.e., computational.
+We had classes on Determinants and Entropy today. Determinants was taught by Serena An and involved Vandermonde determinant and path counting. The path counting stuff was cool. The second class&mdash;on Entropy&mdash;was taught by Rachel Zhang; it was a bit weird and kind of confusing but cool. 
+<details>
+<summary><b>Entropy. Problem</b></summary>
+  <img src="/images/mop7p.png" width="700"/>
+</details>
+Both classes were interesting, although the problems felt a bit like AIME problems &mdash; i.e., computational.
 <br><br>
 I think Yoll Feng looks up to me; he has often expressed concern about the TSTST and asked me for advice. And today he asked me for some of my “orzness” before the test. I told him that he’d do fine.
 <br><br>
