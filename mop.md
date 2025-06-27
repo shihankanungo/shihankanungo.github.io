@@ -243,7 +243,7 @@ Jiahe is very good at both olympiad math and theory; like me. In all of the non-
 
 <p align="center"><img src="/images/mop9.png" width="400"/> <br> <span style="color: gray"> Jiahe Liu </span> </p>
 
-I attended storytime today. On the way to StoryTime Oron stepped on my shoelace, which like destroyed it! Oops!! 
+I attended storytime today. On the way, Oron stepped on my shoelace, which destroyed it! Oops!! 
 
 <p align="center"><img src="/images/mop9a.jpg" width="300"/> <br> <span style="color: gray"> My shoelace is now a combination shoelace and horse-tail! </span> </p>
 
