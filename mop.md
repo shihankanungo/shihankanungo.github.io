@@ -121,9 +121,19 @@ On a more personal note, I had a long talk with Baba about my relationship with 
 <details>
 <summary><b>Alex Song class, Yi Sun talks, Mafia, MOP graph, Karn Chutinan.</b></summary> 
 <br>
-Today we had a class called “A fun problem” by Alex Song, which was an Euler-Circle style Dirichlet character problem. It was fun to revisit the subject. We then had a class called “Combinatorial Geometry”, which is my favorite subject. Unfortunately, it was more like geometrical combo: it was about the combinatorial aspects of triangulations, which is less interesting for me. I prefer a more geometrical approach, like the Thaiangulations problem. We also had a talk by Yi Sun about zero-knowledge proof. Unfortunately, I didn’t understand much. I somehow don’t understand finance “money math” very well. 
+First class was “A fun NT problem” by Alex Song, which was an Euler-Circle style Dirichlet character problem. It was split into 5 parts on the handout. The proof was using Dirichlet characters which are like functions from residue classes to roots of unity. It was fun to revisit the subject. 
+<details>
+<summary><b>A fun NT problem.</b></summary>
+  <img src="/images/mop13p.png" width="700"/>
+</details>
+We then had a class called “Combinatorial Geometry” which is my favorite subject. This was taught by Olha Silina and it was about triangulations, and unfortunately, it was more like geometrical combo: it was about the combinatorial aspects of triangulations, which is less interesting for me. I prefer a more geometrical approach, like the Thaiangulations problem. First we did some exercises that were like trivial problems. Then the problems were really cool. 
+<details>
+<summary><b>Combinatorial Geometry. Problems</b></summary>
+  <img src="/images/mop13pa.png" width="700"/>
+</details>
+PM class was a lecture on Zero-knowledge proofs by Yi Sun. Unfortunately, I didn’t understand much. I somehow don’t understand finance “money math” very well. 
 <br><br>
-After this, I went with Oron to jam in the music rooms. We later got Karn and Tiger, and for some reason Liam and Jonathan also came into the room (even though they hate the song that we were playing). It was pretty fun, and we made a lot of progress. 
+After this, I went to the music rooms with Oron to practice for the talent show. We also did some more improvs there which were meh. The actual practice though went well. Then I left and Oron did some more improvs. Later, as Oron was walking back to the dorm, I got him to go back to the main building. As we were entering we ran into the IMO team leaving so we got Karn and Tiger to join us and we just went back to the music rooms. Liam and Jonathan also saw us so they went into our room (even though they hate the song that we were playing) and we all practiced together or wtv. It was really good also with Karn’s improvs. It was pretty fun, and we made a lot of progress. 
 <br><br>
 Jonathan has a funny app on his phone which lets him scan objects to get a 3D picture of them. He used it to make a funny video of Oron and me spinning around. We look like action figures.
 
