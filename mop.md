@@ -400,7 +400,7 @@ Yesterday, I was able to get a sound sleep by wrapping a shirt around my eyes as
 <details>
 <summary><b>First free day, ELMO coordination, Jonathan Du, excursion.</b></summary> 
 <br>
-Today was an off day: there were no classes (except for a seminar on elliptic integrals). But ELMO coordination was in full swing. Calvin spent 5 hours arguing with Liam about our team’s problem 1 submissions, and a good bit of that was on mine. They were debating whether to give a 4 or a 5. I felt that I should have got a 5, but due to the way that other peoples solutions were graded, we had to settle on a 4. But this caused me to decide to join in participating in writing the RELMO, and I’ve started working on a problem which imitates ELMO P2 and my p1 coordination, except in the problem I win.
+Today was an off day: there were no classes (except for a seminar on elliptic integrals). But ELMO coordination was in full swing. Calvin spent 5 hours arguing with Liam about our team’s problem 1 submissions, and a good bit of that was on mine. They were debating whether to give a 4 or a 5. I felt that I should have got a 5, but due to the way that other peoples solutions were graded, we had to settle on a 4. But this caused me to decide to join in participating in writing the RELMO, and I’ve started working on a problem which imitates ELMO P2 and my P1 coordination, except in the problem I win.
 <br><br>
 I hang out with Jonathan quite a bit; we often sit together during MOP classes. He has an extremely good sense of humor and often makes very funny jokes. 
 <br><br>
