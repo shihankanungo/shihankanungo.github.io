@@ -17,6 +17,27 @@ This year, MAA’s Mathematical Olympiad Summer Program (MOP '25) was held at IM
 <a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
 </details>
 
+### Day 17 &mdash; Friday, June 27, 2025
+
+<details>
+<summary><b>Rest Day 2.</b></summary> 
+
+<br>
+
+<details>
+<summary><b>Analytic NT. Problem</b></summary>
+  <img src="/images/mop17p.png" width="700"/>
+</details>
+
+
+<p align="center"><img src="/images/mop13c.jpg" width="400"/> <br> <span style="color: gray"> David Fox </span> </p>
+
+
+
+<br>
+<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
+
+</details>
 
 ### Day 16 &mdash; Thursday, June 26, 2025
 
