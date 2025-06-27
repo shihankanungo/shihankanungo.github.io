@@ -42,7 +42,7 @@ This year, MAA’s Mathematical Olympiad Summer Program (MOP '25) was held at IM
 ### Day 16 &mdash; Thursday, June 26, 2025
 
 <details>
-<summary><b>TSTST Day 2, JB assembly, storytime, David Fox.</b></summary> 
+<summary><b>TSTST Day 2, JB assembly, StoryTime 4, David Fox.</b></summary> 
 
 <br>
 Today was TSTST Day 2. As in day 1, problem 1 was pretty trivial. Problem 2 was a 3d geo about a tetrahedron!!! I knew that there was no way they were actually giving us a 3d geo, so I did the obvious thing: unfold it. I then made some simple observations, but then got completely stuck. It turns out that you can just find a parallelogram among the sides in the diagram, which gives you the solution; a lot of people got the problem. P3 was a pretty easy graph theory problem; I solved it in a bit more than an hour. My solutions match the official one at test review almost word-for-word; so I likely did not fakesolve. 
@@ -171,7 +171,7 @@ I think that up untill just a few days ago, I was not fully tuned into the MOP e
 ### Day 11 &mdash; Saturday, June 21, 2025
 
 <details>
-<summary><b>ELMO Day 2, story-time, Rohan Garg.</b></summary>  
+<summary><b>ELMO Day 2, StoryTime 3, Rohan Garg.</b></summary>  
 <br>
 Today was ELMO day 2. P4 was a geo problem; we had to prove that a circle and a line were tangent. Unfortunately, my diagram had an inaccuracy, so I spent the first hour not realizing that the tangency point was a point already in the diagram. Then I knew it would be an angle chase; which proved to be a bit tricky. I got it relatively easily though. P5 was a number theory problem, which I fakesolved at first. But since I knew that I was going to make a mistake, I carefully checked my solution and caught the error. I then proceeded to fix it and get a correct solution. P6 was a combo problem which looked familiar, but I wasn’t able to make much nontrivial progress. It turns out that no one solved it; in fact no one (including the IMO team) but the proposer of the problem was able to do so. I was a bit bummed, because this meant that I would lose to Royce Yao by 2 points in the overall ELMO. But I guess this is my fault: I missed 3 completely gettable points on P1. 
 <br><br>
@@ -221,7 +221,7 @@ I’ve made far too many mistakes on the tests. Tomorrow is ELMO, and the TSTSTs
 ### Day 9 &mdash; Thursday, June 19, 2025
 
 <details>
-<summary><b>MOP Test 3, "Combination Pizza Hut and Taco Bell", ANT, Jiahe Liu, story-time.</b></summary> 
+<summary><b>MOP Test 3, "Combination Pizza Hut and Taco Bell", ANT, Jiahe Liu, StoryTime 2.</b></summary> 
 <br>
 MOP Test 3 was today; I was able to solve P1 quite easily using _Combination Pizza Hut and Taco Bell_; essentially, we had a sequence with two properties and I called the first one _Pizza Hut_ and the second one _Taco Bell_. P2 was a hard geo problem (which only Tiger solved synthetically; everyone else complex bashed or used the isoptic cubic) &mdash; I just submitted the lyrics to _Combination Pizza Hut and Taco Bell_; I’m hoping to get a style score satisfying x(1-x)=0. P3 was a combo problem which I fakesolved (argh!!). I got the first idea, which was to make it a graph, but I thought there was only one possibility for the graph. I had even checked and rewritten my solution, but I didn’t catch the mistake. I believe I would have solved the problem if I had caught the mistake.
 <br><br>
@@ -264,7 +264,7 @@ MOP test 3 is tomorrow; I want to make this my “comeback”. I would like to s
 ### Day 7 &mdash; Tuesday, June 17, 2025
 
 <details>
-<summary><b>MOP Test 2, Yoll Feng, story-time.</b></summary> 
+<summary><b>MOP Test 2, Yoll Feng, StoryTime 1.</b></summary> 
 <br>
 MOP Test 2 was today. Problem 1 was an anti-problem!!!! I spent almost 3 hours on it, and I seriously thought that I was going to get swept. But I got it eventually. Unfortunately, I didn’t have time to solve P2, which was hard. I had all the right ideas though, and if I had more time I think I would have got it. It turns out that I was kind of right to be scared &mdash; Jonathan and Oron both got swept, and I am predicting 720. 
 <br><br>
