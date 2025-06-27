@@ -43,7 +43,7 @@ Michael Ma was talking about how you should try to identify when what you’re d
 <br><br>
 I’ve had a lot of very interesting serious conversations in the last few days: with Liam and Calvin, Leo, Kailua, and David (and more, I think). This is something I’ve never done before; in general most of my talking with friends was just “chatting” or throwing jokes around. It’s very nice to be able to talk to people about serious things like these; rather than just thinking about them myself or with my parents. It’s kind of like groupsolving rather than solving problems individually; obviously you need to do the second, but the first can give you ideas that you wouldn’t have seen by yourself. 
 
-
+<br>
 <a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
 
 </details>
