@@ -321,7 +321,7 @@ The PM class was Quadratic Inequalities by Daniel Zhu about inequalities of the 
 <summary><b>Quadratic Inequalities. Problem</b></summary>
   <img src="/images/mop8pc.png" width="600"/>
 </details>
-<br><br>
+<br>
 I worked on my RELMO problems today. It’s not easy to write problems; even if you’re trying to make them as bad as possible. I have a problem taken from my Geneson project; unfortunately I don’t know how to solve it. I was able to finish the second one; about the S-matrix conjecture.
 <br><br>
 I like talking to Grant Blitz. He is refreshingly “not-asian” and his voice is very nice to listen to. He is a geo-main, and he goes to Exeter, just like Evan Fan. I think he is a very unselfish person; and he cares about others.
