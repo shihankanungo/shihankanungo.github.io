@@ -255,7 +255,7 @@ The problems were cool. One thing that happened was I started listening to "comb
 <summary><b>PowerPoint. Problem</b></summary>
   <img src="/images/mop8pb.png" width="600"/>
 </details>
-The PM class was Quadratic Inequalities by Daniel Zhu about inequalities of the form <img src="/images/mop8p.png" width="100"/> It was also pretty fun and cool. 
+The PM class was Quadratic Inequalities by Daniel Zhu about inequalities of the form <img src="/images/mop8p.png" width="150"/> It was also pretty fun and cool. 
 <details>
 <summary><b>Quadratic Inequalities. Problem</b></summary>
   <img src="/images/mop8pc.png" width="600"/>
