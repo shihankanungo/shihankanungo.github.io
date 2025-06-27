@@ -250,7 +250,7 @@ First class was Constructions by Andrew Gu which was a graph theory class.  
 <summary><b>Constructions. Problem</b></summary>
   <img src="/images/mop8pa.png" width="600"/>
 </details>
-The problems were cool. One thing that happened was I started listening to "combination pizza hut and taco bell" over and over so I started spamming that and Oron kept asking me to stop! Next class was Power(of a)Point by Tristan Shin which was like Power of a Point, Linearity of Power of a Point, and Forgotten Coaxiality. it was cool except all the proofs were coordbashes. Anyway the problems were pretty cool!
+The problems were cool. One thing that happened was I started listening to "combination pizza hut and taco bell" over and over so I started spamming that and Oron kept asking me to stop! Next class was Power(of a)Point by Tristan Shin which was like Power of a Point, Linearity of Power of a Point, and Forgotten Coaxiality. it was cool except all the proofs were coordbashes.
 <details>
 <summary><b>PowerPoint. Problem</b></summary>
   <img src="/images/mop8pb.png" width="600"/>
