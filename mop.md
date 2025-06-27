@@ -450,7 +450,7 @@ Tomorrow is an off day: no classes or tests. It will be nice to relax and just h
 <details>
 <summary><b>MOP Test 1, cubic curves, 2-sigma, Liam Reddy.</b></summary> 
 <br>
-The MOP classes today were both lecture-based. First class was Inequalities 1 with Alex (Zhuo Qun) Song. It was actually just an intro to Lagrange multipliers. Almost all of the class was theory and we only did one problem:
+The MOP classes today were both lecture-based. First class was Inequalities I with Alex (Zhuo Qun) Song. It was actually just an intro to Lagrange multipliers. Almost all of the class was theory and we only did one problem:
 <details>
 <summary><b>Inequalities 1. Problem</b></summary>
   <img src="/images/mop3p.png" width="500"/>
