@@ -493,7 +493,9 @@ The combinatorics class was with Milan Haiman. The theme of the class was graphs
   <img src="/images/mop2pa.png" width="500"/>
 </details>
   
-I enjoyed both the classes, and what I really appreciated were the little insights that the instructors gave us while walking us through the solutions. I also presented my 17-page solution in MOP homework review.
+I enjoyed both the classes, and what I really appreciated were the little insights that the instructors gave us while walking us through the solutions. 
+<br><br>
+I presented my 17-page solution to 4a bounty in MOP homework review. Evan also shared it with Dmitry Fomin for him to include in the book he is planning to publish!
 <br><br>
 MOP loves to play sports! I went for a run with Liam, Tiger, and Aryan in the morning. I think that this is going to be the running group. All four of us are serious. I also played basketball for an hour, and then played Frisbee for an hour. I played for 3 hours today ... would make Baba proud!
 <br><br>
