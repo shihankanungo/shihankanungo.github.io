@@ -247,7 +247,17 @@ In this MOP test, I didn’t make any mistakes. However, I think that I might ha
 <details>
 <summary><b>Spiral similarity, Alexander Wang, RELMO committee, Connor Leong.</b></summary> 
 <br>
-Today we had a class by Vivian Loh on spiral similarity! (Baba’s favorite subject). Then we had two consecutive classes on polynomials. The first one had a nerfed version of ELMO P3 on the first problem, and the second had Decartes’ Rule of Signs 💀. I also talked to Dotted about RELMO, and it turns out that we both ripped a problem from our PRIMES projects, and they are both about extremal functions.
+Today we had a class by Vivian Loh on spiral similarity! (Baba’s favorite subject). The class was interesting but the examples were just begging to be complex bashed. 
+<details>
+<summary><b>Spiral Similarity. Problem</b></summary>
+  <img src="/images/mop6p.png" width="700"/>
+</details>
+Then we had two consecutive classes on polynomials. Polynomials 1 was taught by Victor Wang. The problems were too notation heavy. The first one had a nerfed version of ELMO P3 on the first problem, and the second had Decartes’ Rule of Signs 💀. Polynomials 2 was taught by Eric Larson. It was slightly easier to understand.
+<details>
+<summary><b>Polynomials I & II. Problems</b></summary>
+  <img src="/images/mop6pa.png" width="700"/>
+</details> 
+I also talked to Dotted about RELMO, and it turns out that we both ripped a problem from our PRIMES projects, and they are both about extremal functions.
 <br><br>
 Connor Leong is an excellent Frisbee player. After the ELMO, he said that my P3 submission was “brilliant” multiple times. Also, when we play Frisbee, if we are on opposite teams, he always guards me and if we are on the same team, he always dabs me up when we score a point. I think that he likes me a lot, and I like him too. He is part of the "cards group”, which also includes Vihaan, Rohan, David (who is probably the best at Frisbee), Ryan, and Kailua. I’ve started joining them for cards in the past few days.
 
