@@ -245,6 +245,22 @@ Tomorrow, I will ask Evan Chen to make me a geo bashing handout. I’ve realized
 <details>
 <summary><b>RELMO, Jane Street, Grant Blitz, "Combination Pizza Hut and Taco Bell".</b></summary>  
 <br>
+First class was Constructions by Andrew Gu which was a graph theory class. The problems were cool though. 
+<details>
+<summary><b>Constructions. Problem</b></summary>
+  <img src="/images/mop8pa.png" width="600"/>
+</details>
+One thing that happened was I started listening to "combination pizza hut and taco bell" over and over so I started spamming that and Oron kept asking me to stop! Next class was Power(of a)Point by Tristan Shin which was like Power of a Point, Linearity of Power of a Point, and Forgotten Coaxiality. it was cool except all the proofs were coordbashes. Anyway the problems were pretty cool!
+<details>
+<summary><b>PowerPoint. Problem</b></summary>
+  <img src="/images/mop8pb.png" width="600"/>
+</details>
+The PM class was Quadratic Inequalities by Daniel Zhu about inequalities of the form <img src="/images/mop8p.png" width="200"/> It was also pretty fun and cool. 
+<details>
+<summary><b>Quadratic Inequalities. Problem</b></summary>
+  <img src="/images/mop8pc.png" width="600"/>
+</details>
+
 I worked on my RELMO problems today. It’s not easy to write problems; even if you’re trying to make them as bad as possible. I have a problem taken from my Geneson project; unfortunately I don’t know how to solve it. I was able to finish the second one; about the S-matrix conjecture.
 <br><br>
 I like talking to Grant Blitz. He is refreshingly “not-asian” and his voice is very nice to listen to. He is a geo-main, and he goes to Exeter, just like Evan Fan. I think he is a very unselfish person; and he cares about others.
