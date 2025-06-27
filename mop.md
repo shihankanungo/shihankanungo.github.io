@@ -225,13 +225,29 @@ I’ve made far too many mistakes on the tests. Tomorrow is ELMO, and the TSTSTs
 <br>
 MOP Test 3 was today; I was able to solve P1 quite easily using _Combination Pizza Hut and Taco Bell_; essentially, we had a sequence with two properties and I called the first one _Pizza Hut_ and the second one _Taco Bell_. P2 was a hard geo problem (which only Tiger solved synthetically; everyone else complex bashed or used the isoptic cubic) &mdash; I just submitted the lyrics to _Combination Pizza Hut and Taco Bell_; I’m hoping to get a style score satisfying x(1-x)=0. P3 was a combo problem which I fakesolved (argh!!). I got the first idea, which was to make it a graph, but I thought there was only one possibility for the graph. I had even checked and rewritten my solution, but I didn’t catch the mistake. I believe I would have solved the problem if I had caught the mistake.
 <br><br>
-We had a class on analytic number theory, and the problem set was exactly like in Euler Circle: the problems were super hard and there was even an open problem! One of the problems was to show that every Diophantine equation is equivalent to a quartic. 
+First class was Inequalities II by Alex Song. It was about smoothing, but I was playing polytrack with Oron.
+<details>
+<summary><b>Inequalities II. Problem</b></summary>
+  <img src="/images/mop9p.png" width="700"/>
+</details>
+Second class was Diophantine Equations by Victor Wang which was like the hardest class we have had so far, and the problem set was exactly like in Euler Circle: the problems were super hard and P10 on the handout was literally an open problem! 
+<details>
+<summary><b>Diophantine Equations. Problem</b></summary>
+  <img src="/images/mop9pa.png" width="500"/>
+</details>
+I also played polytrack during this class. In particular, Oron and I made randomly generated maps and named them Combination Pizza Hut and Taco Bell.
+
+
 <br><br>
 Jiahe is very good at both olympiad math and theory; like me. In all of the non-geo theory classes, we are usually the ones answering all the questions. For example, in the entropy class, the instructor at one point asked a question and said “could somebody who is not one of the two people who’ve been answering everything please tell us how to do this?”
 
 <p align="center"><img src="/images/mop9.png" width="400"/> <br> <span style="color: gray"> Jiahe Liu </span> </p>
 
-I attended storytime today. The discussions were quite stimulating. We talked about old- vs. new MOP; how COVID affected math olympiads; Zuming Feng stories; and more. I’m glad that I attended, and I’ll definitely go again.
+I attended storytime today. On the way to StoryTime Oron stepped on my shoelace, which like destroyed it! Oops!! 
+
+<p align="center"><img src="/images/mop9a.jpg" width="300"/> <br> <span style="color: gray"> My shoelace is now a combination shoelace and horse-tail! </span> </p>
+
+The storytime discussions were quite stimulating. We talked about old- vs. new MOP&mdash;basically the old people talking about being old and stuff and the young people talking about stuff; how COVID affected math olympiads; Michael Ma making USAMO in 3rd grade; Zuming Feng stories; having 3 vs 4 problem tests; brainrot from old mops; contest mindset; and more. I’m glad that I attended, and I’ll definitely go again. Also, the whole time I was spamming combination pizza hut and taco bell!
 <br><br>
 Tomorrow, I will ask Evan Chen to make me a geo bashing handout. I’ve realized that I might become a geo antimain if I’m not careful. That’s something I do not want to be. <br>
 
@@ -260,7 +276,7 @@ The PM class was Quadratic Inequalities by Daniel Zhu about inequalities of the 
 <summary><b>Quadratic Inequalities. Problem</b></summary>
   <img src="/images/mop8pc.png" width="600"/>
 </details>
-
+<br><br>
 I worked on my RELMO problems today. It’s not easy to write problems; even if you’re trying to make them as bad as possible. I have a problem taken from my Geneson project; unfortunately I don’t know how to solve it. I was able to finish the second one; about the S-matrix conjecture.
 <br><br>
 I like talking to Grant Blitz. He is refreshingly “not-asian” and his voice is very nice to listen to. He is a geo-main, and he goes to Exeter, just like Evan Fan. I think he is a very unselfish person; and he cares about others.
