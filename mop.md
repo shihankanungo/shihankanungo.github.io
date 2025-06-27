@@ -100,9 +100,18 @@ I’m having a much better time at MOP now that I’m focused on my priorities. 
 <details>
 <summary><b>TSTST Day 1, two MOPpers expelled, Tiger Zhang, introspection.</b></summary>  
 <br>
-Today was TSTST Day 1, but let me not get ahead of myself here. Let's start with the AM classes. We had an interesting class about projective geometry, which is going to be a warm-up for moving points. It was taught without using any lengths, and the instructor asked me to present my solution to one of the exercises. It ended with the statement of DIT (but there were no applications to olympiad problems in this class).
-<br><br>
-Now for TSTST-1: I solved P1 in less than 10 minutes, and P2 was a functional equation similar to an ISL problem that I had seen before. It took a bit less than two hours. P3 turned out to be an anti-problem, but I was actually quite close. If I had written down every single one of my ideas, I might have gotten a couple more points.
+Today was TSTST Day 1, but let me not get ahead of myself here. Let's start with the AM classes. First class is probably the second best class we’ve had. Zack Chroman taught Projective Geometry. We talked about a lot of stuff from defining cross ratio to going over circle points and dit. i really liked Zack's approach to it because it was very  fundamental and not reliant on more "synthetic" background. It was taught without using any lengths, and Zack asked me to present my solution to one of the exercises. It ended with the statement of DIT (but there were no applications to olympiad problems in this class). This is going to be a warm-up for moving points that will come later. 
+<details>
+<summary><b>Projective Geometry I. Problem</b></summary>
+  <img src="/images/mop14p.png" width="700"/>
+</details>
+Second class was Linear Algebra by Daniel Zhu. He wanted us to not do the problems but just to find the linear algebra parts of them.
+<details>
+<summary><b>Linear Algebra. Problem</b></summary>
+  <img src="/images/mop14pa.png" width="700"/>
+</details>
+<br>
+Now for TSTST Day 1: I solved P1 in less than 10 minutes, and P2 was a functional equation similar to an ISL problem that I had seen before. It took a bit less than two hours. P3 turned out to be an anti-problem, but I was actually quite close. If I had written down every single one of my ideas, I might have gotten a couple more points.
 <br><br>
 Tiger Zhang is one of the most mature people at MOP, but he also has a silly side. He was one of the first people to appreciate “Combination”, and he likes to banter. He’s generally pretty quiet, but he’s not shy at all. 
 
