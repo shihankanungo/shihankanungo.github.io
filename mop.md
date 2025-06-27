@@ -245,7 +245,7 @@ In this MOP test, I didn’t make any mistakes. However, I think that I might ha
 ### Day 6 &mdash; Monday, June 16, 2025
 
 <details>
-<summary><b>Spiral similarity, Alexander Wang, RELMO committee, Connor Leong.</b></summary> 
+<summary><b>Spiral similarity, Alexander Wang, RELMO committee, Citadel, Connor Leong.</b></summary> 
 <br>
 Today we had a class by Vivian Loh on spiral similarity! (Baba’s favorite subject). The class was interesting but the examples were just begging to be complex bashed. 
 <details>
@@ -264,6 +264,8 @@ Connor Leong is an excellent Frisbee player. After the ELMO, he said that my P3 
 <p align="center"><img src="/images/mop6a.png" width="500"/> <br> <span style="color: gray"> Connor Leong </span> </p>
 
 Our second Assembly was today. We voted on the MOP t-shirt. There were 3 designs: one about a cross-section of a cube (which had nothing to do with the USAMO), one with the letters M,O,S,P in a grid, and one which had the words MOSP and YAY which looked like they were written with a computer mouse, and a graph symbolizing USAMO P2. I wanted the last one to win, but alas common sense prevailed and the first one won. 
+<br><br>
+At 4PM we had the Citadel presentations and they gave us free dinner that was pretty good. First they interviewed Daniel Hu who works there (he wrote 2020 ELMO P4) about the company and other stuff. After that they had us play this big puzzle game about like art pieces or whatever. After that they gave us Citadel sweatshirts. YAY!!
 <br><br>
 Yesterday, I was able to get a sound sleep by wrapping a shirt around my eyes as an eye mask, and playing Max Richter “Sleep” on my earbuds. I think that I will do that for the rest of camp. Baba has also ordered an eye mask for me, which I will probably get tomorrow.
 
