@@ -205,9 +205,28 @@ Today was picture day!!
 
 I also have a surprise for baba — I said I won’t tell him what till the talent show. It's going to be a surprise. It will involve me and Oron playing improv piano.
 <br><br>
-The classes today were super good! Our first class was “Problem Solving Geometry”, taught by Brian Lawrence. There were no configs, big theorems or bashing; just pure geo. I really liked how he told us to pay attention to how we got unstuck on a problem, and made a list of questions to ask ourselves. I think that if I use these ideas, I can become very good at synthetic geo.  We next had a probabilistic method class taught by Milan, and Jiahe and I solved an RMM 3 in two different ways! We even generalized the problem. Finally, Jordan gave us a True/False class, where each question becomes easy once you’re convinced what the answer is. I spent a lot of time on a problem involving Liam and Tiger playing a game; but I wasn’t able to get it. I’ll keep thinking about it because Jordan said it was a nice problem.
+The classes today were super good! Our first class was “Problem Solving Geometry”, taught by Brian Lawrence. There were no configs, big theorems or bashing; just pure geo. It was about methods to get unstuck on geo problems. He wanted every table to try the same problem. I really liked how he told us to pay attention to how we got unstuck on a problem, and made a list of questions to ask ourselves. I think that if I use these ideas, I can become very good at synthetic geo. 
+<details>
+<summary><b>Problem Solving Geometry. Problem</b></summary>
+  <img src="/images/mop10p.png" width="700"/>
+</details>
+We next had a Probabilistic Method class taught by Milan Haiman. Jiahe and I solved an RMM 3 in two different ways! We even generalized the problem. 
+<details>
+<summary><b>Probabilistic Method. Problem</b></summary>
+  <img src="/images/mop10pa.png" width="700"/>
+</details>
+PM class was True/False by Jordan Lefkowitz, where each question becomes easy once you’re convinced what the answer is. It was basically like a bunch of true-false questions to build intuition. Most of them ended up being anti-problems though. I spent a lot of time on a problem involving Liam and Tiger playing a game; but I wasn’t able to get it. 
+<details>
+<summary><b>True/False. Problem</b></summary>
+  <img src="/images/mop10pb.png" width="700"/>
+</details>
+I’ll keep thinking about it because Jordan said it was a nice problem.
 <br><br>
-Alexander Wang is not very mature, but he’s nice to talk to once you get to know him. He’s a loud person, and he tends to be at the center of the conversation (but not in a bad way!). He’s also quite good at piano; we heard him practicing when Tiger, Oron, and I were in the music rooms. Tiger and Oron are also very good; I think that Tiger is the best. 
+At the end of the class we started playing polytrack again. Cezar found a skip on Oron’s combination pizza hut and taco bell map so we played it a while and reduced the fastest time by over 5 seconds.
+<br><br>
+After class we had a group photo with everyone. After that Oron, Tiger, and I went to the music practice rooms to start practicing for the talent show act. At some point Oron and I got sidetracked and started doing improvs together. it was interesting and sounded really good and was fun. Also dotted was there at the same time and he was mitting.
+<br><br>
+Alexander Wang is not very mature, but he’s nice to talk to once you get to know him. He’s a loud person, and he tends to be at the center of the conversation (but not in a bad way!). He’s also quite good at piano; like I said above, we heard him practicing in the music rooms. Tiger and Oron are also very good; I think that Tiger is the best. 
 
 <p align="center"><img src="/images/mop10a.jpg" width="400"/> <br> <span style="color: gray"> Alexander Wang aka <i>dottedcaculator</i> </span> </p>
 
