@@ -21,9 +21,23 @@ This year, MAA’s Mathematical Olympiad Summer Program (MOP '25) was held at IM
 ### Day 16 &mdash; Thursday, June 26, 2025
 
 <details>
-<summary><b>TSTST Day 2.</b></summary> 
+<summary><b>TSTST Day 2, JB assembly, storytime, David Fox.</b></summary> 
 
 <br>
+Today was TSTST Day 2. As in day 1, problem 1 was pretty trivial. Problem 2 was a 3d geo about a tetrahedron!!! I knew that there was no way they were actually giving us a 3d geo, so I did the obvious thing: unfold it. I then made some simple observations, but then got completely stuck. It turns out that you can just find a parallelogram among the sides in the diagram, which gives you the solution; a lot of people got the problem. P3 was a pretty easy graph theory problem; I solved it in a bit more than an hour. My solutions match the official one at test review almost word-for-word; so I likely did not fakesolve. 
+<br><br>
+We also had classes: one on analytic number theory, and one on parity in combo problems. The NT class was mostly just the proof of the sum over n<N of d(n) (equal to Nlog(N) + N(2*gamma-1) + O(N<sup>½</N>sup>)), and then there was a bit of time for problems. The parity class was fun, too. 
+<br><br>
+We had an assembly at 8:30 in the morning. John spoke about the situation of MOP students posting things online about IMSA and in general the “protesting” and things like “Thm. (IMSA-MAA) 2+2=5  …  Proof omitted” being written on the whiteboard in the hall commons (1984 reference). He said many good things that I agree with; MOP students should not be making a fuss about this; and it’s up to the staff to deal with the situation. Also, the RC’s and IMSA staff are not our enemies (as some people seem to think). After the meeting, I talked to Kailua (who Leo made me kill in Mafia) about the situation; she seems to be thinking about the situation in a sensible way (like me and Leo). We also had storytime today; the main topic was college. There were a lot of very useful discussions; and a lot of advice from the MOP staff to the students. 
+<br><br>
+I talked to David after storytime today. 
+
+<p align="center"><img src="/images/mop13c.jpg" width="400"/> <br> <span style="color: gray"> David Fox </span> </p>
+
+Michael Ma was talking about how you should try to identify when what you’re doing is making you feel “pain” (not like being tired or sleepy), or it feels like you are trying to be something you’re not. I then shared my experience with quitting physics olympiads and classical violin, and that prompted David to share that he no longer gets the same enjoyment from contest math problems as he did when he started. I talked to him about this more after storytime was over. He said that he started to do contest math because (a) he was competitive with Hannah and (b) he really enjoyed the ideas in the problems. However, he says that now he doesn’t get that same feeling. I think that this is the same thing that I believe: after a certain point, the creativity (or most of it) goes from contest math; and it becomes like a competitive sport. David’s also very competitive, and so he wants to keep doing for that reason. But I also asked him about what his relationship with higher math was. He said that his only exposure to it was Proof School classes, which turned him off it; he’s never really given it a try seriously. I suggested that he might want to try it; he could enjoy it (based on what he said about contest math; it seems that he genuinely enjoys thinking about math). Finally, he asked me about Gunn; because he’s considering switching schools (he also lives in Palo Alto). I told him that it’s very diverse (unlike Proof), there’s good teachers in every subject, and there are a lot more kinds of people and interests. I think that from what he said, the kids at Proof are a bit like Helios. I would think that switching to Gunn would be a good idea for him. 
+<br><br>
+I’ve had a lot of very interesting serious conversations in the last few days: with Liam and Calvin, Leo, Kailua, and David (and more, I think). This is something I’ve never done before; in general most of my talking with friends was just “chatting” or throwing jokes around. It’s very nice to be able to talk to people about serious things like these; rather than just thinking about them myself or with my parents. It’s kind of like groupsolving rather than solving problems individually; obviously you need to do the second, but the first can give you ideas that you wouldn’t have seen by yourself. 
+
 
 <a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
 
@@ -92,9 +106,7 @@ Jonathan has a funny app on his phone which lets him scan objects to get a 3D pi
 Its still super hot, so today it got a bit boring at times. There was an assembly in the evening, which was fun; Dotted announced that the RELMO would be on Wednesday and Friday. I’m excited to see the returners’ (especially Liam's) reactions to the problems. We played Frisbee after the assembly, which was pretty fun. 
 <br><br>
 David Fox is organizing Mafia, which is starting tonight; I’m a “town vigilante”, which means that I get to kill people! (not irl of course). 
-
-<p align="center"><img src="/images/mop13c.jpg" width="400"/> <br> <span style="color: gray"> David Fox </span> </p>
-
+<br><br>
 Catherine Xu is making a digraph of students at MOP and their crushes, but it turns out that all 38 responses to the form so far are trolls. One of them was “everyone” likes “Alexander Wang”.  
 
 <p align="center"><img src="/images/mop13a.png" width="400"/> <br> <span style="color: gray"> Catherine Xu </span> </p>
