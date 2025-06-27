@@ -448,7 +448,7 @@ The MOP classes today were both lecture-based. First class was Inequalities 1 wi
 <summary><b>Inequalities 1. Problem</b></summary>
   <img src="/images/mop3p.png" width="500"/>
 </details>
-The second class was probably the best overall class that MOP will ever see. Evan Chen taught a class on Cubic curves. First he talked about Cayley-Bacharach, both cubic and quartic, then a little about the circle points, and then he went over isoptic and isopivotal cubics. However, I have no clue how to apply any of this to olympiad problems. The problems were very fun. 
+The second class was Cubic curves by Evan Chen. First he talked about Cayley-Bacharach, both cubic and quartic, then a little about the circle points, and then he went over isoptic and isopivotal cubics. However, I have no clue how to apply any of this to olympiad problems.  
 <details>
 <summary><b>Cubic curves. Problems</b></summary>
   <img src="/images/mop3pa.png" width="500"/>
