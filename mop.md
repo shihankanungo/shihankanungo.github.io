@@ -252,7 +252,7 @@ Today we had a class by Vivian Loh on spiral similarity! (Baba’s favorite subj
 <summary><b>Spiral Similarity. Problem</b></summary>
   <img src="/images/mop6p.png" width="700"/>
 </details>
-Then we had two consecutive classes on polynomials. Polynomials 1 was taught by Victor Wang. The problems were too notation heavy. The first one had a nerfed version of ELMO P3 on the first problem, and the second had Decartes’ Rule of Signs 💀. Polynomials 2 was taught by Eric Larson. It was slightly easier to understand.
+Then we had two consecutive classes on polynomials. Polynomials 1 was taught by Victor Wang. The problems were too notation heavy. One was a nerfed version of ELMO P3.  Polynomials 2 was taught by Eric Larson. It was slightly easier to understand. It had Decartes’ Rule of Signs 💀.
 <details>
 <summary><b>Polynomials I & II. Problems</b></summary>
   <img src="/images/mop6pa.png" width="700"/>
