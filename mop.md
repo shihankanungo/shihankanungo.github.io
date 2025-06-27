@@ -257,7 +257,7 @@ Then we had two consecutive classes on polynomials. Polynomials 1 was taught by 
 <summary><b>Polynomials I & II. Problems</b></summary>
   <img src="/images/mop6pa.png" width="700"/>
 </details> 
-I also talked to Dotted about RELMO, and it turns out that we both ripped a problem from our PRIMES projects, and they are both about extremal functions.
+I also talked to Dotted about RELMO, and it turns out that we both ripped a problem each from our respective PRIMES projects, and they are both about extremal functions.
 <br><br>
 Connor Leong is an excellent Frisbee player. After the ELMO, he said that my P3 submission was “brilliant” multiple times. Also, when we play Frisbee, if we are on opposite teams, he always guards me and if we are on the same team, he always dabs me up when we score a point. I think that he likes me a lot, and I like him too. He is part of the "cards group”, which also includes Vihaan, Rohan, David (who is probably the best at Frisbee), Ryan, and Kailua. I’ve started joining them for cards in the past few days.
 
