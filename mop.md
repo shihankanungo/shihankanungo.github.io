@@ -52,7 +52,7 @@ We also had classes: one on analytic number theory, and one on parity in combo p
 <summary><b>Analytic NT. Problem</b></summary>
   <img src="/images/mop16.png" width="700"/>
 </details>
-and then there was a bit of time for problems. The parity class was fun, too. 
+and then there was a bit of time for problems. The parity class was fun, too. It was taught by Andrew Gu. Channing presented a problem using <i>combination pizza hut and taco bell</i> flavor text (the colors were white red and yellow&mdash;the colors on a pizza and he said two colored edges were important cuz they were like combinations of two different colors). 
 <br><br>
 We had an assembly at 8:30 in the morning. John spoke about the situation of MOP students posting things online about IMSA and in general the “protesting” and things like “Thm. (IMSA-MAA) 2+2=5  …  Proof omitted” being written on the whiteboard in the hall commons (1984 reference). He said many good things that I agree with; MOP students should not be making a fuss about this; and it’s up to the staff to deal with the situation. Also, the RC’s and IMSA staff are not our enemies (as some people seem to think). After the meeting, I talked to Kailua (who Leo made me kill in Mafia) about the situation; she seems to be thinking about the situation in a sensible way (like me and Leo). We also had storytime today; the main topic was college. There were a lot of very useful discussions; and a lot of advice from the MOP staff to the students. 
 <br><br>
