@@ -58,10 +58,6 @@ highlighter: rouge
 sass:
   style: :compressed
 
-markdown: kramdown
-kramdown:
-  math_engine: mathjax
-
 plugins:
   - jekyll-feed
   - jekyll-soopr-seo-tag
