@@ -424,7 +424,9 @@ Yesterday, I was able to get a sound sleep by wrapping a shirt around my eyes as
 Today was an off day: there were no classes (except for a seminar on elliptic integrals). But ELMO coordination was in full swing. Calvin spent 5 hours arguing with Liam about our team’s problem 1 submissions, and a good bit of that was on mine. They were debating whether to give a 4 or a 5. I felt that I should have got a 5, but due to the way that other peoples solutions were graded, we had to settle on a 4. But this caused me to decide to join in participating in writing the RELMO, and I’ve started working on a problem which imitates ELMO P2 and my P1 coordination, except in the problem I win.
 <br><br>
 I hang out with Jonathan quite a bit; we often sit together during MOP classes. He has an extremely good sense of humor and often makes very funny jokes. 
-<br><br>
+
+<p align="center"><img src="/images/mop2b.png" width="400"/> <br> <span style="color: gray"> with Jonathan Du </span> </p>
+
 Today Jiahe organized a walk where a bunch of people went on an “excursion” to a place with a bunch of restaurants. I planned on going, but I was talking with Calvin about ELMO coordination when they left.
 
 <p align="center"><img src="/images/mop5.png" width="500"/> <br> <span style="color: gray"> Poker with a 7-2 hand. <br> L to R: Daniel Ge, Eden He, Evan Fan, and Grant Blitz </span> </p>
@@ -522,13 +524,12 @@ I presented my 17-page solution to 4a bounty in MOP homework review. Evan also s
 MOP loves to play sports! I went for a run with Liam, Tiger, and Aryan in the morning. I think that this is going to be the running group. All four of us are serious. I also played basketball for an hour, and then played Frisbee for an hour. I played for 3 hours today ... would make Baba proud!
 <br><br>
 ELMO teams were decided; Jonathan told me I was in the first draft. 
-
-<p align="center"><img src="/images/mop2b.png" width="400"/> <br> <span style="color: gray"> with Jonathan Du </span> </p>
-
 There are 7 teams in ELMO and they compete for the best score. Its a team captain format &mdash; each captain is one of the returners. I found out that I'm on team <b>Xooks</b> (captains: Calvin Wang and Oron Wang) and my team id is XOO7 ... so I guess that makes me James Bond!
 <br><br>
 I met Aryan Raj on the bus to IMSA. I like talking to him a lot; I think it is because we are on the same wavelength about many things.
-<br><br>
+
+<p align="center"><img src="/images/mop2.jpg" width="400"/> <br> <span style="color: gray"> Aryan Raj </span> </p>
+
 I had a lot of fun at MOP today. Tomorrow is our first test. Time to lock in! <br>
 
 <a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
