@@ -18,7 +18,7 @@ This year, MAA’s Mathematical Olympiad Summer Program (MOP '25) was held at IM
 </details>
 
 <div class="heading-block">
-  <h3>Day 17 &mdash; Friday, June 27, 2025</h3>
+  <h3>Schedule</h3>
   <div class="subline"><details>
 <summary style="list-style: none;"><b>Classes and tests &mdash; "Blue" group.</b></summary>
 
