@@ -338,52 +338,6 @@ I’ve made far too many mistakes on the tests. Tomorrow is ELMO, and the TSTSTs
 <div class="subline"><details>
 <summary style="list-style: none;"><strong>MOP Test 3, "Combination Pizza Hut and Taco Bell", ANT, Jiahe Liu, StoryTime 2.</strong></summary> 
 <p>
-
-
-
-<br>
-<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
-</p>
-
-</details></div>
-</div>
-
-
-
-
-
-
-
-<div class="heading-block"><h3>Day 8 &mdash; Wednesday, June 18, 2025</h3>
-<div class="subline"><details>
-<summary style="list-style: none;"><strong>RELMO, Jane Street, Grant Blitz, "Combination Pizza Hut and Taco Bell".</strong></summary> 
-<p>
-
-
-
-<br>
-<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
-</p>
-
-</details></div>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-### Day 9 &mdash; Thursday, June 19, 2025
-
-<details>
-<summary><b>MOP Test 3, "Combination Pizza Hut and Taco Bell", ANT, Jiahe Liu, StoryTime 2.</b></summary> 
-<br>
 MOP Test 3 was today; I was able to solve P1 quite easily using <i>Combination Pizza Hut and Taco Bell</i>; essentially, we had a sequence with two properties and I called the first one <i>Pizza Hut</i> and the second one <i>Taco Bell</i>. P2 was a hard geo problem (which only Tiger solved synthetically; everyone else complex bashed or used the isoptic cubic) &mdash; I just submitted the lyrics to <i>Combination Pizza Hut and Taco Bell</i>; I’m hoping to get a style score that satisfies x(1-x)=0. P3 was a combo problem which I fakesolved (argh!!). I got the first idea, which was to make it a graph, but I thought there was only one possibility for the graph. I had even checked and rewritten my solution, but I didn’t catch the mistake. I believe I would have solved the problem if I had caught the mistake.
 <br><br>
 First class was Inequalities II by Alex Song. It was about smoothing, but I was playing polytrack with Oron.
@@ -410,18 +364,25 @@ I attended storytime today. On the way, Oron stepped on my shoelace, which destr
 
 The storytime discussions were quite stimulating. We talked about old- vs. new MOP&mdash;basically the old people talking about being old and stuff and the young people talking about stuff; how COVID affected math olympiads; Michael Ma making USAMO in 3rd grade; Zuming Feng stories; having 3 vs 4 problem tests; brainrot from old mops; contest mindset; and more. I’m glad that I attended, and I’ll definitely go again. Also, the whole time I was spamming combination pizza hut and taco bell!
 <br><br>
-Tomorrow, I will ask Evan Chen to make me a geo bashing handout. I’ve realized that I might become a geo antimain if I’m not careful. That’s something I do not want to be. <br>
+Tomorrow, I will ask Evan Chen to make me a geo bashing handout. I’ve realized that I might become a geo antimain if I’m not careful. That’s something I do not want to be.
 
-<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
-
-</details>
-
-
-### Day 8 &mdash; Wednesday, June 18, 2025
-
-<details>
-<summary><b>RELMO, Jane Street, Grant Blitz, "Combination Pizza Hut and Taco Bell".</b></summary>  
 <br>
+<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
+</p>
+
+</details></div>
+</div>
+
+
+
+
+
+
+
+<div class="heading-block"><h3>Day 8 &mdash; Wednesday, June 18, 2025</h3>
+<div class="subline"><details>
+<summary style="list-style: none;"><strong>RELMO, Jane Street, Grant Blitz, "Combination Pizza Hut and Taco Bell".</strong></summary> 
+<p>
 First class was Constructions by Andrew Gu which was a graph theory class.  
 <details>
 <summary><b>Constructions. Problem</b></summary>
@@ -446,17 +407,27 @@ We had Jane Street today &mdash; the estimathon was unbelievably hard! I was on 
 
 <p align="center"><img src="/images/mop8.png" width="500"/> <br> <span style="color: gray"> Estimathon! L to R: Daniel, Kevin, Tarun, Aryan, (also Michael, Oron). </span> </p>
 
-MOP test 3 is tomorrow; I want to make this my “comeback”. I would like to solve a hard problem; a problem that I’m proud of doing. <br>
+MOP test 3 is tomorrow; I want to make this my “comeback”. I would like to solve a hard problem; a problem that I’m proud of doing.
 
-<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
-
-</details>
-
-### Day 7 &mdash; Tuesday, June 17, 2025
-
-<details>
-<summary><b>MOP Test 2, Yoll Feng, StoryTime 1.</b></summary> 
 <br>
+<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
+</p>
+
+</details></div>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="heading-block"><h3>Day 7 &mdash; Tuesday, June 17, 2025</h3>
+<div class="subline"><details>
+<summary style="list-style: none;"><strong>MOP Test 2, Yoll Feng, StoryTime 1.</strong></summary> 
+<p>
 MOP Test 2 was today. Problem 1 was an anti-problem!!!! I spent almost 3 hours on it, and I seriously thought that I was going to get swept. But I got it eventually. Unfortunately, I didn’t have time to solve P2, which was hard. I had all the right ideas though, and if I had more time I think I would have got it. It turns out that I was kind of right to be scared &mdash; Jonathan and Oron both got swept, and I am predicting 720. 
 <br><br>
 We had classes on Determinants and Entropy today. Determinants was taught by Serena An and involved Vandermonde determinant and path counting. The path counting stuff was cool. The second class&mdash;on Entropy&mdash;was taught by Rachel Zhang; it was a bit weird and kind of confusing but cool. 
@@ -470,17 +441,27 @@ I think Yoll Feng looks up to me; he has often expressed concern about the TSTST
 <br><br>
 Today was storytime; I had completely forgotten about it. I hadn’t checked my computer the whole day since I didn’t take it in my bag, so I didn’t see Baba’s message. I went after I called Baba and I saw the message, but it was too late. Hopefully, I will catch another one before MOP ends.
 <br><br>
-In this MOP test, I didn’t make any mistakes. However, I think that I might have spent a bit too much time on P1 going down a rabbit hole. I think that I should remember to stop and look for alternate approaches; I sometimes trust my intuition too much. <br>
+In this MOP test, I didn’t make any mistakes. However, I think that I might have spent a bit too much time on P1 going down a rabbit hole. I think that I should remember to stop and look for alternate approaches; I sometimes trust my intuition too much.
 
-<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
-
-</details>
-
-### Day 6 &mdash; Monday, June 16, 2025
-
-<details>
-<summary><b>Spiral similarity, Alexander Wang, RELMO committee, Citadel, Connor Leong.</b></summary> 
 <br>
+<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
+</p>
+
+</details></div>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="heading-block"><h3>Day 6 &mdash; Monday, June 16, 2025</h3>
+<div class="subline"><details>
+<summary style="list-style: none;"><strong>Spiral similarity, Alexander Wang, RELMO committee, Citadel, Connor Leong.</strong></summary> 
+<p>
 Today we had a class by Vivian Loh on spiral similarity! (Baba’s favorite subject). The class was interesting but the examples were just begging to be complex bashed. 
 <details>
 <summary><b>Spiral Similarity. Problem</b></summary>
@@ -506,8 +487,46 @@ Yesterday, I was able to get a sound sleep by wrapping a shirt around my eyes as
 <p align="center"><img src="/images/mop6.png" width="400"/> <br> <span style="color: gray"> Breakfast in the cafeteria. </span> </p>
 
 <a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
+</p>
 
-</details>
+</details></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+<div class="heading-block"><h3>Day 5 &mdash; Sunday, June 15, 2025</h3>
+<div class="subline"><details>
+<summary style="list-style: none;"><strong>First free day, ELMO coordination, Jonathan Du, excursion.</strong></summary> 
+<p>
+
+
+
+<br>
+<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
+</p>
+
+</details></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Day 5 &mdash; Sunday, June 15, 2025
 
