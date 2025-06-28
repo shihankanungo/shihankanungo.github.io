@@ -31,7 +31,7 @@ Here are the courses grouped by subject area, along with a short description of 
 > "Geometry is the archetype of the beauty of the world." --- Johannes Kepler <br>
 > "Geometry is the science of correct reasoning on incorrect figures." <br> --- George Polya <br>
 
-- **MATH 231A** *Real Analysis*. Fall 2024. SJSU (A+) \( a^2 + b^2 = c^2 \) <br>
+- **MATH 231A** *Real Analysis*. Fall 2024. SJSU (A+) <br>
   <small>Sigma algebras, differentiation, product measures, integration, the spaces  *L*<sup>1</sup> and **C**.</small> <br>
   <small><small>Textbook: Stein and Shakarchi. <i>Real Analysis: Measure Theory, Integration, and Hilbert Spaces</i>.</small></small>
 
