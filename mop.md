@@ -6,39 +6,41 @@ title: MOP (June 11-July 2, 2025)
 
 This year, MAA’s Mathematical Olympiad Summer Program (MOP '25) was held at IMSA &mdash; *The Illinois Mathematics and Science Academy*, from June 11--July 2, 2025.
 
-### Schedule 
-<details>
-<summary style="list-style: none;"><b>Classes and tests &mdash; "Blue" group.</b></summary>
+<div class="heading-block"><h3>Schedule</h3>
+<div class="subline"><details>
+    <summary style="list-style: none;"><b>Classes and tests &mdash; "Blue" group.</b></summary>
 
-<p align="center"><img src="/images/mop-classes.png" width="700" /></p>
+    <p align="center"><img src="/images/mop-classes.png" width="700" /></p>
 
-<p align="center"><img src="/images/mop-classes-a.png" width="700" /></p>
+    <p align="center"><img src="/images/mop-classes-a.png" width="700" /></p>
 
-<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
-</details>
-
-<div class="heading-block">
-  <h3>Schedule</h3>
-  <div class="subline"><details>
-<summary style="list-style: none;"><b>Classes and tests &mdash; "Blue" group.</b></summary>
-
-<p align="center"><img src="/images/mop-classes.png" width="700" /></p>
-
-<p align="center"><img src="/images/mop-classes-a.png" width="700" /></p>
-
-<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
+    <a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
 </details></div>
 </div>
 
-<div class="heading-block">
-  <h3>Day 17 &mdash; Friday, June 27, 2025</h3>
-  <div class="subline"><details>
+<div class="heading-block"><h3>Day 18 &mdash; Saturday, June 28, 2025</h3>
+<div class="subline"><details>
+<summary><b>TSTST Day 3, StoryTime 5.</b></summary> 
+
+<br>
+
+<br>
+<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
+
+</details>
+
+
+
+
+
+<div class="heading-block"><h3>Day 17 &mdash; Friday, June 27, 2025</h3>
+<div class="subline"><details>
 <summary><strong>Rest Day 2, Moving Points (ZC), RELMO, ping-pong, Channing Yang.</strong></summary> 
 <p>
 First class was Inequalities III by Yang Liu. It was about a certain Putnam problem; and it was quite fun working through it.
 Next we had Projective Geometry II &mdash; a super cool class on moving points by Zack Chroman (as in Zack’s Lemma). It was extremely fun to apply it to problems; but it is also very easy to mess up; so you have to be careful. 
 
-<p align="center"><img src="/images/mop17.jpg" width="600"/> <br> <span style="color: gray"> Proving Poncelot with moving points &mdash; <strong>ZC</strong> Projective II. </span> </p>
+<p align="center"><img src="/images/mop17.jpg" width="600"/> <br> <span style="color: gray"> Proving Poncelot with moving points &mdash; Projective Geometry II. </span> </p>
 
 For the PM class we had NT polynomials by Carl Schidkraut; he presented us some facts and then gave us a bunch of problems. There was one problem he said that if everyone at my table (me, Oron, Jiahe, Michael, and Jonathan) worked on it, we would be able to solve it before the end of class. Me and Michael solved it together in about 20 minutes! The problem was really cool though. 
 <br><br>
@@ -60,46 +62,38 @@ I think I know why I haven’t been able to sweep a test yet. It’s a mental bl
 </div>
 
 
-### Day 18 &mdash; Saturday, June 28, 2025
 
-<details>
-<summary><b>TSTST Day 3, StoryTime 5.</b></summary> 
+<div class="heading-block"><h3>Day 16 &mdash; Thursday, June 26, 2025</h3>
+<div class="subline"><details>
+<summary><b>TSTST Day 2, JB assembly, StoryTime 4, David Fox.</b></summary> 
 
 <br>
+Today was TSTST Day 2. As in day 1, problem 1 was pretty trivial. Problem 2 was a 3d geo about a tetrahedron!!! I knew that there was no way they were actually giving us a 3d geo, so I did the obvious thing: unfold it. I then made some simple observations, but then got completely stuck. It turns out that you can just find a parallelogram among the sides in the diagram, which gives you the solution; a lot of people got the problem. P3 was a pretty easy graph theory problem; I solved it in a bit more than an hour. My solutions match the official one at test review almost word-for-word; so I likely did not fakesolve. 
+<br><br>
+We also had classes: one on analytic number theory, and one on parity in combo problems. The NT class was mostly just the proof of the <i>divisor summatory function</i> problem that involved cool stuff like the <i>Dirichlet hyperbola method</i>:
+<details>
+<summary><b>Analytic NT. Problem</b></summary>
+  <img src="/images/mop16.png" width="700"/>
+</details>
+and then there was a bit of time for problems. The parity class was fun, too. It was taught by Andrew Gu. Channing presented a problem using <i>combination pizza hut and taco bell</i> flavor text (the colors were white red and yellow&mdash;the colors on a pizza and he said two colored edges were important cuz they were like combinations of two different colors). 
+<br><br>
+We had an assembly at 8:30 in the morning. John spoke about the situation of MOP students posting things online about IMSA and in general the “protesting” and things like “Thm. (IMSA-MAA) 2+2=5  …  Proof omitted” being written on the whiteboard in the hall commons (1984 reference). He said many good things that I agree with; MOP students should not be making a fuss about this; and it’s up to the staff to deal with the situation. Also, the RC’s and IMSA staff are not our enemies (as some people seem to think). After the meeting, I talked to Kailua (who Leo made me kill in Mafia) about the situation; she seems to be thinking about the situation in a sensible way (like me and Leo). We also had storytime today; the main topic was college. There were a lot of very useful discussions; and a lot of advice from the MOP staff to the students. 
+<br><br>
+I talked to David after storytime today. 
+
+<p align="center"><img src="/images/mop13c.jpg" width="400"/> <br> <span style="color: gray"> David Fox </span> </p>
+
+Michael Ma was talking about how you should try to identify when what you’re doing is making you feel “pain” (not like being tired or sleepy), or it feels like you are trying to be something you’re not. I then shared my experience with quitting physics olympiads and classical violin, and that prompted David to share that he no longer gets the same enjoyment from contest math problems as he did when he started. I talked to him about this more after storytime was over. He said that he started to do contest math because (a) he was competitive with Hannah and (b) he really enjoyed the ideas in the problems. However, he says that now he doesn’t get that same feeling. I think that this is the same thing that I believe: after a certain point, the creativity (or most of it) goes from contest math; and it becomes like a competitive sport. David’s also very competitive, and so he wants to keep doing for that reason. But I also asked him about what his relationship with higher math was. He said that his only exposure to it was Proof School classes, which turned him off it; he’s never really given it a try seriously. I suggested that he might want to try it; he could enjoy it (based on what he said about contest math; it seems that he genuinely enjoys thinking about math). Finally, he asked me about Gunn; because he’s considering switching schools (he also lives in Palo Alto). I told him that it’s very diverse (unlike Proof), there’s good teachers in every subject, and there are a lot more kinds of people and interests. I think that from what he said, the kids at Proof are a bit like Helios. I would think that switching to Gunn would be a good idea for him. 
+<br><br>
+I’ve had a lot of very interesting serious conversations in the last few days: with Liam and Calvin, Leo, Kailua, and David (and more, I think). This is something I’ve never done before; in general most of my talking with friends was just “chatting” or throwing jokes around. It’s very nice to be able to talk to people about serious things like these; rather than just thinking about them myself or with my parents. It’s kind of like groupsolving rather than solving problems individually; obviously you need to do the second, but the first can give you ideas that you wouldn’t have seen by yourself. 
+
 
 <br>
 <a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
+</p>
 
-</details>
-
-
-### Day 17 &mdash; Friday, June 27, 2025
-
-<details>
-<summary><b>Rest Day 2, Moving Points (ZC), RELMO, ping-pong, Channing Yang.</b></summary> 
-
-<br>
-First class was Inequalities III by Yang Liu. It was about a certain Putnam problem; and it was quite fun working through it.
-Next we had Projective Geometry II &mdash; a super cool class on moving points by Zack Chroman (as in Zack’s Lemma). It was extremely fun to apply it to problems; but it is also very easy to mess up; so you have to be careful. 
-
-<p align="center"><img src="/images/mop17.jpg" width="600"/> <br> <span style="color: gray"> Proving Poncelot with moving points &mdash; <b>ZC</b> Projective II. </span> </p>
-
-For the PM class we had NT polynomials by Carl Schidkraut; he presented us some facts and then gave us a bunch of problems. There was one problem he said that if everyone at my table (me, Oron, Jiahe, Michael, and Jonathan) worked on it, we would be able to solve it before the end of class. Me and Michael solved it together in about 20 minutes! The problem was really cool though. 
-<br><br>
-We had RELMO Day 2 today. Dotted essentially just gave everyone the question papers and some people looked at the problems for fun. Jat solved my saturation question about grading a test; I actually think now that it was a pretty decent normal olympiad problem. 
-<br><br>
-I was planning to go with Jonathan, Liam, and Tiger for dinner, but Tiger was stuck grading the unofficial TSTST papers, so we couldn’t go. 
-<br><br>
-I played a lot of ping pong with Drake and Channing today. Channing is a super funny character; it’s a meme in Blue Mop that he’s “driving the bus”, and he is generally very goofy; his voice itself is hilarious.
-
-<p align="center"><img src="/images/mop17a.jpg" width="350"/> <br> <span style="color: gray"> Channing Yang. </span> </p>
-
-I think I know why I haven’t been able to sweep a test yet. It’s a mental block: my brain is not ready to accept myself in that position. Furthermore, the two times I think I did that (USAMO Day 2 and ELMO Day 2), it turns out that I fakesolved a problem. I need to believe that I can do it and stay focused on the test even after I’ve solved two problems. 
-
-<br>
-<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
-
-</details>
+</details></div>
+</div>
 
 ### Day 16 &mdash; Thursday, June 26, 2025
 
