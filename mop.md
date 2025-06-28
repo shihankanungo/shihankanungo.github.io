@@ -20,14 +20,14 @@ This year, MAA’s Mathematical Olympiad Summer Program (MOP '25) was held at IM
 <div class="heading-block">
   <h3>Day 17 &mdash; Friday, June 27, 2025</h3>
   <div class="subline"><details>
-<summary><b>Rest Day 2, Moving Points (ZC), RELMO, ping-pong, Channing Yang.</b></summary> 
+<summary><strong>Rest Day 2, Moving Points (ZC), RELMO, ping-pong, Channing Yang.</strong></summary> 
 
 <br>
 <p>
 First class was Inequalities III by Yang Liu. It was about a certain Putnam problem; and it was quite fun working through it.
 Next we had Projective Geometry II &mdash; a super cool class on moving points by Zack Chroman (as in Zack’s Lemma). It was extremely fun to apply it to problems; but it is also very easy to mess up; so you have to be careful. 
 
-<p align="center"><img src="/images/mop17.jpg" width="600"/> <br> <span style="color: gray"> Proving Poncelot with moving points &mdash; <b>ZC</b> Projective II. </span> </p>
+<p align="center"><img src="/images/mop17.jpg" width="600"/> <br> <span style="color: gray"> Proving Poncelot with moving points &mdash; <strong>ZC</strong> Projective II. </span> </p>
 
 For the PM class we had NT polynomials by Carl Schidkraut; he presented us some facts and then gave us a bunch of problems. There was one problem he said that if everyone at my table (me, Oron, Jiahe, Michael, and Jonathan) worked on it, we would be able to solve it before the end of class. Me and Michael solved it together in about 20 minutes! The problem was really cool though. 
 <br><br>
