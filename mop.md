@@ -23,11 +23,13 @@ This year, MAA’s Mathematical Olympiad Summer Program (MOP '25) was held at IM
 <summary><b>Rest Day 2.</b></summary> 
 
 <br>
-Today we had a super cool class on moving points by Zack (as in Zack’s lemma). It was extremely fun to apply it to problems; but it is also very easy to mess up. So you have to be careful. We also had a class on NT polynomials by Carl; he presented us some facts and then gave us a bunch of problems. There was one problem he said that if everyone at my table (me, Oron, Jiahe, Michael, and Jonathan) worked on it, we would be able to solve it before the end of class. Me and Michael solved it together in about 20 minutes! The problem was really cool though. We also had a class by Yang Liu about a certain Putnam problem; and it was quite fun working through it.
+Today we had a super cool class on moving points (Projective Geometry II) by Zack Chroman (as in Zack’s Lemma). It was extremely fun to apply it to problems; but it is also very easy to mess up; so you have to be careful. We also had a class on NT polynomials by Carl Schidkraut; he presented us some facts and then gave us a bunch of problems. There was one problem he said that if everyone at my table (me, Oron, Jiahe, Michael, and Jonathan) worked on it, we would be able to solve it before the end of class. Me and Michael solved it together in about 20 minutes! The problem was really cool though. We also had an Inequalities III class by Yang Liu about a certain Putnam problem; and it was quite fun working through it.
 
-<p align="center"><img src="/images/mop17.jpg" width="500"/> <br> <span style="color: gray"> Moving Points class. </span> </p>
+<p align="center"><img src="/images/mop17.jpg" width="600"/> <br> <span style="color: gray"> Proving Poncelot with moving points &mdash; <b>ZC</b> Projective II. </span> </p>
 
-We had RELMO day 2 today. Dotted essentially just gave everyone the question papers and some people looked at the problems for fun. Jat solved my saturation question about grading a test; I actually think now that it was a pretty decent normal olympiad problem. I was planning to go with Jonathan, Liam, and Tiger for dinner, but Tiger was stuck grading the unofficial TSTST papers, so we couldn’t go. 
+We had RELMO Day 2 today. Dotted essentially just gave everyone the question papers and some people looked at the problems for fun. Jat solved my saturation question about grading a test; I actually think now that it was a pretty decent normal olympiad problem. 
+<br><br>
+I was planning to go with Jonathan, Liam, and Tiger for dinner, but Tiger was stuck grading the unofficial TSTST papers, so we couldn’t go. 
 <br><br>
 I played a lot of ping pong with Drake and Channing today. Channing is a super funny character; it’s a meme in Blue Mop that he’s “driving the bus”, and he is generally very goofy; his voice itself is hilarious.
 
