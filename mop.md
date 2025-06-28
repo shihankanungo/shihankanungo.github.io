@@ -143,38 +143,6 @@ I’m having a much better time at MOP now that I’m focused on my priorities. 
 <div class="subline"><details>
 <summary style="list-style: none;"><strong>TSTST Day 1, two MOPpers expelled, Tiger Zhang, introspection.</strong></summary> 
 <p>
-
-
-
-<br>
-<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
-</p>
-
-</details></div>
-</div>
-
-
-<div class="heading-block"><h3>Day 13 &mdash; Monday, June 23, 2025</h3>
-<div class="subline"><details>
-<summary style="list-style: none;"><strong>Alex Song class, Yi Sun talks, Mafia, MOP graph, Karn Chutinan.</strong></summary> 
-<p>
-
-
-
-<br>
-<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
-</p>
-
-</details></div>
-</div>
-
-
-
-### Day 14 &mdash; Tuesday, June 24, 2025
-
-<details>
-<summary><b>TSTST Day 1, two MOPpers expelled, Tiger Zhang, introspection.</b></summary>  
-<br>
 Today was TSTST Day 1, but let me not get ahead of myself here. Let's start with the AM classes. First class is probably one of the best classes we’ve had. Zack Chroman taught Projective Geometry. We talked about a lot of stuff from defining cross ratio to going over circle points and DIT. I really liked Zack's approach to it because it was very  fundamental and not reliant on more "synthetic" background&mdash;it was taught without using any lengths. Zack asked me to present my solution to one of the exercises. It ended with the statement of DIT (but there were no applications to olympiad problems in this class). This is going to be a warm-up for moving points that will come later. 
 <details>
 <summary><b>Projective Geometry I. Problem</b></summary>
@@ -194,11 +162,80 @@ Tiger Zhang is one of the most mature people at MOP, but he also has a silly sid
 
 Today there was a lot of drama. Apparently some RC saw footage of two people kissing in the hall commons between 12:00 and 3:00 (when you’re not allowed to be inside). This resulted in the two people getting expelled from MOP (by IMSA and MAA; MOP staff fought hard for them), as well as the staff member who opened the door for them. Practically everyone at MOP is worked up about this and they did some kind of protest (where they went on an unauthorised walk to get food for the two people) in the evening.
 <br><br>
-On a more personal note, I had a long talk with Baba about my relationship with math, and me wasting my time and not paying attention to the math at MOP. I am going to do some introspection in the remainder of MOP and decide what I am going to do going forward. I think that I want to do math, but I need to be stronger about my commitments. <br>
+On a more personal note, I had a long talk with Baba about my relationship with math, and me wasting my time and not paying attention to the math at MOP. I am going to do some introspection in the remainder of MOP and decide what I am going to do going forward. I think that I want to do math, but I need to be stronger about my commitments.
 
+<br>
 <a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
+</p>
 
+</details></div>
+</div>
+
+
+<div class="heading-block"><h3>Day 13 &mdash; Monday, June 23, 2025</h3>
+<div class="subline"><details>
+<summary style="list-style: none;"><strong>Alex Song class, Yi Sun talks, Mafia, MOP graph, Karn Chutinan.</strong></summary> 
+<p>
+First class was “A fun NT problem” by Alex Song, which was an Euler-Circle style Dirichlet character problem. It was split into 5 parts on the handout. The proof was using Dirichlet characters which are like functions from residue classes to roots of unity. It was fun to revisit the subject. 
+<details>
+<summary><b>A fun NT problem.</b></summary>
+  <img src="/images/mop13p.png" width="700"/>
 </details>
+We then had a class called “Combinatorial Geometry” which is my favorite subject. This was taught by Olha Silina and it was about triangulations, and unfortunately, it was more like geometrical combo: it was about the combinatorial aspects of triangulations, which is less interesting for me. I prefer a more geometrical approach, like the Thaiangulations problem. First we did some exercises that were like trivial problems. Then the problems were really cool. 
+<details>
+<summary><b>Combinatorial Geometry. Problems</b></summary>
+  <img src="/images/mop13pa.png" width="700"/>
+</details>
+PM class was a lecture on Zero-knowledge proofs by Yi Sun. Unfortunately, I didn’t understand much. I somehow don’t understand finance “money math” very well. 
+<br><br>
+After this, I went to the music rooms with Oron to practice for the talent show. We also did some more improvs there which were meh. The actual practice though went well. Then I left and Oron did some more improvs. Later, as Oron was walking back to the dorm, I got him to go back to the main building. As we were entering we ran into the IMO team leaving so we got Karn and Tiger to join us and we just went back to the music rooms. Liam and Jonathan also saw us so they went into our room (even though they hate the song that we were playing) and we all practiced together or wtv. It was really good also with Karn’s improvs. It was pretty fun, and we made a lot of progress. 
+<br><br>
+Jonathan has a funny app on his phone which lets him scan objects to get a 3D picture of them. He used it to make a funny video of Oron and me spinning around. We look like action figures.
+
+<p align="center"><img src="/images/mop13b.png" width="300"/> </p>
+
+Its still super hot, so today it got a bit boring at times. There was an assembly in the evening, which was fun; Dotted announced that the RELMO would be on Wednesday and Friday. I’m excited to see the returners’ (especially Liam's) reactions to the problems. We played Frisbee after the assembly, which was pretty fun. 
+<br><br>
+David Fox is organizing Mafia, which is starting tonight; I’m a “town vigilante”, which means that I get to kill people! (not irl of course). 
+<br><br>
+Catherine Xu is making a digraph of students at MOP and their crushes, but it turns out that all 38 responses to the form so far are trolls. One of them was “everyone” likes “Alexander Wang”.  
+
+<p align="center"><img src="/images/mop13a.png" width="400"/> <br> <span style="color: gray"> Catherine Xu </span> </p>
+
+Karn Chutinan is a fun person to talk to. He somehow knew “Combination Pizza Hut and Taco Bell” from before MOP, and he also plays improv piano like Oron does. His playing is extremely funny (you heard that right &mdash; piano playing _can_ be funny). He sometimes self-deprecates though, and he is a bit moody sometimes.
+<br><br>
+Another camp called “PROMISE” is at IMSA now, and it’s pretty big. IMSA’s PROMISE Program addresses the unique challenges of culturally, linguistically, and economically diverse (CLED) students interested in STEM education by providing academic enrichment programming at low to no cost. There are lots of middle schoolers. This means that we have to share the dining hall, and somehow our lunch period got cut to just 30 minutes! 
+<br><br>
+Today is the day before TSTST. People seem to be less worried about it than I expected; but of course some people are locked in. These people include Liam, Jonathan, me, and Yoll (he really wants to make TST group). I don’t know if Oron is locked in or not; he is generally kind of silly all the time. On the other hand, many people are just going on with their day as usual. I guess that for many people, MOP is the pinnacle of their HS career. But not for me (I hope)!
+
+<br>
+<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
+</p>
+
+</details></div>
+</div>
+
+
+
+
+
+
+
+<div class="heading-block"><h3>Day 12 &mdash; Sunday, June 22, 2025</h3>
+<div class="subline"><details>
+<summary style="list-style: none;"><strong>2nd Free Day! Lightning talks, seminar.</strong></summary> 
+<p>
+
+
+
+<br>
+<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
+</p>
+
+</details></div>
+</div>
+
+
 
 ### Day 13 &mdash; Monday, June 23, 2025
 
