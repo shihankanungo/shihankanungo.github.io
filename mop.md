@@ -632,7 +632,7 @@ We had our first MOP classes today: on prime powers and hidden graphs in combo p
   <img src="/images/mop2p.png" width="500"/>
 </details>
 Except, instead of only doing the problems we also said stuff like "those who know" while we were doing them. yay <br>
-The combinatorics class was with Milan Haiman. The theme of the class was graphs and the problems were pretty hard&mdash; P1 was >=20 mohs. One interesting problem:
+The combinatorics class was with Milan Haiman. The theme of the class was graphs and the problems were pretty hard&mdash; P1 was at least 20 mohs. One interesting problem:
 <details>
 <summary><b>Combinatorics. 2016 EGMO Problem 3</b></summary>
   <img src="/images/mop2pa.png" width="500"/>
