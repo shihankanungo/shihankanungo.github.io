@@ -231,7 +231,7 @@ Today was picture day!!
 
 I also have a surprise for baba — I said I won’t tell him what till the talent show. It's going to be a surprise. It will involve me and Oron playing improv piano.
 <br><br>
-The classes today were super good! Our first class was “Problem Solving Geometry”, taught by Brian Lawrence. There were no configs, big theorems or bashing; just pure geo. It was about methods to get unstuck on geo problems. He wanted every table to try the same problem. I really liked how he told us to pay attention to how we got unstuck on a problem, and made a list of questions to ask ourselves. I think that if I use these ideas, I can become very good at synthetic geo. 
+The classes today were super good! Our first class was “Problem Solving Geometry”, taught by Brian Lawrence. There were no configs, big theorems or bashing; just pure geo. It was about methods to get unstuck on geo problems. I really liked how he told us to pay attention to how we got unstuck on a problem, and made a list of questions to ask ourselves. I think that if I use these ideas, I can become very good at synthetic geo. 
 <details>
 <summary><b>Problem Solving Geometry. Problem</b></summary>
   <img src="/images/mop10p.png" width="700"/>
