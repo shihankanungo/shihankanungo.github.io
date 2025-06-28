@@ -20,7 +20,7 @@ This year, MAA’s Mathematical Olympiad Summer Program (MOP '25) was held at IM
 ### Day 17 &mdash; Friday, June 27, 2025
 
 <details>
-<summary><b>Rest Day 2.</b></summary> 
+<summary><b>Rest Day 2, Moving Points (ZC), RELMO, ping-pong, Channing Yang.</b></summary> 
 
 <br>
 First class was Inequalities III by Yang Liu. It was about a certain Putnam problem; and it was quite fun working through it.
