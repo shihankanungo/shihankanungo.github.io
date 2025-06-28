@@ -8,7 +8,7 @@ This year, MAA’s Mathematical Olympiad Summer Program (MOP '25) was held at IM
 
 <div class="heading-block"><h3>Schedule</h3>
 <div class="subline"><details>
-    <summary style="list-style: none;"><strong>Classes and tests &mdash; "Blue" group.</strong>strong></summary>
+    <summary style="list-style: none;"><strong>Classes and tests &mdash; "Blue" group.</strong></summary>
 
     <p align="center"><img src="/images/mop-classes.png" width="700" /></p>
 
@@ -20,7 +20,7 @@ This year, MAA’s Mathematical Olympiad Summer Program (MOP '25) was held at IM
 
 <div class="heading-block"><h3>Day 18 &mdash; Saturday, June 28, 2025</h3>
 <div class="subline"><details>
-<summary style="list-style: none;"><strong>TSTST Day 3, StoryTime 5.</strong>strong></summary> 
+<summary style="list-style: none;"><strong>TSTST Day 3, StoryTime 5.</strong></summary> 
 
 <br>
 
