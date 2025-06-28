@@ -97,7 +97,7 @@ I’ve had a lot of very interesting serious conversations in the last few days:
 
 
 
-<div class="heading-block"><h3>Day 15 &mdash; Wednesday, June 25, 2025</h3>
+<div class="heading-block"><h3 id="day-15">Day 15 &mdash; Wednesday, June 25, 2025</h3>
 <div class="subline"><details>
 <summary style="list-style: none;"><strong>Rest Day 1, Team contest, drama continues, Leo Hong.</strong></summary> 
 <p>
@@ -284,7 +284,7 @@ ELMO Day 2 went well, but I still made a mistake (even though I caught it). I ne
 
 
 
-<div class="heading-block"><h3>Day 10 &mdash; Friday, June 20, 2025</h3>
+<div class="heading-block"><h3 id="day-10">Day 10 &mdash; Friday, June 20, 2025</h3>
 <div class="subline"><details>
 <summary style="list-style: none;"><strong>Picture Day!! Problem Solving Geometry, and Probabilistic method; Alexander Wang.</strong></summary> 
 <p>
@@ -501,7 +501,7 @@ Yesterday, I was able to get a sound sleep by wrapping a shirt around my eyes as
 
 
 
-<div class="heading-block"><h3>Day 5 &mdash; Sunday, June 15, 2025</h3>
+<div class="heading-block"><h3 id="day-5">Day 5 &mdash; Sunday, June 15, 2025</h3>
 <div class="subline"><details>
 <summary style="list-style: none;"><strong>First free day, ELMO coordination, Jonathan Du, excursion.</strong></summary> 
 <p>
@@ -675,7 +675,7 @@ I had a lot of fun at MOP today. Tomorrow is our first test. Time to lock in!
 
 
 
-<div class="heading-block"><h3>Day 1 &mdash; Wednesday, June 11, 2025</h3>
+<div class="heading-block"><h3 id="day-1">Day 1 &mdash; Wednesday, June 11, 2025</h3>
 <div class="subline"><details>
 <summary style="list-style: none;"><strong>Rooms, Evan Fan, Yoll Feng.</strong></summary> 
 <p>
