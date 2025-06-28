@@ -18,7 +18,7 @@ This year, MAA’s Mathematical Olympiad Summer Program (MOP '25) was held at IM
 </details>
 
 <div class="heading-block">
-  <h2>Day 18 &mdash; Saturday, June 28, 2025</h2>
+  <h3>Day 18 &mdash; Saturday, June 28, 2025</h3>
   <div class="subline">TSTST Day 3, StoryTime 5.</div>
 </div>
 
