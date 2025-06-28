@@ -225,65 +225,6 @@ Today is the day before TSTST. People seem to be less worried about it than I ex
 <div class="subline"><details>
 <summary style="list-style: none;"><strong>2nd Free Day! Lightning talks, seminar.</strong></summary> 
 <p>
-
-
-
-<br>
-<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
-</p>
-
-</details></div>
-</div>
-
-
-
-### Day 13 &mdash; Monday, June 23, 2025
-
-<details>
-<summary><b>Alex Song class, Yi Sun talks, Mafia, MOP graph, Karn Chutinan.</b></summary> 
-<br>
-First class was “A fun NT problem” by Alex Song, which was an Euler-Circle style Dirichlet character problem. It was split into 5 parts on the handout. The proof was using Dirichlet characters which are like functions from residue classes to roots of unity. It was fun to revisit the subject. 
-<details>
-<summary><b>A fun NT problem.</b></summary>
-  <img src="/images/mop13p.png" width="700"/>
-</details>
-We then had a class called “Combinatorial Geometry” which is my favorite subject. This was taught by Olha Silina and it was about triangulations, and unfortunately, it was more like geometrical combo: it was about the combinatorial aspects of triangulations, which is less interesting for me. I prefer a more geometrical approach, like the Thaiangulations problem. First we did some exercises that were like trivial problems. Then the problems were really cool. 
-<details>
-<summary><b>Combinatorial Geometry. Problems</b></summary>
-  <img src="/images/mop13pa.png" width="700"/>
-</details>
-PM class was a lecture on Zero-knowledge proofs by Yi Sun. Unfortunately, I didn’t understand much. I somehow don’t understand finance “money math” very well. 
-<br><br>
-After this, I went to the music rooms with Oron to practice for the talent show. We also did some more improvs there which were meh. The actual practice though went well. Then I left and Oron did some more improvs. Later, as Oron was walking back to the dorm, I got him to go back to the main building. As we were entering we ran into the IMO team leaving so we got Karn and Tiger to join us and we just went back to the music rooms. Liam and Jonathan also saw us so they went into our room (even though they hate the song that we were playing) and we all practiced together or wtv. It was really good also with Karn’s improvs. It was pretty fun, and we made a lot of progress. 
-<br><br>
-Jonathan has a funny app on his phone which lets him scan objects to get a 3D picture of them. He used it to make a funny video of Oron and me spinning around. We look like action figures.
-
-<p align="center"><img src="/images/mop13b.png" width="300"/> </p>
-
-Its still super hot, so today it got a bit boring at times. There was an assembly in the evening, which was fun; Dotted announced that the RELMO would be on Wednesday and Friday. I’m excited to see the returners’ (especially Liam's) reactions to the problems. We played Frisbee after the assembly, which was pretty fun. 
-<br><br>
-David Fox is organizing Mafia, which is starting tonight; I’m a “town vigilante”, which means that I get to kill people! (not irl of course). 
-<br><br>
-Catherine Xu is making a digraph of students at MOP and their crushes, but it turns out that all 38 responses to the form so far are trolls. One of them was “everyone” likes “Alexander Wang”.  
-
-<p align="center"><img src="/images/mop13a.png" width="400"/> <br> <span style="color: gray"> Catherine Xu </span> </p>
-
-Karn Chutinan is a fun person to talk to. He somehow knew “Combination Pizza Hut and Taco Bell” from before MOP, and he also plays improv piano like Oron does. His playing is extremely funny (you heard that right &mdash; piano playing _can_ be funny). He sometimes self-deprecates though, and he is a bit moody sometimes.
-<br><br>
-Another camp called “PROMISE” is at IMSA now, and it’s pretty big. IMSA’s PROMISE Program addresses the unique challenges of culturally, linguistically, and economically diverse (CLED) students interested in STEM education by providing academic enrichment programming at low to no cost. There are lots of middle schoolers. This means that we have to share the dining hall, and somehow our lunch period got cut to just 30 minutes! 
-<br><br>
-Today is the day before TSTST. People seem to be less worried about it than I expected; but of course some people are locked in. These people include Liam, Jonathan, me, and Yoll (he really wants to make TST group). I don’t know if Oron is locked in or not; he is generally kind of silly all the time. On the other hand, many people are just going on with their day as usual. I guess that for many people, MOP is the pinnacle of their HS career. But not for me (I hope)! <br>
-
-<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
-
-</details>
-
-
-### Day 12 &mdash; Sunday, June 22, 2025
-
-<details>
-<summary><b>2nd Free Day! Lightning talks, seminar.</b></summary> 
-<br>
 Today was Sunday &mdash; a free day! Yay! There were no classes and no tests. The only math-related thing I did was work on the RELMO with Dotted. We have 12 problems, which is perfect: we can do a RELMO with 6 and a RELSMO with the other 6. Tony Lu gave us a really nice problem based on his PRIMES research with Prof. Gotti. Most of the problems are intended to be solvable, or at least possible to get some points. But all of them are extremely annoying.
 <br><br>
 It was super hot today! We had an excursion planned, but the RCs didn’t let us go because of the heat. This also meant that most people were pretty lethargic, and obviously there were no outdoor sports. 
@@ -299,8 +240,56 @@ I think that up untill just a few days ago, I was not fully tuned into the MOP e
 <p align="center"><img src="/images/mop12.jpg" width="500"/> <br> <span style="color: gray"> Tomfoolery at MOP; L to R: Michael Luo, Kevin Long, Daniel Ge.  </span> </p>
 
 <a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
+</p>
 
-</details>
+</details></div>
+</div>
+
+
+
+
+
+
+
+<div class="heading-block"><h3>Day 11 &mdash; Saturday, June 21, 2025</h3>
+<div class="subline"><details>
+<summary style="list-style: none;"><strong>ELMO Day 2, StoryTime 3, Rohan Garg.</strong></summary> 
+<p>
+
+
+
+<br>
+<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
+</p>
+
+</details></div>
+</div>
+
+
+
+
+
+
+
+<div class="heading-block"><h3>Day 10 &mdash; Friday, June 20, 2025</h3>
+<div class="subline"><details>
+<summary style="list-style: none;"><strong>Picture Day!! Problem Solving Geometry, and Probabilistic method; Alexander Wang.</strong></summary> 
+<p>
+
+
+
+<br>
+<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
+</p>
+
+</details></div>
+</div>
+
+
+
+
+
+
 
 
 ### Day 11 &mdash; Saturday, June 21, 2025
