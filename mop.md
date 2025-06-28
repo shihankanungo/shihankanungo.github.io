@@ -505,8 +505,102 @@ Yesterday, I was able to get a sound sleep by wrapping a shirt around my eyes as
 <div class="subline"><details>
 <summary style="list-style: none;"><strong>First free day, ELMO coordination, Jonathan Du, excursion.</strong></summary> 
 <p>
+Today was an off day: there were no classes (except for a seminar on elliptic integrals). But ELMO coordination was in full swing. Calvin spent 5 hours arguing with Liam about our team’s problem 1 submissions, and a good bit of that was on mine. They were debating whether to give a 4 or a 5. I felt that I should have got a 5, but due to the way that other peoples solutions were graded, we had to settle on a 4. But this caused me to decide to join in participating in writing the RELMO, and I’ve started working on a problem which imitates ELMO P2 and my P1 coordination, except in the problem I win.
+<br><br>
+I hang out with Jonathan quite a bit; we often sit together during MOP classes. He has an extremely good sense of humor and often makes very funny jokes. 
+
+<p align="center"><img src="/images/mop2b.png" width="400"/> <br> <span style="color: gray"> with Jonathan Du </span> </p>
+
+Today Jiahe organized a walk where a bunch of people went on an “excursion” to a place with a bunch of restaurants. I planned on going, but I was talking with Calvin about ELMO coordination when they left.
+
+<p align="center"><img src="/images/mop5.png" width="500"/> <br> <span style="color: gray"> Poker with a 7-2 hand. <br> L to R: Daniel Ge, Eden He, Evan Fan, and Grant Blitz </span> </p>
+
+I have made too many silly mistakes on the tests: 3 out of 5 problems I attempted. I think I need to sleep earlier so that I don’t get woken up by random noises, and I also need to be calmer during the tests.
+
+<br>
+<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
+</p>
+
+</details></div>
+</div>
 
 
+
+
+
+
+
+
+
+
+
+<div class="heading-block"><h3>Day 4 &mdash; Saturday, June 14, 2025</h3>
+<div class="subline"><details>
+<summary style="list-style: none;"><strong>ELMO Day 1, Oron Wang, quantumelectrodynamics.</strong></summary> 
+<p>
+First class was NT about stuff of the form <i>x<sup>n</sup>-y<sup>n</sup></i>. It was taught by John Berman. It was interesting and had some cyclotomic polynomial stuff. At the end there was this one problem of Erdös that had a crazy black magic feeling solution. A problem i liked: 
+<details>
+<summary><b>Number Theory. Problem</b></summary>
+  <img src="/images/mop4p.png" width="600"/>
+</details>
+Second class was a Geometry class taught by Rachel Zhang about expansion which is a weird technique in geo (and NOT anything else). Basically the idea is to orient all lines and circles, then expansion is to increase the radius of all circles and lines in a directed sense. This way, tangencies are preserved, and nice stuff can happen if you turn some circles into points. 
+<details>
+<summary><b>Geo Transformations. Problems</b></summary>
+  <img src="/images/mop4pa.png" width="600"/>
+</details>
+<br>
+Today was ELMO day 1. Dotted decided to troll us by making the ELMO as the “Error-Littered Math Olympiad”, where all the problems were covered with random error messages and one of them was in Japanese. The ELSMO (which is supposed to be the troll version) was the “Elmo Loves Swapping Math Olympiads”, and was the actual test. I got P1 pretty quickly: it was an arrow problem. P2 was easy for me as well, mostly because I was able to reduce it to a problem from the Blue MOP combinatorics class (which I had solved). I then proceeded to spend 3 hours on P3, continually fakesolving and patching my solution until I finally got it. But right after the test, I realized that I got the wrong answer, and then someone pointed out that I misread the problem. It turns out that this happened to a bunch of people, and I was feeling very grumpy about that. But, in the evening, as Dotted was going through our team’s P3 submissions, he said that I should get a 4 or a 5 (which would be one of the top scores)! It turns out that my solution was on the right track, and most of it actually matched the official (correct) solution! So I’m feeling good now! Yay!
+<br><br>
+Oron is a very interesting character. Whenever he is working on a problem he starts randomly saying the words "Yay", "Spam", and "Buh". Someone said that MOP has a tradition of degen a few days ago. I think this is it.
+
+<p align="center"><img src="/images/mop4.jpg" width="400" /> <br> <span style="color: gray"> Oron Wang </span> </p> 
+
+Today Grant Blitz and I were able to figure out who <i>quantumelectrodynamics</i> (QED) was. A lot of people have been trying to find out, and yesterday Liam and Oron concluded that it was an alt account. At breakfast, Grant saw that QED was online, so I asked him to text QED "are u at breakfast?" to which QED replied "yes", so we immediately looked around to see who was on their phones. But then QED went offline, so we looked to see who had just put away their phone. There was one person who did: it was Dotted. We then sent him a few more texts, and the online/offline and typing patterns exactly matched! Dotted still won’t admit that he’s QED though.
+<br><br>
+Tomorrow is an off day: no classes or tests. It will be nice to relax and just hang out.
+
+<br>
+<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
+</p>
+
+</details></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="heading-block"><h3>Day 3 &mdash; Friday, June 13, 2025</h3>
+<div class="subline"><details>
+<summary style="list-style: none;"><strong>MOP Test 1, cubic curves, 2-sigma, Liam Reddy.</strong></summary> 
+<p>
+The MOP classes today were both lecture-based. First class was Inequalities I with Alex (Zhuo Qun) Song. It was actually just an intro to Lagrange multipliers. Almost all of the class was theory and we only did one problem:
+<details>
+<summary><b>Inequalities 1. Problem</b></summary>
+  <img src="/images/mop3p.png" width="500"/>
+</details>
+The second class was Cubic curves by Evan Chen. First he talked about Cayley-Bacharach, both cubic and quartic, then a little about the circle points, and then he went over isoptic and isopivotal cubics. However, I have no clue how to apply any of this to olympiad problems.  
+<details>
+<summary><b>Cubic curves. Problems</b></summary>
+  <img src="/images/mop3pa.png" width="500"/>
+</details>
+
+We also had our first MOP test, which I did reasonably well on (expecting 750). I spent a lot of time on P2 with a completely wrong idea but I ultimately figured it out. However I didn't have time to fully finish the writeup &mdash; I got to a point where the finish is quite easy. Also, my solution has a small (patchable) error.
+<br><br>
+We had a 2-Sigma dinner, where they gave a presentation and also got us free boba. The boba was good, but Arun’s explanation of what quants do was much better than the presentation.
+<br><br>
+Today I found out that Liam skipped two grades &mdash; just like me! He is a very nice person, and he cares about other people. He will always help you out if you ask him.
+
+<p align="center"><img src="/images/mop3.png" width="400"/> <br> <span style="color: gray"> with Liam Reddy and Aryan Raj </span> </p>
+
+ELMO is tomorrow. I’m feeling good about it &mdash; coming in strong after the MOP test. I will skip my run tomorrow&mdash;after all, it’s Saturday. I will also be doing my laundry.
 
 <br>
 <a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
@@ -528,95 +622,10 @@ Yesterday, I was able to get a sound sleep by wrapping a shirt around my eyes as
 
 
 
-### Day 5 &mdash; Sunday, June 15, 2025
-
-<details>
-<summary><b>First free day, ELMO coordination, Jonathan Du, excursion.</b></summary> 
-<br>
-Today was an off day: there were no classes (except for a seminar on elliptic integrals). But ELMO coordination was in full swing. Calvin spent 5 hours arguing with Liam about our team’s problem 1 submissions, and a good bit of that was on mine. They were debating whether to give a 4 or a 5. I felt that I should have got a 5, but due to the way that other peoples solutions were graded, we had to settle on a 4. But this caused me to decide to join in participating in writing the RELMO, and I’ve started working on a problem which imitates ELMO P2 and my P1 coordination, except in the problem I win.
-<br><br>
-I hang out with Jonathan quite a bit; we often sit together during MOP classes. He has an extremely good sense of humor and often makes very funny jokes. 
-
-<p align="center"><img src="/images/mop2b.png" width="400"/> <br> <span style="color: gray"> with Jonathan Du </span> </p>
-
-Today Jiahe organized a walk where a bunch of people went on an “excursion” to a place with a bunch of restaurants. I planned on going, but I was talking with Calvin about ELMO coordination when they left.
-
-<p align="center"><img src="/images/mop5.png" width="500"/> <br> <span style="color: gray"> Poker with a 7-2 hand. <br> L to R: Daniel Ge, Eden He, Evan Fan, and Grant Blitz </span> </p>
-
-I have made too many silly mistakes on the tests: 3 out of 5 problems I attempted. I think I need to sleep earlier so that I don’t get woken up by random noises, and I also need to be calmer during the tests. <br>
-
-<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
-
-</details>
-
-
-### Day 4 &mdash; Saturday, June 14, 2025
-
-<details>
-<summary><b>ELMO Day 1, Oron Wang, quantumelectrodynamics.</b></summary> 
-<br>
-First class was NT about stuff of the form <i>x<sup>n</sup>-y<sup>n</sup></i>. It was taught by John Berman. It was interesting and had some cyclotomic polynomial stuff. At the end there was this one problem of Erdös that had a crazy black magic feeling solution. A problem i liked: 
-<details>
-<summary><b>Number Theory. Problem</b></summary>
-  <img src="/images/mop4p.png" width="600"/>
-</details>
-Second class was a Geometry class taught by Rachel Zhang about expansion which is a weird technique in geo (and NOT anything else). Basically the idea is to orient all lines and circles, then expansion is to increase the radius of all circles and lines in a directed sense. This way, tangencies are preserved, and nice stuff can happen if you turn some circles into points. 
-<details>
-<summary><b>Geo Transformations. Problems</b></summary>
-  <img src="/images/mop4pa.png" width="600"/>
-</details>
-<br>
-Today was ELMO day 1. Dotted decided to troll us by making the ELMO as the “Error-Littered Math Olympiad”, where all the problems were covered with random error messages and one of them was in Japanese. The ELSMO (which is supposed to be the troll version) was the “Elmo Loves Swapping Math Olympiads”, and was the actual test. I got P1 pretty quickly: it was an arrow problem. P2 was easy for me as well, mostly because I was able to reduce it to a problem from the Blue MOP combinatorics class (which I had solved). I then proceeded to spend 3 hours on P3, continually fakesolving and patching my solution until I finally got it. But right after the test, I realized that I got the wrong answer, and then someone pointed out that I misread the problem. It turns out that this happened to a bunch of people, and I was feeling very grumpy about that. But, in the evening, as Dotted was going through our team’s P3 submissions, he said that I should get a 4 or a 5 (which would be one of the top scores)! It turns out that my solution was on the right track, and most of it actually matched the official (correct) solution! So I’m feeling good now! Yay!
-<br><br>
-Oron is a very interesting character. Whenever he is working on a problem he starts randomly saying the words "Yay", "Spam", and "Buh". Someone said that MOP has a tradition of degen a few days ago. I think this is it.
-
-<p align="center"><img src="/images/mop4.jpg" width="400" /> <br> <span style="color: gray"> Oron Wang </span> </p> 
-
-Today Grant Blitz and I were able to figure out who <i>quantumelectrodynamics</i> (QED) was. A lot of people have been trying to find out, and yesterday Liam and Oron concluded that it was an alt account. At breakfast, Grant saw that QED was online, so I asked him to text QED "are u at breakfast?" to which QED replied "yes", so we immediately looked around to see who was on their phones. But then QED went offline, so we looked to see who had just put away their phone. There was one person who did: it was Dotted. We then sent him a few more texts, and the online/offline and typing patterns exactly matched! Dotted still won’t admit that he’s QED though.
-<br><br>
-Tomorrow is an off day: no classes or tests. It will be nice to relax and just hang out.  <br>
-
-<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
-
-</details>
-
-
-### Day 3 &mdash; Friday, June 13, 2025
-
-<details>
-<summary><b>MOP Test 1, cubic curves, 2-sigma, Liam Reddy.</b></summary> 
-<br>
-The MOP classes today were both lecture-based. First class was Inequalities I with Alex (Zhuo Qun) Song. It was actually just an intro to Lagrange multipliers. Almost all of the class was theory and we only did one problem:
-<details>
-<summary><b>Inequalities 1. Problem</b></summary>
-  <img src="/images/mop3p.png" width="500"/>
-</details>
-The second class was Cubic curves by Evan Chen. First he talked about Cayley-Bacharach, both cubic and quartic, then a little about the circle points, and then he went over isoptic and isopivotal cubics. However, I have no clue how to apply any of this to olympiad problems.  
-<details>
-<summary><b>Cubic curves. Problems</b></summary>
-  <img src="/images/mop3pa.png" width="500"/>
-</details>
-
-We also had our first MOP test, which I did reasonably well on (expecting 750). I spent a lot of time on P2 with a completely wrong idea but I ultimately figured it out. However I didn't have time to fully finish the writeup &mdash; I got to a point where the finish is quite easy. Also, my solution has a small (patchable) error.
-<br><br>
-We had a 2-Sigma dinner, where they gave a presentation and also got us free boba. The boba was good, but Arun’s explanation of what quants do was much better than the presentation.
-<br><br>
-Today I found out that Liam skipped two grades &mdash; just like me! He is a very nice person, and he cares about other people. He will always help you out if you ask him.
-
-<p align="center"><img src="/images/mop3.png" width="400"/> <br> <span style="color: gray"> with Liam Reddy and Aryan Raj </span> </p>
-
-ELMO is tomorrow. I’m feeling good about it &mdash; coming in strong after the MOP test. I will skip my run tomorrow&mdash;after all, it’s Saturday. I will also be doing my laundry. <br>
-
-<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
-
-</details>
-
-
-### Day 2 &mdash; Thursday, June 12, 2025
-
-<details>
-<summary><b>First day of classes, run group, ELMO teams, Aryan Raj.</b></summary> 
-<br>
+<div class="heading-block"><h3>Day 2 &mdash; Thursday, June 12, 2025</h3>
+<div class="subline"><details>
+<summary style="list-style: none;"><strong>First day of classes, run group, ELMO teams, Aryan Raj.</strong></summary> 
+<p>
 We had our first MOP classes today: on prime powers and hidden graphs in combo problems. The class on prime powers was taught by Jordan Lefkowitz. I sat at a table with Michael, Jonathan, Oron, Grant and Jason. There were several funny problems. 
 <details>
 <summary><b>Prime Powers. Problems</b></summary>
@@ -642,18 +651,34 @@ I met Aryan Raj on the bus to IMSA. I like talking to him a lot; I think it is b
 
 <p align="center"><img src="/images/mop2.jpg" width="350"/> <br> <span style="color: gray"> Aryan Raj </span> </p>
 
-I had a lot of fun at MOP today. Tomorrow is our first test. Time to lock in! <br>
+I had a lot of fun at MOP today. Tomorrow is our first test. Time to lock in!
 
-<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
-
-</details>
-
-
-### Day 1 &mdash; Wednesday, June 11, 2025
-
-<details>
-<summary><b>Rooms, Evan Fan, Yoll Feng.</b></summary>
 <br>
+<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
+</p>
+
+</details></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="heading-block"><h3>Day 1 &mdash; Wednesday, June 11, 2025</h3>
+<div class="subline"><details>
+<summary style="list-style: none;"><strong>Rooms, Evan Fan, Yoll Feng.</strong></summary> 
+<p>
 Oron, Grant, and I decided to explore the main building&mdash;except we had no idea which entrance was actually the <i>main</i> one. So naturally, we ended up walking around the entire building before finally finding it.
 <br><br>
 We started off in the cafeteria, which was pretty big, and then tried to make our way to the academic wing. That… did not go smoothly. The place was basically a maze, and we got kind of lost. But we eventually found our classrooms, which looked pretty interesting. 
@@ -670,17 +695,34 @@ Our rooms are pretty good; exactly like the pictures Hannah shared. We overlook 
 
 Yoll is exactly like Jerry Guo, but nicer I think; he is also quite funny! I will be going for a run in the morning with Liam. 
 <br><br>
-I’m excited for MOP. I think that I will have a great time, and make a lot of friends. <br>
+I’m excited for MOP. I think that I will have a great time, and make a lot of friends.
 
-<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
-
-</details>
-
-### Day 0 &mdash; Sunday, June 8-11, 2025
-
-<details>
-<summary><b>Chicago, Isaac Chang, Arun Kannan.</b></summary>
 <br>
+<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
+</p>
+
+</details></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="heading-block"><h3>Day 0 &mdash; Sunday, June 8-11, 2025</h3>
+<div class="subline"><details>
+<summary style="list-style: none;"><strong>Chicago, Isaac Chang, Arun Kannan.</strong></summary> 
+<p>
 Reached Chicago a few days early and stayed at <i>The Chicago Marriott Southwest at Burr Ridge</i> &mdash; which is a fantastic hotel! Our room overlooked a beautiful view with a pond within a lush green rolling meadow. 
 
 <p align="center"><img src="/images/burr-ridge.png" width="500" /></p>
@@ -694,8 +736,10 @@ Isaac showed us around the campus and told us many interesting anecdotes. Mama t
 <p align="center"><img src="/images/mop0.jpg" width="400" /></p>
 
 <a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
-</details>
+</p>
 
+</details></div>
+</div>
 
 <br><br>
 
