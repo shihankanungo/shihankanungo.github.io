@@ -36,7 +36,7 @@ I was planning to go with Jonathan, Liam, and Tiger for dinner, but Tiger was st
 <br><br>
 I played a lot of ping pong with Drake and Channing today. Channing is a super funny character; it’s a meme in Blue Mop that he’s “driving the bus”, and he is generally very goofy; his voice itself is hilarious.
 
-<p align="center"><img src="/images/mop17a.jpg" width="500"/> <br> <span style="color: gray"> Channing Yang. </span> </p>
+<p align="center"><img src="/images/mop17a.jpg" width="350"/> <br> <span style="color: gray"> Channing Yang. </span> </p>
 
 I think I know why I haven’t been able to sweep a test yet. It’s a mental block: my brain is not ready to accept myself in that position. Furthermore, the two times I think I did that (USAMO Day 2 and ELMO Day 2), it turns out that I fakesolved a problem. I need to believe that I can do it and stay focused on the test even after I’ve solved two problems. 
 
