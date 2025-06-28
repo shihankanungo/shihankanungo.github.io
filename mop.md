@@ -311,7 +311,7 @@ First class was Constructions by Andrew Gu which was a graph theory class.  
 <summary><b>Constructions. Problem</b></summary>
   <img src="/images/mop8pa.png" width="600"/>
 </details>
-The problems were cool. One thing that happened was I started listening to "combination pizza hut and taco bell" over and over so I started spamming that and Oron kept asking me to stop! Next class was Power(of a)Point by Tristan Shin which was like Power of a Point, Linearity of Power of a Point, and Forgotten Coaxiality. it was cool except all the proofs were coordbashes.
+The problems were cool. One thing that happened was I started listening to "combination pizza hut and taco bell" over and over so I started spamming that and Oron kept asking me to stop! But then he went home and listened to the song; and now he’s my partner in crime! Yay! This has now become kind of a meme. Next class was Power(of a)Point by Tristan Shin which was like Power of a Point, Linearity of Power of a Point, and Forgotten Coaxiality. it was cool except all the proofs were coordbashes.
 <details>
 <summary><b>PowerPoint. Problem</b></summary>
   <img src="/images/mop8pb.png" width="600"/>
@@ -326,9 +326,7 @@ I worked on my RELMO problems today. It’s not easy to write problems; even if 
 <br><br>
 I like talking to Grant Blitz. He is refreshingly “not-asian” and his voice is very nice to listen to. He is a geo-main, and he goes to Exeter, just like Evan Fan. I think he is a very unselfish person; and he cares about others.
 <br><br>
-Today, I started singing “Combination Pizza Hut and Taco Bell” in class, and now it’s become kind of a meme. My favorite target was Oron, but he went home and listened to the song; and now he’s my partner in crime.
-<br><br>
-We had Jane Street today &mdash; the estimathon was unbelievably hard! My team came in second-to-last!!
+We had Jane Street today &mdash; the estimathon was unbelievably hard! I was on the Minnesota team which had one Minnesota person (Michael Luo) and a bunch of other people. Michael said his team usually does well on estimathon but we did it the same way he told us to and we got like second to last place!! 💀 Well like this estimathon was just hard or something. The team with all the staff won, of course (their team name was "mop students") well at least it was fun. They also gave out t-shirts but they were just the cake cutting ones which I already had. 
 
 <p align="center"><img src="/images/mop8.png" width="500"/> <br> <span style="color: gray"> Estimathon! L to R: Daniel, Kevin, Tarun, Aryan, (also Michael, Oron). </span> </p>
 
