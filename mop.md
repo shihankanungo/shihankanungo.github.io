@@ -35,7 +35,7 @@ This year, MAA’s Mathematical Olympiad Summer Program (MOP '25) was held at IM
 
 <div class="heading-block"><h3>Day 17 &mdash; Friday, June 27, 2025</h3>
 <div class="subline"><details>
-<summary><strong>Rest Day 2, Moving Points (ZC), RELMO, ping-pong, Channing Yang.</strong></summary> 
+<summary style="list-style: none;"><strong>Rest Day 2, Moving Points (ZC), RELMO, ping-pong, Channing Yang.</strong></summary> 
 <p>
 First class was Inequalities III by Yang Liu. It was about a certain Putnam problem; and it was quite fun working through it.
 Next we had Projective Geometry II &mdash; a super cool class on moving points by Zack Chroman (as in Zack’s Lemma). It was extremely fun to apply it to problems; but it is also very easy to mess up; so you have to be careful. 
@@ -65,7 +65,7 @@ I think I know why I haven’t been able to sweep a test yet. It’s a mental bl
 
 <div class="heading-block"><h3>Day 16 &mdash; Thursday, June 26, 2025</h3>
 <div class="subline"><details>
-<summary><b>TSTST Day 2, JB assembly, StoryTime 4, David Fox.</b></summary> 
+<summary style="list-style: none;"><b>TSTST Day 2, JB assembly, StoryTime 4, David Fox.</b></summary> 
 
 <br>
 Today was TSTST Day 2. As in day 1, problem 1 was pretty trivial. Problem 2 was a 3d geo about a tetrahedron!!! I knew that there was no way they were actually giving us a 3d geo, so I did the obvious thing: unfold it. I then made some simple observations, but then got completely stuck. It turns out that you can just find a parallelogram among the sides in the diagram, which gives you the solution; a lot of people got the problem. P3 was a pretty easy graph theory problem; I solved it in a bit more than an hour. My solutions match the official one at test review almost word-for-word; so I likely did not fakesolve. 
