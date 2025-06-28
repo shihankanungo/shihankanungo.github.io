@@ -528,7 +528,7 @@ There are 7 teams in ELMO and they compete for the best score. Its a team captai
 <br><br>
 I met Aryan Raj on the bus to IMSA. I like talking to him a lot; I think it is because we are on the same wavelength about many things.
 
-<p align="center"><img src="/images/mop2.jpg" width="400"/> <br> <span style="color: gray"> Aryan Raj </span> </p>
+<p align="center"><img src="/images/mop2.jpg" width="350"/> <br> <span style="color: gray"> Aryan Raj </span> </p>
 
 I had a lot of fun at MOP today. Tomorrow is our first test. Time to lock in! <br>
 
