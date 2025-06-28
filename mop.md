@@ -107,7 +107,7 @@ I’m having a much better time at MOP now that I’m focused on my priorities. 
 <details>
 <summary><b>TSTST Day 1, two MOPpers expelled, Tiger Zhang, introspection.</b></summary>  
 <br>
-Today was TSTST Day 1, but let me not get ahead of myself here. Let's start with the AM classes. First class is probably the second best class we’ve had. Zack Chroman taught Projective Geometry. We talked about a lot of stuff from defining cross ratio to going over circle points and DIT. I really liked Zack's approach to it because it was very  fundamental and not reliant on more "synthetic" background&mdash;it was taught without using any lengths. Zack asked me to present my solution to one of the exercises. It ended with the statement of DIT (but there were no applications to olympiad problems in this class). This is going to be a warm-up for moving points that will come later. 
+Today was TSTST Day 1, but let me not get ahead of myself here. Let's start with the AM classes. First class is probably one of the best classes we’ve had. Zack Chroman taught Projective Geometry. We talked about a lot of stuff from defining cross ratio to going over circle points and DIT. I really liked Zack's approach to it because it was very  fundamental and not reliant on more "synthetic" background&mdash;it was taught without using any lengths. Zack asked me to present my solution to one of the exercises. It ended with the statement of DIT (but there were no applications to olympiad problems in this class). This is going to be a warm-up for moving points that will come later. 
 <details>
 <summary><b>Projective Geometry I. Problem</b></summary>
   <img src="/images/mop14p.png" width="700"/>
