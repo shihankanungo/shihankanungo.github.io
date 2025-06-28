@@ -39,6 +39,8 @@ hr.page-break {
 .heading-block .subline {
   margin-top: 0.1rem; /* Adjust this for vertical spacing */
   font-size: 0.5rem;
+  font-style: bold;
+  color: var(--headings);
 }
 
 p { margin: 1em 0; }
