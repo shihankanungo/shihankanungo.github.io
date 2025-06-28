@@ -17,6 +17,12 @@ This year, MAA’s Mathematical Olympiad Summer Program (MOP '25) was held at IM
 <a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
 </details>
 
+<div class="heading-block">
+  <h2>Day 18 &mdash; Saturday, June 28, 2025</h2>
+  <div class="subline">TSTST Day 3, StoryTime 5.</div>
+</div>
+
+
 ### Day 18 &mdash; Saturday, June 28, 2025
 
 <details>
