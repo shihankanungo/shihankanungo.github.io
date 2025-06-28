@@ -27,6 +27,23 @@ hr.page-break {
   &:after { content: attr(data-content) '-----' }
 }
 
+.heading-block {
+  margin-bottom: 2rem; /* space after the whole block */
+}
+
+.heading-block h2 {
+  margin: 0;
+  font-size: 2rem;
+  color: var(--headings);
+}
+
+.heading-block .subline {
+  margin-top: 0.6rem; /* Adjust this for vertical spacing */
+  font-family: monospace;
+  font-size: 1.2rem;
+  color: #1abc9c;
+}
+
 p { margin: 1em 0; }
 
 li { margin: 0.4em 0; }
