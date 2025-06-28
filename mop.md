@@ -8,7 +8,7 @@ This year, MAA’s Mathematical Olympiad Summer Program (MOP '25) was held at IM
 
 ### Schedule 
 <details>
-<summary><b>Classes and tests &mdash; "Blue" group.</b></summary>
+<summary style="list-style: none;"><b>Classes and tests &mdash; "Blue" group.</b></summary>
 
 <p align="center"><img src="/images/mop-classes.png" width="700" /></p>
 
