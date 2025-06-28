@@ -23,6 +23,7 @@ This year, MAA’s Mathematical Olympiad Summer Program (MOP '25) was held at IM
 <summary><b>Rest Day 2, Moving Points (ZC), RELMO, ping-pong, Channing Yang.</b></summary> 
 
 <br>
+<p>
 First class was Inequalities III by Yang Liu. It was about a certain Putnam problem; and it was quite fun working through it.
 Next we had Projective Geometry II &mdash; a super cool class on moving points by Zack Chroman (as in Zack’s Lemma). It was extremely fun to apply it to problems; but it is also very easy to mess up; so you have to be careful. 
 
@@ -42,6 +43,7 @@ I think I know why I haven’t been able to sweep a test yet. It’s a mental bl
 
 <br>
 <a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
+</p>
 
 </details></div>
 </div>
