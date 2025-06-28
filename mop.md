@@ -21,8 +21,6 @@ This year, MAA’s Mathematical Olympiad Summer Program (MOP '25) was held at IM
   <h3>Day 17 &mdash; Friday, June 27, 2025</h3>
   <div class="subline"><details>
 <summary><strong>Rest Day 2, Moving Points (ZC), RELMO, ping-pong, Channing Yang.</strong></summary> 
-
-<br>
 <p>
 First class was Inequalities III by Yang Liu. It was about a certain Putnam problem; and it was quite fun working through it.
 Next we had Projective Geometry II &mdash; a super cool class on moving points by Zack Chroman (as in Zack’s Lemma). It was extremely fun to apply it to problems; but it is also very easy to mess up; so you have to be careful. 
