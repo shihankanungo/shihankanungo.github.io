@@ -255,8 +255,21 @@ I think that up untill just a few days ago, I was not fully tuned into the MOP e
 <div class="subline"><details>
 <summary style="list-style: none;"><strong>ELMO Day 2, StoryTime 3, Rohan Garg.</strong></summary> 
 <p>
+Today was ELMO day 2. P4 was a geo problem; we had to prove that a circle and a line were tangent. Unfortunately, my diagram had an inaccuracy, so I spent the first hour not realizing that the tangency point was a point already in the diagram. Then I knew it would be an angle chase; which proved to be a bit tricky. I got it relatively easily though. P5 was a number theory problem, which I fakesolved at first. But since I knew that I was going to make a mistake, I carefully checked my solution and caught the error. I then proceeded to fix it and get a correct solution. P6 was a combo problem which looked familiar, but I wasn’t able to make much nontrivial progress. It turns out that no one solved it; in fact no one (including the IMO team) but the proposer of the problem was able to do so. I was a bit bummed, because this meant that I would lose to Royce Yao by 2 points in the overall ELMO. But I guess this is my fault: I missed 3 completely gettable points on P1. 
+<br><br>
+Today was a relaxed day; nothing much besides the ELMO happened. We had pizza for dinner after the ELMO, and we also had storytime. There were not many people at storytime, but it was still fun. 
 
+<p align="center"><img src="/images/mop11b.jpg" width="300"/> <br> <span style="color: gray"> Just got out of storytime ... </span> </p>
 
+Now even the staff know about Combination Pizza Hut and Taco Bell! I think it was because I put it on all of my MOP Test 3 solutions. Some people also made a trio of polls on the MOP server: “I’m at the Pizza Hut”, “I’m at the Taco Bell”, “I’m at the combination pizza hut and taco bell”. As of Saturday evening, it has 15 likes and only 5 thumbs downs. 
+
+<p align="center"><img src="/images/mop11.png" width="400"/> <br> <span style="color: gray"> Polls in the MOP discord server </span> </p>
+
+Rohan Garg is a pretty chill guy. He’s not a super excitable person like many other MOPpers, but he does like to talk, especially while playing cards. He is a "geo super-antimain", and say’s that he’s an NT main, but he solved the geo and didn’t solve the NT on this test…
+
+<p align="center"><img src="/images/mop11a.png" width="300"/> <br> <span style="color: gray"> Rohan Garg </span> </p>
+
+ELMO Day 2 went well, but I still made a mistake (even though I caught it). I need to figure out how to stay calm, and do everything correctly the first time.
 
 <br>
 <a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
@@ -275,54 +288,6 @@ I think that up untill just a few days ago, I was not fully tuned into the MOP e
 <div class="subline"><details>
 <summary style="list-style: none;"><strong>Picture Day!! Problem Solving Geometry, and Probabilistic method; Alexander Wang.</strong></summary> 
 <p>
-
-
-
-<br>
-<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
-</p>
-
-</details></div>
-</div>
-
-
-
-
-
-
-
-
-### Day 11 &mdash; Saturday, June 21, 2025
-
-<details>
-<summary><b>ELMO Day 2, StoryTime 3, Rohan Garg.</b></summary>  
-<br>
-Today was ELMO day 2. P4 was a geo problem; we had to prove that a circle and a line were tangent. Unfortunately, my diagram had an inaccuracy, so I spent the first hour not realizing that the tangency point was a point already in the diagram. Then I knew it would be an angle chase; which proved to be a bit tricky. I got it relatively easily though. P5 was a number theory problem, which I fakesolved at first. But since I knew that I was going to make a mistake, I carefully checked my solution and caught the error. I then proceeded to fix it and get a correct solution. P6 was a combo problem which looked familiar, but I wasn’t able to make much nontrivial progress. It turns out that no one solved it; in fact no one (including the IMO team) but the proposer of the problem was able to do so. I was a bit bummed, because this meant that I would lose to Royce Yao by 2 points in the overall ELMO. But I guess this is my fault: I missed 3 completely gettable points on P1. 
-<br><br>
-Today was a relaxed day; nothing much besides the ELMO happened. We had pizza for dinner after the ELMO, and we also had storytime. There were not many people at storytime, but it was still fun. 
-
-<p align="center"><img src="/images/mop11b.jpg" width="300"/> <br> <span style="color: gray"> Just got out of storytime ... </span> </p>
-
-Now even the staff know about Combination Pizza Hut and Taco Bell! I think it was because I put it on all of my MOP Test 3 solutions. Some people also made a trio of polls on the MOP server: “I’m at the Pizza Hut”, “I’m at the Taco Bell”, “I’m at the combination pizza hut and taco bell”. As of Saturday evening, it has 15 likes and only 5 thumbs downs. 
-
-<p align="center"><img src="/images/mop11.png" width="400"/> <br> <span style="color: gray"> Polls in the MOP discord server </span> </p>
-
-Rohan Garg is a pretty chill guy. He’s not a super excitable person like many other MOPpers, but he does like to talk, especially while playing cards. He is a "geo super-antimain", and say’s that he’s an NT main, but he solved the geo and didn’t solve the NT on this test…
-
-<p align="center"><img src="/images/mop11a.png" width="300"/> <br> <span style="color: gray"> Rohan Garg </span> </p>
-
-ELMO Day 2 went well, but I still made a mistake (even though I caught it). I need to figure out how to stay calm, and do everything correctly the first time. <br>
-
-<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
-
-</details>
-
-
-### Day 10 &mdash; Friday, June 20, 2025
-
-<details>
-<summary><b>Picture Day!! Problem Solving Geometry, and Probabilistic method; Alexander Wang.</b></summary>  
-<br>
 Today was picture day!! 
 
 <p align="center"><img src="/images/mop10.jpg" width="700"/> <br> <span style="color: gray"> MOP 2025 on the bleachers!!. </span> </p>
@@ -354,11 +319,64 @@ Alexander Wang is not very mature, but he’s nice to talk to once you get to kn
 
 <p align="center"><img src="/images/mop10a.jpg" width="400"/> <br> <span style="color: gray"> Alexander Wang aka <i>dottedcaculator</i> </span> </p>
 
-I’ve made far too many mistakes on the tests. Tomorrow is ELMO, and the TSTSTs are coming up. No more fooling around. I need to be 100% focused on the tests and make sure that I perform to the peak of my ability. <br>
+I’ve made far too many mistakes on the tests. Tomorrow is ELMO, and the TSTSTs are coming up. No more fooling around. I need to be 100% focused on the tests and make sure that I perform to the peak of my ability.
 
+<br>
 <a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
+</p>
 
-</details>
+</details></div>
+</div>
+
+
+
+
+
+
+
+<div class="heading-block"><h3>Day 9 &mdash; Thursday, June 19, 2025</h3>
+<div class="subline"><details>
+<summary style="list-style: none;"><strong>MOP Test 3, "Combination Pizza Hut and Taco Bell", ANT, Jiahe Liu, StoryTime 2.</strong></summary> 
+<p>
+
+
+
+<br>
+<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
+</p>
+
+</details></div>
+</div>
+
+
+
+
+
+
+
+<div class="heading-block"><h3>Day 8 &mdash; Wednesday, June 18, 2025</h3>
+<div class="subline"><details>
+<summary style="list-style: none;"><strong>RELMO, Jane Street, Grant Blitz, "Combination Pizza Hut and Taco Bell".</strong></summary> 
+<p>
+
+
+
+<br>
+<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
+</p>
+
+</details></div>
+</div>
+
+
+
+
+
+
+
+
+
+
 
 
 ### Day 9 &mdash; Thursday, June 19, 2025
