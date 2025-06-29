@@ -41,16 +41,16 @@ personal_entries:
 
 mop_entries:
   - title: Day 1
-    url: mop.md#day-1
+    url: mop#day-1
 
   - title: Day 5
-    url: mop.md#day-5
+    url: mop#day-5
 
   - title: Day 10
-    url: mop.md#day-10
+    url: mop#day-10
 
   - title: Day 15
-    url: mop.md#day-15
+    url: mop#day-15
 
   - title: Music
     url: mop#music
