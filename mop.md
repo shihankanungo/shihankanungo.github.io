@@ -21,11 +21,22 @@ This year, MAA’s Mathematical Olympiad Summer Program (MOP '25) was held at IM
 <div class="heading-block"><h3>Day 18 &mdash; Saturday, June 28, 2025</h3>
 <div class="subline"><details>
 <summary style="list-style: none;"><strong>TSTST Day 3, StoryTime 5.</strong></summary> 
+<p>
+Today was TSTST Day 3. It went super well! I started by looking at problem 9, which was a geo problem. I drew the diagram, but didn’t get many ideas. Then, I saw that problem 8 was a NT Polynomial FE; and we had just had a class on that very subject the day before. So naturally, I started working on it, and after a few minutes, I knew that I would get it. So I just started writing up and solving the problem as I went, and I got it in about an hour. Problem 7 was quite tricky; it was a algebra problem about a decreasing recursive sequence. It took me longer than P8 to solve, but I eventually got it! It turns out no one solved P9 except Tiger, so I’m guessing that it was a 50 (maybe 45) Mohs problem. I think I did the best that I could possibly do today, and I’m very happy about that.
+<br><br>
+We did plank countdown today. I apparently was one of the hosts since I wrote a couple of the problems. Since I was the best at reading out the problems, I was MCing for most of the time. In the end, Dotted won the tournament (which was surprising; I expected David to win since he’s good at this sort of thing). Unfortunately, it dragged on past 8, so storytime got cancelled. Actually I just found out it has been rescheduled to Monday at the academic pit (because of ongoing construction at the TV pit)! Yay!!
+<br><br>
+Drake is a freshman who I first met on the bus to MOP. I didn’t talk to him much after that, but he is very good at ping pong, and he’s helping me train to beat Rohan (I said that I’d beat Rohan by the end of MOP). He’s a pretty good teacher and knows quite a bit about the game.
+<br><br>
+We have a Chicago trip tomorrow, and I’m pumped for it! I am in a group that is headed to the Navy Pier.
 
-<br>
+<p align="center"><img src="/images/mop18.png" width="350"/> <br> <span style="color: gray"> My group for the Chicago trip on Sunday. </span> </p>
+
+Now that the test’s are over, I can be a bit more relaxed. I’ll pay attention in class for sure, but I can also focus on talking to friends and having fun. 
 
 <br>
 <a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
+</p>
 
 </details></div>
 </div>
