@@ -20,7 +20,7 @@ This year, MAA’s Mathematical Olympiad Summer Program (MOP '25) was held at IM
 
 <div class="heading-block"><h3>Day 18 &mdash; Saturday, June 28, 2025</h3>
 <div class="subline"><details>
-<summary style="list-style: none;"><strong>TSTST Day 3, StoryTime 5.</strong></summary> 
+<summary style="list-style: none;"><strong>TSTST Day 3, Plank countdown, ping-pong, Drake Tan, Chicago trip.</strong></summary> 
 <p>
 Today was TSTST Day 3. It went super well! I started by looking at problem 9, which was a geo problem. I drew the diagram, but didn’t get many ideas. Then, I saw that problem 8 was a NT Polynomial FE; and we had just had a class on that very subject the day before. So naturally, I started working on it, and after a few minutes, I knew that I would get it. So I just started writing up and solving the problem as I went, and I got it in about an hour. Problem 7 was quite tricky; it was a algebra problem about a decreasing recursive sequence. It took me longer than P8 to solve, but I eventually got it! It turns out no one solved P9 except Tiger, so I’m guessing that it was a 50 (maybe 45) Mohs problem. I think I did the best that I could possibly do today, and I’m very happy about that.
 <br><br>
