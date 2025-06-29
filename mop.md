@@ -576,7 +576,7 @@ I have made too many silly mistakes on the tests: 3 out of 5 problems I attempte
 <div class="subline"><details>
 <summary style="list-style: none;"><strong>ELMO Day 1, Oron Wang, quantumelectrodynamics.</strong></summary> 
 <p>
-First class was NT about stuff of the form <i>x<sup>n</sup>-y<sup>n</sup></i>. It was taught by John Berman. It was interesting and had some cyclotomic polynomial stuff. At the end there was this one problem of Erdös that had a crazy black magic feeling solution. A problem i liked: 
+First class was NT about stuff of the form <i>x<sup>n</sup>-y<sup>n</sup></i>. It was taught by John Berman. It was interesting and had some cyclotomic polynomial stuff. At the end there was this one problem of Erdös that had a crazy black magic feeling solution. There was one problem I liked. 
 <details>
 <summary><b>Number Theory. Problem</b></summary>
   <img align="left" src="/images/mop4p.png" width="700"/>
