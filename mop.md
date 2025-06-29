@@ -541,7 +541,7 @@ Yesterday, I was able to get a sound sleep by wrapping a shirt around my eyes as
 
 <div class="heading-block"><h3 id="day-5">Day 5 &mdash; Sunday, June 15, 2025</h3>
 <div class="subline"><details>
-<summary style="list-style: none;"><strong>First free day, elliptic integrals, ELMO coordination, R(evenge) ELMO, Jonathan Du, excursion.</strong></summary> 
+<summary style="list-style: none;"><strong>First free day, ELMO coordination, R(evenge) ELMO, Jonathan Du, excursion.</strong></summary> 
 <p>
 Today was an off day: there were no classes (except for a seminar on elliptic integrals). But ELMO coordination was in full swing. Calvin spent 5 hours arguing with Liam about our team’s problem 1 submissions, and a good bit of that was on mine. They were debating whether to give a 4 or a 5. I felt that I should have got a 5, but due to the way that other peoples solutions were graded, we had to settle on a 4. But this caused me to decide to join in participating in writing the RELMO, and I’ve started working on a problem which imitates ELMO P2 and my P1 coordination, except in the problem I win.
 <br><br>
