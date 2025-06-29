@@ -584,6 +584,10 @@ First class was NT about stuff of the form <i>x<sup>n</sup>-y<sup>n</sup></i>. I
 Second class was a Geometry class taught by Rachel Zhang about expansion which is a weird technique in geo (and NOT anything else). Basically the idea is to orient all lines and circles, then expansion is to increase the radius of all circles and lines in a directed sense. This way, tangencies are preserved, and nice stuff can happen if you turn some circles into points. 
 <details>
 <summary><b>Geo Transformations. Problems</b></summary>
+    <ul>
+        <li>Construct, using straightedge and compass, all circles tangent to three given circles.</li>
+        <li>Points <i>D</i> and <i>E</i> lie on side <i>BC</i> of &Delta;<i>ABC</i> such that &Delta;<i>ABD</i> and &Delta;<i>AEC</i> have the same inradius. Prove that &Delta;<i>ABE</i> and &Delta;<i>ADC</i> have the same inradius.</li>
+    </ul>
   <img src="/images/mop4pa.png" width="600"/>
 </details>
 <br>
