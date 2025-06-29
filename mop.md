@@ -541,7 +541,7 @@ Yesterday, I was able to get a sound sleep by wrapping a shirt around my eyes as
 
 <div class="heading-block"><h3 id="day-5">Day 5 &mdash; Sunday, June 15, 2025</h3>
 <div class="subline"><details>
-<summary style="list-style: none;"><strong>First free day, ELMO coordination, Jonathan Du, excursion.</strong></summary> 
+<summary style="list-style: none;"><strong>First free day, elliptic integrals, ELMO coordination, R(evenge) ELMO, Jonathan Du, excursion.</strong></summary> 
 <p>
 Today was an off day: there were no classes (except for a seminar on elliptic integrals). But ELMO coordination was in full swing. Calvin spent 5 hours arguing with Liam about our team’s problem 1 submissions, and a good bit of that was on mine. They were debating whether to give a 4 or a 5. I felt that I should have got a 5, but due to the way that other peoples solutions were graded, we had to settle on a 4. But this caused me to decide to join in participating in writing the RELMO, and I’ve started working on a problem which imitates ELMO P2 and my P1 coordination, except in the problem I win.
 <br><br>
@@ -574,7 +574,7 @@ I have made too many silly mistakes on the tests: 3 out of 5 problems I attempte
 
 <div class="heading-block"><h3>Day 4 &mdash; Saturday, June 14, 2025</h3>
 <div class="subline"><details>
-<summary style="list-style: none;"><strong>ELMO Day 1, Oron Wang, quantumelectrodynamics.</strong></summary> 
+<summary style="list-style: none;"><strong>ELMO Day 1, Oron Wang, MOP degen, quantumelectrodynamics=dotted.</strong></summary> 
 <p>
 First class was NT about stuff of the form <i>x<sup>n</sup>-y<sup>n</sup></i>. It was taught by John Berman. It was interesting and had some cyclotomic polynomial stuff. At the end there was this one problem of Erdös that had a crazy black magic feeling solution. There was one problem I liked. 
 <details>
@@ -617,7 +617,7 @@ Tomorrow is an off day: no classes or tests. It will be nice to relax and just h
 
 <div class="heading-block"><h3>Day 3 &mdash; Friday, June 13, 2025</h3>
 <div class="subline"><details>
-<summary style="list-style: none;"><strong>MOP Test 1, cubic curves, 2-sigma, Liam Reddy.</strong></summary> 
+<summary style="list-style: none;"><strong>MOP Test 1, cubic curves (EC), 2-&sigma; dinner, Liam Reddy.</strong></summary> 
 <p>
 The MOP classes today were both lecture-based. First class was Inequalities I with Alex (Zhuo Qun) Song. It was actually just an intro to Lagrange multipliers. Almost all of the class was theory and we only did one problem:
 <details>
@@ -662,7 +662,7 @@ ELMO is tomorrow. I’m feeling good about it &mdash; coming in strong after the
 
 <div class="heading-block"><h3>Day 2 &mdash; Thursday, June 12, 2025</h3>
 <div class="subline"><details>
-<summary style="list-style: none;"><strong>First day of classes, run group, ELMO teams, Aryan Raj.</strong></summary> 
+<summary style="list-style: none;"><strong>First day of classes, run group, triangle problem, ELMO teams, Aryan Raj.</strong></summary> 
 <p>
 We had our first MOP classes today: on prime powers and hidden graphs in combo problems. The class on prime powers was taught by Jordan Lefkowitz. I sat at a table with Michael, Jonathan, Oron, Grant and Jason. There were several funny problems. 
 <details>
@@ -715,7 +715,7 @@ I had a lot of fun at MOP today. Tomorrow is our first test. Time to lock in!
 
 <div class="heading-block"><h3 id="day-1">Day 1 &mdash; Wednesday, June 11, 2025</h3>
 <div class="subline"><details>
-<summary style="list-style: none;"><strong>Rooms, Evan Fan, Yoll Feng.</strong></summary> 
+<summary style="list-style: none;"><strong>Arrival at IMSA, exploring campus, rooms, Evan Fan, Yoll Feng.</strong></summary> 
 <p>
 Oron, Grant, and I decided to explore the main building&mdash;except we had no idea which entrance was actually the <i>main</i> one. So naturally, we ended up walking around the entire building before finally finding it.
 <br><br>
@@ -759,7 +759,7 @@ I’m excited for MOP. I think that I will have a great time, and make a lot of 
 
 <div class="heading-block"><h3>Day 0 &mdash; Sunday, June 8-11, 2025</h3>
 <div class="subline"><details>
-<summary style="list-style: none;"><strong>Chicago, Isaac Chang, Arun Kannan.</strong></summary> 
+<summary style="list-style: none;"><strong>Chicago, Stix and Stones, Isaac Chang, University of Chicago, Kama Bistro, Arun Kannan.</strong></summary> 
 <p>
 Reached Chicago a few days early and stayed at <i>The Chicago Marriott Southwest at Burr Ridge</i> &mdash; which is a fantastic hotel! Our room overlooked a beautiful view with a pond within a lush green rolling meadow. 
 
