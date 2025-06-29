@@ -26,7 +26,7 @@ Today was TSTST Day 3. It went super well! I started by looking at P9, which was
 <br><br>
 We did plank countdown today. I apparently was one of the hosts since I wrote a couple of the problems. Since I was the best at reading out the problems, I was MCing for most of the time. In the end, Dotted won the tournament (which was surprising; I expected David to win since he’s good at this sort of thing). Unfortunately, it dragged on past 8, so storytime got cancelled. Actually I just found out it has been rescheduled to Monday at the academic pit (because of ongoing construction at the TV pit)! Yay!!
 <br><br>
-Drake is a freshman who I first met on the bus to MOP. I didn’t talk to him much after that, but he is very good at ping pong, and he’s helping me train to beat Rohan (I said that I’d beat Rohan by the end of MOP). He’s a pretty good teacher and knows quite a bit about the game.
+Drake is a freshman who I first met on the bus to MOP. I didn’t talk to him much after that, but he is very good at ping pong, and he’s helping me train to beat Rohan (I said that I’d beat Rohan by the end of MOP). He’s a pretty good teacher and knows quite a bit about the game. Drake is a defender, so he has very good movement and a really good backhand. I also play with Channing, who has bad movement, bad backhand, decent forehand, but really really good attacking forehand. Rohan, who I'm trying to beat, has similar playing style to Channing, except I think his forehand is better.
 <br><br>
 We have a Chicago trip tomorrow, and I’m pumped for it! I am in a group that is headed to the Navy Pier.
 
