@@ -622,12 +622,12 @@ Tomorrow is an off day: no classes or tests. It will be nice to relax and just h
 The MOP classes today were both lecture-based. First class was Inequalities I with Alex (Zhuo Qun) Song. It was actually just an intro to Lagrange multipliers. Almost all of the class was theory and we only did one problem:
 <details>
 <summary><b>Inequalities 1. Problem</b></summary>
-  <img src="/images/mop3p.png" width="500"/>
+  <img src="/images/mop3p.png" width="700"/>
 </details>
 The second class was Cubic curves by Evan Chen. First he talked about Cayley-Bacharach, both cubic and quartic, then a little about the circle points, and then he went over isoptic and isopivotal cubics. However, I have no clue how to apply any of this to olympiad problems.  
 <details>
 <summary><b>Cubic curves. Problems</b></summary>
-  <img src="/images/mop3pa.png" width="500"/>
+  <img src="/images/mop3pa.png" width="700"/>
 </details>
 
 We also had our first MOP test, which I did reasonably well on (expecting 750). I spent a lot of time on P2 with a completely wrong idea but I ultimately figured it out. However I didn't have time to fully finish the writeup &mdash; I got to a point where the finish is quite easy. Also, my solution has a small (patchable) error.
@@ -667,13 +667,13 @@ ELMO is tomorrow. I’m feeling good about it &mdash; coming in strong after the
 We had our first MOP classes today: on prime powers and hidden graphs in combo problems. The class on prime powers was taught by Jordan Lefkowitz. I sat at a table with Michael, Jonathan, Oron, Grant and Jason. There were several funny problems. 
 <details>
 <summary><b>Prime Powers. Problems</b></summary>
-  <img src="/images/mop2p.png" width="500"/>
+  <img src="/images/mop2p.png" width="700"/>
 </details>
 Except, instead of only doing the problems we also said stuff like "those who know" while we were doing them. yay <br>
 The combinatorics class was with Milan Haiman. The theme of the class was graphs and the problems were pretty hard&mdash; P1 was at least 20 mohs. One interesting problem:
 <details>
 <summary><b>Combinatorics. 2016 EGMO Problem 3</b></summary>
-  <img src="/images/mop2pa.png" width="500"/>
+  <img src="/images/mop2pa.png" width="700"/>
 </details>
   
 I enjoyed both the classes, and what I really appreciated were the little insights that the instructors gave us while walking us through the solutions. 
