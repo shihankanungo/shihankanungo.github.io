@@ -26,7 +26,7 @@ This year, MAA’s Mathematical Olympiad Summer Program (MOP '25) was held at IM
 
 <div class="heading-block"><h3>Day 19 &mdash; Sunday, June 29, 2025</h3>
 <div class="subline"><details>
-<summary style="list-style: none;"><strong>Chicago trip.</strong></summary> 
+<summary style="list-style: none;"><strong>3rd Free Day!!! Chicago trip.</strong></summary> 
 <p>
 
 
@@ -261,7 +261,7 @@ Today is the day before TSTST. People seem to be less worried about it than I ex
 
 <div class="heading-block"><h3>Day 12 &mdash; Sunday, June 22, 2025</h3>
 <div class="subline"><details>
-<summary style="list-style: none;"><strong>2nd Free Day! Lightning talks, RELMO with dotted, seminar.</strong></summary> 
+<summary style="list-style: none;"><strong>2nd Free Day!! Lightning talks, RELMO with dotted, seminar.</strong></summary> 
 <p>
 Today was Sunday &mdash; a free day! Yay! There were no classes and no tests. The only math-related thing I did was work on the RELMO with Dotted. We have 12 problems, which is perfect: we can do a RELMO with 6 and a RELSMO with the other 6. Tony Lu gave us a really nice problem based on his PRIMES research with Prof. Gotti. Most of the problems are intended to be solvable, or at least possible to get some points. But all of them are extremely annoying.
 <br><br>
