@@ -24,9 +24,9 @@ This year, MAA’s Mathematical Olympiad Summer Program (MOP '25) was held at IM
 
 
 
-<div class="heading-block"><h3>Day 19 &mdash; Sunday, June 29, 2025</h3>
+<div class="heading-block"><h3>Day 20 &mdash; Monday, June 30, 2025</h3>
 <div class="subline"><details>
-<summary style="list-style: none;"><strong>3rd Free Day!!! Chicago trip.</strong></summary> 
+<summary style="list-style: none;"><strong>Second-to-last day.</strong></summary> 
 <p>
 
 
@@ -36,6 +36,30 @@ This year, MAA’s Mathematical Olympiad Summer Program (MOP '25) was held at IM
 
 </details></div>
 </div>
+
+
+
+
+
+
+
+<div class="heading-block"><h3>Day 19 &mdash; Sunday, June 29, 2025</h3>
+<div class="subline"><details>
+<summary style="list-style: none;"><strong>3rd Free Day!!! Chicago trip.</strong></summary> 
+<p>
+Today was the Chicago trip. We boarded the bus at around 9:30 (it was late). We took the bus to the train station, where we waited for some more time, as the train was also late. On the train, I sat with Jonathan, Liam, Tiger, and Oron, and we had some interesting conversations. Then we took another bus to Navy Pier, and at this point it was lunchtime. I had lunch with Liam, Tiger, etc and we had Halal Burgers! Not the same as Seattle, of course, but still pretty good. Then, I went on a 30-minute speedboat tour on Lake Michigan, which was super fun. We got lots of nice pictures. After that, I joined Liam, Tiger, etc and we went on the Ferris wheel. It was super cool to see all of Navy Pier from the top. At this point, not much time was left, so we walked back, and chatted some more. On the way back, the train was a bit crowded, so we couldn’t sit in the same row, so we had to crane our heads a bit to talk. On the bus ride back, for some reason there was only one bus, and the staff wanted to put all of us in it for some reason (probably because it was late). This was extremely interesting, and people were in extremely close contact. At one point, I realized that there were enough people who were pro-”Combination” to start a chant, and that’s exactly what I did. We even got a video of it! After we got back, we had dinner, and then I went to play some ping pong with Drake. After that, I asked Aryan to send me scans of the handouts (he said that he would do it when he got back to the dorms), and then I came home and wrote this. 
+<br><br>
+I didn’t really talk to anyone new today, and I’ve written about all of my close friends…
+<br><br>
+The trip was super fun, and I made lots of connections; with Tiger and Liam especially, and also Jonathan and Oron. It’s really nice to be able to relax a bit and focus on having fun with other people.
+
+<br>
+<a href="https://shihankanungo.github.io/mop">↪️ Back to top</a>
+</p>
+
+</details></div>
+</div>
+
 
 
 
