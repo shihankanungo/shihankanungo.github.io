@@ -688,8 +688,7 @@ ELMO is tomorrow. I’m feeling good about it &mdash; coming in strong after the
 <div class="subline"><details>
 <summary style="list-style: none;"><strong>First day of classes, run group, triangle problem, ELMO teams, Aryan Raj.</strong></summary> 
 <p>
-We had our first MOP classes today: on prime powers and hidden graphs in combo problems. The class on prime powers was taught by Jordan Lefkowitz. I sat at a table with Michael, Jonathan, Oron, Grant and Jason. There were several funny problems.
-<details>
+We had our first MOP classes today: on prime powers and hidden graphs in combo problems. The class on prime powers was taught by Jordan Lefkowitz. I sat at a table with Michael, Jonathan, Oron, Grant and Jason. There were several funny problems.<details>
 <summary><strong>Prime Powers. Problems</strong></summary>
   <img src="/images/mop2p.png" width="700"/>
 </details>
