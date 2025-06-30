@@ -261,7 +261,7 @@ Today is the day before TSTST. People seem to be less worried about it than I ex
 
 <div class="heading-block"><h3>Day 12 &mdash; Sunday, June 22, 2025</h3>
 <div class="subline"><details>
-<summary style="list-style: none;"><strong>2nd Free Day! Lightning talks, seminar.</strong></summary> 
+<summary style="list-style: none;"><strong>2nd Free Day! Lightning talks, RELMO with dotted, seminar.</strong></summary> 
 <p>
 Today was Sunday &mdash; a free day! Yay! There were no classes and no tests. The only math-related thing I did was work on the RELMO with Dotted. We have 12 problems, which is perfect: we can do a RELMO with 6 and a RELSMO with the other 6. Tony Lu gave us a really nice problem based on his PRIMES research with Prof. Gotti. Most of the problems are intended to be solvable, or at least possible to get some points. But all of them are extremely annoying.
 <br><br>
@@ -291,7 +291,7 @@ I think that up untill just a few days ago, I was not fully tuned into the MOP e
 
 <div class="heading-block"><h3>Day 11 &mdash; Saturday, June 21, 2025</h3>
 <div class="subline"><details>
-<summary style="list-style: none;"><strong>ELMO Day 2, StoryTime 3, Rohan Garg.</strong></summary> 
+<summary style="list-style: none;"><strong>ELMO Day 2, "Combination Pizza Hut and Taco Bell" poll, StoryTime 3, Rohan Garg.</strong></summary> 
 <p>
 Today was ELMO day 2. P4 was a geo problem; we had to prove that a circle and a line were tangent. Unfortunately, my diagram had an inaccuracy, so I spent the first hour not realizing that the tangency point was a point already in the diagram. Then I knew it would be an angle chase; which proved to be a bit tricky. I got it relatively easily though. P5 was a number theory problem, which I fakesolved at first. But since I knew that I was going to make a mistake, I carefully checked my solution and caught the error. I then proceeded to fix it and get a correct solution. P6 was a combo problem which looked familiar, but I wasn’t able to make much nontrivial progress. It turns out that no one solved it; in fact no one (including the IMO team) but the proposer of the problem was able to do so. I was a bit bummed, because this meant that I would lose to Royce Yao by 2 points in the overall ELMO. But I guess this is my fault: I missed 3 completely gettable points on P1. 
 <br><br>
