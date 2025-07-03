@@ -48,6 +48,7 @@ title: Wrapped (2025)
 - Easy A (2010 d. Will Gluck)
 - Zero Dark Thirty (2012 d. Kathryn Bigelow)
 - Love, Simon (2018 d. Greg Berlanti)
+- F1 (2025 d. Joseph Kosinski)  👍
 - **Animation** <br>
   Kung Fu Panda (2008 d. John Stevenson and Mark Osborne) <br>
   Hundreds of Beavers (2022 d. Mike Cheslik) 👍  <br>
