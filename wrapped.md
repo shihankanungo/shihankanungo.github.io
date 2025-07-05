@@ -48,6 +48,7 @@ title: Wrapped (2025)
 - Juno (2007 d. Jason Reitman)
 - Easy A (2010 d. Will Gluck)
 - Zero Dark Thirty (2012 d. Kathryn Bigelow)
+- The Imitation Game (2014 d. Morten Tyldum)
 - Love, Simon (2018 d. Greg Berlanti)
 - F1 (2025 d. Joseph Kosinski)  👍
 - **Animation** <br>
