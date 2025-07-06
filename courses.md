@@ -78,6 +78,7 @@ Here are the courses grouped by subject area, along with a short description of 
 - **Analysis**. Spring 2021. Euler Circle  <br>
   <small>Set theory, formal constructions of the real numbers, limits, continuity, and infinite series.</small> <br>
 
+<a href="https://shihankanungo.github.io/courses">↪️ Back to top</a>
 
 ## Algebra and Number Theory
 
