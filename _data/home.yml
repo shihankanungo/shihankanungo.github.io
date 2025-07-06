@@ -65,13 +65,13 @@ course_entries:
   - title: Algebra & NT
     url: courses#algebra-and-number-theory
 
-  - title: Representation Theory
+  - title: Rep. Th.
     url: courses#representation-theory
 
-  - title: Lin. Alg. & Matrix Theory
+  - title: Lin. Alg. & Matrix Th.
     url: courses#linear-algebra-and-matrix-theory
 
-  - title: Combo & Graph Theory
+  - title: Combo & Graph Th.
     url: courses#combinatorics-and-graph-theory
 
 project_entries:
