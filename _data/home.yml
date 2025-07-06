@@ -59,10 +59,10 @@ mop_entries:
     url: mop#the-end
 
 course_entries:
-  - title: Analysis & Geo
+  - title: Anal. & Geo.
     url: courses#analysis-and-geometry
 
-  - title: Algebra & NT
+  - title: Alg. & NT
     url: courses#algebra-and-number-theory
 
   - title: Rep. Th.
