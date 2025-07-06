@@ -109,6 +109,8 @@ Here are the courses grouped by subject area, along with a short description of 
   <small>Group theory, Sylow theorems, fields and extensions, number fields, Galois correspondence.</small> <br>
   <small><small>Textbook: Dummit and Foote. <i>Abstract Algebra.</i></small></small>
 
+<a href="https://shihankanungo.github.io/courses">↪️ Back to top</a>
+
 [//]: # (- **MATH 128B** *Abstract Algebra II*. Spring 2025. SJSU <br>)
 [//]: # (  <small>Emphasis on rings, integral domains, fields, field extensions, Galois theory.</small>)
 
@@ -126,6 +128,8 @@ I haven't taken a formal course in representation theory, but I gained substanti
 - **Ian. M. Musson.** (2012) *Lie Superalgebras and Enveloping Algebras*. <br><small>Graduate Studies in Mathematics 131, AMS</small>
 - **Alexander Molev.** (2007) *Yangians and Classical Lie algebras*. <br><small>Mathematical Surveys and Monographs 143, AMS</small>
 - **Pavel Etingof and Arun Kannan.** (2021) *Lectures on Symmetric Tensor Categories*. <small>\[[arXiv](https://arxiv.org/pdf/2406.10201)\]</small>
+
+<a href="https://shihankanungo.github.io/courses">↪️ Back to top</a>
 
 ## Linear Algebra and Matrix Theory
 
@@ -145,6 +149,8 @@ I haven't taken a formal course in representation theory, but I gained substanti
 - **MATH 129B** *Linear Algebra II*. Spring 2024. SJSU (A+)<br>
   <small>Cayley-Hamilton theorem, minimal polynomials, Jordan canonical form, inner products.</small> <br>
   <small><small>Textbook: Friedberg, Insel, and Spence. <i>Linear Algebra.</i></small></small>
+
+<a href="https://shihankanungo.github.io/courses">↪️ Back to top</a>
 
 ## Combinatorics and Graph Theory
 
@@ -168,6 +174,8 @@ I haven't taken a formal course in representation theory, but I gained substanti
 
 - **Combinatorics**. Winter 2020. Euler Circle <br>
   <small>Binomial coefficients, double-counting; Stirling numbers; counting labeled trees.</small>
+
+<a href="https://shihankanungo.github.io/courses">↪️ Back to top</a>
 
 
 ![separator](images/septhin.png)
