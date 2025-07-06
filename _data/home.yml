@@ -59,19 +59,19 @@ mop_entries:
     url: mop#the-end
 
 course_entries:
-  - title: Analysis & Geometry
+  - title: Analysis & Geo
     url: courses#analysis-and-geometry
 
-  - title: Algebra & Number Theory
+  - title: Algebra & NT
     url: courses#algebra-and-number-theory
 
   - title: Representation Theory
     url: courses#representation-theory
 
-  - title: Linear Algebra & Matrix Theory
+  - title: Lin. Alg. & Matrix Theory
     url: courses#linear-algebra-and-matrix-theory
 
-  - title: Combinatorics & Graph Theory
+  - title: Combo & Graph Theory
     url: courses#combinatorics-and-graph-theory
 
 project_entries:
