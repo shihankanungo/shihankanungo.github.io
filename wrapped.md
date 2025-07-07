@@ -44,6 +44,7 @@ title: Wrapped (2025)
 - Alice Doesn't Live Here Anymore (1974 d. Martin Scorsese)
 - Top Gun (1986 d. Tony Scott)
 - Good Will Hunting (1997 d. Gus Van Sant)  👍
+- Rushmore (1998 d. Wes Anderson)
 - A Beautiful Mind (2001 d. Ron Howard)
 - Juno (2007 d. Jason Reitman)
 - Easy A (2010 d. Will Gluck)
