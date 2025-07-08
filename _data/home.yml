@@ -2,6 +2,9 @@ navbar_entries:
   - title: Home
     url: https://shihankanungo.github.io/
 
+  - title: Blog
+    url: https://artofproblemsolving.com/community/c4383522
+
   - title: Courses
     url: courses
 
