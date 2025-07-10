@@ -77,7 +77,7 @@ I want to be able to listen to recordings of piano sonatas and know who's playin
 
 ![separator](images/septhin.png)
 
-"I recommend success to anybody. I can’t think of anything good about fame, though." --- Mark Knopfler
+"I recommend success to anybody. I can’t think of anything good about fame, though." <br> --- Mark Knopfler
 
 ![separator](images/septhin.png)
 
