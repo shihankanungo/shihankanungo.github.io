@@ -109,7 +109,7 @@ title: Wrapped (2025)
 
 ![StanfordJazzFestival](/images/sjf.png)
 
-- *Jaz Sawyer: Tribute to Art Blakey & The Jazz Messengers*&mdash;Honoring Blakey's timeless legacy. Campbell Recital Hall, 541 Lasuen Mall, Stanford , CA 94305. <br><small>Drummer, bandleader, and educator Jaz Sawyer pays homage to one of jazz’s most electrifying forces—Art Blakey & The Jazz Messengers—in this powerhouse tribute performance. Infusing Blakey’s iconic hard-bop sound with his own dynamic touch, Sawyer channels the spirit of the legendary drummer, whose relentless swing, thunderous polyrhythms, and fiery energy defined generations of jazz. With a musical foundation spanning classical, jazz, and Afro-Caribbean traditions, Sawyer delivers a heartfelt tribute that captures the essence of Blakey’s masterful legacy. </small>
+- *Jaz Sawyer: Tribute to Art Blakey & The Jazz Messengers*&mdash;Honoring Blakey's timeless legacy. Campbell Recital Hall, 541 Lasuen Mall, Stanford , CA 94305. <br><small>Drummer, bandleader, and educator Jaz Sawyer pays homage to one of jazz’s most electrifying forces—<b>Art Blakey & The Jazz Messengers</b>—in this powerhouse tribute performance. Infusing Blakey’s iconic hard-bop sound with his own dynamic touch, Sawyer channels the spirit of the legendary drummer, whose relentless swing, thunderous polyrhythms, and fiery energy defined generations of jazz. With a musical foundation spanning classical, jazz, and Afro-Caribbean traditions, Sawyer delivers a heartfelt tribute that captures the essence of Blakey’s masterful legacy. </small>
 
 ## Travel
 
