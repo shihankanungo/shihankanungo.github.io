@@ -12,7 +12,7 @@ title: Talks
 - **MathROCs**. Math Research Outreach Conference. Sep 8, 2024 <br />
   S. Erat, **S. Kanungo**. *Representation Theory of Lie Superalgebras* <br />
 
-- **MAA MathFest**. Research in Motion (Undergraduate Student Poster Session). Aug 7-10, 2024 <br />
+- **MAA MathFest**. Research in Motion (UG Student Poster Session). Aug 7-10, 2024 <br />
   H. Jiang, **S. Kanungo**, H. Kim. *A weaker notion of the finite factorization property* <br />
 
 - **Joint Mathematics Meeting (JMM'24)**, AMS-PME Undergraduate Poster Session. Jan 3-6, 2024 \[ [Link](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/41233) \] <br />
