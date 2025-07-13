@@ -24,7 +24,5 @@ title: Talks
 - **Summer Workshop for Intrepid Mathematicians (SWIM23)** Aug 2-Sep 6, 2023 \[ [Link](https://intrepid-math.com/workshops/2023.html) \] <br>
   H. Jiang, **S. Kanungo**, H. Kim. *On a Weaker Notion of the Finite Factorization Property* <br />
 
-<br>
-<a href="https://shihankanungo.github.io">↪️ Back <b>Home</b></a>
 
   
