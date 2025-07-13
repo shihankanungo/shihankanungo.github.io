@@ -6,7 +6,7 @@ title: Talks
 - **Joint Mathematics Meeting (JMM'25)**. PME Contributed Session on Research by Undergraduates. Jan 8-11, 2025 \[ [Link](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/41233) \] <br />
   S. Erat, A. Kannan, **S. Kanungo**. *Mixed Tensor Products, Capelli Berezinians, and Newton’s Formula for* **gl**(*m*\|*n*) <br />
 
-- **MIT PRIMES**. Fourteenth Annual PRIMES Conference, Oct 12-13, 2024 \[ [Link](https://math.mit.edu/research/highschool/primes/conference/index.html) \] <br>
+- **MIT PRIMES**. Fourteenth Annual PRIMES Conference, Oct 12-13, 2024 \[ [Link](https://math.mit.edu/research/highschool/primes/conference/conf-2024.html) \] <br>
   S. Erat, **S. Kanungo**. *Mixed Tensor Products for Lie Superalgebras* <br />
 
 - **MathROCs**. Math Research Outreach Conference. Sep 8, 2024 <br />
