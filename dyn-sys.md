@@ -22,3 +22,6 @@ title: Dynamical Systems
 <img src="images/rikitake11.png" align="middle" style="width:450px;"> <br>
 <img src="images/rikitake21.png" align="middle" style="width:450px;"> <br>
 <img src="images/rikitake51.png" align="middle" style="width:450px;"> <br>
+
+<br>
+<a href="https://shihankanungo.github.io/projects">↪️ Back to <b>Projects</b></a>
