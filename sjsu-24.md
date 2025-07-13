@@ -6,3 +6,6 @@ title: Product formulas in number theory
 
 ![abstract](images/sjsu-24.png)
 <br>
+
+<br>
+<a href="https://shihankanungo.github.io/projects">↪️ Back to <b>Projects</b></a>
