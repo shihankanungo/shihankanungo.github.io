@@ -145,7 +145,7 @@ misc_entries:
 
   - title: Blog posts
     post_list: true
-    url: false
+    url: _posts
 
   - title: moonwalk on the Internet
     url: false
