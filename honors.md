@@ -10,11 +10,13 @@ title: Honors and Awards
 - **MOP (Mathematical Olympiad Program).** *'Blue' MOP*. 2025
 - **The 85th Putnam Mathematical Competition.** *Honorable mention*, rank 58. 2024
 - **USAPhO (USA Physics Olympiad, AAPT)**. *Gold medal* and *US Physics Team*. 2024
-- **MIT PRIMES-USA (PRIMES: Program for Research in Mathematics, Engineering and Science)**. *Researcher*. 2023, 2024, 2025
+- **MIT PRIMES-USA**. *Researcher*. 2023, 2024, 2025 <br> **(PRIMES: Program for Research in Mathematics, Engineering and Science)**
   - Combinatorics. *Saturation Problems for Sequences*. 2025
   - Representation Theory. *Representations of Twisted Yangians in Complex Rank*. 2024
   - Representation Theory. *Representations of Lie Superalgebras*. 2024
-  - Commutative Algebra. *Factorization Theory in Monoids and Semirings*. 2023  
+  - Commutative Algebra. *Factorization Theory in Monoids and Semirings*. 2023
+- **SJSU (San José State University)**. *Researcher*. 2024
+  - Analytic Number Theory. *On Product Formulas of Guillera and Sondow*. 2024 
 - **S.-T. Yau HS Science Award (North America)**. *Bronze medal in Mathematics*. 2024
 - **USAMTS (USA Mathematical Talent Search)**. *2-time Gold medal* and *highest scorer*
   - **Year 36**: 75/75 (2024-'25), **Year 34**: 74/75 (2022-'23)
