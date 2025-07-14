@@ -1,0 +1,12 @@
+---
+layout: post
+---
+
+{% if site.theme_config.show_math == true %}
+  <math>
+    <div class="solid"></div>
+    {% include horizontal_list.html collection=site.data.home.math_entries %}
+  </math>
+{% endif %}
+
+{{ content }}
