@@ -35,6 +35,7 @@ theme_config:
   show_description: true # show blog description
   show_navbar: true # show horizontal navbar
   show_footer: true # show footer links in home page,add in _data/home.yml
+  show_math: true # show links in math page,add in _data/home.yml
   show_personal: true # show links in about page,add in _data/home.yml
   show_mop: true # show links in mop page,add in _data/home.yml
   show_courses: true # show links in course page,add in _data/home.yml
