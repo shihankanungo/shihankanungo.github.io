@@ -14,8 +14,8 @@ perfect score on the AMC 8 and qualified for the USAMO. That same year, I placed
 It was an exciting time, filled with sharp puzzles and the joy of quick insight.
 
 ### Chapter 2: Research.
-Around this time I became curious about what mathematics looked like beyond competitions. As a 12 year old freshman, I was accepted into the MIT PRIMES-USA program, where 
-I’ve spent three years researching topics in commutative algebra, representation theory, and combinatorics. I’ve co-authored four papers in well-regarded journals, 
+Around this time I became curious about what mathematics looked like beyond competitions. As a 12 year old freshman, I applied to the MIT PRIMES-USA program, where 
+I’ve now spent three years researching topics in commutative algebra, representation theory, and combinatorics. I’ve co-authored four papers in well-regarded journals, 
 including one recognized with a USA Bronze Medal in Mathematics at the S.-T. Yau High School Science Awards. As a World Science Scholar (WSS ’24), I’ve had the chance to explore math and interdisciplinary science under the guidance of world-renowned researchers.
 
 ### Chapter 3: Balance.
