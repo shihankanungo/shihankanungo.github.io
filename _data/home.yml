@@ -55,8 +55,8 @@ personal_entries:
   - title: Wrapped
     url: wrapped
 
-  - title: Math Talks
-    url: math-talks
+  # - title: Math Talks
+  #   url: math-talks
 
   - title: Tom Hull
     url: tomhull
