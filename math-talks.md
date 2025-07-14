@@ -1,5 +1,5 @@
 ---
-layout: personal
+layout: post
 title: Math talks that I have attended
 ---
 <br>
