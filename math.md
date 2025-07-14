@@ -6,31 +6,20 @@ title: Mathematics
 &mdash; Antoine de Saint-Exupéry, The Little Prince
 
 <br>
-I’m a student with a deep interest in mathematics, drawn to both the elegance of problem-solving and the depth of long-term exploration.
-<br>
-My early years were spent immersed in math contests&mdash;I began the AMC series in second grade, qualified for the AIME in fourth grade, and by age 12 had achieved a 
-perfect score on the AMC 8 and qualified for the USAMO. That same year, I placed 4th nationally on Math Kangaroo Level 12, a competition intended for high school seniors.
-<br>
-Around this time I became curious about what mathematics looked like beyond competitions. As a 12 year old freshman, I was accepted into the MIT PRIMES-USA program, where 
-I’ve spent three years researching topics in commutative algebra, representation theory, and combinatorics. I’ve co-authored four papers, including one recognized with a 
-USA Bronze Medal in Mathematics at the S.-T. Yau High School Science Awards. As a World Science Scholar (WSS ’24), I’ve had the chance to explore interdisciplinary science 
-under the guidance of world-renowned researchers.
-<br>
-As I turned 14, my passion for contests was rekindled through the Putnam Exam, a competition designed for undergraduates, which I took as a high school junior, placing 58th nationally among thousands of undergraduates&mdash;thereby earning an Honorable Mention. Getting back on the AMC track, I have recently won a USAMO Gold Award and attended the MAA’s Math Olympiad Program (MOP 2025)&mdash;while continuing my research and advanced coursework through San José State University, Euler Circle, and AoPS.
-<br>
-I am a 2023 Spirit of Ramanujan Fellow and a recipient of the 2025 Global Child Prodigy Award. I’m happiest where speed and depth meet&mdash;where ideas unfold in both bursts and slow revelations.
-
-<br>
 My mathematical journey has unfolded in three distinct chapters&mdash;each shaping how I think, explore, and learn.
 
 ### Chapter 1: Contests.
-As a child, I was drawn to the thrill of problem-solving under pressure. I began the AMC series in second grade, qualified for AIME by fourth, and by twelve, had scored a perfect 25 on the AMC 8 and qualified for the USAMO. That same year, I placed 4th nationally on Math Kangaroo Level 12—a competition designed for high school seniors. It was an exciting time, filled with sharp puzzles and the joy of quick insight.
+My early years were spent immersed in math contests&mdash;I began the AMC series in second grade, qualified for the AIME in fourth grade, and by age 12 had achieved a 
+perfect score on the AMC 8 and qualified for the USAMO. That same year, I placed 4th nationally on Math Kangaroo Level 12, a competition intended for high school seniors.
+It was an exciting time, filled with sharp puzzles and the joy of quick insight.
 
 ### Chapter 2: Research.
-Around age 12, I began to wonder what mathematics looked like beyond time limits and answer boxes. As a freshman, I was accepted into MIT PRIMES-USA, where I’ve now spent three years exploring commutative algebra, representation theory, and combinatorics. Under the guidance of mentors, I’ve co-authored four papers—one of which received a USA Bronze Medal at the S.-T. Yau High School Science Awards. As a World Science Scholar (WSS ’24), I’ve explored math and science across disciplines through research-led projects with renowned mentors.
+Around this time I became curious about what mathematics looked like beyond competitions. As a 12 year old freshman, I was accepted into the MIT PRIMES-USA program, where 
+I’ve spent three years researching topics in commutative algebra, representation theory, and combinatorics. I’ve co-authored four papers, including one recognized with a 
+USA Bronze Medal in Mathematics at the S.-T. Yau High School Science Awards. As a World Science Scholar (WSS ’24), I’ve had the chance to explore math and interdisciplinary science under the guidance of world-renowned researchers.
 
 ### Chapter 3: Balance.
-As I turned 14, my passion for contests was rekindled through the Putnam Exam, a competition designed for undergraduates, which I took as a high school junior, placing 58th nationally among thousands of undergraduates&mdash;thereby earning an Honorable Mention. Getting back on the AMC track, I have recently won a USAMO Gold Award and attended the MAA’s Math Olympiad Program (MOP 2025)&mdash;while continuing my research and advanced coursework through San José State University, Euler Circle, and AoPS. I have also explored applied mathematics through graduate-level courses at SJSU. Through them, I developed a fascination for physics, which led me to self study college level physics. I’m a USAPhO gold medalist and a member of the 2024 U.S. Physics Team. Today, I find meaning in both the elegance of contests and the depth of research&mdash;they challenge me in different ways, and together, they shape me into the mathematician I hope to become.
+As I turned 14, my passion for contests was rekindled through the Putnam Exam, a competition designed for undergraduates, which I took as a high school junior, placing 58th nationally among thousands of undergraduates&mdash;thereby earning an Honorable Mention. Getting back on the AMC track, I have recently won a USAMO Gold Award and attended the MAA’s Math Olympiad Program (MOP 2025). Meanwhile, I have continued my research and advanced coursework through San José State University, Euler Circle, and AoPS. Through  graduate-level applied mathematics courses at SJSU, I developed a fascination for physics, which led me to self study college level physics. This led to winning the USAPhO gold medal and being a member of the 2024 U.S. Physics Team. Today, I find meaning in both the elegance of contests and the depth of research&mdash;they challenge me in different ways, and together, they shape me into the mathematician I hope to become.
 
 <br>
 I am a 2023 Spirit of Ramanujan Fellow and a recipient of the 2025 Global Child Prodigy Award. 
