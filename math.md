@@ -6,7 +6,7 @@ title: Mathematics
 &mdash; Antoine de Saint-Exupéry, The Little Prince
 
 <br>
-I’m a student with a deep interest in mathematics and physics, drawn to both the elegance of problem-solving and the depth of long-term exploration.
+I’m a student with a deep interest in mathematics, drawn to both the elegance of problem-solving and the depth of long-term exploration.
 
 <br>
 My early years were spent immersed in math contests&mdash;I began the AMC series in second grade, qualified for the AIME in fourth grade, and by age 12 had achieved a 
