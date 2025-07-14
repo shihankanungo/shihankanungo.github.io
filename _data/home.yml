@@ -5,6 +5,31 @@ navbar_entries:
   - title: Blog
     url: https://artofproblemsolving.com/community/c4383522
 
+  - title: Mathematics
+    url: math
+    
+  # - title: Courses
+  #   url: courses
+
+  # - title: Projects
+  #   url: projects
+
+  # - title: Papers
+  #   url: papers
+
+  # - title: Talks
+  #   url: talks
+
+  - title: Honors
+    url: honors
+
+  - title: CV
+    url: cv.pdf
+
+  # - title: About
+  #   url: about
+
+math_entries:
   - title: Courses
     url: courses
 
@@ -14,14 +39,11 @@ navbar_entries:
   - title: Papers
     url: papers
 
-  - title: Talks
+  - title: Talks (presented)
     url: talks
 
-  - title: Honors
-    url: honors
-
-  - title: CV
-    url: cv.pdf
+  - title: Talks (attended)
+    url: math-talks
 
   # - title: About
   #   url: about
