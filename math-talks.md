@@ -71,34 +71,34 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 
 <ul>
 <li><details>
-  <summary style="list-style: none;"><b>KIDDIE COLLOQUIUM &mdash; Milo Marsden (Stanford University)</b><br>&nbsp;&nbsp;
+  <summary style="list-style: none;"><b>KIDDIE COLLOQUIUM &mdash; Milo Marsden (Stanford University)</b><br>
     <i>Eigenvalues of Wigner Matrices: A dip into Random Matrix Theory</i></summary>
   <small><img src="images/06-05a.png" alt="June 5"></small>
-</details></li>
+</details></li><br>
 
 <li><details>
-  <summary style="list-style: none;"><b>REPRESENTATION THEORY &mdash; Jeremy Taylor (UC Berkeley)</b><br>&nbsp;&nbsp;
+  <summary style="list-style: none;"><b>REPRESENTATION THEORY &mdash; Jeremy Taylor (UC Berkeley)</b><br>
     <i>The universal monodromic Bezrukavnikov equivalence</i></summary>
   <small><img src="images/06-05c.png" alt="June 5"></small>
-</details></li>
+</details></li><br>
 
 <li><details>
-  <summary style="list-style: none;"><b>DEPARTMENT COLLOQUIUM &mdash; Aravind Asok (USC)</b><br>&nbsp;&nbsp;
+  <summary style="list-style: none;"><b>DEPARTMENT COLLOQUIUM &mdash; Aravind Asok (USC)</b><br>
     <i>Constructing projective modules</i></summary>
   <small><img src="images/06-05b.png" alt="June 5"></small>
-</details></li>
+</details></li><br>
 
 <li><details>
-  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; David Zywina (Cornell)</b><br>&nbsp;&nbsp;
+  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; David Zywina (Cornell)</b><br>
     <i>There are infinitely many elliptic curves over the rationals of rank 2</i></summary>
   <small><img src="images/06-02a.png" alt="June 2"></small>
-</details></li>
+</details></li><br>
 
 <li><details>
-  <summary style="list-style: none;"><b>PROBABILITY &mdash; Chun Yin Siu (Stanford Psychiatry)</b><br>&nbsp;&nbsp;
+  <summary style="list-style: none;"><b>PROBABILITY &mdash; Chun Yin Siu (Stanford Psychiatry)</b><br>
     <i>Random topology: The topology of preferential attachment graphs</i></summary>
   <small><img src="images/06-02b.png" alt="June 2"></small>
-</details></li>
+</details></li><br>
 </ul>
 
 ### May
