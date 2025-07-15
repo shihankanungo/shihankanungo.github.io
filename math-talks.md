@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Math talks that I have attended
+layout: math
+title: Mathematics &mdash; talks (attended)
 ---
 <br>
 
