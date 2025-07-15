@@ -1,6 +1,6 @@
 ---
 layout: math
-title: Mathematics &mdash; Talks
+title: Mathematics &mdash; talks (presented)
 ---
 
 - **Joint Mathematics Meeting (JMM'25)**. PME Contributed Session on Research by Undergraduates. Jan 8-11, 2025 \[ [Link](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/41233) \] <br />
