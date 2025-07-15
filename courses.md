@@ -2,7 +2,6 @@
 layout: courses
 title: Mathematics &mdash; coursework
 ---
-
 > "In mathematics you don't understand things. You just get used to them." <br> --- John von Neumann <br>
 > "The irreducible price of learning is realizing that you do not know." <br> --- James Baldwin <br>
 > "Education: the path from cocky ignorance to miserable uncertainty." <br> --- Mark Twain
