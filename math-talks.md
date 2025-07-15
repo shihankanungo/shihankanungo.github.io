@@ -70,7 +70,7 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 ### June
 
 <details>
-  <summary style="list-style: none;"><b>KIDDIE COLLOQUIUM &mdash; Milo Marsden (Stanford University)</b><br>&nbsp;&nbsp;
+  <summary style="list-style: bullet;"><b>KIDDIE COLLOQUIUM &mdash; Milo Marsden (Stanford University)</b><br>&nbsp;&nbsp;
     <i>Eigenvalues of Wigner Matrices: A dip into Random Matrix Theory</i></summary>
   <small><img src="images/06-05a.png" alt="June 5"></small>
 </details>
