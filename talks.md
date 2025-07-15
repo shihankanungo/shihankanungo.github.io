@@ -3,7 +3,7 @@ layout: math
 title: Mathematics &mdash; talks (presented)
 ---
 
-<p align="center"><img src="/images/talks.png" width="500" /></p><br>
+<p align="center"><img src="/images/talks.png" width="700" /></p><br>
 
 - **Joint Mathematics Meeting (JMM'25)**. PME Contributed Session on Research by Undergraduates. Jan 8-11, 2025 \[ [Link](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/41233) \] <br />
   S. Erat, A. Kannan, **S. Kanungo**. *Mixed Tensor Products, Capelli Berezinians, and Newton’s Formula for* **gl**(*m*\|*n*) <br />
