@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Papers
+layout: math
+title: Mathematics &mdash; writing
 ---
 <br>
 
