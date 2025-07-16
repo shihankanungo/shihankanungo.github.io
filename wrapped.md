@@ -59,6 +59,7 @@ title: Wrapped (2025)
   Robot Dreams (2024 d. Pablo Berger) <br>
   Memoir of a Snail (2024 d. Adam Elliot) <br>
   Flow (2024 d. Gints Zilbalodis) <br>
+  Wallace & Gromit: Vengeance Most Fowl (2024 d. Nick Park, Merlin Crossingham)
 - **George Paul Csicsery** <br>
   Hard Problems: The Road to the World's Toughest Math Contest (2008) <br>
   Secrets of the Surface: The Mathematical Vision of Maryam Mirzakhani (2020)
