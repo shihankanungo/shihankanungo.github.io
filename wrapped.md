@@ -109,8 +109,26 @@ title: Wrapped (2025)
 
 ### Concerts
 
-- *Strings for Peace*. Ustad Amjad Ali Khan & Sharon Isbin. Herbst Theatre in SF, California, on Saturday, February 22, 2025. <br> <small>Crossing barriers of language and culture and uniting people through music, classical guitarist Sharon Isbin and sarod master Amjad Ali Khan find common ground in their respective classical traditions of ragas and European medieval music, interweaving musical, spiritual, and artistic legacies.</small>
-- *TAMASHA: An Extravaganza of Desi Fusion*. Bing Concert Hall, Stanford, California, on Friday, July 12, 2025. <br> <small>Headlining is none other than Bollywood star <b>Raja Kumari</b>&mdash;the Grammy-nominated artist, rapper, and songwriter known for her powerful fusion of Indian classical music with hip-hop, R&B, and electronic influences. A trailblazer in global fusion, she’s collaborated with major names like Iggy Azalea, Sidhu Moosewala, Divine, Gwen Stefani, and John Legend.</small>
+<ul>
+ <li><details>
+  <summary style="list-style-type: none;"> <i></i> </summary>
+  <small><br></small><br>
+</details></li>
+</ul>
+
+<ul>
+ <li><details>
+  <summary style="list-style-type: none;"><i>Strings for Peace</i>. Ustad Amjad Ali Khan & Sharon Isbin. Herbst Theatre in SF, California, on Saturday, February 22, 2025. </summary>
+  <small>Crossing barriers of language and culture and uniting people through music, classical guitarist Sharon Isbin and sarod master Amjad Ali Khan find common ground in their respective classical traditions of ragas and European medieval music, interweaving musical, spiritual, and artistic legacies.<br></small><br>
+</details></li>
+</ul>
+
+<ul>
+ <li><details>
+  <summary style="list-style-type: none;"> <i>TAMASHA: An Extravaganza of Desi Fusion</i>. Bing Concert Hall, Stanford, California, on Friday, July 12, 2025. </summary>
+  <small>Headlining is none other than Bollywood star <b>Raja Kumari</b>&mdash;the Grammy-nominated artist, rapper, and songwriter known for her powerful fusion of Indian classical music with hip-hop, R&B, and electronic influences. A trailblazer in global fusion, she’s collaborated with major names like Iggy Azalea, Sidhu Moosewala, Divine, Gwen Stefani, and John Legend.<br></small><br>
+</details></li>
+</ul>
 
 ![StanfordJazzFestival](/images/sjf.png)
 
