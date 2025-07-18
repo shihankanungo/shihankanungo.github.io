@@ -127,12 +127,6 @@ title: Wrapped (2025)
 
 <ul>
  <li><details>
-  <summary style="list-style-type: none;"> <i></i> </summary>
-  <small><br></small><br>
-</details></li>
-</ul>
-<ul>
- <li><details>
   <summary style="list-style-type: none;"> <i>Jaz Sawyer: Tribute to Art Blakey & The Jazz Messengers</i> &mdash;Honoring Blakey's timeless legacy. Campbell Recital Hall, Stanford , CA on Friday, Jul 11, 2025</summary>
   <small>Drummer, bandleader, and educator Jaz Sawyer pays homage to one of jazz’s most electrifying forces—<b>Art Blakey & The Jazz Messengers</b>—in this powerhouse tribute performance. Infusing Blakey’s iconic hard-bop sound with his own dynamic touch, Sawyer channels the spirit of the legendary drummer, whose relentless swing, thunderous polyrhythms, and fiery energy defined generations of jazz. With a musical foundation spanning classical, jazz, and Afro-Caribbean traditions, Sawyer delivers a heartfelt tribute that captures the essence of Blakey’s masterful legacy.<br></small><br>
 </details></li>
@@ -149,6 +143,13 @@ title: Wrapped (2025)
  <li><details>
   <summary style="list-style-type: none;"> <i>Anat Cohen & Marcello Gonçalves</i>&mdash;intimate clarinet and guitar mastery.Dinkelspiel Auditorium, Stanford , CA on Saturday, Jul 19, 2025. </summary>
   <small>Clarinetist Anat Cohen and 7-string guitarist Marcello Gonçalves team up to perform music from their Grammy-nominated album, <b>Outra Coisa: The Music of Moacir Santos</b>, as well as selections from their second album, Reconvexo, featuring a repertoire of breathtaking melodies, Brazilian grooves, and elements of classical music and jazz that showcase their intricate talents. <br></small><br>
+</details></li>
+</ul>
+
+<ul>
+ <li><details>
+  <summary style="list-style-type: none;"> <i></i> </summary>
+  <small><br></small><br>
 </details></li>
 </ul>
 
