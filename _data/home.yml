@@ -8,6 +8,9 @@ navbar_entries:
   - title: Mathematics
     url: math
 
+  - title: Activities
+    url: activities
+
   - title: Honors
     url: honors
 
@@ -29,6 +32,19 @@ math_entries:
 
   - title: Talks (attended)
     url: math-talks
+
+activities_entries:
+  - title: Books
+    url: books
+
+  - title: Music
+    url: music
+
+  - title: Movies
+    url: movies
+
+  - title: Travel
+    url: travel
 
 personal_entries:
   - title: Landing
