@@ -5,6 +5,8 @@ title: Mathematics
 > “It is the time you have wasted for your rose that makes your rose so important. <br>
 &mdash; Antoine de Saint-Exupéry, The Little Prince
 
+![ch-math](images/ch4.png)
+
 <br>
 My mathematical journey has unfolded in three distinct chapters&mdash;each shaping how I think, explore, and learn.
 
