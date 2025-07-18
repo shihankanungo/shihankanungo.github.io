@@ -5,6 +5,8 @@ title: Activities &mdash; travel
 
 > "Not all those who wander are lost." --- J.R.R. Tolkien, The Fellowship of the Ring
 
+![ch-travel](images/ch2.png)
+
 - **Seattle, WA --- Jan 7--11**. Joint Mathematics Meeting (JMM25). Got to hang out with SE; food was beyond amazing --- Halal Smash'd Burgers, Moroccan lamb roll, curry beef hom bao, dinner at *Zaika* with SE and family.
 - **Pasadena, CA --- Jan 24--26**. Caltech Math Meet (CMM). Road trip with dad. Had *Din Tai Fung* for both dinners. Highlight: listening to music on the drive to and from. It was snowing near LA on the way back!!
 - **Cambridge, MA --- Feb 14--16**. Harvard-MIT Math Tournament (HMMT Feb). Got to hang out with WZ; dinner from *Himalayan Kitchen* on Fri; "*Ghana Bitter*" from Royce chocolates on Sat. Several inches of snow coated the streets from a storm Saturday night into Sunday morning.
