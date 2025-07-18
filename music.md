@@ -5,6 +5,9 @@ title: Activities &mdash; music
 
 > "People haven't always been there for me but music always has." --- Taylor Swift
 
+![ch-music](images/ch3.png)
+
+<br>
 - Pistol Annies (country)
   - *Hell on Heels* (2011)
   - *Annie Up* (2013) 
