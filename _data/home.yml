@@ -7,27 +7,12 @@ navbar_entries:
 
   - title: Mathematics
     url: math
-    
-  # - title: Courses
-  #   url: courses
-
-  # - title: Projects
-  #   url: projects
-
-  # - title: Papers
-  #   url: papers
-
-  # - title: Talks
-  #   url: talks
 
   - title: Honors
     url: honors
 
   - title: CV
     url: cv.pdf
-
-  # - title: About
-  #   url: about
 
 math_entries:
   - title: Courses
@@ -45,9 +30,6 @@ math_entries:
   - title: Talks (attended)
     url: math-talks
 
-  # - title: About
-  #   url: about
-
 personal_entries:
   - title: Landing
     url: personal
@@ -55,13 +37,10 @@ personal_entries:
   - title: Wrapped
     url: wrapped
 
-  # - title: Math Talks
-  #   url: math-talks
-
   - title: Tom Hull
     url: tomhull
 
-  - title: Christgau
+  - title: XGau
     url: xgau
 
 mop_entries:
