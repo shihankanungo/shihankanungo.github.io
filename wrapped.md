@@ -61,6 +61,7 @@ title: Wrapped (2025)
   Memoir of a Snail (2024 d. Adam Elliot) <br>
   Flow (2024 d. Gints Zilbalodis)
 - **Wallace & Gromit** <br>
+  A Grand Day Out With Wallace and Gromit (1989 d. Nick Park) <br>
   The Curse of the Were-Rabbit (2005 d. Nick Park, Steve Box) <br>
   Vengeance Most Fowl (2024 d. Nick Park, Merlin Crossingham)
 - **George Paul Csicsery** <br>
