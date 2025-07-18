@@ -148,6 +148,14 @@ title: Wrapped (2025)
 
 <ul>
  <li><details>
+  <summary style="list-style-type: none;"> <i>John Santos Sextet with Special Guest Yilian Cañizares</i>&mdash;Transcendent jazz and Afro-Cuban fusion. Dinkelspiel Auditorium, Stanford, CA on Sunday, Jul 20, 2025.</summary>
+  <small>Experience an unforgettable evening with the groundbreaking John Santos Sextet, led by multi-GRAMMY nominee and visionary bandleader John Santos. The ensemble dives deep into the roots of Latin jazz, blending vibrant rhythms, sharp improvisation, and bold original compositions. Acclaimed Cuban-born violinist Yilian Cañizares opens the show with her electrifying fusion of jazz, classical, and Afro-Cuban sounds. Together, they create a rich, genre-defying musical journey that bridges tradition and innovation.
+Expect artistry, virtuosity, and soul in every note.<br></small><br>
+</details></li>
+</ul>
+
+<ul>
+ <li><details>
   <summary style="list-style-type: none;"> <i></i> </summary>
   <small><br></small><br>
 </details></li>
