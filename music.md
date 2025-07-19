@@ -1,6 +1,6 @@
 ---
 layout: activities
-title: Music &mp;c.
+title: Music &amp;c.
 ---
 
 > "People haven't always been there for me but music always has." --- Taylor Swift
