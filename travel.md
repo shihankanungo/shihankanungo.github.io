@@ -1,6 +1,6 @@
 ---
 layout: activities
-title: Activities &mdash; travel
+title: Travel &mp;c.
 ---
 
 > "Not all those who wander are lost." --- J.R.R. Tolkien, The Fellowship of the Ring
