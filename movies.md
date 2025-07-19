@@ -5,6 +5,10 @@ title: Movies &amp;c.
 
 > "It's not what a movie is about, it's how it is about it." --- Roger Ebert 
 
+![ch-movies](images/ch5.png)
+
+<br>
+
 - **Charlie Chaplin** <br>
   City Lights (1931 d. Charlie Chaplin) <br>
   Modern Times (1936 d. Charlie Chaplin) <br>
