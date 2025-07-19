@@ -9,28 +9,6 @@ title: Activities &mdash; music
 
 <br>
 
-- Pistol Annies (country)
-  - *Hell on Heels* (2011)
-  - *Annie Up* (2013) 
-- The English Beat: *I Just Can't Stop It* (1980, ska/alternative/indie)
-- Fake Fruit: *Mucho Mistrust* (2024, alternative/indie)
-- Cornershop: *When I Was Born for the Seventh Time* (1997, alternative/indie)
-- Fatboy Slim: *Halfway Between the Gutter and the Stars*  (2000, big beat/electronic)
-- Massive Attack: *Protection* (1994, trip-hop/electronic)
-- The Streets (alt hip-hop/grime/electronica)
-  - *Original Pirate Material* (2002)
-  - *The Hardest Way to Make an Easy Living* (2006)
-- Dessa: *A Badly Broken Code* (2010, hip-hop)
-- Jack Harlow: *Jackman* (2023, rap/hip-hop)
-- Ren: *Sick Boi* (2024, R&B/hip-hop/rap)
-- Doechii: *Alligator Bites Never Heal* (2024, R&B/hip-hop)
-- Tierra Whack: *World Wide Whack* (2024, hip-hop/jazz funk)
-- Dudu Pukwana: *In the Townships* (1974 jazz/South Africa)
-- James Brandon Lewis: *Apple Core* (2025, jazz)
-- Jason Palmer: _The Cross Over: Live in Brooklyn_ (2024, jazz)
-- *Mozart: Piano Sonatas* by Christoph Eschenbach (1999, classical)
-- *Bach: Goldberg Variations* by Murray Perahia (1971, classical)
-  
 
 ### Concerts
 
@@ -85,4 +63,29 @@ Expect artistry, virtuosity, and soul in every note.<br></small><br>
   <small><br></small><br>
 </details></li>
 </ul>
+
+<br>
+
+- Pistol Annies (country)
+  - *Hell on Heels* (2011)
+  - *Annie Up* (2013) 
+- The English Beat: *I Just Can't Stop It* (1980, ska/alternative/indie)
+- Fake Fruit: *Mucho Mistrust* (2024, alternative/indie)
+- Cornershop: *When I Was Born for the Seventh Time* (1997, alternative/indie)
+- Fatboy Slim: *Halfway Between the Gutter and the Stars*  (2000, big beat/electronic)
+- Massive Attack: *Protection* (1994, trip-hop/electronic)
+- The Streets (alt hip-hop/grime/electronica)
+  - *Original Pirate Material* (2002)
+  - *The Hardest Way to Make an Easy Living* (2006)
+- Dessa: *A Badly Broken Code* (2010, hip-hop)
+- Jack Harlow: *Jackman* (2023, rap/hip-hop)
+- Ren: *Sick Boi* (2024, R&B/hip-hop/rap)
+- Doechii: *Alligator Bites Never Heal* (2024, R&B/hip-hop)
+- Tierra Whack: *World Wide Whack* (2024, hip-hop/jazz funk)
+- Dudu Pukwana: *In the Townships* (1974 jazz/South Africa)
+- James Brandon Lewis: *Apple Core* (2025, jazz)
+- Jason Palmer: _The Cross Over: Live in Brooklyn_ (2024, jazz)
+- *Mozart: Piano Sonatas* by Christoph Eschenbach (1999, classical)
+- *Bach: Goldberg Variations* by Murray Perahia (1971, classical)
+  
 
