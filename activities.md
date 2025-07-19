@@ -1,6 +1,6 @@
 ---
 layout: activities
-title: &amp;c.
+title:  &amp;c.
 ---
 > “It is the time you have wasted for your rose that makes your rose so important. <br>
 &mdash; Antoine de Saint-Exupéry, The Little Prince
