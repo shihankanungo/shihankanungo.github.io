@@ -7,6 +7,9 @@ title: Movies &amp;c.
 
 ![ch-movies](images/ch5.png)
 
+![ch-movies](images/ch5a.png)
+
+
 <br>
 
 - **Charlie Chaplin** <br>
