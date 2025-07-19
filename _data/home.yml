@@ -8,7 +8,7 @@ navbar_entries:
   - title: Mathematics
     url: math
 
-  - title: Activities
+  - title: &amp;c.
     url: activities
 
   - title: Honors
