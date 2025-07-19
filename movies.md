@@ -1,6 +1,6 @@
 ---
 layout: activities
-title: Activities &mdash; movies
+title: Movies &mp;c.
 ---
 
 > "It's not what a movie is about, it's how it is about it." --- Roger Ebert 
