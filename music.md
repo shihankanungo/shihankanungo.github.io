@@ -10,7 +10,7 @@ title: Music &amp;c.
 <br>
 
 
-### Concerts
+### Live Concerts
 
 <ul>
  <li><details>
@@ -65,6 +65,8 @@ Expect artistry, virtuosity, and soul in every note.<br></small><br>
 </ul>
 
 <br>
+
+### Recorded Music
 
 - Pistol Annies (country)
   - *Hell on Heels* (2011)
