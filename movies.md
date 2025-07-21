@@ -26,13 +26,13 @@ title: Movies &amp;c.
 - Zero Dark Thirty (2012 d. Kathryn Bigelow)
 - The Imitation Game (2014 d. Morten Tyldum)
 - Love, Simon (2018 d. Greg Berlanti)
-- F1 (2025 d. Joseph Kosinski)  👍
+- F1 (2025 d. Joseph Kosinski) 🎥 👍
 - **Animation** <br>
   Kung Fu Panda (2008 d. John Stevenson and Mark Osborne) <br>
   Hundreds of Beavers (2022 d. Mike Cheslik) 👍  <br>
   Robot Dreams (2024 d. Pablo Berger) <br>
   Memoir of a Snail (2024 d. Adam Elliot) <br>
-  Flow (2024 d. Gints Zilbalodis)
+  Flow (2024 d. Gints Zilbalodis) 🎥
 - **Wallace & Gromit** <br>
   A Grand Day Out With Wallace and Gromit (1989 d. Nick Park) <br>
   The Curse of the Were-Rabbit (2005 d. Nick Park, Steve Box) <br>
@@ -48,5 +48,5 @@ title: Movies &amp;c.
 - **Music documentaries** <br>
   Miss Americana (2020 d. Lana Wilson) <br>
   Becoming Led Zeppelin (2025 d. Bernard MacMahon) <br>
-  Pink Floyd at Pompeii – MCMLXXII (2025 d. Adrian Maben) <br>
+  Pink Floyd at Pompeii – MCMLXXII (2025 d. Adrian Maben) 🎥 <br>
   We Want The Funk! (2025 d. Stanley Nelson and Nicole London) 👍 <br> <small>_PBS Independent Lens documentary_</small>
