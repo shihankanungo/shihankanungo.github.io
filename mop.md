@@ -832,6 +832,10 @@ Isaac showed us around the campus and told us many interesting anecdotes. Mama t
 
 ![separator](images/sep.png)
 
+## Quotes
+
+I have finally begun to believe&mdash;not just understand&mdash;that if I throw my heart and soul and open myself vulnerable to crushing failure into sufficiently many pursuits, that some fundamental law of the universe dictates that I will obtain something from that effort, and perhaps more importantly, that care. &mdash; Tony Lu, in his blog _Cascades_
+
 
 ## The end
 
