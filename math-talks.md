@@ -234,7 +234,7 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 <ul>
 <li><details>
   <summary style="list-style: none;"><b>ANALYTIC NUMBER THEORY &mdash; Jori Merikoski (Oxford)</b><br>
-    <i>On primes represented by aX^2+bY^3</i></summary>
+    <i>On primes represented by aX<sup>2</sup>+bY<sup>3</sup></i></summary>
   <small><img src="images/05-07.png" alt="May 7"></small>
 </details></li>
 </ul>
