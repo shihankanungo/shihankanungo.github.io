@@ -84,6 +84,7 @@ So, after a few weeks of valiant effort (and mild spreadsheet trauma), I threw i
 - Cornershop: *When I Was Born for the Seventh Time* (1997, alternative/indie)
 - Fatboy Slim: *Halfway Between the Gutter and the Stars*  (2000, big beat/electronic)
 - Massive Attack: *Protection* (1994, trip-hop/electronic)
+- Girl Talk: *Night Ripper* (2007, mashup/electronic/hip-hop)
 - The Streets (alt hip-hop/grime/electronica)
   - *Original Pirate Material* (2002)
   - *The Hardest Way to Make an Easy Living* (2006)
@@ -95,6 +96,7 @@ So, after a few weeks of valiant effort (and mild spreadsheet trauma), I threw i
 - Dudu Pukwana: *In the Townships* (1974 jazz/South Africa)
 - James Brandon Lewis: *Apple Core* (2025, jazz)
 - Jason Palmer: _The Cross Over: Live in Brooklyn_ (2024, jazz)
+- Rudresh Mahanthappa & Steve Lehman: *Dual Identity* (2010, jazz) 
 - *Mozart: Piano Sonatas* by Christoph Eschenbach (1999, classical)
 - *Bach: Goldberg Variations* by Murray Perahia (1971, classical)
   
