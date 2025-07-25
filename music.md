@@ -31,6 +31,9 @@ title: Music &amp;c.
 <ul>
  <li><details>
   <summary style="list-style-type: none;"> <i>Jaz Sawyer: Tribute to Art Blakey & The Jazz Messengers</i> &mdash;Honoring Blakey's timeless legacy. Campbell Recital Hall, Stanford, CA on Friday, Jul 11, 2025</summary>
+  
+  ![sjf-11](images/sjf-11.png)
+  
   <small>Drummer, bandleader, and educator Jaz Sawyer pays homage to one of jazz’s most electrifying forces—<b>Art Blakey & The Jazz Messengers</b>—in this powerhouse tribute performance. Infusing Blakey’s iconic hard-bop sound with his own dynamic touch, Sawyer channels the spirit of the legendary drummer, whose relentless swing, thunderous polyrhythms, and fiery energy defined generations of jazz. With a musical foundation spanning classical, jazz, and Afro-Caribbean traditions, Sawyer delivers a heartfelt tribute that captures the essence of Blakey’s masterful legacy.<br></small><br>
 </details></li>
 </ul>
@@ -38,6 +41,9 @@ title: Music &amp;c.
 <ul>
  <li><details>
   <summary style="list-style-type: none;"> <i>An Evening with Victor Lin: Music of Studio Ghibli</i> &mdash;film score classics with a jazz twist. Dinkelspiel Auditorium, Stanford, CA on Thursday, Jul 17, 2025.</summary>
+ 
+  ![sjf-17](images/sjf-17.png)
+  
   <small>Join Stanford Jazz Workshop favorite Victor Lin for a mesmerizing evening as he reimagines the iconic music of Studio Ghibli through the lens of jazz piano and violin. Blending nostalgia with innovation, Lin’s reinterpretations breathe new energy into Hisaishi’s timeless compositions, making for a dynamic, immersive, and deeply heartfelt musical experience. Whether you’re a longtime anime fan or a lover of great music, this performance promises to be an exciting and unforgettable journey through the soundscapes of Studio Ghibli and beyond. <br></small><br>
 </details></li>
 </ul>
@@ -45,6 +51,9 @@ title: Music &amp;c.
 <ul>
  <li><details>
   <summary style="list-style-type: none;"> <i>Anat Cohen & Marcello Gonçalves</i>&mdash;intimate clarinet and guitar mastery. Dinkelspiel Auditorium, Stanford, CA on Saturday, Jul 19, 2025. </summary>
+ 
+  ![sjf-19](images/sjf-19.png)
+  
   <small>Clarinetist Anat Cohen and 7-string guitarist Marcello Gonçalves team up to perform music from their Grammy-nominated album, <b>Outra Coisa: The Music of Moacir Santos</b>, as well as selections from their second album, Reconvexo, featuring a repertoire of breathtaking melodies, Brazilian grooves, and elements of classical music and jazz that showcase their intricate talents. <br></small><br>
 </details></li>
 </ul>
@@ -52,6 +61,9 @@ title: Music &amp;c.
 <ul>
  <li><details>
   <summary style="list-style-type: none;"> <i>John Santos Sextet with Special Guest Yilian Cañizares</i>&mdash;Transcendent jazz and Afro-Cuban fusion. Dinkelspiel Auditorium, Stanford, CA on Sunday, Jul 20, 2025.</summary>
+ 
+  ![sjf-20](images/sjf-20.png)
+  
   <small>Experience an unforgettable evening with the groundbreaking John Santos Sextet, led by multi-GRAMMY nominee and visionary bandleader John Santos. The ensemble dives deep into the roots of Latin jazz, blending vibrant rhythms, sharp improvisation, and bold original compositions. Acclaimed Cuban-born violinist Yilian Cañizares opens the show with her electrifying fusion of jazz, classical, and Afro-Cuban sounds. Together, they create a rich, genre-defying musical journey that bridges tradition and innovation.
 Expect artistry, virtuosity, and soul in every note.<br></small><br>
 </details></li>
