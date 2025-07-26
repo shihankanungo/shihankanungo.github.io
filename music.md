@@ -71,6 +71,18 @@ Expect artistry, virtuosity, and soul in every note.<br></small><br>
 
 <ul>
  <li><details>
+  <summary style="list-style-type: none;"> <i>George Cables and Friends</i>&mdash;Bold Bebop beauty. Dinkelspiel Auditorium, Stanford, CA on Tuesday, Jul 29, 2025.</summary>
+ 
+ <p align="center"><img src="/images/sjf-29.png" width="700" /></p>
+  
+  <small>Cables’ signature impeccable touch, deep sense of groove, and limitless creativity have made him one of jazz’s most influential pianists, shaping the hard bop and post-bop landscapes. The New York City Jazz Record declares, “He is a piano giant,” while NPR praises his solos for their “deep sense of groove and pacing.”
+
+Don't miss this chance to witness Cables’ fire, artistry, and sheer mastery—his performances aren’t just concerts, they’re transformative experiences.<br></small><br>
+</details></li>
+</ul>
+
+<ul>
+ <li><details>
   <summary style="list-style-type: none;"> <i></i> </summary>
   <small><br></small><br>
 </details></li>
