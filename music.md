@@ -92,8 +92,12 @@ Don't miss this chance to witness Cables’ fire, artistry, and sheer mastery—
 
 <ul>
  <li><details>
-  <summary style="list-style-type: none;"> <i></i> </summary>
-  <small><br></small><br>
+  <summary style="list-style-type: none;"> <i>Taylor Eigsti Quartet featuring Ben Wendel</i>&mdash;Grammy winning brilliance unleashed. Dinkelspiel Auditorium, Stanford, CA on Thursday, Jul 31, 2025. </summary>
+
+   <p align="center"><img src="/images/sjf-31.png" width="700" /></p>
+   
+  <small>After winning GRAMMYS in 2022 for <i>Tree Falls</i> and in 2025 for his latest release, <i>Plot Armor</i>, pianist Taylor Eigsti continues to redefine modern jazz with his virtuosity, innovation, and fearless exploration. A master of intricate melodies, infectious yet angular rhythms, and deep grooves, Eigsti seamlessly blends jazz, electronica, hip-hop, rock, and classical influences into a soundscape that is both exhilarating and unpredictable. His music thrills, surprises, and captivates, evoking everything from playful joy to introspective reflection. <br>
+For this special performance Taylor’s innovative quartet is joined by celebrated tenor saxophonist Ben Wendel.<br></small><br>
 </details></li>
 </ul>
 
