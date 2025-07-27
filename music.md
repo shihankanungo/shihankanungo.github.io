@@ -131,6 +131,7 @@ So, after a few weeks of valiant effort (and mild spreadsheet trauma), I threw i
 - Doechii: *Alligator Bites Never Heal* (2024, R&B/hip-hop)
 - Tierra Whack: *World Wide Whack* (2024, hip-hop/jazz funk)
 - Dudu Pukwana: *In the Townships* (1974 jazz/South Africa)
+- James Carter: *Chasin' the Gypsy* (2000, jazz)
 - James Brandon Lewis: *Apple Core* (2025, jazz)
 - Jason Palmer: _The Cross Over: Live in Brooklyn_ (2024, jazz)
 - Rudresh Mahanthappa & Steve Lehman: *Dual Identity* (2010, jazz) 
