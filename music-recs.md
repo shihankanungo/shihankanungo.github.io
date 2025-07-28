@@ -15,7 +15,7 @@ I started learning classical piano when I was 4. I have been studying classical 
 
 ## Jazz
 **Dudu Pukwana**: *In the Townships* \[ [YouTube](https://youtube.com/playlist?list=PLE8FFB87B77AF5AD8&si=CJrt4bXMtnqv0F4H) \] <br>
-**Barney Wilen**: *Wild Dogs of the Ruwenzori* <br>
+**Barney Wilen**: *Wild Dogs of the Ruwenzori* (This is hard to find; here's a sampler on \[ [YouTube](https://www.youtube.com/watch?v=UAxrA7aU97E) \] <br>
 
 ## Pop
 > "I'm grateful to have grown up in a world with Taylor Swift in it, or, 'The World: Taylor's Version'." --- Phoebe Bridgers, 2023 iHeartRadio Music Awards
