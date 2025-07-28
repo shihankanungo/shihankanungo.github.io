@@ -8,6 +8,9 @@ title: Mathematics
 ![ch-math](images/ch4.png)
 
 <br>
+I have a deep interest in the intricacies of numbers and patterns, and enjoy solving complex mathematical problems. I plan to major in math and do research in pure mathematics, with the long-term aim of being a professional mathematician. 
+
+<br>
 My mathematical journey has unfolded in three distinct chapters&mdash;each shaping how I think, explore, and learn.
 
 ### Chapter 1: Contests.
