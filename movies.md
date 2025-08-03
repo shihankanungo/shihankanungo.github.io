@@ -9,6 +9,10 @@ title: Movies &amp;c.
 
 ![ch-movies](images/ch5a.png)
 
+<br>
+I love watching movies&mdash;whether I'm soaking in the full theatrical experience (popcorn, oversized screen, questionable armrest etiquette... 🎥) or curled up at home in my natural habitat, toggling between Netflix, Prime Video, and the ancient, mysterious technology known as the DVD. Yes, I still use DVDs. No, I will not be taking questions at this time.
+
+Below is a lovingly curated list of movies I've watched *so far* this year&mdash;films I'd recommend to friends, strangers, time travelers, and probably even sworn enemies. If it’s listed here, it’s worth your time. If it’s marked with a 👍, it's a full-throated endorsement&mdash;like, stop-what-you're-doing-and-watch-it levels of enthusiasm. You're welcome in advance. Stay tuned for more!
 
 <br>
 
