@@ -26,6 +26,7 @@ title: Movies &amp;c.
 - Zero Dark Thirty (2012 d. Kathryn Bigelow)
 - The Imitation Game (2014 d. Morten Tyldum)
 - Love, Simon (2018 d. Greg Berlanti)
+- Coda (2021 d. Sian Heder)
 - The Wonderful Story of Henry Sugar (2023 d. Wes Anderson)
 - F1 (2025 d. Joseph Kosinski) 🎥 👍
 - **Animation** <br>
