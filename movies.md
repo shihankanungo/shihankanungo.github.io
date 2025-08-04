@@ -28,15 +28,15 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
 - Juno (2007 d. Jason Reitman)
 - Easy A (2010 d. Will Gluck)
 - Zero Dark Thirty (2012 d. Kathryn Bigelow)
-- The Imitation Game (2014 d. Morten Tyldum)
+- The Imitation Game (2014 d. Morten Tyldum) 👍
 - Love, Simon (2018 d. Greg Berlanti)
-- Coda (2021 d. Sian Heder)
+- Coda (2021 d. Sian Heder) 👍
 - The Wonderful Story of Henry Sugar (2023 d. Wes Anderson)
 - F1 (2025 d. Joseph Kosinski) 🎥 👍
 - **Animation** <br>
   Kung Fu Panda (2008 d. John Stevenson and Mark Osborne) <br>
   Hundreds of Beavers (2022 d. Mike Cheslik) 👍  <br>
-  Robot Dreams (2024 d. Pablo Berger) <br>
+  Robot Dreams (2024 d. Pablo Berger) 👍 <br>
   Memoir of a Snail (2024 d. Adam Elliot) <br>
   Flow (2024 d. Gints Zilbalodis) 🎥
 - **Wallace & Gromit** <br>
