@@ -15,6 +15,7 @@ These are the books I have read in 2025 (so far!) <br>
 - *A Clockwork Orange* by Anthony Burgess. 1962
 - *Love Story* by Erich Segal. 1970
 - *Jonathan Livingston Seagull* by Richard Bach. 1970
+- *Norwegian Wood* by Haruki Murakami. 1987
 - **Robert Jordan** &mdash; ***The Wheel of Time*** **trilogy**  <br>
   *The Eye of the World*. 1990 <br>
   *The Great Hunt*. 1990 <br>
