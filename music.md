@@ -126,6 +126,7 @@ So, after a few weeks of valiant effort (and mild spreadsheet trauma), I threw i
   - *Original Pirate Material* (2002)
   - *The Hardest Way to Make an Easy Living* (2006)
 - Dessa: *A Badly Broken Code* (2010, hip-hop)
+- Ghostface Killah: *Ironman* (1996, rap/hip-hop)
 - Jack Harlow: *Jackman* (2023, rap/hip-hop)
 - Ren: *Sick Boi* (2024, R&B/hip-hop/rap)
 - Doechii: *Alligator Bites Never Heal* (2024, R&B/hip-hop)
