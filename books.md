@@ -20,6 +20,10 @@ These are the books I have read in 2025 (so far!) <br>
   *The Eye of the World*. 1990 <br>
   *The Great Hunt*. 1990 <br>
   *The Dragon Reborn*. 1991
+- **Haruki Murakami** <br>
+  *Norwegian Wood*. 1987 <br>
+  *Kafka on the Shore*. 2002 <br>
+  *What I Talk About When I Talk About Running*. 2007
 - **Kazuo Ishiguro** <br>
   *A Pale View of Hills*. 1982 <br>
   *An Artist of the Floating World*. 1986 <br>
@@ -33,7 +37,6 @@ These are the books I have read in 2025 (so far!) <br>
 - *Oranges* by John McPhee. 1967
 - *A People's History of the United States* by Howard Zinn. 1980
 - *London: The Biography* by Peter Ackroyd. 2000
-- *What I Talk About When I Talk About Running* by Haruki Murakami. 2007
 - *Elliptic Tales: Curves, Counting, and Number Theory* <br> by Avner Ash and Robert Gross. 2012
 - *Never Split The Difference: Negotiating As If Your Life Depended On It* <br> by Christopher Voss, Tahl Raz. 2016
 - *Purpose: What Evolution and Human Nature Imply about the Meaning of Our Existence* <br> by Samuel Wilkinson. 2024
