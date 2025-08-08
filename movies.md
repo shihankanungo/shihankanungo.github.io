@@ -38,9 +38,9 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
   Memoir of a Snail (2024 d. Adam Elliot) <br>
   Flow (2024 d. Gints Zilbalodis) 🎥
 - **Wes Anderson** <br>
-  Rushmore (1998) <br>
-  Fantastic Mr. Fox (2009) <br>
-  The Wonderful Story of Henry Sugar (2023) <br>
+  Rushmore (1998 d. Wes Anderson) <br>
+  Fantastic Mr. Fox (2009 d. Wes Anderson) <br>
+  The Wonderful Story of Henry Sugar (2023 d. Wes Anderson) <br>
 - **Wallace & Gromit** <br>
   A Grand Day Out With Wallace and Gromit (1989 d. Nick Park) <br>
   The Curse of the Were-Rabbit (2005 d. Nick Park, Steve Box) <br>
