@@ -23,7 +23,6 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
 - Alice Doesn't Live Here Anymore (1974 d. Martin Scorsese)
 - Top Gun (1986 d. Tony Scott)
 - Good Will Hunting (1997 d. Gus Van Sant)  👍
-- Rushmore (1998 d. Wes Anderson)
 - A Beautiful Mind (2001 d. Ron Howard)
 - Juno (2007 d. Jason Reitman)
 - Easy A (2010 d. Will Gluck)
@@ -31,7 +30,6 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
 - The Imitation Game (2014 d. Morten Tyldum) 👍
 - Love, Simon (2018 d. Greg Berlanti)
 - Coda (2021 d. Sian Heder) 👍
-- The Wonderful Story of Henry Sugar (2023 d. Wes Anderson)
 - F1 (2025 d. Joseph Kosinski) 🎥 👍
 - **Animation** <br>
   Kung Fu Panda (2008 d. John Stevenson and Mark Osborne) <br>
@@ -39,6 +37,10 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
   Robot Dreams (2024 d. Pablo Berger) 👍 <br>
   Memoir of a Snail (2024 d. Adam Elliot) <br>
   Flow (2024 d. Gints Zilbalodis) 🎥
+- **Wes Anderson** <br>
+  Rushmore (1998) <br>
+  Fantastic Mr. Fox (2009) <br>
+  The Wonderful Story of Henry Sugar (2023) <br>
 - **Wallace & Gromit** <br>
   A Grand Day Out With Wallace and Gromit (1989 d. Nick Park) <br>
   The Curse of the Were-Rabbit (2005 d. Nick Park, Steve Box) <br>
