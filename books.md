@@ -21,6 +21,7 @@ These are the books I have read in 2025 (so far!) <br>
   *The Dragon Reborn*. 1991
 - **Haruki Murakami** <br>
   *Norwegian Wood*. 1987 <br>
+  *The Wind-Up Bird Chronicle*. 1995 <br>
   *Kafka on the Shore*. 2002 <br>
   *What I Talk About When I Talk About Running*. 2007
 - **Kazuo Ishiguro** <br>
