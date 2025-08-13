@@ -130,105 +130,25 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 
 <ul>
 <li><details>
-  <summary style="list-style: none;"><b>FACULTY AREA RESEARCH (FARS) &mdash; Jan Vondrak (Stanford)</b><br>
-    <i>The "core" conjecture for approval-based elections</i></summary>
-  <small><img src="images/05-30.png" alt="May 30"></small>
+  <summary style="list-style: none;"><b>REPRESENTATION THEORY &mdash; Kenta Suzuki (MIT)</b><br>
+    <i>Fargues' categorical conjecture for elliptic parameters for SL(n)</i></summary>
+  <small><img src="images/05-1.png" alt="May 1"></small>
 </details></li>
 </ul>
 
 <ul>
 <li><details>
-  <summary style="list-style: none;"><b>COMBINATORICS &mdash; Richard Stanley (MIT & Miami)</b><br>
-    <i>Some combinatorial applications of cyclotomic polynomials</i> </summary>
-  <small><img src="images/05-29a.png" alt="May 29"></small>
+  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Keerthi Madapusi (Boston College)</b><br>
+    <i>A new approach to p-Hecke correspondences and Rapoport-Zink spaces</i></summary>
+  <small><img src="images/05-05.png" alt="May 5"></small>
 </details></li>
 </ul>
 
 <ul>
 <li><details>
-  <summary style="list-style: none;"><b>DEPARTMENT COLLOQUIUM &mdash; Carlo Pagano (Concordia University)</b><br>
-    <i>Hilbert's 10th problem via additive combinatorics</i></summary>
-  <small><img src="images/05-29b.png" alt="May 29"></small>
-</details></li>
-</ul>
-
-<ul>
-<li><details>
-  <summary style="list-style: none;"><b>ANALYTIC NUMBER THEORY &mdash; Carlo Pagano (Concordia University)</b><br>
-    <i>2-descent in polynomial twist families</i></summary>
-  <small><img src="images/05-28.png" alt="May 28"></small>
-</details></li>
-</ul>
-
-<ul>
-<li><details>
-  <summary style="list-style: none;"><b>TOPOLOGY &mdash; Scotty Tilton (UCSD)</b><br>
-    <i>Exotic Diffeomorphisms: A Conversation Between Equivariant Stable Homotopy and Spin Four-Manifolds</i></summary>
-  <small><img src="images/05-27.png" alt="May 27"></small>
-</details></li>
-</ul>
-
-<ul>
-<li><details>
-  <summary style="list-style: none;"><b>KIDDIE COLLOQUIUM &mdash; Shintaro Fushida-Hardy (Stanford)</b><br>
-    <i>Introduction to Pencil Puzzles</i></summary>
-  <small><img src="images/05-22a.png" alt="May 22"></small>
-</details></li>
-</ul>
-
-<ul>
-<li><details>
-  <summary style="list-style: none;"><b>DEPARTMENT COLLOQUIUM &mdash; Joshua Zahl (UBC)</b><br>
-    <i>The Kakeya set conjecture in three dimensions</i></summary>
-  <small><img src="images/05-22b.png" alt="May 22"></small>
-</details></li>
-</ul>
-
-<ul>
-<li><details>
-  <summary style="list-style: none;"><b>PROBABILITY &mdash; Zhenyuan Zhang (Stanford)</b><br>
-    <i>On the first passage times of spatial branching processes</i></summary>
-  <small><img src="images/05-19b.png" alt="May 19"></small>
-</details></li>
-</ul>
-
-<ul>
-<li><details>
-  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Kiseok Yeon (UC Davis)</b><br>
-    <i>On forms in many variables of different degrees</i></summary>
-  <small><img src="images/05-19a.png" alt="May 19"></small>
-</details></li>
-</ul>
-
-<ul>
-<li><details>
-  <summary style="list-style: none;"><b>KIDDIE COLLOQUIUM &mdash; Stepan Kazanin (Stanford)</b><br>
-    <i>Classification Theorems</i></summary>
-  <small><img src="images/05-15a.png" alt="May 15"></small>
-</details></li>
-</ul>
-
-<ul>
-<li><details>
-  <summary style="list-style: none;"><b>DISTINGUISHED LECTURE &mdash; Martin Bridson (University of Oxford)</b><br>
-    <i>Profinite rigidity: Chasing finite shadows of infinite groups through geometry</i></summary>
-  <small><img src="images/05-15b.png" alt="May 15"></small>
-</details></li>
-</ul>
-
-<ul>
-<li><details>
-  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Tongmu He (Princeton)</b><br>
-    <i>Pointwise perfectoidness of Shimura varieties at infinite level</i></summary>
-  <small><img src="images/05-12a.png" alt="May 12"></small>
-</details></li>
-</ul>
-
-<ul>
-<li><details>
-  <summary style="list-style: none;"><b>PROBABILITY &mdash; Gabor Lugosi (Pompeu Fabra University)</b><br>
-    <i>Paths and cliques in random temporal graphs</i></summary>
-  <small><img src="images/05-12b.png" alt="May 12"></small>
+  <summary style="list-style: none;"><b>ANALYTIC NUMBER THEORY &mdash; Jori Merikoski (Oxford)</b><br>
+    <i>On primes represented by aX<sup>2</sup>+bY<sup>3</sup></i></summary>
+  <small><img src="images/05-07.png" alt="May 7"></small>
 </details></li>
 </ul>
 
@@ -250,30 +170,126 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 
 <ul>
 <li><details>
-  <summary style="list-style: none;"><b>ANALYTIC NUMBER THEORY &mdash; Jori Merikoski (Oxford)</b><br>
-    <i>On primes represented by aX<sup>2</sup>+bY<sup>3</sup></i></summary>
-  <small><img src="images/05-07.png" alt="May 7"></small>
+  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Tongmu He (Princeton)</b><br>
+    <i>Pointwise perfectoidness of Shimura varieties at infinite level</i></summary>
+  <small><img src="images/05-12a.png" alt="May 12"></small>
 </details></li>
 </ul>
 
 <ul>
 <li><details>
-  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Keerthi Madapusi (Boston College)</b><br>
-    <i>A new approach to p-Hecke correspondences and Rapoport-Zink spaces</i></summary>
-  <small><img src="images/05-05.png" alt="May 5"></small>
+  <summary style="list-style: none;"><b>PROBABILITY &mdash; Gabor Lugosi (Pompeu Fabra University)</b><br>
+    <i>Paths and cliques in random temporal graphs</i></summary>
+  <small><img src="images/05-12b.png" alt="May 12"></small>
 </details></li>
 </ul>
 
 <ul>
 <li><details>
-  <summary style="list-style: none;"><b>REPRESENTATION THEORY &mdash; Kenta Suzuki (MIT)</b><br>
-    <i>Fargues' categorical conjecture for elliptic parameters for SL(n)</i></summary>
-  <small><img src="images/05-1.png" alt="May 1"></small>
+  <summary style="list-style: none;"><b>KIDDIE COLLOQUIUM &mdash; Stepan Kazanin (Stanford)</b><br>
+    <i>Classification Theorems</i></summary>
+  <small><img src="images/05-15a.png" alt="May 15"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>DISTINGUISHED LECTURE &mdash; Martin Bridson (University of Oxford)</b><br>
+    <i>Profinite rigidity: Chasing finite shadows of infinite groups through geometry</i></summary>
+  <small><img src="images/05-15b.png" alt="May 15"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>PROBABILITY &mdash; Zhenyuan Zhang (Stanford)</b><br>
+    <i>On the first passage times of spatial branching processes</i></summary>
+  <small><img src="images/05-19b.png" alt="May 19"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Kiseok Yeon (UC Davis)</b><br>
+    <i>On forms in many variables of different degrees</i></summary>
+  <small><img src="images/05-19a.png" alt="May 19"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>KIDDIE COLLOQUIUM &mdash; Shintaro Fushida-Hardy (Stanford)</b><br>
+    <i>Introduction to Pencil Puzzles</i></summary>
+  <small><img src="images/05-22a.png" alt="May 22"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>DEPARTMENT COLLOQUIUM &mdash; Joshua Zahl (UBC)</b><br>
+    <i>The Kakeya set conjecture in three dimensions</i></summary>
+  <small><img src="images/05-22b.png" alt="May 22"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>TOPOLOGY &mdash; Scotty Tilton (UCSD)</b><br>
+    <i>Exotic Diffeomorphisms: A Conversation Between Equivariant Stable Homotopy and Spin Four-Manifolds</i></summary>
+  <small><img src="images/05-27.png" alt="May 27"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>ANALYTIC NUMBER THEORY &mdash; Carlo Pagano (Concordia University)</b><br>
+    <i>2-descent in polynomial twist families</i></summary>
+  <small><img src="images/05-28.png" alt="May 28"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>COMBINATORICS &mdash; Richard Stanley (MIT & Miami)</b><br>
+    <i>Some combinatorial applications of cyclotomic polynomials</i> </summary>
+  <small><img src="images/05-29a.png" alt="May 29"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>DEPARTMENT COLLOQUIUM &mdash; Carlo Pagano (Concordia University)</b><br>
+    <i>Hilbert's 10th problem via additive combinatorics</i></summary>
+  <small><img src="images/05-29b.png" alt="May 29"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>FACULTY AREA RESEARCH (FARS) &mdash; Jan Vondrak (Stanford)</b><br>
+    <i>The "core" conjecture for approval-based elections</i></summary>
+  <small><img src="images/05-30.png" alt="May 30"></small>
 </details></li>
 </ul>
 
 
 ### June
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; David Zywina (Cornell)</b><br>
+    <i>There are infinitely many elliptic curves over the rationals of rank 2</i></summary>
+  <small><img src="images/06-02a.png" alt="June 2"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>PROBABILITY &mdash; Chun Yin Siu (Stanford Psychiatry)</b><br>
+    <i>Random topology: The topology of preferential attachment graphs</i></summary>
+  <small><img src="images/06-02b.png" alt="June 2"></small>
+</details></li>
+</ul>
 
 <ul>
 <li><details>
@@ -296,22 +312,6 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
   <summary style="list-style: none;"><b>DEPARTMENT COLLOQUIUM &mdash; Aravind Asok (USC)</b><br>
     <i>Constructing projective modules</i></summary>
   <small><img src="images/06-05b.png" alt="June 5"></small>
-</details></li>
-</ul>
-
-<ul>
-<li><details>
-  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; David Zywina (Cornell)</b><br>
-    <i>There are infinitely many elliptic curves over the rationals of rank 2</i></summary>
-  <small><img src="images/06-02a.png" alt="June 2"></small>
-</details></li>
-</ul>
-
-<ul>
-<li><details>
-  <summary style="list-style: none;"><b>PROBABILITY &mdash; Chun Yin Siu (Stanford Psychiatry)</b><br>
-    <i>Random topology: The topology of preferential attachment graphs</i></summary>
-  <small><img src="images/06-02b.png" alt="June 2"></small>
 </details></li>
 </ul>
 
