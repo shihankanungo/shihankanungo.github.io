@@ -86,17 +86,9 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 
 <ul>
 <li><details>
-  <summary style="list-style: none;"><b>BERGMAN LECTURE &mdash; Allan Sly (Princeton)</b><br>
-    <i>Stochastic Blocks Models: Detection and Recovery</i></summary>
-  <small><img src="images/03-17.png" alt="Mar 17"></small>
-</details></li>
-</ul>
-
-<ul>
-<li><details>
-  <summary style="list-style: none;"><b>PROBABILITY &mdash; Youngtak Sohn (Brown)</b><br>
-    <i>Stochastic block model with many communities</i></summary>
-  <small><img src="images/03-31.png" alt="Mar 31"></small>
+  <summary style="list-style: none;"><b>LECTURES &mdash; David Jerison (MIT)</b><br>
+    <i>How Curved are Level Sets of Eigenfunctions?</i></summary>
+  <small><img src="images/03-04.png" alt="Mar 4"></small>
 </details></li>
 </ul>
 
@@ -110,9 +102,17 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 
 <ul>
 <li><details>
-  <summary style="list-style: none;"><b>LECTURES &mdash; David Jerison (MIT)</b><br>
-    <i>How Curved are Level Sets of Eigenfunctions?</i></summary>
-  <small><img src="images/03-04.png" alt="Mar 4"></small>
+  <summary style="list-style: none;"><b>BERGMAN LECTURE &mdash; Allan Sly (Princeton)</b><br>
+    <i>Stochastic Blocks Models: Detection and Recovery</i></summary>
+  <small><img src="images/03-17.png" alt="Mar 17"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>PROBABILITY &mdash; Youngtak Sohn (Brown)</b><br>
+    <i>Stochastic block model with many communities</i></summary>
+  <small><img src="images/03-31.png" alt="Mar 31"></small>
 </details></li>
 </ul>
 
