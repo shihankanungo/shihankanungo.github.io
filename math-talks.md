@@ -72,45 +72,57 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 
 ![stanford-math](images/smdt.png)
 
-### June
+### February
 
 <ul>
 <li><details>
-  <summary style="list-style: none;"><b>KIDDIE COLLOQUIUM &mdash; Milo Marsden (Stanford University)</b><br>
-    <i>Eigenvalues of Wigner Matrices: A dip into Random Matrix Theory</i></summary>
-  <small><img src="images/06-05a.png" alt="June 5"></small>
+  <summary style="list-style: none;"><b>DEPARTMENT COLLOQUIUM &mdash; Mehtaab Sawhney (Columbia)</b><br>
+    <i>Improved Bounds for Szemerédi's Theorem</i></summary>
+  <small><img src="images/02-27.png" alt="Feb 27"></small>
+</details></li>
+ </ul>
+
+### March
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>BERGMAN LECTURE &mdash; Allan Sly (Princeton)</b><br>
+    <i>Stochastic Blocks Models: Detection and Recovery</i></summary>
+  <small><img src="images/03-17.png" alt="Mar 17"></small>
 </details></li>
 </ul>
 
 <ul>
 <li><details>
-  <summary style="list-style: none;"><b>REPRESENTATION THEORY &mdash; Jeremy Taylor (UC Berkeley)</b><br>
-    <i>The universal monodromic Bezrukavnikov equivalence</i></summary>
-  <small><img src="images/06-05c.png" alt="June 5"></small>
+  <summary style="list-style: none;"><b>PROBABILITY &mdash; Youngtak Sohn (Brown)</b><br>
+    <i>Stochastic block model with many communities</i></summary>
+  <small><img src="images/03-31.png" alt="Mar 31"></small>
 </details></li>
 </ul>
 
 <ul>
 <li><details>
-  <summary style="list-style: none;"><b>DEPARTMENT COLLOQUIUM &mdash; Aravind Asok (USC)</b><br>
-    <i>Constructing projective modules</i></summary>
-  <small><img src="images/06-05b.png" alt="June 5"></small>
+  <summary style="list-style: none;"><b>BERGMAN LECTURE &mdash; Allan Sly (Princeton)</b><br>
+    <i>Spatial shuffling: Large Cycles in the Interchange ​Process in dimension 5</i></summary>
+  <small><img src="images/03-13.png" alt="Mar 13"></small>
 </details></li>
 </ul>
 
 <ul>
 <li><details>
-  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; David Zywina (Cornell)</b><br>
-    <i>There are infinitely many elliptic curves over the rationals of rank 2</i></summary>
-  <small><img src="images/06-02a.png" alt="June 2"></small>
+  <summary style="list-style: none;"><b>LECTURES &mdash; David Jerison (MIT)</b><br>
+    <i>How Curved are Level Sets of Eigenfunctions?</i></summary>
+  <small><img src="images/03-04.png" alt="Mar 4"></small>
 </details></li>
 </ul>
 
+### April
+
 <ul>
 <li><details>
-  <summary style="list-style: none;"><b>PROBABILITY &mdash; Chun Yin Siu (Stanford Psychiatry)</b><br>
-    <i>Random topology: The topology of preferential attachment graphs</i></summary>
-  <small><img src="images/06-02b.png" alt="June 2"></small>
+  <summary style="list-style: none;"><b>ANALYSIS &mdash; Yuefong Song (Stanford)</b><br>
+    <i>Fluids I</i></summary>
+  <small><img src="images/04-04.png" alt="Apr 4"></small>
 </details></li>
 </ul>
 
@@ -260,58 +272,48 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 </details></li>
 </ul>
 
-### April
+
+### June
 
 <ul>
 <li><details>
-  <summary style="list-style: none;"><b>ANALYSIS &mdash; Yuefong Song (Stanford)</b><br>
-    <i>Fluids I</i></summary>
-  <small><img src="images/04-04.png" alt="Apr 4"></small>
-</details></li>
-</ul>
-
-### March
-
-<ul>
-<li><details>
-  <summary style="list-style: none;"><b>BERGMAN LECTURE &mdash; Allan Sly (Princeton)</b><br>
-    <i>Stochastic Blocks Models: Detection and Recovery</i></summary>
-  <small><img src="images/03-17.png" alt="Mar 17"></small>
+  <summary style="list-style: none;"><b>KIDDIE COLLOQUIUM &mdash; Milo Marsden (Stanford University)</b><br>
+    <i>Eigenvalues of Wigner Matrices: A dip into Random Matrix Theory</i></summary>
+  <small><img src="images/06-05a.png" alt="June 5"></small>
 </details></li>
 </ul>
 
 <ul>
 <li><details>
-  <summary style="list-style: none;"><b>PROBABILITY &mdash; Youngtak Sohn (Brown)</b><br>
-    <i>Stochastic block model with many communities</i></summary>
-  <small><img src="images/03-31.png" alt="Mar 31"></small>
+  <summary style="list-style: none;"><b>REPRESENTATION THEORY &mdash; Jeremy Taylor (UC Berkeley)</b><br>
+    <i>The universal monodromic Bezrukavnikov equivalence</i></summary>
+  <small><img src="images/06-05c.png" alt="June 5"></small>
 </details></li>
 </ul>
 
 <ul>
 <li><details>
-  <summary style="list-style: none;"><b>BERGMAN LECTURE &mdash; Allan Sly (Princeton)</b><br>
-    <i>Spatial shuffling: Large Cycles in the Interchange ​Process in dimension 5</i></summary>
-  <small><img src="images/03-13.png" alt="Mar 13"></small>
+  <summary style="list-style: none;"><b>DEPARTMENT COLLOQUIUM &mdash; Aravind Asok (USC)</b><br>
+    <i>Constructing projective modules</i></summary>
+  <small><img src="images/06-05b.png" alt="June 5"></small>
 </details></li>
 </ul>
 
 <ul>
 <li><details>
-  <summary style="list-style: none;"><b>LECTURES &mdash; David Jerison (MIT)</b><br>
-    <i>How Curved are Level Sets of Eigenfunctions?</i></summary>
-  <small><img src="images/03-04.png" alt="Mar 4"></small>
+  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; David Zywina (Cornell)</b><br>
+    <i>There are infinitely many elliptic curves over the rationals of rank 2</i></summary>
+  <small><img src="images/06-02a.png" alt="June 2"></small>
 </details></li>
 </ul>
 
-### February
-
 <ul>
 <li><details>
-  <summary style="list-style: none;"><b>DEPARTMENT COLLOQUIUM &mdash; Mehtaab Sawhney (Columbia)</b><br>
-    <i>Improved Bounds for Szemerédi's Theorem</i></summary>
-  <small><img src="images/02-27.png" alt="Feb 27"></small>
+  <summary style="list-style: none;"><b>PROBABILITY &mdash; Chun Yin Siu (Stanford Psychiatry)</b><br>
+    <i>Random topology: The topology of preferential attachment graphs</i></summary>
+  <small><img src="images/06-02b.png" alt="June 2"></small>
 </details></li>
- </ul>
+</ul>
+
 
 
