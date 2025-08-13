@@ -4,6 +4,21 @@ title: Mathematics &mdash; talks (attended)
 ---
 <br>
 
+## MAA MathFest 2025. Sacramento, CA Aug 6--9.
+
+![maa-2025](images/maa25.png)
+
+- **Martin Gardner Lecture - Persi Diaconis, Stanford University** <br>
+*The Magic of Charles Sanders Peirce*
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>Martin Gardner Lecture &mdash; Persi Diaconis, Stanford University</b><br>
+    <i>The Magic of Charles Sanders Peirce</i></summary>
+  <small><img src="images/persi.png" alt="Persi Diaconis"></small>
+</details></li>
+ </ul>
+
 ## Joint Mathematics Meeting '25. Seattle, WA Jan 7--11.
 
 ![jmm-2025](images/jmm25.png)
