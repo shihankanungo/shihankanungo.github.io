@@ -16,21 +16,21 @@ These are the books I have read in 2025 (so far!) <br>
 - *A Clockwork Orange* by Anthony Burgess. 1962
 - *Love Story* by Erich Segal. 1970
 - *Jonathan Livingston Seagull* by Richard Bach. 1970
-- **Robert Jordan** &mdash; ***The Wheel of Time*** **trilogy**  <br>
-  *The Eye of the World*. 1990 <br>
-  *The Great Hunt*. 1990 <br>
-  *The Dragon Reborn*. 1991
-- **Haruki Murakami** <br>
-  *Norwegian Wood*. 1987 <br>
-  *The Wind-Up Bird Chronicle*. 1995 <br>
-  *Kafka on the Shore*. 2002 <br>
-  *What I Talk About When I Talk About Running*. 2007
 - **Kazuo Ishiguro** <br>
   *A Pale View of Hills*. 1982 <br>
   *An Artist of the Floating World*. 1986 <br>
   *Remains of the Day*. 1989 <br>
   *Never Let Me Go*. 2005 <br>
   *Klara and the Sun*. 2021
+- **Haruki Murakami** <br>
+  *Norwegian Wood*. 1987 <br>
+  *The Wind-Up Bird Chronicle*. 1995 <br>
+  *Kafka on the Shore*. 2002 <br>
+  *What I Talk About When I Talk About Running*. 2007
+- **Robert Jordan** &mdash; ***The Wheel of Time*** **trilogy**  <br>
+  *The Eye of the World*. 1990 <br>
+  *The Great Hunt*. 1990 <br>
+  *The Dragon Reborn*. 1991
 - *American Gods* by Neil Gaiman. 2001
 
 ### Non-fiction
