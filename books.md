@@ -12,6 +12,7 @@ These are the books I have read in 2025 (so far!) <br>
 
 ### Fiction
 - *Siddhartha* by Herman Hesse. 1922
+- *Mrs Dalloway* by Virginia Woolf. 1925
 - *A Clockwork Orange* by Anthony Burgess. 1962
 - *Love Story* by Erich Segal. 1970
 - *Jonathan Livingston Seagull* by Richard Bach. 1970
