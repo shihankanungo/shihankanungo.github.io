@@ -46,6 +46,10 @@ Here are the courses grouped by subject area, along with a short description of 
   <small>Continuous and discrete systems; stability of equilibria and closed orbits, structural stability.</small> <br>
   <small><small>Textbook: Hirsch, Smale, and Devaney. <i>Differential Equations, Dynamical Systems, and an Introduction to Chaos.</i></small></small>
 
+- **MATH 275A** *Topology*. Fall 2025. SJSU (in progress)<br>
+  <small>Topological spaces and associated concepts (e.g., subspaces, product spaces, quotient spaces); continuous functions; compactness, connectedness (including path connectedness) and their local versions; countability and separation axioms; compactifications and Tychonoff’s Theorem; paracompactness and metrization theorems.</small> <br>
+  <small><small>Textbook: James Munkres. <i>Topology.</i></small></small>
+  
 - **MATH 285A** *Stochastic Methods*. Spring 2025. SJSU (A)<br>
   <small>Monte Carlo methods, Metropolis-Hastings algorithm, random-number generation.</small> <br>
   <small><small>Textbook: Kalos and Whitlock. <i>Monte Carlo Methods.</i></small></small>
@@ -88,10 +92,18 @@ Here are the courses grouped by subject area, along with a short description of 
   <small>Building groups from other groups, symmetries of geometric objects, constructing fields.</small> <br>
   <small><small>Textbook: Jeremy Copeland. <i>Groups and Fields.</i></small></small>
 
+- **MATH 221A** *Higher Algebra I*. Fall 2025. SJSU (in progress)<br>
+  <small>Topics from groups, rings, integral domains, modules, fields, vector spaces.</small> <br>
+  <small><small>Textbook: Paulo Aluffi. <i>Algebra: Chapter 0.</i></small></small>
+  
 - **MATH 226** *Theory of Numbers*. Spring 2024. SJSU (A+)<br>
   <small>Primes in arithmetic progressions, partitions, modular group, and the Dedekind eta function.</small> <br>
   <small><small>Textbook: Tom Apostol. <i>Introduction to Analytic Number Theory.</i></small></small>
 
+- **MATH 285M** *Elliptic Curves and Modular Forms*. Fall 2025. SJSU (in progress)<br>
+  <small>Elliptic curves, modular curves, modular forms, L-functions.</small> <br>
+  <small><small>Textbook: Álvaro Lozano-Robledo. <i>Elliptic Curves, Modular Forms, and Their L-functions.</i></small></small>
+  
 - **(Advanced) Number Theory**. Fall 2023. Euler Circle <br>
   <small>Reciprocity theorems, quadratic forms, elliptic curves, modular curves.</small> <br>
   <small><small>Textbook: David Cox. <i>Primes of the form x<sup>2</sup>+ny<sup>2</sup></i>, and <br>
