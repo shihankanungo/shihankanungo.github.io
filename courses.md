@@ -168,43 +168,6 @@ Here are the courses grouped by subject area, along with a short description of 
 </details></li>
 </ul>
 
-
-- **Abstract Algebra**. Spring 2020. Euler Circle <br>
-  <small>Group theory, Sylow theorems, fields and extensions, number fields, Galois correspondence.</small> <br>
-  <small><small>Textbook: Dummit and Foote. <i>Abstract Algebra.</i></small></small>
-
-- **Group Theory**. Summer 2023. Art of Problem Solving (AoPS) (A+)<br>
-  <small>Building groups from other groups, symmetries of geometric objects, constructing fields.</small> <br>
-  <small><small>Textbook: Jeremy Copeland. <i>Groups and Fields.</i></small></small>
-
-- **MATH 221A** *Higher Algebra I*. Fall 2025. SJSU (in progress)<br>
-  <small>Topics from groups, rings, integral domains, modules, fields, vector spaces.</small> <br>
-  <small><small>Textbook: Paulo Aluffi. <i>Algebra: Chapter 0.</i></small></small>
-  
-- **MATH 226** *Theory of Numbers*. Spring 2024. SJSU (A+)<br>
-  <small>Primes in arithmetic progressions, partitions, modular group, and the Dedekind eta function.</small> <br>
-  <small><small>Textbook: Tom Apostol. <i>Introduction to Analytic Number Theory.</i></small></small>
-
-- **MATH 285M** *Elliptic Curves and Modular Forms*. Fall 2025. SJSU (in progress)<br>
-  <small>Elliptic curves, modular curves, modular forms, L-functions.</small> <br>
-  <small><small>Textbook: Álvaro Lozano-Robledo. <i>Elliptic Curves, Modular Forms, and Their L-functions.</i></small></small>
-  
-- **(Advanced) Number Theory**. Fall 2023. Euler Circle <br>
-  <small>Reciprocity theorems, quadratic forms, elliptic curves, modular curves.</small> <br>
-  <small><small>Textbook: David Cox. <i>Primes of the form x<sup>2</sup>+ny<sup>2</sup></i>, and <br>
-  Ireland and Rosen. <i>A Classical Introduction to Modern Number Theory;</i> </small></small>
-  
-- **Analytic Number Theory**. Spring 2024. Euler Circle <br>
-  <small>Dirichlet’s Theorem, The Prime Number Theorem, Brun's theorem, smooth numbers.</small> <br>
-  <small><small>Textbook: Simon Rubinstein-Salzedo. <i>Analytic Number Theory.</i></small></small>
-
-- **Number Theory**. Fall 2019. Euler Circle <br>
-  <small>Modular arithmetic, Fermat's little theorem, sums of two squares, *p*-adic numbers.</small>
-
-- **Abstract Algebra**. Spring 2020. Euler Circle <br>
-  <small>Group theory, Sylow theorems, fields and extensions, number fields, Galois correspondence.</small> <br>
-  <small><small>Textbook: Dummit and Foote. <i>Abstract Algebra.</i></small></small>
-
 <a href="https://shihankanungo.github.io/courses">↪️ Back to top</a>
 
 [//]: # (- **MATH 128B** *Abstract Algebra II*. Spring 2025. SJSU <br>)
