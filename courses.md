@@ -118,6 +118,8 @@ Here are the courses grouped by subject area, along with a short description of 
 > "Structures are the essence of mathematics, and algebra provides the language to describe them." --- Nicolas Bourbaki <br>
 > "Number theorists are like lotus-eaters -- having tasted this food they can never give it up." --- Leopold Kronecker (1823-1891)
 
+<small><i>click on the title to see a short description</i></small>
+
 <ul> 
 <li><details>
   <summary style="list-style-type: none;"><b>Group Theory</b> Summer 2023. Art of Problem Solving (AoPS) (A+) </summary>
