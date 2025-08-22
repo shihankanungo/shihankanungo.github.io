@@ -89,7 +89,7 @@ Here are the courses grouped by subject area, along with a short description of 
 
 <li><details>
   <summary style="list-style-type: none;"><b>MATH 131A</b> <i>Introduction to Analysis</i>. Spring 2024. SJSU (A+) </summary>
-  <small>Completeness and compactness of **R**. Continuity, uniform continuity, the derivative.</small><br>
+  <small>Completeness and compactness of <b>R</b>. Continuity, uniform continuity, the derivative.</small><br>
   <small>Textbook: Kenneth Ross. <i>Elementary Analysis: The Theory of Calculus.</i></small>
 </details></li>
 
