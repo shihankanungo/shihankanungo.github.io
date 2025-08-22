@@ -54,7 +54,7 @@ Here are the courses grouped by subject area, along with a short description of 
 <li><details>
   <summary style="list-style-type: none;"><b>MATH 234</b> <i>Advanced Dynamical Systems</i>. Spring 2024. SJSU (A+) </summary>
   <small>Continuous and discrete systems; stability of equilibria and closed orbits, structural stability.</small><br>
-  <small>Textbook: Hirsch, Smale, and Devaney. <i>Differential Equations, Dynamical Systems, and an Introduction to Chaos</i>.</small>
+  <small>Textbook: Hirsch, Smale, Devaney. <i>Differential Equations, Dynamical Systems, & an Introduction to Chaos</i>.</small>
 </details></li>
 
 <li><details>
