@@ -158,7 +158,7 @@ Here are the courses grouped by subject area, along with a short description of 
 
 <li><details>
   <summary style="list-style-type: none;"><b>Number Theory</b> Fall 2019. Euler Circle</summary>
-  <small>Modular arithmetic, Fermat's little theorem, sums of two squares, *p*-adic numbers.</small>
+  <small>Modular arithmetic, Fermat's little theorem, sums of two squares, <i>p</i>-adic numbers.</small>
 </details></li>
 
 <li><details>
