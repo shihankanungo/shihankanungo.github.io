@@ -111,57 +111,6 @@ Here are the courses grouped by subject area, along with a short description of 
 </details></li>
 </ul>
 
-- **MATH 231A** *Real Analysis*. Fall 2024. SJSU (A+) <br>
-  <small>Sigma algebras, differentiation, product measures, integration, the spaces  *L*<sup>1</sup> and **C**.</small> <br>
-  <small><small>Textbook: Stein and Shakarchi. <i>Real Analysis: Measure Theory, Integration, and Hilbert Spaces</i>.</small></small>
-
-- **MATH 231B** *Functional Analysis*. Spring 2025. SJSU (A+)<br>
-  <small>Function spaces and their duals, operators on function spaces, applications to analysis.</small> <br>
-  <small><small>Textbook: Debnath and Mikusiński. <i>Introduction to Hilbert Spaces with Applications</i>.</small></small>
-
-- **MATH 233A** *Applied Mathematics I*. Spring 2025. SJSU (A+)<br>
-  <small>Initial and boundary value problems for hyperbolic, parabolic and elliptic equations. Fourier series and transforms. Nonlinear partial differential equations.</small> <br>
-  <small><small>Textbook: Peter John Olver. <i>Introduction to Partial Differential Equations.</i></small></small>
-
-- **MATH 234** *Advanced Dynamical Systems*. Spring 2024. SJSU (A+)<br>
-  <small>Continuous and discrete systems; stability of equilibria and closed orbits, structural stability.</small> <br>
-  <small><small>Textbook: Hirsch, Smale, and Devaney. <i>Differential Equations, Dynamical Systems, and an Introduction to Chaos.</i></small></small>
-
-- **MATH 275A** *Topology*. Fall 2025. SJSU (in progress)<br>
-  <small>Topological spaces and associated concepts (e.g., subspaces, product spaces, quotient spaces); continuous functions; compactness, connectedness (including path connectedness) and their local versions; countability and separation axioms; compactifications and Tychonoff’s Theorem; paracompactness and metrization theorems.</small> <br>
-  <small><small>Textbook: James Munkres. <i>Topology.</i></small></small>
-  
-- **MATH 285A** *Stochastic Methods*. Spring 2025. SJSU (A)<br>
-  <small>Monte Carlo methods, Metropolis-Hastings algorithm, random-number generation.</small> <br>
-  <small><small>Textbook: Kalos and Whitlock. <i>Monte Carlo Methods.</i></small></small>
-
-- **Ergodic Theory**. Winter 2024. Euler Circle <br>
-  <small>Poincare recurrence theorem, invariant measures, multiple recurrence, Szemeredi's theorem.</small> <br>
-  <small><small>Textbook: Simon Rubinstein-Salzedo. <i>Ergodic Theory.</i></small></small>
-
-- **Differential Geometry**. Spring 2022. Euler Circle <br>
-  <small>Curves, surfaces, curvature, Gauss' Theorema Egregium, Gauss-Bonnet Theorem.</small> <br>
-  <small><small>Textbook: Andrew Pressley. <i>Elementary Differential Geometry.</i></small></small>
-
-- **Markov Chains**. Fall 2020. Euler Circle <br>
-  <small>Absorbing and ergodic Markov chains, mixing and stopping times, spectral analysis.</small> <br>
-  <small><small>Textbook: Levin and Peres. <i>Markov Chains and Mixing Times.</i></small></small>
-
-- **MATH 131A** *Introduction to Analysis*. Spring 2024. SJSU (A+)<br>
-  <small>Completeness and compactness of **R**. Continuity, uniform continuity, the derivative.</small> <br>
-  <small><small>Textbook: Kenneth Ross. <i>Elementary Analysis: The Theory of Calculus</i>.</small></small>
-
-- **MATH 131B** *Introduction to Real Variables*. Fall 2024. SJSU (A+)<br>
-  <small>The theory of the Riemann integral, sequences and series of functions, spaces of functions.</small> <br>
-  <small><small>Textbook: Tim Hsu. <i>Fourier Series, Fourier Transforms, and Function Spaces: A Second Course in Analysis</i>.</small></small>
-
-- **MATH 138** *Complex Variables*. Fall 2023. SJSU (A+)<br>
-  <small>Analytic functions, complex integration, residues and power series, conformal mapping.</small> <br>
-  <small><small>Textbook: Zill and Shanahan. <i>Complex Analysis</i>.</small></small>
-
-- **Analysis**. Spring 2021. Euler Circle  <br>
-  <small>Set theory, formal constructions of the real numbers, limits, continuity, and infinite series.</small> <br>
-
 <a href="https://shihankanungo.github.io/courses">↪️ Back to top</a>
 
 ## Algebra and Number Theory
