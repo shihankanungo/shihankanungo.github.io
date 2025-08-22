@@ -118,6 +118,61 @@ Here are the courses grouped by subject area, along with a short description of 
 > "Structures are the essence of mathematics, and algebra provides the language to describe them." --- Nicolas Bourbaki <br>
 > "Number theorists are like lotus-eaters -- having tasted this food they can never give it up." --- Leopold Kronecker (1823-1891)
 
+<ul> 
+<li><details>
+  <summary style="list-style-type: none;"><b>Group Theory</b> Summer 2023. Art of Problem Solving (AoPS) (A+) </summary>
+  <small>Building groups from other groups, symmetries of geometric objects, constructing fields.</small> <br>
+  <small>Textbook: Jeremy Copeland. <i>Groups and Fields.</i></small>
+</details></li>
+
+<li><details>
+  <summary style="list-style-type: none;"><b>MATH 221A</b> <i>Higher Algebra I</i> Fall 2025. SJSU (in progress) </summary>
+  <small>Topics from groups, rings, integral domains, modules, fields, vector spaces.</small> <br>
+  <small>Textbook: Paulo Aluffi. <i>Algebra: Chapter 0.</i></small>
+</details></li>
+
+<li><details>
+  <summary style="list-style-type: none;"><b>MATH 226</b> <i>Theory of Numbers</i> Spring 2024. SJSU (A+)</summary>
+  <small>Primes in arithmetic progressions, partitions, modular group, and the Dedekind eta function.</small> <br>
+  <small>Textbook: Tom Apostol. <i>Introduction to Analytic Number Theory.</i></small>
+</details></li>
+
+<li><details>
+  <summary style="list-style-type: none;"><b>MATH 285M</b> <i>Elliptic Curves and Modular Forms</i> Fall 2025. SJSU (in progress)</summary>
+  <small>Elliptic curves, modular curves, modular forms, L-functions.</small> <br>
+  <small>Textbook: Álvaro Lozano-Robledo. <i>Elliptic Curves, Modular Forms, and Their L-functions.</i></small>
+</details></li>
+
+<li><details>
+  <summary style="list-style-type: none;"><b>(Advanced) Number Theory</b> Fall 2023. Euler Circle</summary>
+  <small>Reciprocity theorems, quadratic forms, elliptic curves, modular curves.</small> <br>
+  <small>Textbook: David Cox. <i>Primes of the form x<sup>2</sup>+ny<sup>2</sup></i>, and <br>
+  Ireland and Rosen. <i>A Classical Introduction to Modern Number Theory;</i> </small>
+</details></li>
+
+<li><details>
+  <summary style="list-style-type: none;"><b>Analytic Number Theory</b> Spring 2024. Euler Circle</summary>
+  <small>Dirichlet’s Theorem, The Prime Number Theorem, Brun's theorem, smooth numbers.</small> <br>
+  <small>Textbook: Simon Rubinstein-Salzedo. <i>Analytic Number Theory.</i></small>
+</details></li>
+
+<li><details>
+  <summary style="list-style-type: none;"><b>Number Theory</b> Fall 2019. Euler Circle</summary>
+  <small>Modular arithmetic, Fermat's little theorem, sums of two squares, *p*-adic numbers.</small>
+</details></li>
+
+<li><details>
+  <summary style="list-style-type: none;"><b>Abstract Algebra</b> Spring 2020. Euler Circle</summary>
+  <small>Group theory, Sylow theorems, fields and extensions, number fields, Galois correspondence.</small> <br>
+  <small>Textbook: Dummit and Foote. <i>Abstract Algebra.</i></small>
+</details></li>
+</ul>
+
+
+- **Abstract Algebra**. Spring 2020. Euler Circle <br>
+  <small>Group theory, Sylow theorems, fields and extensions, number fields, Galois correspondence.</small> <br>
+  <small><small>Textbook: Dummit and Foote. <i>Abstract Algebra.</i></small></small>
+
 - **Group Theory**. Summer 2023. Art of Problem Solving (AoPS) (A+)<br>
   <small>Building groups from other groups, symmetries of geometric objects, constructing fields.</small> <br>
   <small><small>Textbook: Jeremy Copeland. <i>Groups and Fields.</i></small></small>
