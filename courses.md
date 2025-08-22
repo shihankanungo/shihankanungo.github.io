@@ -223,21 +223,6 @@ I haven't taken a formal course in representation theory, but I gained substanti
 </details></li>
 </ul>
 
-- **MATH 229** *Advanced Matrix Theory*. Fall 2024. SJSU (A+)<br>
-  <small>Eigenvalues, unitary equivalence and Schur’s theorem. Normal, Hermitian and symmetric real matrices. Positive definite matrices, polar and singular value factorizations</small> <br>
-  <small><small>Textbook: Horn and Johnson. <i>Matrix Analysis</i></small></small>
-
-- **MATH 285M** *Nonnegative matrices & Perron-Frobenius Theory*. Spring 2025. SJSU (A+)<br>
-  <small>Perron Theory for positive matrices, Frobenius Theory for irreducible matrices, spectral graph theory, spectral digraph theory.</small> <br>
-  <small><small>Textbook: Horn and Johnson. <i>Matrix Analysis</i>; C. Godsil and G. Royle. <i>Algebraic Graph Theory</i>, GTM 207.</small></small>
-
-- **MATH 129A** *Linear Algebra I*. Fall 2023. SJSU (A)<br>
-  <small>Matrices, systems of linear equations, eigenvectors and eigenvalues, inner product spaces.</small> <br>
-  
-- **MATH 129B** *Linear Algebra II*. Spring 2024. SJSU (A+)<br>
-  <small>Cayley-Hamilton theorem, minimal polynomials, Jordan canonical form, inner products.</small> <br>
-  <small><small>Textbook: Friedberg, Insel, and Spence. <i>Linear Algebra.</i></small></small>
-
 <a href="https://shihankanungo.github.io/courses">↪️ Back to top</a>
 
 ## Combinatorics and Graph Theory
