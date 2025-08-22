@@ -38,8 +38,79 @@ Here are the courses grouped by subject area, along with a short description of 
   <small>Sigma algebras, differentiation, product measures, integration, the spaces <i>L</i><sup>1</sup> and <b>C</b>.</small><br>
   <small>Textbook: Stein and Shakarchi. <i>Real Analysis: Measure Theory, Integration, and Hilbert Spaces</i>.</small>
 </details></li>
+
+<li><details>
+  <summary style="list-style-type: none;"><b>MATH 231B</b> <i>Functional Analysis</i>. Spring 2025. SJSU (A+) </summary>
+  <small>Function spaces and their duals, operators on function spaces, applications to analysis.</small><br>
+  <small>Textbook: Debnath and Mikusiński. <i>Introduction to Hilbert Spaces with Applications</i>.</small>
+</details></li>
+
+<li><details>
+  <summary style="list-style-type: none;"><b>MATH 233A</b> <i>Applied Mathematics I</i>. Spring 2025. SJSU (A+) </summary>
+  <small>Initial and boundary value problems for hyperbolic, parabolic and elliptic equations. Fourier series and transforms. Nonlinear partial differential equations.</small><br>
+  <small>Textbook: Peter John Olver. <i>Introduction to Partial Differential Equations.</i></small>
+</details></li>
+
+<li><details>
+  <summary style="list-style-type: none;"><b>MATH 234</b> <i>Advanced Dynamical Systems</i>. Spring 2024. SJSU (A+) </summary>
+  <small>Continuous and discrete systems; stability of equilibria and closed orbits, structural stability.</small><br>
+  <small>Textbook: Hirsch, Smale, and Devaney. <i>Differential Equations, Dynamical Systems, and an Introduction to Chaos</i>.</small>
+</details></li>
+
+<li><details>
+  <summary style="list-style-type: none;"><b>MATH 275A</b> <i>Topology</i>. Fall 2025. SJSU (in progress)</summary>
+  <small>Topological spaces and associated concepts (e.g., subspaces, product spaces, quotient spaces); continuous functions; compactness, connectedness (including path connectedness) and their local versions; countability and separation axioms; compactifications and Tychonoff’s Theorem; paracompactness and metrization theorems.</small><br>
+  <small>Textbook: James Munkres. <i>Topology.</i></small>
+</details></li>
+
+<li><details>
+  <summary style="list-style-type: none;"><b>MATH 285A</b> <i>Stochastic Methods</i>. Spring 2025. SJSU (A) </summary>
+  <small>Monte Carlo methods, Metropolis-Hastings algorithm, random-number generation.</small><br>
+  <small>Textbook: Kalos and Whitlock. <i>Monte Carlo Methods.</i></small>
+</details></li>
+
+<li><details>
+  <summary style="list-style-type: none;"><b>Ergodic Theory</b> Winter 2024. Euler Circle </summary>
+  <small>Poincare recurrence theorem, invariant measures, multiple recurrence, Szemeredi's theorem.</small><br>
+  <small>Textbook: Simon Rubinstein-Salzedo. <i>Ergodic Theory.</i></small>
+</details></li>
+
+<li><details>
+  <summary style="list-style-type: none;"><b>Differential Geometry</b> Spring 2022. Euler Circle </summary>
+  <small>Curves, surfaces, curvature, Gauss' Theorema Egregium, Gauss-Bonnet Theorem.</small><br>
+  <small>Textbook: Andrew Pressley. <i>Elementary Differential Geometry.</i></small>
+</details></li>
+
+<li><details>
+  <summary style="list-style-type: none;"><b>Markov Chains</b> Fall 2020. Euler Circle  </summary>
+  <small>Absorbing and ergodic Markov chains, mixing and stopping times, spectral analysis.</small><br>
+  <small>Textbook: Levin and Peres. <i>Markov Chains and Mixing Times.</i></small>
+</details></li>
+
+<li><details>
+  <summary style="list-style-type: none;"><b>MATH 131A</b> <i>Introduction to Analysis</i>. Spring 2024. SJSU (A+) </summary>
+  <small>Completeness and compactness of **R**. Continuity, uniform continuity, the derivative.</small><br>
+  <small>Textbook: Kenneth Ross. <i>Elementary Analysis: The Theory of Calculus.</i></small>
+</details></li>
+
+<li><details>
+  <summary style="list-style-type: none;"><b>MATH 131B</b> <i>Introduction to Real Variables</i>. Fall 2024. SJSU (A+)</summary>
+  <small>The theory of the Riemann integral, sequences and series of functions, spaces of functions.</small><br>
+  <small>Textbook: Tim Hsu. <i>Fourier Series, Fourier Transforms, and Function Spaces: A Second Course in Analysis.</i></small>
+</details></li>
+
+<li><details>
+  <summary style="list-style-type: none;"><b>MATH 138</b> <i>Complex Variables</i>. Fall 2023. SJSU (A+)</summary>
+  <small>Analytic functions, complex integration, residues and power series, conformal mapping.</small><br>
+  <small>Textbook: Zill and Shanahan. <i>Complex Analysis.</i></small>
+</details></li>
+
+<li><details>
+  <summary style="list-style-type: none;"><b>Analysis</b> Spring 2021. Euler Circle  </summary>
+  <small>Set theory, formal constructions of the real numbers, limits, continuity, and infinite series.</small>
+</details></li>
 </ul>
-    
+
 - **MATH 231A** *Real Analysis*. Fall 2024. SJSU (A+) <br>
   <small>Sigma algebras, differentiation, product measures, integration, the spaces  *L*<sup>1</sup> and **C**.</small> <br>
   <small><small>Textbook: Stein and Shakarchi. <i>Real Analysis: Measure Theory, Integration, and Hilbert Spaces</i>.</small></small>
