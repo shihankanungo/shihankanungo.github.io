@@ -196,6 +196,33 @@ I haven't taken a formal course in representation theory, but I gained substanti
 
 > "It is my experience that proofs involving matrices can be shortened by 50% if one throws the matrices out." --- Emil Artin (Geometric Algebra, p. 14)
 
+<small><i>click on the title to see a short description</i></small>
+
+<ul> 
+<li><details>
+  <summary style="list-style-type: none;"><b>MATH 229</b> <i>Advanced Matrix Theory</i> Fall 2024. SJSU (A+)</summary>
+  <small>Eigenvalues, unitary equivalence and Schur’s theorem. Normal, Hermitian and symmetric real matrices. Positive definite matrices, polar and singular value factorizations</small> <br>
+  <small>Textbook: Horn and Johnson. <i>Matrix Analysis</i></small>
+</details></li>
+
+<li><details>
+  <summary style="list-style-type: none;"><b>MATH 285M</b> <i>Nonnegative matrices & Perron-Frobenius Theory</i> Spring 2025. SJSU (A+)</summary>
+  <small>Perron Theory for positive matrices, Frobenius Theory for irreducible matrices, spectral graph theory, spectral digraph theory.</small> <br>
+  <small>Textbook: Horn and Johnson. <i>Matrix Analysis</i>; C. Godsil and G. Royle. <i>Algebraic Graph Theory</i>, GTM 207.</small>
+</details></li>
+
+<li><details>
+  <summary style="list-style-type: none;"><b>MATH 129A</b> <i>Linear Algebra I</i> Fall 2023. SJSU (A)</summary>
+  <small>Matrices, systems of linear equations, eigenvectors and eigenvalues, inner product spaces.</small>
+</details></li>
+
+<li><details>
+  <summary style="list-style-type: none;"><b>MATH 129B</b> <i>Linear Algebra II</i> Spring 2024. SJSU (A+)</summary>
+  <small>Cayley-Hamilton theorem, minimal polynomials, Jordan canonical form, inner products.</small> <br>
+  <small>Textbook: Friedberg, Insel, and Spence. <i>Linear Algebra.</i></small>
+</details></li>
+</ul>
+
 - **MATH 229** *Advanced Matrix Theory*. Fall 2024. SJSU (A+)<br>
   <small>Eigenvalues, unitary equivalence and Schur’s theorem. Normal, Hermitian and symmetric real matrices. Positive definite matrices, polar and singular value factorizations</small> <br>
   <small><small>Textbook: Horn and Johnson. <i>Matrix Analysis</i></small></small>
