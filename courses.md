@@ -229,24 +229,38 @@ I haven't taken a formal course in representation theory, but I gained substanti
 
 > "Counting pairs is the oldest trick in combinatorics... every time we count pairs, we learn something from it." --- Gil Kalai
 
-- **MATH 279A** *Graph Theory*. Fall 2024. SJSU (A+)<br>
+<small><i>click on the title to see a short description</i></small>
+
+<ul> 
+<li><details>
+  <summary style="list-style-type: none;"><b>MATH 279A</b> <i>Graph Theory</i> Fall 2024. SJSU (A+)</summary>
   <small>Graphs, digraphs, trees, networks, connectedness, eulerian circuits, hamiltonian cycles, graph embeddings, matchings, factorizations, graph colorings and Ramsey theory.</small> <br>
-  <small><small>Textbook: Douglas West. <i>Introduction to Graph Theory.</i></small></small>
+  <small>Textbook: Douglas West. <i>Introduction to Graph Theory.</i></small>
+</details></li>
 
-- **Generating Functions**. Fall 2021. Euler Circle <br>
+<li><details>
+  <summary style="list-style-type: none;"><b>Generating Functions.</b> Fall 2021. Euler Circle</summary>
   <small>Ordinary, exponential and multivariate generating functions, growth rate and asymptotic analysis.</small> <br>
-  <small><small>Textbook: Flajolet and Sedgewick. <i>Analytic combinatorics;</i> Herbert S Wilf. <i>generatingfunctionology.</i></small></small>
+  <small>Textbook: Flajolet and Sedgewick. <i>Analytic combinatorics;</i> Herbert S Wilf. <i>generatingfunctionology.</i></small>
+</details></li>
 
-- **Combinatorial Game Theory**. Fall 2024. Euler Circle <br>
+<li><details>
+  <summary style="list-style-type: none;"><b>Combinatorial Game Theory.</b> Fall 2024. Euler Circle</summary>
   <small>Nim, Hackenbush, surreal numbers, impartial games, Sprague-Grundy theory.</small> <br>
-  <small><small>Textbook: Simon Rubinstein-Salzedo. <i>Combinatorial Game Theory.</i></small></small>
+  <small>Textbook: Simon Rubinstein-Salzedo. <i>Combinatorial Game Theory.</i></small>
+</details></li>
 
-- **MATH 179** *Introduction to Graph Theory*. Fall 2024. SJSU (A+)<br>
+<li><details>
+  <summary style="list-style-type: none;"><b>MATH 179</b> <i>Introduction to Graph Theory</i> Fall 2024. SJSU (A+)</summary>
   <small>Hamiltonian and Eulerian properties, matching, trees, connectivity, coloring problems and planarity.</small> <br>
-  <small><small>Textbook: Robin Wilson. <i>Introduction to Graph Theory.</i></small></small>
+  <small>Textbook: Robin Wilson. <i>Introduction to Graph Theory.</i></small>
+</details></li>
 
-- **Combinatorics**. Winter 2020. Euler Circle <br>
+<li><details>
+  <summary style="list-style-type: none;"><b>Combinatorics</b> Winter 2020. Euler Circle</summary>
   <small>Binomial coefficients, double-counting; Stirling numbers; counting labeled trees.</small>
+</details></li>
+</ul>
 
 <a href="https://shihankanungo.github.io/courses">↪️ Back to top</a>
 
