@@ -114,8 +114,8 @@ Here are the courses grouped by subject area, along with a short description of 
 
 ## Algebra and Number Theory
 
-> <small>"Structures are the essence of mathematics, and algebra provides the language to describe them." --- Nicolas Bourbaki<small> <br>
-> "Number theorists are like lotus-eaters -- having tasted this food they can never give it up." --- Leopold Kronecker (1823-1891)
+> <small>"Structures are the essence of mathematics, and algebra provides the language to describe them." --- Nicolas Bourbaki</small> <br>
+> <small>"Number theorists are like lotus-eaters -- having tasted this food they can never give it up." --- Leopold Kronecker (1823-1891)</small>
 
 <small><i>click on the title to see a short description</i></small>
 
