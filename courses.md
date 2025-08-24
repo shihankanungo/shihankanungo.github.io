@@ -29,7 +29,6 @@ Here are the courses grouped by subject area, along with a short description of 
 
 ![separator](images/septhin.png)
 
-
 <small><i>click on the title to see a short description</i></small>
 
 <ul> 
