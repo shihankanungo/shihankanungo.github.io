@@ -27,11 +27,9 @@ Here are the courses grouped by subject area, along with a short description of 
 <small><i>"logloglog x has been proved to go to infinity, but has never been observed to do so."</i> --- Anonymous</small> <br>
 <small><i>"Analysis is the art of taming infinity."</i> --- Neil Falkner, Amer. Math. Monthly <b>116</b></small> <br>
 
-> "logloglog x has been proved to go to infinity, but has never been observed to do so." --- Anonymous <br>
-> "Analysis is the art of taming infinity." --- Neil Falkner, Amer. Math. Monthly **116** 
+![separator](images/septhin.png)
+<br>
 
-> "Geometry is the archetype of the beauty of the world." --- Johannes Kepler <br>
-> "Geometry is the science of correct reasoning on incorrect figures." <br> --- George Polya <br>
 
 <small><i>click on the title to see a short description</i></small>
 
