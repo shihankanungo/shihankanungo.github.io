@@ -28,7 +28,6 @@ Here are the courses grouped by subject area, along with a short description of 
 <small><i>"Analysis is the art of taming infinity."</i> --- Neil Falkner, Amer. Math. Monthly <b>116</b></small> <br>
 
 ![separator](images/septhin.png)
-<br>
 
 
 <small><i>click on the title to see a short description</i></small>
