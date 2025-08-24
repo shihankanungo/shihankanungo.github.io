@@ -24,6 +24,9 @@ Here are the courses grouped by subject area, along with a short description of 
 
 ## Analysis and Geometry 
 
+<small><i>"logloglog x has been proved to go to infinity, but has never been observed to do so."</i> --- Anonymous</small> <br>
+<small><i>"Analysis is the art of taming infinity."</i> --- Neil Falkner, Amer. Math. Monthly <b>116</b></small> <br>
+
 > "logloglog x has been proved to go to infinity, but has never been observed to do so." --- Anonymous <br>
 > "Analysis is the art of taming infinity." --- Neil Falkner, Amer. Math. Monthly **116** 
 
