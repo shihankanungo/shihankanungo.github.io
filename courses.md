@@ -178,7 +178,7 @@ Here are the courses grouped by subject area, along with a short description of 
 
 ## Representation Theory
 
-<small><i>"The philosophy of representation theory is that it is a kind of linearization of abstract algebra."</i> --- Fulton & Harris, Representation Theory: A First Course</small> <br>
+<small><i>"The philosophy of representation theory is that it is a kind of linearization of abstract algebra."</i><br>--- Fulton & Harris, Representation Theory: A First Course</small> <br>
 <small><i>"The essence of representation theory is to take a complicated mathematical object and study it by looking at how it acts on simpler objects, like vector spaces."</i> --- Michael Atiyah</small><i>
 
 ![separator](images/septhin.png)
@@ -197,7 +197,7 @@ I haven't taken a formal course in representation theory, but I gained substanti
 
 ## Linear Algebra and Matrix Theory
 
-<small><i>"It is my experience that proofs involving matrices can be shortened by 50% if one throws the matrices out."</i> --- Emil Artin (Geometric Algebra, p. 14)</small> 
+<small><i>"It is my experience that proofs involving matrices can be shortened by 50% if one throws the matrices out."</i><br>--- Emil Artin (Geometric Algebra, p. 14)</small> 
 
 ![separator](images/septhin.png)
 
@@ -232,7 +232,7 @@ I haven't taken a formal course in representation theory, but I gained substanti
 
 ## Combinatorics and Graph Theory
 
-<small><i>"Counting pairs is the oldest trick in combinatorics... every time we count pairs, we learn something from it."</i> --- Gil Kalai</small>
+<small><i>"Counting pairs is the oldest trick in combinatorics... every time we count pairs, we learn something from it."</i><br>--- Gil Kalai</small>
 
 ![separator](images/septhin.png)
 
