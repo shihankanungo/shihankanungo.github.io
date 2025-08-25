@@ -114,7 +114,7 @@ Here are the courses grouped by subject area, along with a short description of 
 
 ## Algebra and Number Theory
 
-<small>"Structures are the essence of mathematics, and algebra provides the language to describe them." --- Nicolas Bourbaki</small> <br>
+<small>"Structures are the essence of mathematics, and algebra provides the language to describe them." --- Bourbaki</small> <br>
 <small>"Number theorists are like lotus-eaters -- having tasted this food they can never give it up." --- Leopold Kronecker</small>
 
 ![separator](images/septhin.png)
@@ -178,8 +178,10 @@ Here are the courses grouped by subject area, along with a short description of 
 
 ## Representation Theory
 
-> "The philosophy of representation theory is that it is a kind of linearization of abstract algebra." --- Fulton & Harris, Representation Theory: A First Course <br>
-> "The essence of representation theory is to take a complicated mathematical object and study it by looking at how it acts on simpler objects, like vector spaces." --- Michael Atiyah
+<small><i>"The philosophy of representation theory is that it is a kind of linearization of abstract algebra."</i> --- Fulton & Harris, Representation Theory: A First Course</small> <br>
+<small><i>"The essence of representation theory is to take a complicated mathematical object and study it by looking at how it acts on simpler objects, like vector spaces."</i> --- Michael Atiyah</small><i>
+
+![separator](images/septhin.png)
 
 I haven't taken a formal course in representation theory, but I gained substantial knowledge while working on my 2024 project at MIT PRIMES-USA. In particular, I studied the subject through the following books:
 
@@ -195,7 +197,9 @@ I haven't taken a formal course in representation theory, but I gained substanti
 
 ## Linear Algebra and Matrix Theory
 
-> "It is my experience that proofs involving matrices can be shortened by 50% if one throws the matrices out." --- Emil Artin (Geometric Algebra, p. 14)
+<small><i>"It is my experience that proofs involving matrices can be shortened by 50% if one throws the matrices out."</i> --- Emil Artin (Geometric Algebra, p. 14)</small> 
+
+![separator](images/septhin.png)
 
 <small><i>click on the title to see a short description</i></small>
 
@@ -228,7 +232,9 @@ I haven't taken a formal course in representation theory, but I gained substanti
 
 ## Combinatorics and Graph Theory
 
-> "Counting pairs is the oldest trick in combinatorics... every time we count pairs, we learn something from it." --- Gil Kalai
+<small><i>"Counting pairs is the oldest trick in combinatorics... every time we count pairs, we learn something from it."</i> --- Gil Kalai</small>
+
+![separator](images/septhin.png)
 
 <small><i>click on the title to see a short description</i></small>
 
