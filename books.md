@@ -16,7 +16,7 @@ These are the books I have read in 2025 (so far!) <br>
 - *Love Story* by Erich Segal. 1970
 - *Jonathan Livingston Seagull* by Richard Bach. 1970
 - **Virginia Woolf** <br>
-  *Mrs Dalloway*. 1925
+  *Mrs Dalloway*. 1925 <br>
   *To the Lighthouse*. 1927
 - **Kazuo Ishiguro** <br>
   *A Pale View of Hills*. 1982 <br>
