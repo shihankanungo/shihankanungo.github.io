@@ -1,3 +1,4 @@
+
 ---
 layout: activities
 title: Reading &amp;c.
@@ -34,6 +35,7 @@ These are the books I have read in 2025 (so far!) <br>
   *The Great Hunt*. 1990 <br>
   *The Dragon Reborn*. 1991
 - *American Gods* by Neil Gaiman. 2001
+- *There's Always This Year: On Basketball and Ascension* by Hanif Abdurraqib. 2024
 
 ### Non-fiction
 - *A Sense of Where You Are: Bill Bradley at Princeton* by John McPhee. 1965
