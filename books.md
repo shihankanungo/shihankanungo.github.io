@@ -1,4 +1,3 @@
-
 ---
 layout: activities
 title: Reading &amp;c.
