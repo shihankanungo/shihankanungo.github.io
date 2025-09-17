@@ -327,7 +327,8 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 </details></li>
  </ul>
 
- ## Stanford University, Math Department Talks
+
+## Stanford University, Math Department Talks
 
 ![stanford-math](images/smdt.png)
 
