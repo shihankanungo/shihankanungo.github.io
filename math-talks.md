@@ -340,14 +340,22 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
     <i>The Zigzag strategy for random band matrices</i></summary>
   <small><img src="images/08-22a.png" alt="Sep 22"></small>
 </details></li>
- </ul>
+</ul>
 
- <ul>
+<ul>
 <li><details>
   <summary style="list-style: none;"><b>SYMPLECTIC GEOMETRY &mdash; Anastasiia Sharipova (Stanford)</b><br>
     <i>Outer billiards and symplectic geometry</i></summary>
   <small><img src="images/08-22b.png" alt="Sep 22"></small>
 </details></li>
- </ul>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>TOPOLOGY &mdash; Daren Chen (Caltech)</b><br>
+    <i>Two-component L-space links, satellites, and the tau-invariant</i></summary>
+  <small><img src="images/08-23.png" alt="Sep 23"></small>
+</details></li>
+</ul>
 
 
