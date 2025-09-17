@@ -327,4 +327,18 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 </details></li>
  </ul>
 
+ ## Stanford University, Math Department Talks
+
+![stanford-math](images/smdt.png)
+
+### Sep
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>PROBABILITY &mdash; Volodymyr Riabov (IST, Austria)</b><br>
+    <i>The Zigzag strategy for random band matrices</i></summary>
+  <small><img src="images/08-22a.png" alt="Feb 27"></small>
+</details></li>
+ </ul>
+
 
