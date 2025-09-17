@@ -337,7 +337,15 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 <li><details>
   <summary style="list-style: none;"><b>PROBABILITY &mdash; Volodymyr Riabov (IST, Austria)</b><br>
     <i>The Zigzag strategy for random band matrices</i></summary>
-  <small><img src="images/08-22a.png" alt="Feb 27"></small>
+  <small><img src="images/08-22a.png" alt="Sep 22"></small>
+</details></li>
+ </ul>
+
+ <ul>
+<li><details>
+  <summary style="list-style: none;"><b>SYMPLECTIC GEOMETRY &mdash; Anastasiia Sharipova (Stanford)</b><br>
+    <i>Outer billiards and symplectic geometry</i></summary>
+  <small><img src="images/08-22b.png" alt="Sep 22"></small>
 </details></li>
  </ul>
 
