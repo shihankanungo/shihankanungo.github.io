@@ -358,4 +358,12 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 </details></li>
 </ul>
 
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>ANALYTIC NUMBER THEORY &mdash; Lasse Grimmelt (Cambridge)</b><br>
+    <i>The divisor function along arithmetic progressions</i></summary>
+  <small><img src="images/9-24.png" alt="Sep 24"></small>
+</details></li>
+</ul>
+
 
