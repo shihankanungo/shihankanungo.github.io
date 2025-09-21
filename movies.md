@@ -41,6 +41,7 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
   Rushmore (1998 d. Wes Anderson) <br>
   Fantastic Mr. Fox (2009 d. Wes Anderson) <br>
   Moonrise Kingdom (2012 d. Wes Anderson) <br>
+  The Grand Budapest Hotel (2014 d. Wes Anderson) <br>
   The Wonderful Story of Henry Sugar (2023 d. Wes Anderson) <br>
 - **Wallace & Gromit** <br>
   A Grand Day Out With Wallace and Gromit (1989 d. Nick Park) <br>
