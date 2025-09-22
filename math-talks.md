@@ -338,7 +338,7 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 <li><details>
   <summary style="list-style: none;"><b>PROBABILITY &mdash; Volodymyr Riabov (IST, Austria)</b><br>
     <i>The Zigzag strategy for random band matrices</i></summary>
-  <small><img src="images/08-22a.png" alt="Sep 22"></small>
+  <small><img src="images/09-22a.png" alt="Sep 22"></small>
 </details></li>
 </ul>
 
