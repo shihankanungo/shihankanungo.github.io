@@ -7,14 +7,14 @@ title: The Sound of a Continent&mdash;Exploring African Music Genres
 African music is as vast and varied as the continent itself. With more than 50 countries and thousands of ethnic groups, Africa has given rise to an astonishing range of musical styles. Rooted in traditions that span centuries, yet continually evolving in conversation with global sounds, African music is both local and universal. From spiritual rituals to political protest, from dance floors to world stages, it is the pulse of community life and a driving force of global popular culture.
 
 African music is often studied by geographic region, since local traditions, instruments, and cultural histories shape distinct musical identities. <br> 
+
+<p align="center"><img src="/images/africa.png" width="600" /></p>
+
 **West Africa** is renowned for its rhythmic complexity, polyrhythms, and griot traditions, with instruments like the djembe, kora, and balafon central to both communal and ceremonial life. <br>
 **East Africa** emphasizes melodic patterns and vocal traditions, often featuring call-and-response singing, lyres, and string instruments like the nyatiti. <br>
 **Central Africa** is home to the rich polyphonic vocal styles of forest communities, with the mbira and likembe (thumb pianos) widely used. <br>
 **North Africa** bears strong Arabic and Mediterranean influences, with modal scales, intricate ornamentation, and instruments like the oud and darbuka. <br>
 **Southern Africa** features choral harmonies, mbube and isicathamiya singing styles, and rhythmic patterns on instruments like marimbas and drums, reflecting both indigenous traditions and historical cross-cultural exchange.
-
-<p align="center"><img src="/images/africa.png" width="600" /></p>
-
 
 In this post, we’ll explore some of the most important African music genres, their origins, characteristics, key artists, and essential albums.
 
