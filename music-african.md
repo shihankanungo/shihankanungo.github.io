@@ -63,40 +63,40 @@ _Essential Album_: Manu Dibango – _Soul Makossa_
 
 ### Taarab (Zanzibar, Coastal East Africa)
 Blends Swahili poetry with Middle Eastern and Indian melodies. Romantic and spiritual. <br>
-Key Artists: Siti binti Saad, Culture Musical Club <br>
-Essential Album: Culture Musical Club – The Ngoma Tanzania: The Golden Voice of Zanzibar
+_Key Artists_: Siti binti Saad, Culture Musical Club <br>
+_Essential Album_: Culture Musical Club – _The Ngoma Tanzania: The Golden Voice of Zanzibar_
 
 ### Benga (Kenya)
 Upbeat dance music with syncopated guitar melodies and driving rhythms. <br>
-Key Artists: D.O. Misiani, Shirati Jazz <br>
-Essential Album: D.O. Misiani & Shirati Jazz – Benga Blast!
+_Key Artists_: D.O. Misiani, Shirati Jazz <br>
+_Essential Album_: D.O. Misiani & Shirati Jazz – _Benga Blast_!
 
 ## Southern Africa
 
 ### Mbira Music (Zimbabwe)
 Spiritual music using the mbira (thumb piano), characterized by interlocking melodies. <br>
-Key Artists: Ephat Mujuru, Stella Chiweshe <br>
-Essential Album: Stella Chiweshe – Ambuya!
+_Key Artists_: Ephat Mujuru, Stella Chiweshe <br>
+_Essential Album_: Stella Chiweshe – _Ambuya_!
 
 ### Chimurenga (Zimbabwe)
 Political protest music fusing mbira traditions with electric guitars. <br>
-Key Artists: Thomas Mapfumo <br>
-Essential Album: Thomas Mapfumo – Corruption
+_Key Artists_: Thomas Mapfumo <br>
+_Essential Album_: Thomas Mapfumo – _Corruption_
 
 ### Isicathamiya (South Africa, Zulu)
 A cappella choral singing rooted in Zulu tradition, popularized internationally. <br>
-Key Artists: Ladysmith Black Mambazo <br>
-Essential Album: Ladysmith Black Mambazo – Shaka Zulu
+_Key Artists_: Ladysmith Black Mambazo <br>
+_Essential Album_: Ladysmith Black Mambazo – _Shaka Zulu_
 
 ### Kwaito (South Africa, 1990s)
 Emerged from Johannesburg townships; mid-tempo house beats with African samples, rap, and streetwise lyrics. <br>
-Key Artists: Arthur Mafokate, Mandoza, Boom Shaka <br>
-Essential Album: Mandoza – Nkalakatha
+_Key Artists_: Arthur Mafokate, Mandoza, Boom Shaka <br>
+_Essential Album_: Mandoza – _Nkalakatha_
 
 ### Gqom (South Africa, 2010s)
 Dark, minimalist electronic dance music with heavy bass. A global club sound from Durban. <br>
-Key Artists: DJ Lag, Babes Wodumo <br>
-Essential Album: Babes Wodumo – Gqom Queen, Vol. 1
+_Key Artists_: DJ Lag, Babes Wodumo <br>
+_Essential Album_: Babes Wodumo – _Gqom Queen, Vol. 1_
 
 ## North Africa
 
