@@ -8,6 +8,8 @@ African music is as vast and varied as the continent itself. With more than 50 c
 
 In this post, we’ll explore some of the most important African music genres, their origins, characteristics, key artists, and essential albums.
 
+<p align="center"><img src="/images/africa.png" width="600" /></p>
+
 ## West Africa
 
 ### Griot Music (Mande, Mali/Guinea)
@@ -44,3 +46,15 @@ Essential Album: Youssou N’Dour – _Set_
 Bluesy, guitar-driven desert sound with themes of exile and resistance. A hallmark of Saharan nomadic culture.
 Key Artists: Tinariwen, Bombino
 Essential Album: Tinariwen – _Amassakoul_
+
+## Central Africa
+
+### Soukous (Congo)
+Also called "African rumba," it features fast guitar lines and Cuban-inspired rhythms. Perfect for dancing.
+Key Artists: Franco, Papa Wemba, Tabu Ley Rochereau
+Essential Album: Franco – _The Very Best of Franco_
+
+### Makossa (Cameroon)
+An urban dance style with funky bass and brass, catapulted to global fame by Manu Dibango.
+Key Artists: Manu Dibango
+Essential Album: Manu Dibango – _Soul Makossa_
