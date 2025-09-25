@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Sound of a Continent: Exploring African Music Genres
+title: The Sound of a Continent&mdash;Exploring African Music Genres
 ---
 
 
