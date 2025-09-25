@@ -58,3 +58,86 @@ _Essential Album_: Franco – _The Very Best of Franco_
 An urban dance style with funky bass and brass, catapulted to global fame by Manu Dibango. <br>
 _Key Artists_: Manu Dibango <br>
 _Essential Album_: Manu Dibango – _Soul Makossa_
+
+## East Africa
+
+### Taarab (Zanzibar, Coastal East Africa)
+Blends Swahili poetry with Middle Eastern and Indian melodies. Romantic and spiritual. <br>
+Key Artists: Siti binti Saad, Culture Musical Club <br>
+Essential Album: Culture Musical Club – The Ngoma Tanzania: The Golden Voice of Zanzibar
+
+### Benga (Kenya)
+Upbeat dance music with syncopated guitar melodies and driving rhythms. <br>
+Key Artists: D.O. Misiani, Shirati Jazz <br>
+Essential Album: D.O. Misiani & Shirati Jazz – Benga Blast!
+
+## Southern Africa
+
+### Mbira Music (Zimbabwe)
+Spiritual music using the mbira (thumb piano), characterized by interlocking melodies. <br>
+Key Artists: Ephat Mujuru, Stella Chiweshe <br>
+Essential Album: Stella Chiweshe – Ambuya!
+
+### Chimurenga (Zimbabwe)
+Political protest music fusing mbira traditions with electric guitars. <br>
+Key Artists: Thomas Mapfumo <br>
+Essential Album: Thomas Mapfumo – Corruption
+
+### Isicathamiya (South Africa, Zulu)
+A cappella choral singing rooted in Zulu tradition, popularized internationally. <br>
+Key Artists: Ladysmith Black Mambazo <br>
+Essential Album: Ladysmith Black Mambazo – Shaka Zulu
+
+### Kwaito (South Africa, 1990s)
+Emerged from Johannesburg townships; mid-tempo house beats with African samples, rap, and streetwise lyrics. <br>
+Key Artists: Arthur Mafokate, Mandoza, Boom Shaka <br>
+Essential Album: Mandoza – Nkalakatha
+
+### Gqom (South Africa, 2010s)
+Dark, minimalist electronic dance music with heavy bass. A global club sound from Durban. <br>
+Key Artists: DJ Lag, Babes Wodumo <br>
+Essential Album: Babes Wodumo – Gqom Queen, Vol. 1
+
+## North Africa
+
+### Gnawa (Morocco)
+Trance-inducing spiritual music using the guembri (bass lute) and qraqeb (metal castanets). <br>
+_Key Artists_: Mahmoud Guinia, Hassan Hakmoun <br>
+_Essential Album_: Hassan Hakmoun – _Gift of the Gnawa_
+
+### Taarab (Swahili Coast)
+A continuation of the East African tradition, developed with Arab and Indian influences. <br>
+_Key Artists_: Bi Kidude <br>
+_Essential Album_: Bi Kidude – _Zanzibar: The Doyenne of Taarab_
+
+### Tuareg (Desert Blues, Mali/Niger/Algeria)
+Hypnotic desert blues featuring electric guitars and nomadic themes. <br>
+_Key Artists_: Tinariwen, Tamikrest, Imarhan <br>
+_Essential Album_: Tamikrest – _Adagh_
+
+## Diaspora & Global Crossovers
+
+### Afro-Cuban / Afro-Latin
+Cross-cultural exchange between Africa and the Caribbean, especially Cuba, influencing African dance genres. <br>
+_Key Artists_: Orchestra Baobab, Los Van Van <br>
+_Essential Album_: Orchestra Baobab – _Pirates Choice_
+
+### Hip Hop & Rap (African variants)
+Local adaptations blending U.S. hip-hop with African languages and rhythms. <br>
+_Key Artists_: MC Solaar, Sarkodie <br>
+_Essential Album_: MC Solaar – _Qui Sème le Vent Récolte le Tempo_
+
+### Reggae & Dancehall (African adaptations)
+African artists adapting Jamaican reggae and dancehall into their own contexts. <br>
+_Key Artists_: Alpha Blondy, Lucky Dube <br>
+_Essential Album_: Alpha Blondy – _Jerusalem_
+
+### Kuduro (Angola -- global)
+High-energy electronic dance style mixing techno and African rhythms. <br>
+_Key Artists_: Buraka Som Sistema, DJ Znobia <br>
+_Essential Album_: Buraka Som Sistema – _Black Diamond_
+
+## Conclusion
+African music cannot be reduced to a single genre or rhythm. It is a mosaic: deeply traditional, boldly modern, and endlessly inventive. From the storytelling griots of Mali to the pulsing beats of Johannesburg nightclubs, African music is both a reflection of the continent’s history and a force shaping global soundscapes today.
+Whether you are exploring classic recordings of Fela Kuti or dancing to the latest Afrobeats hit, you are engaging with one of the richest musical heritages on Earth.
+
