@@ -3,10 +3,13 @@ layout: post
 title: The Sound of a Continent&mdash;Exploring African Music Genres
 ---
 
+About a month ago, I started a project to explore the vast realm of African music. While I have listened and enjoyed many African albums in the past, I have never (until now) made an organized effort to properly acquaint myself with the genre.
 
-African music is as vast and varied as the continent itself. With more than 50 countries and thousands of ethnic groups, Africa has given rise to an astonishing range of musical styles. Rooted in traditions that span centuries, yet continually evolving in conversation with global sounds, African music is both local and universal. From spiritual rituals to political protest, from dance floors to world stages, it is the pulse of community life and a driving force of global popular culture.
+Actually, it’s not so accurate to call this a “genre” of music. African music is as vast and varied as the continent itself. With more than 50 countries and thousands of ethnic groups, Africa has given rise to an astonishing range of musical styles. Rooted in traditions that span centuries, yet continually evolving in conversation with global sounds, African music is both local and universal. From spiritual rituals to political protest, from dance floors to world stages, it is the pulse of community life and a driving force of global popular culture.
 
-African music is often studied by geographic region, since local traditions, instruments, and cultural histories shape distinct musical identities. <br> 
+I hugely enjoyed the diversity of the music, but I noticed one common theme to almost all of the albums that I listened to: the music is intensely spiritual. I could tell that when they are playing, the musicians enter a state of “flow,” where the music transcends everything else. Different styles do this in different ways; but this aspect is always there, and this is what makes African music special.
+
+African music is often studied by geographic region, since local traditions, instruments, and cultural histories shape distinct musical identities.
 
 <p align="center"><img src="/images/africa.png" width="600" /></p>
 
@@ -16,7 +19,7 @@ African music is often studied by geographic region, since local traditions, ins
 **North Africa** bears strong Arabic and Mediterranean influences, with modal scales, intricate ornamentation, and instruments like the oud and darbuka. <br>
 **Southern Africa** features choral harmonies, mbube and isicathamiya singing styles, and rhythmic patterns on instruments like marimbas and drums, reflecting both indigenous traditions and historical cross-cultural exchange.
 
-In this post, we’ll explore some of the most important African music genres, their origins, characteristics, key artists, and essential albums.
+In this post, I will talk about some of the most important African music genres, their origins and characteristics, and I will share some of my favorite artists and albums.
 
 ## West Africa
 
