@@ -30,10 +30,11 @@ These are the books I have read in 2025 (so far!) <br>
   *The Wind-Up Bird Chronicle*. 1995 <br>
   *Kafka on the Shore*. 2002 <br>
   *What I Talk About When I Talk About Running*. 2007
-- **Robert Jordan** &mdash; ***The Wheel of Time*** **trilogy**  <br>
+- **Robert Jordan** &mdash; ***The Wheel of Time*** **series**  <br>
   *The Eye of the World*. 1990 <br>
   *The Great Hunt*. 1990 <br>
-  *The Dragon Reborn*. 1991
+  *The Dragon Reborn*. 1991 <br>
+  *The Shadow Rising*. 1992 
 - *American Gods* by Neil Gaiman. 2001
 - *There's Always This Year: On Basketball and Ascension* by Hanif Abdurraqib. 2024
 
