@@ -382,4 +382,22 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 </details></li>
 </ul>
 
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>TOPOLOGY &mdash; Mona Merling (UPenn)</b><br>
+    <i>Equivariant algebraic K-theory of G-manifolds</i></summary>
+  <small><img src="images/09-30.png" alt="Sep 30"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>STUDENT ANALYTIC NUMBER THEORY &mdash; Nathan Tung (Stanford)</b><br>
+    <i>A new lower bound for Szemerédi's theorem with random differences in finite fields</i></summary>
+  <small><img src="images/10-01.png" alt="Oct 01"></small>
+</details></li>
+</ul>
+
+
+
 
