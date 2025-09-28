@@ -366,4 +366,20 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 </details></li>
 </ul>
 
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Jared Duker Lichtman (Stanford)</b><br>
+    <i>The abc conjecture almost always</i></summary>
+  <small><img src="images/09-29.png" alt="Sep 29"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>PROBABILITY &mdash; Izumi Okada (University of Tokyo)</b><br>
+    <i>Favorite sites for simple random walk in two and more dimensions</i></summary>
+  <small><img src="images/09-29b.png" alt="Sep 29"></small>
+</details></li>
+</ul>
+
 
