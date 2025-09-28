@@ -26,6 +26,13 @@ title: Music &amp;c.
 </details></li>
 </ul>
 
+<ul>
+ <li><details>
+  <summary style="list-style-type: none;"> <i>Dua Lipa: Radical Optimism Tour</i>. Chase Center, San Francisco, California, on Sunday, October 12, 2025. </summary>
+  <small>This set list is from the 17 March 2025 concert in Melbourne. <br> <b>Act I</b> <br> Training Season &#8226; End of an Era &#8226; Break My Heart &#8226; One Kiss <br> <b>Act II</b> <br> Whatcha Doing &#8226; Levitating &#8226; These Walls &#8226; Cover song &#8226; Maria <br> <b>Act III</b> <br> Physical &#8226; Electricity &#8226; Hallucinate &#8226; Illusion <br> <b>Act IV</b> <br> Falling Forever &#8226; Happy for You &#8226; Love Again &#8226; Anything for Love &#8226; Be the One <br> <b>Encore</b> <br> New Rules &#8226; Dance the Night &#8226; Don't Start Now &#8226; Houdini<br></small><br>
+</details></li>
+</ul>
+
 ![StanfordJazzFestival](/images/sjf.png)
 
 <ul>
