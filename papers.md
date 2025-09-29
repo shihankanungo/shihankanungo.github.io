@@ -16,8 +16,8 @@ title: Mathematics &mdash; writing
   A. Kannan, **S. Kanungo**. *Journal of Algebra*. In review; submitted May 14, 2025 <br /> 
   \[ [arXiv](https://arxiv.org/abs/2505.06463) \] 
 
-- Saturation Problems for Sequences. <br />
-  J. Geneson, **S. Kanungo**. <br />
+- Upper Bounds on Saturation Functions for Sequences. <br />
+  **S. Kanungo**. <br />
   *In preparation*   
   
 - On Product Formulas of Guillera and Sondow  <br />
