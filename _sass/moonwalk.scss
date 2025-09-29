@@ -95,14 +95,18 @@ img {
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
   html, body  {
-      --headings: #74c0fc;
       --links: #91A7FF;
       --highlight: #41C7C7;
-      --bg: #fa931e; // #0737ba; // #032582; #1748cf;
-      --bg-secondary: #0043fc;
-      --text: #c9ced4;
-      // --text: #adb5bd;
-      --text-secondary: #9CA3AF;
+      --bg: #fa931e; 
+      --bg-secondary: #8cb3f5;
+      --headings: #1e293b;
+      --text: #374151;
+      --text-secondary: #6b7280;
+      //--bg: #0737ba; // #032582; #1748cf;
+      //--bg-secondary: #0043fc;
+      //--headings: #74c0fc;
+      //--text: #c9ced4;
+      //--text-secondary: #9CA3AF;
       --code-text: #91A7FF;
       --share-text: #C4C4C4;
   };
