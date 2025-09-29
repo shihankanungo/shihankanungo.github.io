@@ -398,6 +398,14 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 </details></li>
 </ul>
 
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>STUDENT ALGEBRAIC GEOMETRY &mdash; Ben Church (Stanford)</b><br>
+    <i>Abelian schemes and elliptic curves over <b>Z</b></i></summary>
+  <small><img src="images/10-01b.png" alt="Oct 01"></small>
+</details></li>
+</ul>
+
 
 
 
