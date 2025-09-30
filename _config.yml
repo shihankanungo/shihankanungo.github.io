@@ -10,7 +10,7 @@ description: > # description of the site (multiple lines allowed)
           <br>
           <p id="countdown"></p>
           <script>
-          const release = new Date("2025-10-03T05:00:00Z"); // your target UTC time
+          const release = new Date("2025-10-03T04:00:00Z"); // your target UTC time
           function updateCountdown() {
             const now = new Date();
             const diff = release - now;
