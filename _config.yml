@@ -9,22 +9,22 @@ description: > # description of the site (multiple lines allowed)
           <small><b>Recent news</b>: This is Tay week! &mdash; TS12 drops on Friday, October 3, which is why I have changed the theme color of this site to some form of orange; 3 days to go... </small>
           <br>
           <p id="countdown"></p>
-<script>
-const release = new Date("2025-10-03T05:00:00Z"); // your target UTC time
-function updateCountdown() {
-  const now = new Date();
-  const diff = release - now;
-  if (diff < 0) {document.getElementById("countdown").innerHTML = "Released!"; return;}
-  const d = Math.floor(diff / (1000*60*60*24));
-  const h = Math.floor(diff / (1000*60*60)) % 24;
-  const m = Math.floor(diff / (1000*60)) % 60;
-  const s = Math.floor(diff / 1000) % 60;
-  document.getElementById("countdown").innerHTML =
-     `${d} days ${h} hours ${m} minutes ${s} seconds`;
-}
-setInterval(updateCountdown, 1000);
-updateCountdown();
-</script>
+          <script>
+          const release = new Date("2025-10-03T05:00:00Z"); // your target UTC time
+          function updateCountdown() {
+            const now = new Date();
+            const diff = release - now;
+            if (diff < 0) {document.getElementById("countdown").innerHTML = "Released!"; return;}
+            const d = Math.floor(diff / (1000*60*60*24));
+            const h = Math.floor(diff / (1000*60*60)) % 24;
+            const m = Math.floor(diff / (1000*60)) % 60;
+            const s = Math.floor(diff / 1000) % 60;
+            document.getElementById("countdown").innerHTML =
+               `${d} days ${h} hours ${m} minutes ${s} seconds`;
+          }
+          setInterval(updateCountdown, 1000);
+          updateCountdown();
+          </script>
           <br /><br />
           <small><b>Currently reading</b>: <i>The Shadow Rising</i> by Robert Jordan and <i>To The Lighthouse</i> by Virginia Woolf.</small>
           <br /><br />
