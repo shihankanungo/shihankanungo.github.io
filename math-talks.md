@@ -406,6 +406,12 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 </details></li>
 </ul>
 
-
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>COMBINATORICS &mdash; Maria-Romina Ivan (Stanford)</b><br>
+    <i>Poset Saturation - From the Diamond to the General Case</i> </summary>
+  <small><img src="images/10-02.png" alt="October 2"></small>
+</details></li>
+</ul>
 
 
