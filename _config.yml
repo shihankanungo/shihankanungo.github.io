@@ -8,7 +8,7 @@ description: > # description of the site (multiple lines allowed)
 
           <small><b>Recent news</b>: This is Tay week! &mdash; TS12 drops on Friday, October 3 (Thursday 9PM PT), so we have ... </small>
           <br>
-          <p id="countdown" style="font-size:small; font-weight:bold;"></p>
+          <p id="countdown" style="font-size:small; font-weight:bold;" align="center"></p>
           <script>
           const release = new Date("2025-10-03T04:00:00Z"); // your target UTC time
           function updateCountdown() {
