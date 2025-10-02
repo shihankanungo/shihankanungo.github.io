@@ -20,7 +20,7 @@ description: > # description of the site (multiple lines allowed)
             const m = Math.floor(diff / (1000*60)) % 60;
             const s = Math.floor(diff / 1000) % 60;
             document.getElementById("countdown").innerHTML =
-               `${d} days ${h} hours ${m} minutes ${s} seconds`;
+               `${h} hours ${m} minutes ${s} seconds`;
           }
           setInterval(updateCountdown, 1000);
           updateCountdown();
