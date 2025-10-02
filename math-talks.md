@@ -332,7 +332,7 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 
 ![stanford-math](images/smdt.png)
 
-### Sep
+### September
 
 <ul>
 <li><details>
@@ -389,6 +389,8 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
   <small><img src="images/09-30.png" alt="Sep 30"></small>
 </details></li>
 </ul>
+
+### October
 
 <ul>
 <li><details>
