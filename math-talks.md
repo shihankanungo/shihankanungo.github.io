@@ -416,4 +416,34 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 </details></li>
 </ul>
 
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Shengtong Zhang (Stanford)</b><br>
+    <i>Number Theory Seminar</i></summary>
+  <small><img src="images/10-06.png" alt="Oct 06"></small>
+</details></li>
+</ul>
 
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>TOPOLOGY &mdash; John Chae (Caltech)</b><br>
+    <i>Knot complements, series invariants and Lie superalgebra</i></summary>
+  <small><img src="images/10-07.png" alt="Oct 07"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>STUDENT ANALYTIC NUMBER THEORY &mdash; Zi Li Lim (UCLA)</b><br>
+    <i>Rational function progressions</i></summary>
+  <small><img src="images/10-08.png" alt="Oct 08"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>BERGMAN LECTURE &mdash; Yanir Rubinstein (University of Maryland, Stanford)</b><br>
+    <i>ACT I - Invitation to Geometry via Mahler's Conjectures: a mathematical opera in three acts</i></summary>
+  <small><img src="images/10-09.png" alt="Oct 09"></small>
+</details></li>
+</ul>
