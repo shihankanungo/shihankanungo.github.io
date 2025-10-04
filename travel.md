@@ -22,5 +22,5 @@ title: Travel &amp;c.
 - **New York City, NY --- Sep 18--20**. Jane Street Celebration of Mathematics. JS put us up at the Marriott in Downtown NYC. There is a cool cafe nearby -- NYC Regular. Hung out with TZ both days (like a lot!); it was so much fun!! Jane Street office is cool -- the NYC office is the first and largest of their offices; it is in the heart of the Financial District, with views of the Hudson River and the Statue of Liberty. We listened to some recruiting speeches and played a few games. Got a lot of swags -- a Sonos Roam speaker, t-shirts, Figgie. Went for dinner to *Oyster Bar* and then hung out for a bit by the water. I was so excited that I went to sleep waaayy past my usual bedtime on Friday night (actually technically Saturday morning).
 - **San Francisco, CA --- Oct 12**. Dua Lipa: *Radical Optimism Tour* at Chase Center, SF.
 - **Cambridge, MA --- Oct 18--20**. MIT PRIMES October Conference.
-- **Berkeley, CA --- Nov 5-7**. The Berkeley Math Tournament (BMT).
+- **Berkeley, CA --- Nov 7-9**. The Berkeley Math Tournament (BMT).
 - **Princeton, NJ --- Nov 21--23**. The Princeton University Mathematics Competition (PUMaC).
