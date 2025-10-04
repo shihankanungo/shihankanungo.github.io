@@ -419,7 +419,7 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 <ul>
 <li><details>
   <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Shengtong Zhang (Stanford)</b><br>
-    <i>Number Theory Seminar</i></summary>
+    <i>Chowla’s cosine problem through spectral graph theory</i></summary>
   <small><img src="images/10-06.png" alt="Oct 06"></small>
 </details></li>
 </ul>
