@@ -442,6 +442,14 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 
 <ul>
 <li><details>
+  <summary style="list-style: none;"><b>COMBINATORICS &mdash; Tara Abrishami (Stanford)</b><br>
+    <i>Beyond chordal graphs</i> </summary>
+  <small><img src="images/10-09b.png" alt="Oct 09"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
   <summary style="list-style: none;"><b>BERGMAN LECTURE &mdash; Yanir Rubinstein (University of Maryland, Stanford)</b><br>
     <i>Invitation to Geometry via Mahler's Conjectures: a mathematical opera in three acts</i></summary>
   <small><img src="images/10-09.png" alt="Oct 09"></small>
