@@ -26,12 +26,6 @@ title: Music &amp;c.
 </details></li>
 </ul>
 
-<ul>
- <li><details>
-  <summary style="list-style-type: none;"> <i>Dua Lipa: Radical Optimism Tour</i>. Chase Center, San Francisco, California, on Sunday, October 12, 2025. </summary>
-  <small>This set list is from the 17 March 2025 concert in Melbourne. [<a href="https://open.spotify.com/playlist/5X5cdPvMqR9kxKuMMz9zL8?si=8c1ca77d33a94ffe">Spotify</a>] <br> <b>Act I</b> &mdash; Training Season &#8226; End of an Era &#8226; Break My Heart &#8226; One Kiss <br> <b>Act II</b> &mdash; Whatcha Doing &#8226; Levitating &#8226; These Walls &#8226; Cover song &#8226; Maria <br> <b>Act III</b> &mdash; Physical &#8226; Electricity &#8226; Hallucinate &#8226; Illusion <br> <b>Act IV</b> &mdash; Falling Forever &#8226; Happy for You &#8226; Love Again &#8226; Anything for Love &#8226; Be the One <br> <b>Encore</b> &mdash; New Rules &#8226; Dance the Night &#8226; Don't Start Now &#8226; Houdini<br></small><br>
-</details></li>
-</ul>
 
 ![StanfordJazzFestival](/images/sjf.png)
 
@@ -105,6 +99,15 @@ Don't miss this chance to witness Cables’ fire, artistry, and sheer mastery—
    
   <small>After winning GRAMMYS in 2022 for <i>Tree Falls</i> and in 2025 for his latest release, <i>Plot Armor</i>, pianist Taylor Eigsti continues to redefine modern jazz with his virtuosity, innovation, and fearless exploration. A master of intricate melodies, infectious yet angular rhythms, and deep grooves, Eigsti seamlessly blends jazz, electronica, hip-hop, rock, and classical influences into a soundscape that is both exhilarating and unpredictable. His music thrills, surprises, and captivates, evoking everything from playful joy to introspective reflection. <br>
 For this special performance Taylor’s innovative quartet is joined by celebrated tenor saxophonist Ben Wendel.<br></small><br>
+</details></li>
+</ul>
+
+![DuaLipaRadicalOptimismTour](/images/dualipa.png)
+
+<ul>
+ <li><details>
+  <summary style="list-style-type: none;"> <i>Dua Lipa: Radical Optimism Tour</i>. Chase Center, San Francisco, California, on Sunday, October 12, 2025. </summary>
+  <small>This set list is from the 17 March 2025 concert in Melbourne. [<a href="https://open.spotify.com/playlist/5X5cdPvMqR9kxKuMMz9zL8?si=8c1ca77d33a94ffe">Spotify</a>] <br> <b>Act I</b> &mdash; Training Season &#8226; End of an Era &#8226; Break My Heart &#8226; One Kiss <br> <b>Act II</b> &mdash; Whatcha Doing &#8226; Levitating &#8226; These Walls &#8226; Cover song &#8226; Maria <br> <b>Act III</b> &mdash; Physical &#8226; Electricity &#8226; Hallucinate &#8226; Illusion <br> <b>Act IV</b> &mdash; Falling Forever &#8226; Happy for You &#8226; Love Again &#8226; Anything for Love &#8226; Be the One <br> <b>Encore</b> &mdash; New Rules &#8226; Dance the Night &#8226; Don't Start Now &#8226; Houdini<br></small><br>
 </details></li>
 </ul>
 
