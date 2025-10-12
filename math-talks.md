@@ -455,3 +455,43 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
   <small><img src="images/10-09.png" alt="Oct 09"></small>
 </details></li>
 </ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Mark Kisin (Harvard)</b><br>
+    <i>Reductions of crystalline representations</i></summary>
+  <small><img src="images/10-13a.png" alt="Oct 13"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>SYMPLECTIC GEOMETRY &mdash; Phil Morrison (UT Austin)</b><br>
+    <i>Flows on metriplectic manifolds</i></summary>
+  <small><img src="images/10-13b.png" alt="Oct 13"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>STUDENT ANALYTIC NUMBER THEORY &mdash; Tim Santens (Cambridge)</b><br>
+    <i>Local solubility of generalised Fermat equations</i></summary>
+  <small><img src="images/10-15a.png" alt="Oct 15"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>BERGMAN LECTURE &mdash; Yanir Rubinstein (University of Maryland, Stanford)</b><br>
+    <i>Invitation to Geometry via Mahler's Conjectures: a mathematical opera in three acts</i></summary>
+  <small><img src="images/10-15b.png" alt="Oct 15"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>DEPARTMENT COLLOQUIUM &mdash; Takashi Sakajo (Kyoto University)</b><br>
+    <i>Topological flow data analysis: how to extract information that matters from flow patterns</i></summary>
+  <small><img src="images/10-16.png" alt="Oct 16"></small>
+</details></li>
+</ul>
