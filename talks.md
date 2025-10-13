@@ -5,7 +5,7 @@ title: Mathematics &mdash; talks (presented)
 
 <p align="center"><img src="/images/talks.png" width="700" /></p><br>
 
-- **MIT PRIMES**. Fifteenth Annual PRIMES Conference, Oct 18-19, 2025 \[ [Link](https://math.mit.edu/research/highschool/primes/conference/conf-2025.html) \] <br>
+- **MIT PRIMES**. Fifteenth Annual PRIMES Conference, Oct 18-19, 2025 \[ [Link](https://math.mit.edu/research/highschool/primes/conference/index.html) \] <br>
   **S. Kanungo**. *Pattern Avoidance in Sequences* <br />
 
 - **Joint Mathematics Meeting (JMM'25)**. PME Contributed Session on Research by Undergraduates. Jan 8-11, 2025 \[ [Link](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Paper/41233) \] <br />
