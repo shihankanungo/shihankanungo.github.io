@@ -24,7 +24,7 @@ title: Travel &amp;c.
 <ul><li style="list-style-type: none;">
 <details>
   <summary style="list-style-type: none;"> Set list from the concert in Chase Center on Sunday, October 12, 2025. [<a href="https://open.spotify.com/playlist/5X5cdPvMqR9kxKuMMz9zL8?si=8c1ca77d33a94ffe">Spotify</a>] </summary>
-  <small><b>Act I</b> &mdash; Training Season &#8226; End of an Era &#8226; Break My Heart &#8226; One Kiss <br> <b>Act II</b> &mdash; Whatcha Doing &#8226; Levitating &#8226; These Walls &#8226; Green Day cover &#8226; Maria <br> <b>Act III</b> &mdash; Physical &#8226; Electricity &#8226; Hallucinate &#8226; Illusion <br> <b>Act IV</b> &mdash; Falling Forever &#8226; Happy for You &#8226; Love Again &#8226; Anything for Love &#8226; Be the One <br> <b>Encore</b> &mdash; New Rules &#8226; Dance the Night &#8226; Don't Start Now &#8226; Houdini</small><br>
+  <small><b>Act I</b> &mdash; Training Season &#8226; End of an Era &#8226; Break My Heart &#8226; One Kiss <br> <b>Act II</b> &mdash; Whatcha Doing &#8226; Levitating &#8226; These Walls &#8226; Wake Me Up When September Ends (Green Day cover) &#8226; Maria <br> <b>Act III</b> &mdash; Physical &#8226; Electricity &#8226; Hallucinate &#8226; Illusion <br> <b>Act IV</b> &mdash; Falling Forever &#8226; Happy for You &#8226; Love Again &#8226; Anything for Love &#8226; Be the One <br> <b>Encore</b> &mdash; New Rules &#8226; Dance the Night &#8226; Don't Start Now &#8226; Houdini</small><br>
 </details></li></ul>
 
 - **Cambridge, MA --- Oct 18--20**. MIT PRIMES October Conference.
