@@ -490,8 +490,18 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 
 <ul>
 <li><details>
+  <summary style="list-style: none;"><b>GEOMETRY &mdash; Riccardo Caniato (Caltech)</b><br>
+    <i>Area rigidity for the regular representation of surface groups</i></summary>
+  <small><img src="images/10-15c.png" alt="Oct 15"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
   <summary style="list-style: none;"><b>DEPARTMENT COLLOQUIUM &mdash; Takashi Sakajo (Kyoto University)</b><br>
     <i>Topological flow data analysis: how to extract information that matters from flow patterns</i></summary>
   <small><img src="images/10-16.png" alt="Oct 16"></small>
 </details></li>
 </ul>
+
+
