@@ -22,6 +22,7 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
   The Great Dictator (1940 d. Charlie Chaplin)  👍
 - Alice Doesn't Live Here Anymore (1974 d. Martin Scorsese)
 - Top Gun (1986 d. Tony Scott)
+- Forrest Gump (1994 d. Robert Zemeckis)
 - Good Will Hunting (1997 d. Gus Van Sant)  👍
 - A Beautiful Mind (2001 d. Ron Howard)
 - Juno (2007 d. Jason Reitman)
