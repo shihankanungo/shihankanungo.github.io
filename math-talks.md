@@ -495,3 +495,35 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
   <small><img src="images/10-15c.png" alt="Oct 15"></small>
 </details></li>
 </ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Ben Church (Stanford)</b><br>
+    <i>Shioda's conjecture on unirationality</i></summary>
+  <small><img src="images/10-20a.png" alt="Oct 20"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>SYMPLECTIC GEOMETRY &mdash; Giovanni Ambrosioni (ETH)</b><br>
+    <i>Approximability for Lagrangian submanifolds</i></summary>
+  <small><img src="images/10-20b.png" alt="Oct 20"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>TOPOLOGY &mdash; Gheehyun Nahm (Princeton University)</b><br>
+    <i>Unoriented link Floer homology and Khovanov homology</i></summary>
+  <small><img src="images/10-21.png" alt="Oct 21"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>BERGMAN LECTURE &mdash; Yanir Rubinstein (University of Maryland, Stanford)</b><br>
+    <i>Invitation to Geometry via Mahler's Conjectures: a mathematical opera in three acts</i></summary>
+  <small><img src="images/10-23.png" alt="Oct 23"></small>
+</details></li>
+</ul>
