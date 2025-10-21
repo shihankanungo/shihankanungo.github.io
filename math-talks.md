@@ -514,14 +514,6 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 
 <ul>
 <li><details>
-  <summary style="list-style: none;"><b>TOPOLOGY &mdash; Gheehyun Nahm (Princeton University)</b><br>
-    <i>Unoriented link Floer homology and Khovanov homology</i></summary>
-  <small><img src="images/10-21.png" alt="Oct 21"></small>
-</details></li>
-</ul>
-
-<ul>
-<li><details>
   <summary style="list-style: none;"><b>GEOMETRY &mdash; Mingyang Li (Simons Center, Stony Brook)</b><br>
     <i>Gravitational instantons and harmonic maps</i></summary>
   <small><img src="images/10-22.png" alt="Oct 22"></small>
