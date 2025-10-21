@@ -522,6 +522,14 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 
 <ul>
 <li><details>
+  <summary style="list-style: none;"><b>GEOMETRY &mdash; Mingyang Li (Simons Center, Stony Brook)</b><br>
+    <i>Gravitational instantons and harmonic maps</i></summary>
+  <small><img src="images/10-22.png" alt="Oct 22"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
   <summary style="list-style: none;"><b>BERGMAN LECTURE &mdash; Yanir Rubinstein (University of Maryland, Stanford)</b><br>
     <i>Invitation to Geometry via Mahler's Conjectures: a mathematical opera in three acts</i></summary>
   <small><img src="images/10-23.png" alt="Oct 23"></small>
