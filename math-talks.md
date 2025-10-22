@@ -514,9 +514,9 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 
 <ul>
 <li><details>
-  <summary style="list-style: none;"><b>GEOMETRY &mdash; Mingyang Li (Simons Center, Stony Brook)</b><br>
-    <i>Gravitational instantons and harmonic maps</i></summary>
-  <small><img src="images/10-22.png" alt="Oct 22"></small>
+  <summary style="list-style: none;"><b>COMBINATORICS &mdash; Freddie Manners (UCSD)</b><br>
+    <i>Marton's Conjecture, aka the Polynomial Freiman--Ruzsa conjecture</i></summary>
+  <small><img src="images/10-23a.png" alt="Oct 23"></small>
 </details></li>
 </ul>
 
