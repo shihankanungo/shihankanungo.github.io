@@ -48,5 +48,6 @@ These are the books I have read in 2025 (so far!) <br>
 - *London: The Biography* by Peter Ackroyd. 2000
 - *Elliptic Tales: Curves, Counting, and Number Theory* <br> by Avner Ash and Robert Gross. 2012
 - *Never Split The Difference: Negotiating As If Your Life Depended On It* <br> by Christopher Voss, Tahl Raz. 2016
+- *The Usefulness of Useless Knowledge* by Abraham Flexner. 2017
 - *Purpose: What Evolution and Human Nature Imply about the Meaning of Our Existence* <br> by Samuel Wilkinson. 2024
 - *The Formula: How Rogues, Geniuses, and Speed Freaks Reengineered F1 into the World's Fastest-Growing Sport* by Joshua Robinson and Jonathan Clegg. 2024
