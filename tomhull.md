@@ -75,6 +75,7 @@ title: Tom Hull
 ## 1,000 Albums for a Long and Happy Life
 Note: listing is alphabetical, by artist, then by year; except for Various Artists [VA] compilations at the end, which should be alphabetical by title. + indicates album added after 2009 (pushing the count up).
 
+### African music
 - King Sunny Ade: The Best of the Classic Years (1967-74 [2003], Shanachie) [african]
 - Amadou and Mariam: Dimanche à Bamako (2005, Nonesuch) [african]
 - Alpha Blondy: The Best of Alpha Blondy (1990, Shanachie) [african]
@@ -122,7 +123,7 @@ Note: listing is alphabetical, by artist, then by year; except for Various Artis
 - Soweto Never Sleeps ([1986], Shanachie) [african]
 - Township Jazz 'n' Jive (1939-65 [1997], Music Club) [african]
 
-
+### Jazz
 - Benny Carter: Further Definitions: The Complete Further Definitions Sessions (1961-66 [1997], Impulse): [jazz-20s]
 - Henry "Red" Allen: World on a String (1957 [1991], RCA) [jazz-20s]
 - Louis Armstrong: Portait of the Artist as a Young Man (1923-34 [1994], Columbia, 4CD) [jazz-20s]
