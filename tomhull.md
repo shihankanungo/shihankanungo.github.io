@@ -180,7 +180,7 @@ Note: listing is alphabetical, by artist, then by year; except for Various Artis
 - Lester Young: The Essential Keynote Collection 1: The Complete Lester Young 
 - Lester Young: The President Plays with the Oscar Peterson Trio (1952, Verve)
 - Lester Young/Teddy Wilson: Pres and Teddy (1956, Verve)
-- American Pop: An Audio History from Minstrel to Mojo on Record, 1893-1946 (West Hill, 9CD)
+- American Pop: An Audio History from Minstrel to Mojo on Record, 1893-1946 (9CD)
 - Dope and Glory: Reefer Songs der 30er und 40er Jahre (1925-47, Trikont, 2CD)
 - That Devilin' Tune: A Jazz History [1895-1950]: Volumes 1-4 (WHRA, 36CD)
 
