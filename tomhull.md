@@ -365,7 +365,9 @@ Note: listing is alphabetical, by artist, then by year; except for Various Artis
 - Bobby Watson: Love Remains (1986, Red) 
 - World Saxophone Quartet: Political Blues (2006, Justin Time) 
 - Larry Young: Unity (1965, Blue Note) 
-- John Zorn: News for Lulu (1987, Hat Art) 
+- John Zorn: News for Lulu (1987, Hat Art)
+
+### Jazz (1980's)
 - Harry Allen: Blue Skies (1994, John Marks) 
 - Tim Berne/Drew Gress/Tom Rainey [Paraphrase]: Pre-Emptive Denial (2005, Screwgun) 
 - Abraham Burton: The Magician (1995, Enja) 
@@ -410,6 +412,8 @@ Note: listing is alphabetical, by artist, then by year; except for Various Artis
 - Hal Willner: Lost in the Stars: The Music of Kurt Weill (1985, A&M) 
 - Zu/Spaceways Inc.: Radiale (2003 [2004], Atavistic) 
 - Jewels and Binoculars: Ships With Tattooed Sails (2006 [2007], Upshot): 
+
+### Jazz (2000's)
 - Nik Bärtsch: Rea (2003 [2006], Ronin Rhythm) 
 - Raoul Björkenheim/Lukas Ligeti: Shadowglow (2003, TUM) 
 - Heroes Are Gang Leaders: The Amiri Baraka Sessions (2014-15 (2019), Flat Langston's Arkeyes) 
@@ -420,6 +424,8 @@ Note: listing is alphabetical, by artist, then by year; except for Various Artis
 - Sonic Liberation Front: Ashé a Go-Go (2004, High Two) 
 - Tyshawn Sorey Trio + 1 [With Greg Osby]: The Off-Off Broadway Guide to Synergism (2022, Pi) 
 - Triage: American Mythology (2004, Okka Disk) 
+
+### Latin Jazz
 - Machito: Mambo Mucho Mambo: The Complete Columbia Masters (1951-57 [2002], Columbia/Legacy) 
 - Roberto Juan Rodriguez: El Danzon de Moises (2002, Tzadik) 
 - Bebo Valdés/Dieguito El Cigala: Lágrimas Negras (2002, Calle 54, 2CD) 
