@@ -123,66 +123,68 @@ Note: listing is alphabetical, by artist, then by year; except for Various Artis
 - Soweto Never Sleeps ([1986], Shanachie) [african]
 - Township Jazz 'n' Jive (1939-65 [1997], Music Club) [african]
 
-### Jazz
-- Benny Carter: Further Definitions: The Complete Further Definitions Sessions (1961-66 [1997], Impulse): [jazz-20s]
-- Henry "Red" Allen: World on a String (1957 [1991], RCA) [jazz-20s]
-- Louis Armstrong: Portait of the Artist as a Young Man (1923-34 [1994], Columbia, 4CD) [jazz-20s]
-- Louis Armstrong: The California Concerts (1951-55 [1992], Decca, 4CD) [jazz-20s]
-- Count Basie: The Complete Decca Recordings (1937-39 [1992], MCA, 3CD) [jazz-20s]
-- Benny Carter/Arnold Ross: The Complete Benny Carter: The Essential Keynote Collection 7 (1946 [1987], Mercury) [jazz-20s]
-- Benny Carter: Cosmopolite: The Oscar Peterson Sessions (1952-54 [1994], Verve) [jazz-20s]
-- Oscar "Papa" Celestin/Sam Morgan: Papa Celestin and Sam Morgan (1925-28, Azure) [jazz-20s]
-- Charlie Christian: Genius of the Electric Guitar (1939-41 [1987], Columbia) [jazz-20s]
-- Roy Eldridge: Little Jazz (1935-40 [1989], Columbia) [jazz-20s]
-- Roy Eldridge: Little Jazz: The Best of the Verve Years (1951-60 [1994], Verve) [jazz-20s]
-- Duke Ellington: The Bubber Miley Era: 1924-1929 (1924-29 [2003], Jazz Legends) [jazz-20s]
-- Duke Ellington: Never No Lament: The Blanton-Webster Band (1940-42 [2003]) [jazz-20s]
-- Duke Ellington: Ellington at Newport 1956 (Complete) (1956 [1999], Columbia/Legacy, 2CD) [jazz-20s]
-- Duke Ellington/Johnny Hodges: Back to Back / Side by Side (1958-59, Verve, 2CD) [jazz-20s]
-- Duke Ellington/Coleman Hawkins: Duke Ellington Meets Coleman Hawkins (1962 [1995], Impulse) [jazz-20s]
-- Duke Ellington: The Far East Suite: Special Mix (1966 [1995], RCA) [jazz-20s]
-- Duke Ellington: His Mother Called Him Bill (1967 [1987], RCA) [jazz-20s]
-- Bud Freeman: Chicago / Austin High School Jazz in Hi-Fi (1957 [2007], Mosaic) [jazz-20s]
-- Benny Goodman: B.G. in Hi-Fi (1954 [1989], Capitol) [jazz-20s]
-- Lionel Hampton: Hot Mallets Vol. 1 (1937-39 [1987], RCA Bluebird) [jazz-20s]
-- Lionel Hampton: Flying Home (1942-45 [1990], Decca) [jazz-20s]
-- Coleman Hawkins: The Bebop Years (1939-49 [2000], Proper, 4CD) [jazz-20s]
-- Coleman Hawkins/Ben Webster: Coleman Hawkins Encounters Ben Webster (1957, Verve) [jazz-20s]
-- Coleman Hawkins: Soul (1958, Prestige) [jazz-20s]
-- Coleman Hawkins: Today and Now (1962, Impulse) [jazz-20s]
-- Fletcher Henderson: A Study in Frustration (1923-38 [1994], Columbia, 3CD) [jazz-20s]
-- Earl Hines: Up to Date (1964 [1988], RCA Bluebird) [jazz-20s]
-- Earl Hines: Live at the Village Vanguard (1965 [1988], Columbia) [jazz-20s]
-- Earl Hines: Tour de Force (1972 [1989], Black Lion) [jazz-20s]
-- Johnny Hodges: Passion Flower (1940-46 [1995], RCA) [jazz-20s]
-- Johnny Hodges: Everybody Knows Johnny Hodges (1964-65 [1992], Impulse) [jazz-20s]
-- Johnny Hodges: Triple Play (1967 [1995], RCA) [jazz-20s]
-- George Lewis: The Beverley Caverns Sessions (1953, Good Time Jazz) [jazz-20s]
-- Jimmie Lunceford: For Dancers Only (1935-37 [1994], Decca) [jazz-20s]
-- McKinney's Cotton Pickers: The Band Don Redman Built (1928-1930) (1928-30, RCA Bluebird) [jazz-20s]
-- Jelly Roll Morton: The Pearls (1926-39 [1988], RCA) [jazz-20s]
-- Don Redman: Doin' What I Please (1925-38 [1993], ASV) [jazz-20s]
-- Django Reinhardt/Stéphane Grappelli: Swing from Paris (1935-39, ASV) [jazz-20s]
-- Artie Shaw: The Essential Artie Shaw (1936-53 [2005], Bluebird/Legacy, 2CD) [jazz-20s]
-- Muggsy Spanier: The "Ragtime Band" Sessions (1939 [1995], RCA Bluebird) [jazz-20s]
-- Art Tatum: 20th Century Piano Genius (1950-55 [1996], Verve, 2CD) [jazz-20s]
-- Art Tatum: The Tatum Group Masterpieces, Vols. 2, 7, 8 (1955-56, Pablo, 3CD) [jazz-20s]
-- Jack Teagarden/Pee Wee Russell: Jack Teagarden's Big Eight / Pee Wee Russell's Rhythmakers (1938-40, Riverside) [jazz-20s]
-- Fats Waller: If You Got to Ask, You Ain't Got It (1926-43 [2006], Bluebird/Legacy, 3CD) [jazz-20s]
-- Chick Webb: Spinnin' the Webb (1929-39, Decca) [jazz-20s] 
-- Ben Webster: Cottontail: The Best of Ben Webster 1931-1944 (1931-44 [1995], ASV) [jazz-20s]
-- Ben Webster: King of the Tenors (1953 [1993], Verve) [jazz-20s]
-- Ben Webster: Soulville (1957 [2003], Verve) [jazz-20s]
-- Ben Webster: The Soul of Ben Webster (1957-58 [1995], Verve, 2CD) [jazz-20s]
-- Ben Webster/Harry Eddison: Ben and Sweets (1962 [1987], Columbia) [jazz-20s]
-- Mary Lou Williams: A Grand Night for Swinging (1976 [2008], High Note) [jazz-20s]
-- Lester Young: Lester Leaps In: His Greatest Recordings 1936-1944 (1936-44 [1995], ASV) [jazz-20s]
-- Lester Young: The Essential Keynote Collection 1: The Complete Lester Young (1944 [1987], Mercury) [jazz-20s]
-- Lester Young: The President Plays with the Oscar Peterson Trio (1952 [1959], Verve) [jazz-20s]
-- Lester Young/Teddy Wilson: Pres and Teddy (1956 [1986], Verve) [jazz-20s]
-- American Pop: An Audio History from Minstrel to Mojo on Record, 1893-1946 (1893-46 [1998], West Hill, 9CD) [jazz-20s]
-- Dope and Glory: Reefer Songs der 30er und 40er Jahre (1925-47 [2002], Trikont, 2CD) [jazz-20s]
-- That Devilin' Tune: A Jazz History [1895-1950]: Volumes 1-4 (1895-1951 [2007], WHRA, 36CD) [jazz-20s]
+### Jazz (1920's)
+- Benny Carter: The Complete Further Definitions Sessions (1961-66, Impulse)
+- Henry "Red" Allen: World on a String (1957 [1991], RCA)
+- Louis Armstrong: Portait of the Artist as a Young Man (1923-34 [1994], Columbia, 4CD)
+- Louis Armstrong: The California Concerts (1951-55 [1992], Decca, 4CD) 
+- Count Basie: The Complete Decca Recordings (1937-39 [1992], MCA, 3CD) 
+- Benny Carter/Arnold Ross: The Complete Benny Carter: The Essential Keynote Collection 7
+- Benny Carter: Cosmopolite: The Oscar Peterson Sessions (1952-54 [1994], Verve) 
+- Oscar "Papa" Celestin/Sam Morgan: Papa Celestin and Sam Morgan (1925-28, Azure) 
+- Charlie Christian: Genius of the Electric Guitar (1939-41 [1987], Columbia) 
+- Roy Eldridge: Little Jazz (1935-40 [1989], Columbia) 
+- Roy Eldridge: Little Jazz: The Best of the Verve Years (1951-60 [1994], Verve)
+- Duke Ellington: The Bubber Miley Era: 1924-1929 (1924-29 [2003], Jazz Legends)
+- Duke Ellington: Never No Lament: The Blanton-Webster Band (1940-42 [2003])
+- Duke Ellington: Ellington at Newport 1956 (Complete) (1956 [1999], Columbia/Legacy, 2CD)
+- Duke Ellington/Johnny Hodges: Back to Back / Side by Side (1958-59, Verve, 2CD) 
+- Duke Ellington/Coleman Hawkins: Duke Ellington Meets Coleman Hawkins (1962 [1995], Impulse)
+- Duke Ellington: The Far East Suite: Special Mix (1966 [1995], RCA)
+- Duke Ellington: His Mother Called Him Bill (1967 [1987], RCA)
+- Bud Freeman: Chicago / Austin High School Jazz in Hi-Fi (1957 [2007], Mosaic)
+- Benny Goodman: B.G. in Hi-Fi (1954 [1989], Capitol)
+- Lionel Hampton: Hot Mallets Vol. 1 (1937-39 [1987], RCA Bluebird)
+- Lionel Hampton: Flying Home (1942-45 [1990], Decca)
+- Coleman Hawkins: The Bebop Years (1939-49 [2000], Proper, 4CD)
+- Coleman Hawkins/Ben Webster: Coleman Hawkins Encounters Ben Webster (1957, Verve)
+- Coleman Hawkins: Soul (1958, Prestige)
+- Coleman Hawkins: Today and Now (1962, Impulse)
+- Fletcher Henderson: A Study in Frustration (1923-38 [1994], Columbia, 3CD)
+- Earl Hines: Up to Date (1964 [1988], RCA Bluebird)
+- Earl Hines: Live at the Village Vanguard (1965 [1988], Columbia)
+- Earl Hines: Tour de Force (1972 [1989], Black Lion)
+- Johnny Hodges: Passion Flower (1940-46 [1995], RCA) 
+- Johnny Hodges: Everybody Knows Johnny Hodges (1964-65 [1992], Impulse)
+- Johnny Hodges: Triple Play (1967 [1995], RCA) 
+- George Lewis: The Beverley Caverns Sessions (1953, Good Time Jazz)
+- Jimmie Lunceford: For Dancers Only (1935-37 [1994], Decca) 
+- McKinney's Cotton Pickers: The Band Don Redman Built (1928-1930) (RCA Bluebird)
+- Jelly Roll Morton: The Pearls (1926-39 [1988], RCA)
+- Don Redman: Doin' What I Please (1925-38 [1993], ASV)
+- Django Reinhardt/Stéphane Grappelli: Swing from Paris (1935-39, ASV)
+- Artie Shaw: The Essential Artie Shaw (1936-53 [2005], Bluebird/Legacy, 2CD) 
+- Muggsy Spanier: The "Ragtime Band" Sessions (1939 [1995], RCA Bluebird)
+- Art Tatum: 20th Century Piano Genius (1950-55 [1996], Verve, 2CD)
+- Art Tatum: The Tatum Group Masterpieces, Vols. 2, 7, 8 (1955-56, Pablo, 3CD)
+- Jack Teagarden's Big Eight / Pee Wee Russell's Rhythmakers (1938-40, Riverside) 
+- Fats Waller: If You Got to Ask, You Ain't Got It (1926-43 [2006], Bluebird/Legacy, 3CD) 
+- Chick Webb: Spinnin' the Webb (1929-39, Decca) 
+- Ben Webster: Cottontail: The Best of Ben Webster 1931-1944 (1931-44 [1995], ASV)
+- Ben Webster: King of the Tenors (1953 [1993], Verve)
+- Ben Webster: Soulville (1957 [2003], Verve)
+- Ben Webster: The Soul of Ben Webster (1957-58 [1995], Verve, 2CD)
+- Ben Webster/Harry Eddison: Ben and Sweets (1962 [1987], Columbia)
+- Mary Lou Williams: A Grand Night for Swinging (1976 [2008], High Note)
+- Lester Young: Lester Leaps In: His Greatest Recordings 1936-1944 (1936-44 [1995], ASV) 
+- Lester Young: The Essential Keynote Collection 1: The Complete Lester Young 
+- Lester Young: The President Plays with the Oscar Peterson Trio (1952 [1959], Verve)
+- Lester Young/Teddy Wilson: Pres and Teddy (1956 [1986], Verve)
+- American Pop: An Audio History from Minstrel to Mojo on Record, 1893-1946 (West Hill, 9CD)
+- Dope and Glory: Reefer Songs der 30er und 40er Jahre (1925-47 [2002], Trikont, 2CD)
+- That Devilin' Tune: A Jazz History [1895-1950]: Volumes 1-4 (1895-1951 [2007], WHRA, 36CD)
+
+### Jazz (1940's)
 - Gene Ammons: Boss Tenor (1960 [1987], Prestige) [jazz-40s]
 - Chris Barber: Panama! (1991, Timeless) [jazz-40s]
 - Art Blakey: Roots and Herbs (1961 [1999], Blue Note) [jazz-40s]
