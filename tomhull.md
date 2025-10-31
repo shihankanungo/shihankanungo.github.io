@@ -417,17 +417,17 @@ Note: listing is alphabetical, by artist, then by year; except for Various Artis
 ### Jazz (2000's)
 - Nik Bärtsch: Rea (2003 [2006], Ronin Rhythm) 
 - Raoul Björkenheim/Lukas Ligeti: Shadowglow (2003, TUM) 
-- Heroes Are Gang Leaders: The Amiri Baraka Sessions (2014-15 (2019), Flat Langston's Arkeyes) 
+- Heroes Are Gang Leaders: The Amiri Baraka Sessions (2019) 
 - Steve Lehman: Mise en Abîme (2014, Pi) 
-- Steve Lehman/Craig Taborn: The People I Love (2018 [2019], Pi) [jazz-00s]
-- Mark Lomax, II & the Urban Art Ensemble: 400 Years Suite (2020, CFG Multimedia) 
-- Mostly Other People Do the Killing: Shamokin!!! (2006 [2007], Hot Cup) 
+- Steve Lehman/Craig Taborn: The People I Love (2018 [2019], Pi)
+- Mark Lomax II & the Urban Art Ensemble: 400 Years Suite (CFG Multimedia) 
+- Mostly Other People Do the Killing: Shamokin!!! (2006, Hot Cup) 
 - Sonic Liberation Front: Ashé a Go-Go (2004, High Two) 
-- Tyshawn Sorey Trio + 1 [With Greg Osby]: The Off-Off Broadway Guide to Synergism (2022, Pi) 
+- Tyshawn Sorey Trio + 1: The Off-Off Broadway Guide to Synergism (Pi) 
 - Triage: American Mythology (2004, Okka Disk) 
 
 ### Latin Jazz
-- Machito: Mambo Mucho Mambo: The Complete Columbia Masters (1951-57 [2002], Columbia/Legacy) 
+- Machito: Mambo Mucho Mambo: The Complete Columbia Masters (1951-57) 
 - Roberto Juan Rodriguez: El Danzon de Moises (2002, Tzadik) 
 - Bebo Valdés/Dieguito El Cigala: Lágrimas Negras (2002, Calle 54, 2CD) 
 - Chucho Valdés: Briyumba Palo Congo (1999, Blue Note)
