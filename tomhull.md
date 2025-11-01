@@ -520,7 +520,7 @@ Note: listing is alphabetical, by artist, then by year; except for Various Artis
 - Floyd Tillman: The Best of Floyd Tillman ([1999], Collector's Choice) 
 - Merle Travis: Folksongs of the Hills/Back Home/Songs of the Coalmines (Bear Family) 
 - Merle Travis: The Best of Merle Travis (1946-68 [1990], Rhino) 
-- Randy Travis: Trail of Memories: The Randy Travis Anthology (1985-99 [2002], Rhino, 2CD) 
+- Randy Travis: Trail of Memories: The Randy Travis Anthology (1985-99, Rhino, 2CD) 
 - Ernest Tubb: The Definitive Collection (1941-66 [2006], MCA Nashville/Chronicles) 
 - Kitty Wells: Country Music Hall of Fame Series (1952-65 [1991], MCA) 
 - Keith Whitley: I Wonder Do You Think of Me (1989, RCA) 
