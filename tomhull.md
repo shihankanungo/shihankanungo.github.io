@@ -514,7 +514,7 @@ Note: listing is alphabetical, by artist, then by year; except for Various Artis
 - Buck Owens: 21 #1 Hits: The Ultimate Collection (1963-88 [2006], Rhino) 
 - Hank Snow: The Essential Hank Snow (1950-74 [1997], RCA) 
 - Gary Stewart: Out of Hand (1975 [1991], Hightone) 
-- James Talley: Got No Bread, No Milk, No Money, But We Sure Got a Lot of Love (1975, Capitol) 
+- James Talley: Got No Bread, No Milk, No Money, But We Sure Got a Lot of Love 
 - Texas Tornados: The Best of Texas Tornados ([1993], Reprise) 
 - Hank Thompson: Vintage Collections (1947-61 [1996], Capitol) 
 - Floyd Tillman: The Best of Floyd Tillman ([1999], Collector's Choice) 
