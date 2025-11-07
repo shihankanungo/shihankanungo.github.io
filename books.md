@@ -11,6 +11,7 @@ title: Reading &amp;c.
 These are the books I have read in 2025 (so far!) <br>
 
 ### Fiction
+- *Crime and Punishment* by Fyodor Dostoevsky. 1866
 - *Siddhartha* by Herman Hesse. 1922 
 - *A Clockwork Orange* by Anthony Burgess. 1962
 - *Love Story* by Erich Segal. 1970
