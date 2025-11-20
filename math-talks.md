@@ -527,3 +527,17 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
   <small><img src="images/10-23.png" alt="Oct 23"></small>
 </details></li>
 </ul>
+
+## SJSU Math Department Colloquium.
+
+![sjsu-math](images/sjsu-math.png)
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Brian Conrad, Stanford University</b><br>
+    <i>Finite subgroups of matrix groups over infinite fields</i></summary>
+  <small><img src="images/11-19.png" alt="Nov 19"></small>
+</details></li>
+ </ul>
+
+
