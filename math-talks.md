@@ -528,8 +528,6 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 </details></li>
 </ul>
 
-## SJSU Math Department Colloquium.
-
 ![sjsu-math](images/sjsu-math.png)
 
 <ul>
