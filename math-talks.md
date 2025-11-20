@@ -528,7 +528,7 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 </details></li>
 </ul>
 
-![sjsu-math](images/sjsu-math.png)
+![sjsu-math](images/sjsu-math-stats.png)
 
 <ul>
 <li><details>
