@@ -538,4 +538,14 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 </details></li>
  </ul>
 
+ ![pumac](images/pumac.png)
+
+ <ul>
+<li><details>
+  <summary style="list-style: none;"><b>MODEL THEORY &mdash; Jacob Tsimerman, IAS/University of Toronto</b><br>
+    <i>The Ax–Grothendieck theorem: a gentle introduction to Model Theory</i></summary>
+  <small><img src="images/11-22.png" alt="Nov 22"></small>
+</details></li>
+ </ul>
+
 
