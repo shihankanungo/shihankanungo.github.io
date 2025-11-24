@@ -25,6 +25,7 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
 - Forrest Gump (1994 d. Robert Zemeckis)
 - Good Will Hunting (1997 d. Gus Van Sant)  👍
 - A Beautiful Mind (2001 d. Ron Howard)
+- Catch Me If You Can (2002 d. Steven Spielberg)
 - Juno (2007 d. Jason Reitman)
 - Easy A (2010 d. Will Gluck)
 - Crazy Stupid Love (2011 d. Glenn Ficarra and John Requa)
