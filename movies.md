@@ -64,7 +64,7 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
   Pink Floyd at Pompeii – MCMLXXII (2025 d. Adrian Maben) 🎥 <br>
   We Want The Funk! (2025 d. Stanley Nelson and Nicole London) 👍 <br> <small>_PBS Independent Lens documentary_</small>
 
-I notice now that for almost every year *Y* in 2001-2025 I have watched a movie that was released in year *Y*. I might as well try, in the remaining days of this year, to fill in the gaps. Here's what I have so far:
+I recently realized the following fun fact re. the movies I have watched this year: for almost every year between 2001 and 2025, I’ve watched at least one film released in that year. With only a few gaps left, it seems like a fun end-of-year project to finish the set &mdash; one movie per missing year. I might as well try to fill in those remaining slots over the next few days and complete the streak.
 
 - 2001: A Beautiful Mind (d. Ron Howard)
 - 2002: Catch Me If You Can (d. Steven Spielberg)
