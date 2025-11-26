@@ -89,7 +89,7 @@ I notice now that for almost every year *Y* in 2001-2025 I have watched a movie 
 - 2021: Coda (d. Sian Heder) 👍
 - 2022: Hundreds of Beavers (d. Mike Cheslik) 👍
 - 2023: The Wonderful Story of Henry Sugar (d. Wes Anderson)
-- 2024: Flow (d. Gints Zilbalodis) 🎥
+- 2024: Robot Dreams (d. Pablo Berger) 👍
 - 2025: F1 (d. Joseph Kosinski) 🎥 👍
 
   
