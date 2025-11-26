@@ -63,3 +63,34 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
   Becoming Led Zeppelin (2025 d. Bernard MacMahon) <br>
   Pink Floyd at Pompeii – MCMLXXII (2025 d. Adrian Maben) 🎥 <br>
   We Want The Funk! (2025 d. Stanley Nelson and Nicole London) 👍 <br> <small>_PBS Independent Lens documentary_</small>
+
+I notice now that for almost every year *Y* in 2001-2025 I have watched a movie that was released in year *Y*. I might as well try, in the remaining days of this year, to fill in the gaps. Here's what I have so far:
+
+- 2001: A Beautiful Mind (d. Ron Howard)
+- 2002: Catch Me If You Can (d. Steven Spielberg)
+- 2003:
+- 2004:
+- 2005: The Curse of the Were-Rabbit (d. Nick Park, Steve Box)
+- 2006:
+- 2007: Juno (d. Jason Reitman)
+- 2008: Kung Fu Panda (d. John Stevenson and Mark Osborne)
+- 2009: Fantastic Mr. Fox (d. Wes Anderson)
+- 2010: Easy A (d. Will Gluck)
+- 2011: Crazy Stupid Love (d. Glenn Ficarra and John Requa)
+- 2012: Zero Dark Thirty (d. Kathryn Bigelow)
+- 2013: The Hunger Games: Catching Fire (d. Francis Lawrence)
+- 2014: The Grand Budapest Hotel (d. Wes Anderson) 👍
+- 2015: The Hunger Games: Mockingjay – Part 2 (d. Francis Lawrence)
+- 2016:
+- 2017:
+- 2018: Love, Simon (d. Greg Berlanti)
+- 2019:
+- 2020: Miss Americana (d. Lana Wilson)
+- 2021: Coda (d. Sian Heder) 👍
+- 2022: Hundreds of Beavers (d. Mike Cheslik) 👍
+- 2023: The Wonderful Story of Henry Sugar (d. Wes Anderson)
+- 2024: Flow (d. Gints Zilbalodis) 🎥
+- 2025: F1 (d. Joseph Kosinski) 🎥 👍
+
+  
+  
