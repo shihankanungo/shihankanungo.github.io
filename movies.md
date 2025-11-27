@@ -68,8 +68,8 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
 I recently realized the following fun fact re. the movies I have watched this year: for almost every year between 2001 and 2025, I’ve watched at least one film released in that year. With only a few gaps left, it seems like a fun end-of-year project to finish the set &mdash; one movie per missing year. I might as well try to fill in those remaining slots over the next few days and complete the streak.
 
 - 2001: A Beautiful Mind (d. Ron Howard)
-- 2002: Catch Me If You Can (d. Steven Spielberg) <- Nov 25
-- 2003: Kill Bill: Vol. 1 (d. Quentin Tarantino) <- Nov 26
+- **2002**: Catch Me If You Can (d. Steven Spielberg) 
+- **2003**: Kill Bill: Vol. 1 (d. Quentin Tarantino) 
 - 2004:
 - 2005: The Curse of the Were-Rabbit (d. Nick Park, Steve Box)
 - 2006:
