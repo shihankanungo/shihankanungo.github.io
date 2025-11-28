@@ -93,7 +93,7 @@ I recently realized the following fun fact re. the movies I have watched this ye
 - 2024: Robot Dreams (d. Pablo Berger) 👍
 - 2025: F1 (d. Joseph Kosinski) 🎥 👍
 
-With only a few gaps left, it seems like a fun end-of-year project to finish the set &mdash; one movie per missing year. I might as well try to fill in those remaining slots over the next few days and complete the streak (Newly added movies will be in bold font). This is my current wishlist:
+With only a few gaps left, it seems like a fun end-of-year project to finish the set &mdash; one movie per missing year. I might as well try to fill in those remaining slots over the next few days and complete the streak (these will be indicated in bold font). This is my current wishlist:
 
 - 2004: Kill Bill: Vol. 2 (d. Quentin Tarantino) 2h 17m
 - 2006: Pan's Labyrinth (d. Guillermo del Toro) 2h
