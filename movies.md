@@ -14,8 +14,6 @@ I love watching movies, both in theaters (marked by 🎥 below), as well as at h
 
 Below is a lovingly curated list of movies I've watched *so far* this year&mdash;films I'd recommend to friends, strangers, time travelers, and probably even sworn enemies. If it’s listed here, it’s worth your time. If it’s marked with a 👍, it's a full-throated endorsement&mdash;like, stop-what-you're-doing-and-watch-it levels of enthusiasm. You're welcome in advance. Stay tuned for more!
 
-<br>
-
 - **Charlie Chaplin** <br>
   City Lights (1931 d. Charlie Chaplin) <br>
   Modern Times (1936 d. Charlie Chaplin) <br>
