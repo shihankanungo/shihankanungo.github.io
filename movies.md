@@ -25,7 +25,7 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
 - Forrest Gump (1994 d. Robert Zemeckis)
 - Good Will Hunting (1997 d. Gus Van Sant)  👍
 - A Beautiful Mind (2001 d. Ron Howard)
-- Catch Me If You Can (2002 d. Steven Spielberg)
+- Catch Me If You Can (2002 d. Steven Spielberg)  👍
 - Kill Bill: Vol. 1 (2003 d. Quentin Tarantino) 
 - Juno (2007 d. Jason Reitman)
 - Easy A (2010 d. Will Gluck)
@@ -68,7 +68,7 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
 I recently realized the following fun fact re. the movies I have watched this year: for almost every year between 2001 and 2025, I’ve watched at least one film released in that year. This is what I have so far:
 
 - 2001: A Beautiful Mind (d. Ron Howard)
-- **2002: Catch Me If You Can (d. Steven Spielberg)**
+- **2002: Catch Me If You Can (d. Steven Spielberg)**  👍
 - **2003: Kill Bill: Vol. 1 (d. Quentin Tarantino)**
 - 2004:
 - 2005: The Curse of the Were-Rabbit (d. Nick Park, Steve Box)
