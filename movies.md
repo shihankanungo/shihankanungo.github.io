@@ -65,7 +65,7 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
   Pink Floyd at Pompeii – MCMLXXII (2025 d. Adrian Maben) 🎥 <br>
   We Want The Funk! (2025 d. Stanley Nelson and Nicole London) 👍 <br> <small>_PBS Independent Lens documentary_</small>
 
-I recently realized the following fun fact re. the movies I have watched this year: for almost every year between 2001 and 2025, I’ve watched at least one film released in that year. With only a few gaps left, it seems like a fun end-of-year project to finish the set &mdash; one movie per missing year. I might as well try to fill in those remaining slots over the next few days and complete the streak.
+I recently realized the following fun fact re. the movies I have watched this year: for almost every year between 2001 and 2025, I’ve watched at least one film released in that year. This is what I have so far:
 
 - 2001: A Beautiful Mind (d. Ron Howard)
 - **2002: Catch Me If You Can (d. Steven Spielberg)**
@@ -93,5 +93,16 @@ I recently realized the following fun fact re. the movies I have watched this ye
 - 2024: Robot Dreams (d. Pablo Berger) 👍
 - 2025: F1 (d. Joseph Kosinski) 🎥 👍
 
-  
+With only a few gaps left, it seems like a fun end-of-year project to finish the set &mdash; one movie per missing year. I might as well try to fill in those remaining slots over the next few days and complete the streak (Newly added movies will be in bold font). This is my current wishlist:
+
+- 2004: Kill Bill: Vol. 2 (d. Quentin Tarantino) 2h 17m
+- 2006: Pan's Labyrinth (d. Guillermo del Toro) 2h
+- 2011: A Separation (d. Asghar Farhadi) 2h 3m
+- 2013: Her (d. Spike Jonze) 2h 6m
+- 2015: Mad Max: Fury Road (d. George Miller) 2h
+- 2016: La La Land (d.  Damien Chazelle) 2h 8m
+- 2017: The Florida Project (d. Sean Baker) 1h 51m
+- 2018: Roma (d. Alfonso Cuarón) 2h 15m
+- 2019: They Shall Not Grow Old (d. Peter Jackson) 1h 39m
+- 2023: Air (d. Ben Affleck) 1h 52m
   
