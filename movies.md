@@ -24,7 +24,8 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
 - Good Will Hunting (1997 d. Gus Van Sant)  👍
 - A Beautiful Mind (2001 d. Ron Howard)
 - Catch Me If You Can (2002 d. Steven Spielberg)  👍
-- Kill Bill: Vol. 1 (2003 d. Quentin Tarantino) 
+- Kill Bill: Vol. 1 (2003 d. Quentin Tarantino)
+- Kill Bill: Vol. 2 (2004 d. Quentin Tarantino)
 - Juno (2007 d. Jason Reitman)
 - Easy A (2010 d. Will Gluck)
 - Crazy Stupid Love (2011 d. Glenn Ficarra and John Requa)
@@ -68,7 +69,7 @@ I recently realized the following fun fact re. the movies I have watched this ye
 - 2001: A Beautiful Mind (d. Ron Howard)
 - **2002: Catch Me If You Can (d. Steven Spielberg)**  👍
 - **2003: Kill Bill: Vol. 1 (d. Quentin Tarantino)**
-- 2004:
+- **2004: Kill Bill: Vol. 2 (d. Quentin Tarantino)**
 - 2005: The Curse of the Were-Rabbit (d. Nick Park, Steve Box)
 - 2006:
 - 2007: Juno (d. Jason Reitman)
@@ -93,7 +94,6 @@ I recently realized the following fun fact re. the movies I have watched this ye
 
 With only a few gaps left, it seems like a fun end-of-year project to finish the set &mdash; one movie per missing year. I might as well try to fill in those remaining slots over the next few days and complete the streak (these will be indicated in bold font). This is my current wishlist:
 
-- 2004: Kill Bill: Vol. 2 (d. Quentin Tarantino) 2h 17m
 - 2006: Pan's Labyrinth (d. Guillermo del Toro) 2h
 - 2011: A Separation (d. Asghar Farhadi) 2h 3m
 - 2013: Her (d. Spike Jonze) 2h 6m
