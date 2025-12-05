@@ -547,7 +547,7 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 <ul>
 <li><details>
   <summary style="list-style: none;"><b>KIDDIE COLLOQUIUM &mdash; Daniel Kim (Stanford University)</b><br>
-    <i>How the government tries to █████████████</i></summary>
+    <i>How the government tries to</i> █████████████</summary>
   <small><img src="images/12-5a.png" alt="Dec 5"></small>
 </details></li>
 </ul>
