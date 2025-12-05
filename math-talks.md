@@ -528,6 +528,14 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 </details></li>
 </ul>
 
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>COMBINATORICS &mdash; Persi Diaconis (Stanford)</b><br>
+    <i>On sampling from an urn, without replacement</i></summary>
+  <small><img src="images/12-4.png" alt="Dec 4"></small>
+</details></li>
+</ul>
+
 ![sjsu-math](images/sjsu-math.png)
 
 <ul>
