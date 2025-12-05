@@ -530,6 +530,14 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 
 <ul>
 <li><details>
+  <summary style="list-style: none;"><b>KIDDIE COLLOQUIUM &mdash; Carl Schildkraut (Stanford University)</b><br>
+    <i>Some peculiar p-groups and what they can do</i></summary>
+  <small><img src="images/10-29.png" alt="Oct 29"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
   <summary style="list-style: none;"><b>COMBINATORICS &mdash; Persi Diaconis (Stanford)</b><br>
     <i>On sampling from an urn, without replacement</i></summary>
   <small><img src="images/12-4.png" alt="Dec 4"></small>
