@@ -33,6 +33,7 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
 - The Imitation Game (2014 d. Morten Tyldum) 👍
 - Love, Simon (2018 d. Greg Berlanti)
 - Coda (2021 d. Sian Heder) 👍
+- Wicked (2024 d. Jon M. Chu)
 - F1 (2025 d. Joseph Kosinski) 🎥 👍
 - **Animation** <br>
   Kung Fu Panda (2008 d. John Stevenson and Mark Osborne) <br>
