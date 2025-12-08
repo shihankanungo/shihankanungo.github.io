@@ -32,6 +32,7 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
 - Crazy Stupid Love (2011 d. Glenn Ficarra and John Requa)
 - Zero Dark Thirty (2012 d. Kathryn Bigelow)
 - The Imitation Game (2014 d. Morten Tyldum) 👍
+- La La Land (2016 d. Damien Chazelle)
 - Love, Simon (2018 d. Greg Berlanti)
 - Coda (2021 d. Sian Heder) 👍
 - Wicked (2024 d. Jon M. Chu)
@@ -83,7 +84,7 @@ I recently realized the following fun fact re. the movies I have watched this ye
 - 2013: The Hunger Games: Catching Fire (d. Francis Lawrence)
 - 2014: The Grand Budapest Hotel (d. Wes Anderson) 👍
 - 2015: The Hunger Games: Mockingjay – Part 2 (d. Francis Lawrence)
-- 2016:
+- **2016: La La Land (d. Damien Chazelle)**
 - 2017:
 - 2018: Love, Simon (d. Greg Berlanti)
 - 2019:
@@ -99,7 +100,6 @@ With only a few gaps left, it seems like a fun end-of-year project to finish the
 - 2011: A Separation (d. Asghar Farhadi) 2h 3m
 - 2013: Her (d. Spike Jonze) 2h 6m
 - 2015: Mad Max: Fury Road (d. George Miller) 2h
-- 2016: La La Land (d.  Damien Chazelle) 2h 8m
 - 2017: The Florida Project (d. Sean Baker) 1h 51m
 - 2018: Roma (d. Alfonso Cuarón) 2h 15m
 - 2019: They Shall Not Grow Old (d. Peter Jackson) 1h 39m
