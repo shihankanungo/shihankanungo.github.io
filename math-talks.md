@@ -552,6 +552,14 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 </details></li>
 </ul>
 
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>STUDENT ANALYTIC NUMBER THEORY &mdash; Dor Minzer (MIT)</b><br>
+    <i>On inverse theorems, constraint satisfaction problems and combinatorial lines</i></summary>
+  <small><img src="images/12-10.png" alt="Dec 10"></small>
+</details></li>
+</ul>
+
 
 
 ![sjsu-math](images/sjsu-math.png)
