@@ -43,6 +43,7 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
   Robot Dreams (2024 d. Pablo Berger) 👍 <br>
   Memoir of a Snail (2024 d. Adam Elliot) <br>
   Flow (2024 d. Gints Zilbalodis) 🎥
+  Zootopia 2 (2025 d. Jared Bush, Byron Howard) 🎥
 - **Wes Anderson** <br>
   Rushmore (1998 d. Wes Anderson) <br>
   Fantastic Mr. Fox (2009 d. Wes Anderson) <br>
