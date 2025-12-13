@@ -42,7 +42,7 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
   Hundreds of Beavers (2022 d. Mike Cheslik) 👍  <br>
   Robot Dreams (2024 d. Pablo Berger) 👍 <br>
   Memoir of a Snail (2024 d. Adam Elliot) <br>
-  Flow (2024 d. Gints Zilbalodis) 🎥
+  Flow (2024 d. Gints Zilbalodis) 🎥  <br>
   Zootopia 2 (2025 d. Jared Bush, Byron Howard) 🎥
 - **Wes Anderson** <br>
   Rushmore (1998 d. Wes Anderson) <br>
