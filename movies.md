@@ -79,7 +79,7 @@ I have watched 47 movies so far this year, and I realized the following fun fact
 - **2006: Pan's Labyrinth (d. Guillermo del Toro)**
 - 2007: Juno (d. Jason Reitman)
 - 2008: Kung Fu Panda (d. John Stevenson and Mark Osborne) <br>
-  &emsp;&emsp;&emsp;Hard Problems: The Road to the World's Toughest Math Contest (d. George Paul Csicsery)
+  &emsp;&emsp;&emsp;Hard Problems: The Road to the World's Toughest Math Contest
 - 2009: Fantastic Mr. Fox (d. Wes Anderson)
 - 2010: Easy A (d. Will Gluck)
 - 2011: Crazy Stupid Love (d. Glenn Ficarra and John Requa)
@@ -96,7 +96,7 @@ I have watched 47 movies so far this year, and I realized the following fun fact
 - 2018: Love, Simon (d. Greg Berlanti)
 - 2019:
 - 2020: Miss Americana (d. Lana Wilson) <br>
-  &emsp;&emsp;&emsp;Secrets of the Surface: The Mathematical Vision of Maryam Mirzakhani (d. George Paul Csicsery)
+  &emsp;&emsp;&emsp;Secrets of the Surface: The Mathematical Vision of Maryam Mirzakhani
 - 2021: Coda (d. Sian Heder) 👍
 - 2022: Hundreds of Beavers (d. Mike Cheslik) 👍
 - 2023: Air (d. Ben Affleck) <br>
