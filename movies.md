@@ -94,7 +94,7 @@ I recently realized the following fun fact re. the movies I have watched this ye
 - 2021: Coda (d. Sian Heder) 👍
 - 2022: Hundreds of Beavers (d. Mike Cheslik) 👍
 - 2023: Air (d. Ben Affleck)
-- 2024: Robot Dreams (d. Pablo Berger) 👍
+- 2024: Robot Dreams (d. Pablo Berger) 👍 <br>
   &emsp;&emsp;Wicked (2024 d. Jon M. Chu)
 - 2025: F1 (d. Joseph Kosinski) 🎥 👍
 
