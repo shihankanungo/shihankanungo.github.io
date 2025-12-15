@@ -95,7 +95,7 @@ I recently realized the following fun fact re. the movies I have watched this ye
 - 2022: Hundreds of Beavers (d. Mike Cheslik) 👍
 - 2023: Air (d. Ben Affleck)
 - 2024: Robot Dreams (d. Pablo Berger) 👍 <br>
-  &emsp;&emsp;Wicked (2024 d. Jon M. Chu)
+  &emsp;&emsp;&emsp;Wicked (2024 d. Jon M. Chu)
 - 2025: F1 (d. Joseph Kosinski) 🎥 👍
 
 With only a few gaps left, it seems like a fun end-of-year project to finish the set &mdash; one movie per missing year. I might as well try to fill in those remaining slots over the next few days and complete the streak (these will be indicated in bold font). This is my current wishlist:
