@@ -35,6 +35,7 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
 - La La Land (2016 d. Damien Chazelle)
 - Love, Simon (2018 d. Greg Berlanti)
 - Coda (2021 d. Sian Heder) 👍
+- Air (2023 d. Ben Affleck)
 - Wicked (2024 d. Jon M. Chu)
 - F1 (2025 d. Joseph Kosinski) 🎥 👍
 - **Animation** <br>
@@ -92,7 +93,7 @@ I recently realized the following fun fact re. the movies I have watched this ye
 - 2020: Miss Americana (d. Lana Wilson)
 - 2021: Coda (d. Sian Heder) 👍
 - 2022: Hundreds of Beavers (d. Mike Cheslik) 👍
-- 2023: The Wonderful Story of Henry Sugar (d. Wes Anderson)
+- 2023: Air (d. Ben Affleck)
 - 2024: Robot Dreams (d. Pablo Berger) 👍
 - 2025: F1 (d. Joseph Kosinski) 🎥 👍
 
@@ -104,5 +105,4 @@ With only a few gaps left, it seems like a fun end-of-year project to finish the
 - 2017: The Florida Project (d. Sean Baker) 1h 51m
 - 2018: Roma (d. Alfonso Cuarón) 2h 15m
 - 2019: They Shall Not Grow Old (d. Peter Jackson) 1h 39m
-- 2023: Air (d. Ben Affleck) 1h 52m
   
