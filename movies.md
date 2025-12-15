@@ -78,25 +78,39 @@ I have watched 47 movies so far this year, and I realized the following fun fact
 - 2005: The Curse of the Were-Rabbit (d. Nick Park, Steve Box)
 - **2006: Pan's Labyrinth (d. Guillermo del Toro)**
 - 2007: Juno (d. Jason Reitman)
-- 2008: Kung Fu Panda (d. John Stevenson and Mark Osborne)
+- 2008: Kung Fu Panda (d. John Stevenson and Mark Osborne) <br>
+  &emsp;&emsp;&emsp;Hard Problems: The Road to the World's Toughest Math Contest (d. George Paul Csicsery)
 - 2009: Fantastic Mr. Fox (d. Wes Anderson)
 - 2010: Easy A (d. Will Gluck)
 - 2011: Crazy Stupid Love (d. Glenn Ficarra and John Requa)
-- 2012: Zero Dark Thirty (d. Kathryn Bigelow)
+- 2012: Zero Dark Thirty (d. Kathryn Bigelow) <br>
+  &emsp;&emsp;&emsp;Moonrise Kingdom (d. Wes Anderson) <br>
+  &emsp;&emsp;&emsp;The Hunger Games (d. Gary Ross) 
 - 2013: The Hunger Games: Catching Fire (d. Francis Lawrence)
-- 2014: The Grand Budapest Hotel (d. Wes Anderson) 👍
+- 2014: The Grand Budapest Hotel (d. Wes Anderson) 👍 <br>
+  &emsp;&emsp;&emsp;The Imitation Game (d. Morten Tyldum) 👍 <br>
+  &emsp;&emsp;&emsp;The Hunger Games: Mockingjay – Part 1 (d. Francis Lawrence)
 - 2015: The Hunger Games: Mockingjay – Part 2 (d. Francis Lawrence)
 - **2016: La La Land (d. Damien Chazelle)**
 - 2017:
 - 2018: Love, Simon (d. Greg Berlanti)
 - 2019:
-- 2020: Miss Americana (d. Lana Wilson)
+- 2020: Miss Americana (d. Lana Wilson) <br>
+  &emsp;&emsp;&emsp;Secrets of the Surface: The Mathematical Vision of Maryam Mirzakhani (d. George Paul Csicsery)
 - 2021: Coda (d. Sian Heder) 👍
 - 2022: Hundreds of Beavers (d. Mike Cheslik) 👍
-- 2023: Air (d. Ben Affleck)
+- 2023: Air (d. Ben Affleck) <br>
+  &emsp;&emsp;&emsp;The Wonderful Story of Henry Sugar (d. Wes Anderson) 
 - 2024: Robot Dreams (d. Pablo Berger) 👍 <br>
-  &emsp;&emsp;&emsp;Wicked (2024 d. Jon M. Chu)
-- 2025: F1 (d. Joseph Kosinski) 🎥 👍
+  &emsp;&emsp;&emsp;Wicked (d. Jon M. Chu) <br>
+  &emsp;&emsp;&emsp;Memoir of a Snail (d. Adam Elliot) <br>
+  &emsp;&emsp;&emsp;Flow (d. Gints Zilbalodis) 🎥 <br>
+  &emsp;&emsp;&emsp;Vengeance Most Fowl (d. Nick Park, Merlin Crossingham)
+- 2025: F1 (d. Joseph Kosinski) 🎥 👍 <br>
+  &emsp;&emsp;&emsp;Zootopia 2 (d. Jared Bush, Byron Howard) 🎥 <br>
+  &emsp;&emsp;&emsp;Becoming Led Zeppelin (d. Bernard MacMahon) <br>
+  &emsp;&emsp;&emsp;Pink Floyd at Pompeii – MCMLXXII (d. Adrian Maben) 🎥 <br>
+  &emsp;&emsp;&emsp;We Want The Funk! (d. Stanley Nelson and Nicole London) 👍 
 
 With only a few gaps left, it seems like a fun end-of-year project to finish the set &mdash; one movie per missing year. I might as well try to fill in those remaining slots over the next few days and complete the streak (these will be indicated in bold font). This is my current wishlist:
 
