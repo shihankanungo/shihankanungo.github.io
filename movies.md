@@ -120,5 +120,6 @@ With only a few gaps left, it seems like a fun end-of-year project to finish the
 - 2015: Mad Max: Fury Road (d. George Miller) 2h
 - 2017: The Florida Project (d. Sean Baker) 1h 51m
 - 2018: Roma (d. Alfonso Cuarón) 2h 15m
+- 2019: Mickey and the Bear (d. Annabelle Attanasio) 1h 29m
 - 2019: They Shall Not Grow Old (d. Peter Jackson) 1h 39m
   
