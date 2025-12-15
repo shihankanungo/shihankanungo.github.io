@@ -99,6 +99,7 @@ I recently realized the following fun fact re. the movies I have watched this ye
 
 With only a few gaps left, it seems like a fun end-of-year project to finish the set &mdash; one movie per missing year. I might as well try to fill in those remaining slots over the next few days and complete the streak (these will be indicated in bold font). This is my current wishlist:
 
+- 2000: Almost Famous (d. Cameron Crowe) 2h 2m
 - 2011: A Separation (d. Asghar Farhadi) 2h 3m
 - 2013: Her (d. Spike Jonze) 2h 6m
 - 2015: Mad Max: Fury Road (d. George Miller) 2h
