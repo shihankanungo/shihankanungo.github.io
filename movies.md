@@ -33,6 +33,7 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
 - Zero Dark Thirty (2012 d. Kathryn Bigelow)
 - The Imitation Game (2014 d. Morten Tyldum) 👍
 - La La Land (2016 d. Damien Chazelle)
+- The Florida Project (2017 d. Sean Baker)
 - Love, Simon (2018 d. Greg Berlanti)
 - Coda (2021 d. Sian Heder) 👍
 - Air (2023 d. Ben Affleck)
@@ -92,7 +93,7 @@ I have watched 47 movies so far this year, and I realized the following fun fact
   &emsp;&emsp;&emsp;The Hunger Games: Mockingjay – Part 1 (d. Francis Lawrence)
 - 2015: The Hunger Games: Mockingjay – Part 2 (d. Francis Lawrence)
 - **2016: La La Land (d. Damien Chazelle)**
-- 2017:
+- **2017: The Florida Project (d. Sean Baker)**
 - 2018: Love, Simon (d. Greg Berlanti)
 - 2019:
 - 2020: Miss Americana (d. Lana Wilson) <br>
@@ -118,7 +119,6 @@ With only a few gaps left, it seems like a fun end-of-year project to finish the
 - 2011: A Separation (d. Asghar Farhadi) 2h 3m
 - 2013: Her (d. Spike Jonze) 2h 6m
 - 2015: Mad Max: Fury Road (d. George Miller) 2h
-- 2017: The Florida Project (d. Sean Baker) 1h 51m
 - 2018: Roma (d. Alfonso Cuarón) 2h 15m
 - 2019: Mickey and the Bear (d. Annabelle Attanasio) 1h 29m
 - 2019: They Shall Not Grow Old (d. Peter Jackson) 1h 39m
