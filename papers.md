@@ -34,6 +34,16 @@ title: Mathematics &mdash; writing
 
 <ul> 
 <li><details>
+  <summary style="list-style-type: none;"><i>The Fundamental Group</i>. Algebraic Topology [ <a href="fundgrp.pdf" target="_blank" style="text-decoration: none">PDF</a> ] </summary>
+  <small>We introduce the fundamental group as the first algebraic invariant of a topological space and the primary tool for detecting topological "holes." By lifting loops along the covering map and interpreting homotopy in terms of winding number, we compute the fundamental group of the circle to be the integers <b>Z</b>.<br></small><br>
+</details></li>
+
+<li><details>
+  <summary style="list-style-type: none;"><i>Height, Krull Dimension, and Localization</i>. Commutative Algebra [ <a href="krull.pdf" target="_blank" style="text-decoration: none">PDF</a> ] </summary>
+  <small>This paper serves as a bridge between abstract ring theory and the geometric concepts of Algebraic Geometry. We explore how the Krull dimension, defined by chains of prime ideals, acts as the algebraic analogue of geometric dimension (e.g., points, curves, surfaces). We present localization as the algebraic tool that allows us to "zoom in" on a specific prime ideal to study the ring's isolated, local structure.<br></small><br>
+</details></li>
+
+<li><details>
   <summary style="list-style-type: none;"><i>David Gale's Subset Takeaway Game</i>. Combinatorial Game Theory [ <a href="subset-takeaway.pdf" target="_blank" style="text-decoration: none">PDF</a> ] </summary>
   <small>We describe the natural interpretation of the game in terms of simplicial complexes, and the binary star reduction technique that shows that <i>Subset 
   Takeaway</i> is a second player win for <i>n</i> < 7. We also look at Subset Takeway played on a graph, and compute the Grundy values for complete <i>n</i>-partite 
