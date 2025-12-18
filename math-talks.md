@@ -560,6 +560,14 @@ _Finding Arithmetic Progressions in Dense Sets of Integers_
 </details></li>
 </ul>
 
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>COMBINATORICS &mdash; Zach Hunter (ETH Zurich)</b><br>
+    <i>Improved lower bounds for multicolor van der Waerden numbers</i></summary>
+  <small><img src="images/12-17.png" alt="Dec 17"></small>
+</details></li>
+</ul>
+
 
 
 ![sjsu-math](images/sjsu-math.png)
