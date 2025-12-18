@@ -35,6 +35,7 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
 - La La Land (2016 d. Damien Chazelle)
 - The Florida Project (2017 d. Sean Baker)
 - Love, Simon (2018 d. Greg Berlanti)
+- Mickey and the Bear (2019 d. Annabelle Attanasio)
 - Coda (2021 d. Sian Heder) 👍
 - Air (2023 d. Ben Affleck)
 - Wicked (2024 d. Jon M. Chu)
@@ -70,7 +71,7 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
   Pink Floyd at Pompeii – MCMLXXII (2025 d. Adrian Maben) 🎥 <br>
   We Want The Funk! (2025 d. Stanley Nelson and Nicole London) 👍 <br> <small>_PBS Independent Lens documentary_</small>
 
-I have watched 48 movies so far this year, and I realized the following fun fact re. these movies: there's at least one for every year between 2001 and 2025, with only a few exceptions. This is what I have so far:
+I have watched 49 movies so far this year, and I realized the following fun fact re. these movies: there's at least one for every year between 2001 and 2025, with only a few exceptions. This is what I have so far:
 
 - 2001: A Beautiful Mind (d. Ron Howard)
 - **2002: Catch Me If You Can (d. Steven Spielberg)**  👍
@@ -95,7 +96,7 @@ I have watched 48 movies so far this year, and I realized the following fun fact
 - **2016: La La Land (d. Damien Chazelle)**
 - **2017: The Florida Project (d. Sean Baker)**
 - 2018: Love, Simon (d. Greg Berlanti)
-- 2019:
+- **2019: Mickey and the Bear (d. Annabelle Attanasio)**
 - 2020: Miss Americana (d. Lana Wilson) <br>
   &emsp;&emsp;&emsp;Secrets of the Surface: The Mathematical Vision of Maryam Mirzakhani
 - 2021: Coda (d. Sian Heder) 👍
@@ -120,6 +121,5 @@ With only a few gaps left, it seems like a fun end-of-year project to finish the
 - 2013: Her (d. Spike Jonze) 2h 6m
 - 2015: Mad Max: Fury Road (d. George Miller) 2h
 - 2018: Roma (d. Alfonso Cuarón) 2h 15m
-- 2019: Mickey and the Bear (d. Annabelle Attanasio) 1h 29m
 - 2019: They Shall Not Grow Old (d. Peter Jackson) 1h 39m
   
