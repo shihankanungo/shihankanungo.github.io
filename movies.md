@@ -71,7 +71,7 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
   Pink Floyd at Pompeii – MCMLXXII (2025 d. Adrian Maben) 🎥 <br>
   We Want The Funk! (2025 d. Stanley Nelson and Nicole London) 👍 <br> <small>_PBS Independent Lens documentary_</small>
 
-I have watched 49 movies so far this year, and I realized the following fun fact re. these movies: there's at least one for every year between 2001 and 2025, with only a few exceptions. This is what I have so far:
+I have watched 49 movies so far this year, and I realized the following fun fact re. these movies: there's at least one for every year between 2001 and 2025. This is what I have so far:
 
 - 2001: A Beautiful Mind (d. Ron Howard)
 - **2002: Catch Me If You Can (d. Steven Spielberg)**  👍
@@ -114,7 +114,7 @@ I have watched 49 movies so far this year, and I realized the following fun fact
   &emsp;&emsp;&emsp;Pink Floyd at Pompeii – MCMLXXII (d. Adrian Maben) 🎥 <br>
   &emsp;&emsp;&emsp;We Want The Funk! (d. Stanley Nelson and Nicole London) 👍 
 
-With only a few gaps left, it seems like a fun end-of-year project to finish the set &mdash; one movie per missing year. I might as well try to fill in those remaining slots over the next few days and complete the streak (these will be indicated in bold font). This is my current wishlist:
+This is my current wishlist:
 
 - 2000: Almost Famous (d. Cameron Crowe) 2h 2m
 - 2011: A Separation (d. Asghar Farhadi) 2h 3m
