@@ -22,6 +22,7 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
 - Top Gun (1986 d. Tony Scott)
 - Forrest Gump (1994 d. Robert Zemeckis)
 - Good Will Hunting (1997 d. Gus Van Sant)  👍
+- Almost Famous (2000 d. Cameron Crowe)
 - A Beautiful Mind (2001 d. Ron Howard)
 - Catch Me If You Can (2002 d. Steven Spielberg)  👍
 - Kill Bill: Vol. 1 (2003 d. Quentin Tarantino)
@@ -71,8 +72,9 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
   Pink Floyd at Pompeii – MCMLXXII (2025 d. Adrian Maben) 🎥 <br>
   We Want The Funk! (2025 d. Stanley Nelson and Nicole London) 👍 <br> <small>_PBS Independent Lens documentary_</small>
 
-I have watched 49 movies so far this year, and I realized the following fun fact re. these movies: there's at least one for every year between 2001 and 2025. This is what I have so far:
+I have watched 50 movies so far this year, and I realized the following fun fact re. these movies: there's at least one for every year in the 21st centrury &mdash; between 2000 and 2025. This is what I have so far:
 
+- 2000: Almost Famous (d. Cameron Crowe)
 - 2001: A Beautiful Mind (d. Ron Howard)
 - 2002: Catch Me If You Can (d. Steven Spielberg)  👍
 - 2003: Kill Bill: Vol. 1 (d. Quentin Tarantino)
@@ -116,7 +118,6 @@ I have watched 49 movies so far this year, and I realized the following fun fact
 
 This is my current wishlist:
 
-- 2000: Almost Famous (d. Cameron Crowe) 2h 2m
 - 2011: A Separation (d. Asghar Farhadi) 2h 3m
 - 2013: Her (d. Spike Jonze) 2h 6m
 - 2015: Mad Max: Fury Road (d. George Miller) 2h
