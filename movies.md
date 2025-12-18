@@ -74,11 +74,11 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
 I have watched 49 movies so far this year, and I realized the following fun fact re. these movies: there's at least one for every year between 2001 and 2025. This is what I have so far:
 
 - 2001: A Beautiful Mind (d. Ron Howard)
-- **2002: Catch Me If You Can (d. Steven Spielberg)**  👍
-- **2003: Kill Bill: Vol. 1 (d. Quentin Tarantino)**
-- **2004: Kill Bill: Vol. 2 (d. Quentin Tarantino)**
+- 2002: Catch Me If You Can (d. Steven Spielberg)  👍
+- 2003: Kill Bill: Vol. 1 (d. Quentin Tarantino)
+- 2004: Kill Bill: Vol. 2 (d. Quentin Tarantino)
 - 2005: The Curse of the Were-Rabbit (d. Nick Park, Steve Box)
-- **2006: Pan's Labyrinth (d. Guillermo del Toro)**
+- 2006: Pan's Labyrinth (d. Guillermo del Toro)
 - 2007: Juno (d. Jason Reitman)
 - 2008: Kung Fu Panda (d. John Stevenson and Mark Osborne) <br>
   &emsp;&emsp;&emsp;Hard Problems: The Road to the World's Toughest Math Contest
@@ -93,10 +93,10 @@ I have watched 49 movies so far this year, and I realized the following fun fact
   &emsp;&emsp;&emsp;The Imitation Game (d. Morten Tyldum) 👍 <br>
   &emsp;&emsp;&emsp;The Hunger Games: Mockingjay – Part 1 (d. Francis Lawrence)
 - 2015: The Hunger Games: Mockingjay – Part 2 (d. Francis Lawrence)
-- **2016: La La Land (d. Damien Chazelle)**
-- **2017: The Florida Project (d. Sean Baker)**
+- 2016: La La Land (d. Damien Chazelle)
+- 2017: The Florida Project (d. Sean Baker)
 - 2018: Love, Simon (d. Greg Berlanti)
-- **2019: Mickey and the Bear (d. Annabelle Attanasio)**
+- 2019: Mickey and the Bear (d. Annabelle Attanasio)
 - 2020: Miss Americana (d. Lana Wilson) <br>
   &emsp;&emsp;&emsp;Secrets of the Surface: The Mathematical Vision of Maryam Mirzakhani
 - 2021: Coda (d. Sian Heder) 👍
