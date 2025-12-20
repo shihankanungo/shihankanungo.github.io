@@ -57,7 +57,7 @@ Here are the courses grouped by subject area, along with a short description of 
 </details></li>
 
 <li><details>
-  <summary style="list-style-type: none;"><b>MATH 275A</b> <i>Topology</i>. Fall 2025. SJSU (in progress)</summary>
+  <summary style="list-style-type: none;"><b>MATH 275A</b> <i>Topology</i>. Fall 2025. SJSU (A+)</summary>
   <small>Topological spaces and associated concepts (e.g., subspaces, product spaces, quotient spaces); continuous functions; compactness, connectedness (including path connectedness) and their local versions; countability and separation axioms; compactifications and Tychonoff’s Theorem; paracompactness and metrization theorems.</small><br>
   <small>Textbook: James Munkres. <i>Topology.</i></small>
 </details></li>
@@ -141,7 +141,7 @@ Here are the courses grouped by subject area, along with a short description of 
 </details></li>
 
 <li><details>
-  <summary style="list-style-type: none;"><b>MATH 285M</b> <i>Elliptic Curves and Modular Forms</i> Fall 2025. SJSU (in progress)</summary>
+  <summary style="list-style-type: none;"><b>MATH 285M</b> <i>Elliptic Curves and Modular Forms</i> Fall 2025. SJSU (A+)</summary>
   <small>Elliptic curves, modular curves, modular forms, L-functions.</small> <br>
   <small>Textbook: Álvaro Lozano-Robledo. <i>Elliptic Curves, Modular Forms, and Their L-functions.</i></small>
 </details></li>
