@@ -33,6 +33,7 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
 - Crazy Stupid Love (2011 d. Glenn Ficarra and John Requa)
 - Zero Dark Thirty (2012 d. Kathryn Bigelow)
 - The Imitation Game (2014 d. Morten Tyldum) 👍
+- Mad Max: Fury Road (2015 d. George Miller)
 - La La Land (2016 d. Damien Chazelle)
 - The Florida Project (2017 d. Sean Baker)
 - Love, Simon (2018 d. Greg Berlanti)
@@ -72,7 +73,7 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
   Pink Floyd at Pompeii – MCMLXXII (2025 d. Adrian Maben) 🎥 <br>
   We Want The Funk! (2025 d. Stanley Nelson and Nicole London) 👍 <br> <small>_PBS Independent Lens documentary_</small>
 
-I have watched 50 movies so far this year, and I realized the following fun fact re. these movies: there's at least one for every year in the 21st centrury &mdash; between 2000 and 2025. This is what I have so far:
+I have watched 51 movies so far this year, and I realized the following fun fact re. these movies: there's at least one for every year in the 21st centrury &mdash; between 2000 and 2025. This is what I have so far:
 
 - 2000: Almost Famous (d. Cameron Crowe)
 - 2001: A Beautiful Mind (d. Ron Howard)
@@ -94,7 +95,8 @@ I have watched 50 movies so far this year, and I realized the following fun fact
 - 2014: The Grand Budapest Hotel (d. Wes Anderson) 👍 <br>
   &emsp;&emsp;&emsp;The Imitation Game (d. Morten Tyldum) 👍 <br>
   &emsp;&emsp;&emsp;The Hunger Games: Mockingjay – Part 1 (d. Francis Lawrence)
-- 2015: The Hunger Games: Mockingjay – Part 2 (d. Francis Lawrence)
+- 2015: Mad Max: Fury Road (d. George Miller) <br>
+  &emsp;&emsp;&emsp;The Hunger Games: Mockingjay – Part 2 (d. Francis Lawrence)
 - 2016: La La Land (d. Damien Chazelle)
 - 2017: The Florida Project (d. Sean Baker)
 - 2018: Love, Simon (d. Greg Berlanti)
@@ -120,7 +122,6 @@ This is my current wishlist:
 
 - 2011: A Separation (d. Asghar Farhadi) 2h 3m
 - 2013: Her (d. Spike Jonze) 2h 6m
-- 2015: Mad Max: Fury Road (d. George Miller) 2h
 - 2018: Roma (d. Alfonso Cuarón) 2h 15m
 - 2019: They Shall Not Grow Old (d. Peter Jackson) 1h 39m
   
