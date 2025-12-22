@@ -97,7 +97,7 @@ course_entries:
 project_entries:
   - title: MIT PRIMES-USA '25
     url: primes-25
-    desc: Saturation problems for sequences. <br> In progress. <br> Mentor J Geneson (SJSU).
+    desc: Upper bounds for sequence saturation. <br> Mentor J Geneson (SJSU).
    
   - title: MIT PRIMES-USA '24
     url: primes-24-2
