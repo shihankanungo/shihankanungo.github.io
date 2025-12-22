@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Saturation problems for sequences
+title: Upper Bounds for Sequence Saturation
 ---
 <br>
 ![abstract](images/primes-25.png)
