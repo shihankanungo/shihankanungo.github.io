@@ -16,7 +16,7 @@ I have undertaken advanced coursework at Euler Circle[^1] (2019--_now_) and at S
 
 Here is a list of my coursework, with grades indicated where available---Euler Circle does not assign grades; they believe that grades tend to set achievement ceilings. 
 <br> <br>
-![courses](images/courses-25f.png)
+![courses](images/courses-25f-blue.png)
 <br>
 
 Here are the courses grouped by subject area, along with a short description of each course. 
