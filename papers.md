@@ -17,7 +17,7 @@ title: Mathematics &mdash; writing
   \[ [arXiv](https://arxiv.org/abs/2505.06463) \] 
 
 - Upper Bounds on Saturation Functions for Sequences. <br />
-  **S. Kanungo**. <br />
+  **S. Kanungo**. *Discrete Mathematics*. Submitted Dec 21, 2025. <br />
   \[ [PRIMES](https://math.mit.edu/research/highschool/primes/papers.html) \]   
   
 - On Product Formulas of Guillera and Sondow  <br />
