@@ -33,7 +33,7 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
 - Crazy Stupid Love (2011 d. Glenn Ficarra and John Requa)
 - Zero Dark Thirty (2012 d. Kathryn Bigelow)
 - The Imitation Game (2014 d. Morten Tyldum) 👍
-- Mad Max: Fury Road (2015 d. George Miller)
+- Mad Max: Fury Road (2015 d. George Miller) 👍
 - La La Land (2016 d. Damien Chazelle)
 - The Florida Project (2017 d. Sean Baker)
 - Love, Simon (2018 d. Greg Berlanti)
@@ -95,7 +95,7 @@ I have watched 51 movies so far this year, and I realized the following fun fact
 - 2014: The Grand Budapest Hotel (d. Wes Anderson) 👍 <br>
   &emsp;&emsp;&emsp;The Imitation Game (d. Morten Tyldum) 👍 <br>
   &emsp;&emsp;&emsp;The Hunger Games: Mockingjay – Part 1 (d. Francis Lawrence)
-- 2015: Mad Max: Fury Road (d. George Miller) <br>
+- 2015: Mad Max: Fury Road (d. George Miller) 👍 <br>
   &emsp;&emsp;&emsp;The Hunger Games: Mockingjay – Part 2 (d. Francis Lawrence)
 - 2016: La La Land (d. Damien Chazelle)
 - 2017: The Florida Project (d. Sean Baker)
