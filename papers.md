@@ -16,7 +16,7 @@ title: Mathematics &mdash; writing
   A. Kannan, **S. Kanungo**. *Journal of Algebra*. In review; submitted May 14, 2025 <br /> 
   \[ [arXiv](https://arxiv.org/abs/2505.06463) \] 
 
-- Upper Bounds on Saturation Functions for Sequences. <br />
+- Upper Bounds for Sequence Saturation. <br />
   **S. Kanungo**. *Discrete Mathematics*. Submitted Dec 19, 2025. <br />
   \[ [arXiv](https://arxiv.org/abs/2512.17683) \] 
   
