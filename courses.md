@@ -129,9 +129,9 @@ Here are the courses grouped by subject area, along with a short description of 
 </details></li>
 
 <li><details>
-  <summary style="list-style-type: none;"><b>MATH 221A</b> <i>Higher Algebra I</i> Fall 2025. SJSU (in progress) </summary>
+  <summary style="list-style-type: none;"><b>MATH 221A</b> <i>Higher Algebra I</i> Fall 2025. SJSU (A) </summary>
   <small>Topics from groups, rings, integral domains, modules, fields, vector spaces.</small> <br>
-  <small>Textbook: Paulo Aluffi. <i>Algebra: Chapter 0.</i></small>
+  <small>Textbook: Paulo Aluffi. <i>Algebra: Chapter 0.</i> Chapters 1&mdash;4</small>
 </details></li>
 
 <li><details>
