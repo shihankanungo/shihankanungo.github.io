@@ -44,6 +44,11 @@ title: Mathematics &mdash; writing
 </details></li>
 
 <li><details>
+  <summary style="list-style-type: none;"><i>Modular Curves as Moduli Spaces</i>. Algebraic Geometry [ <a href="moduli.pdf" target="_blank" style="text-decoration: none">PDF</a> ] </summary>
+  <small>We explore how modular curves corresponding to congruence subgroups encode elliptic curves with certain kinds of torsion subgroups. We also investigate the visualization of a modular curve $mdash; what it actually looks like from various perspectives; for example, as fundamental regions in the disk and upper half plane models of hyperbolic space, as a color map of an appropriate modular form, or as Riemann surfaces obtained by gluing parts of the boundary together and adding cusps to compactify.<br></small><br>
+</details></li>
+
+<li><details>
   <summary style="list-style-type: none;"><i>David Gale's Subset Takeaway Game</i>. Combinatorial Game Theory [ <a href="subset-takeaway.pdf" target="_blank" style="text-decoration: none">PDF</a> ] </summary>
   <small>We describe the natural interpretation of the game in terms of simplicial complexes, and the binary star reduction technique that shows that <i>Subset 
   Takeaway</i> is a second player win for <i>n</i> < 7. We also look at Subset Takeway played on a graph, and compute the Grundy values for complete <i>n</i>-partite 
