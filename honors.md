@@ -11,7 +11,7 @@ title: Honors and Awards
 - **The 85th Putnam Mathematical Competition.** *Honorable mention*, rank 58. 2024
 - **USAPhO (USA Physics Olympiad, AAPT)**. *Gold medal* and *US Physics Team*. 2024
 - **MIT PRIMES-USA**. *Researcher*. 2023, 2024, 2025 <br> **(PRIMES: Program for Research in Mathematics, Engineering and Science)**
-  - Combinatorics. *Upper Bounds on Saturation Functions for Sequences*. 2025
+  - Combinatorics. *Upper Bounds for Sequence Saturation*. 2025
   - Representation Theory. *Representations of Twisted Yangians in Complex Rank*. 2024
   - Representation Theory. *Representations of Lie Superalgebras*. 2024
   - Commutative Algebra. *Factorization Theory in Monoids and Semirings*. 2023
