@@ -40,6 +40,7 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
 - Mickey and the Bear (2019 d. Annabelle Attanasio)
 - Coda (2021 d. Sian Heder) 👍
 - Air (2023 d. Ben Affleck)
+- Furiosa: A Mad Max Saga (2024 d. George Miller)
 - Wicked (2024 d. Jon M. Chu)
 - F1 (2025 d. Joseph Kosinski) 🎥 👍
 - **Animation** <br>
@@ -73,7 +74,7 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
   Pink Floyd at Pompeii – MCMLXXII (2025 d. Adrian Maben) 🎥 <br>
   We Want The Funk! (2025 d. Stanley Nelson and Nicole London) 👍 <br> <small>_PBS Independent Lens documentary_</small>
 
-I have watched 51 movies so far this year, and I realized the following fun fact re. these movies: there's at least one for every year in the 21st centrury &mdash; between 2000 and 2025. This is what I have so far:
+I have watched 52 movies so far this year, and I realized the following fun fact re. these movies: there's at least one for every year in the 21st centrury &mdash; between 2000 and 2025. This is what I have so far:
 
 - 2000: Almost Famous (d. Cameron Crowe)
 - 2001: A Beautiful Mind (d. Ron Howard)
@@ -107,7 +108,8 @@ I have watched 51 movies so far this year, and I realized the following fun fact
 - 2022: Hundreds of Beavers (d. Mike Cheslik) 👍
 - 2023: Air (d. Ben Affleck) <br>
   &emsp;&emsp;&emsp;The Wonderful Story of Henry Sugar (d. Wes Anderson) 
-- 2024: Robot Dreams (d. Pablo Berger) 👍 <br>
+- 2024: Furiosa: A Mad Max Saga (d. George Miller) <br>
+  &emsp;&emsp;&emsp;Robot Dreams (d. Pablo Berger) 👍 <br>
   &emsp;&emsp;&emsp;Wicked (d. Jon M. Chu) <br>
   &emsp;&emsp;&emsp;Memoir of a Snail (d. Adam Elliot) <br>
   &emsp;&emsp;&emsp;Flow (d. Gints Zilbalodis) 🎥 <br>
