@@ -125,6 +125,4 @@ This is my current wishlist:
 - 2011: A Separation (d. Asghar Farhadi) 2h 3m
 - 2013: Her (d. Spike Jonze) 2h 6m
 - 2018: Roma (d. Alfonso Cuarón) 2h 15m
-- 2019: They Shall Not Grow Old (d. Peter Jackson) 1h 39m
-- 2024: Furiosa: A Mad Max Saga (d. George Miller) 2h 28m
-  
+- 2019: They Shall Not Grow Old (d. Peter Jackson) 1h 39m  
