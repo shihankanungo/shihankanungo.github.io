@@ -8,10 +8,11 @@ title: Reading &amp;c.
 ![ch-reading](images/ch1.png)
 
 <br>
-These are the 36 books I have read in 2025 (so far!) <br>
+These are the 37 books I have read in 2025 (so far!) <br>
 
 ### Fiction
 - *Crime and Punishment* by Fyodor Dostoevsky. 1866
+- *The Brothers Karamazov* by Fyodor Dostoyevsky. 1879
 - *Siddhartha* by Herman Hesse. 1922 
 - *A Clockwork Orange* by Anthony Burgess. 1962
 - *Love Story* by Erich Segal. 1970
