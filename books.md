@@ -11,13 +11,14 @@ title: Reading &amp;c.
 These are the 37 books I have read in 2025 (so far!) <br>
 
 ### Fiction
-- *Crime and Punishment* by Fyodor Dostoevsky. 1866
-- *The Brothers Karamazov* by Fyodor Dostoyevsky. 1879
 - *Siddhartha* by Herman Hesse. 1922 
 - *A Clockwork Orange* by Anthony Burgess. 1962
 - *Love Story* by Erich Segal. 1970
 - *Jonathan Livingston Seagull* by Richard Bach. 1970
 - *My Name Is Red* by Orhan Pamuk. 1998
+- **Fyodor Dostoevsky** <br>
+  *Crime and Punishment*. 1866 <br>
+  *The Brothers Karamazov*. 1879
 - **Ian McEwan** <br>
   *Black Dogs*. 1992. <br>
   *Amsterdam*. 1998. <br>
