@@ -32,6 +32,7 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
 - Easy A (2010 d. Will Gluck)
 - Crazy Stupid Love (2011 d. Glenn Ficarra and John Requa)
 - Zero Dark Thirty (2012 d. Kathryn Bigelow)
+- Her (2013 d. Spike Jonze)
 - The Imitation Game (2014 d. Morten Tyldum) 👍
 - Mad Max: Fury Road (2015 d. George Miller) 👍
 - La La Land (2016 d. Damien Chazelle)
@@ -74,7 +75,7 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
   Pink Floyd at Pompeii – MCMLXXII (2025 d. Adrian Maben) 🎥 <br>
   We Want The Funk! (2025 d. Stanley Nelson and Nicole London) 👍 <br> <small>_PBS Independent Lens documentary_</small>
 
-I have watched 52 movies so far this year, and I realized the following fun fact re. these movies: there's at least one for every year in the 21st centrury &mdash; between 2000 and 2025:
+I have watched 53 movies so far this year, and I realized the following fun fact re. these movies: there's at least one for every year in the 21st centrury &mdash; between 2000 and 2025:
 
 - 2000: Almost Famous (d. Cameron Crowe)
 - 2001: A Beautiful Mind (d. Ron Howard)
@@ -92,7 +93,8 @@ I have watched 52 movies so far this year, and I realized the following fun fact
 - 2012: Zero Dark Thirty (d. Kathryn Bigelow) <br>
   &emsp;&emsp;&emsp;Moonrise Kingdom (d. Wes Anderson) <br>
   &emsp;&emsp;&emsp;The Hunger Games (d. Gary Ross) 
-- 2013: The Hunger Games: Catching Fire (d. Francis Lawrence)
+- 2013: Her (d. Spike Jonze) <br>
+  &emsp;&emsp;&emsp;The Hunger Games: Catching Fire (d. Francis Lawrence)
 - 2014: The Grand Budapest Hotel (d. Wes Anderson) 👍 <br>
   &emsp;&emsp;&emsp;The Imitation Game (d. Morten Tyldum) 👍 <br>
   &emsp;&emsp;&emsp;The Hunger Games: Mockingjay – Part 1 (d. Francis Lawrence)
