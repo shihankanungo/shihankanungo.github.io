@@ -64,7 +64,7 @@ These are the 37 books I have read in 2025 (so far!) <br>
 <br>
 I love watching movies, both in theaters (marked by 🎥 below), as well as at home &mdash; on Netflix, Prime Video, or on DVD. Yes, I still use DVDs. No, I will not be taking questions at this time.
 
-Below is a lovingly curated list of movies I've watched *so far* this year&mdash;films I'd recommend to friends, strangers, time travelers, and probably even sworn enemies. If it’s listed here, it’s worth your time. If it’s marked with a 👍, it's a full-throated endorsement&mdash;like, stop-what-you're-doing-and-watch-it levels of enthusiasm. You're welcome in advance. Stay tuned for more!
+Below is a lovingly curated list of 53 movies I've watched *so far* this year&mdash;films I'd recommend to friends, strangers, time travelers, and probably even sworn enemies. If it’s listed here, it’s worth your time. If it’s marked with a 👍, it's a full-throated endorsement&mdash;like, stop-what-you're-doing-and-watch-it levels of enthusiasm. You're welcome in advance. Stay tuned for more!
 
 - **Charlie Chaplin** <br>
   City Lights (1931 d. Charlie Chaplin) <br>
@@ -127,7 +127,7 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
   Pink Floyd at Pompeii – MCMLXXII (2025 d. Adrian Maben) 🎥 <br>
   We Want The Funk! (2025 d. Stanley Nelson and Nicole London) 👍 <br> <small>_PBS Independent Lens documentary_</small>
 
-I have watched 53 movies so far this year, and I realized the following fun fact re. these movies: there's at least one for every year in the 21st centrury &mdash; between 2000 and 2025:
+I realized I have watched at least one movie for every year in the 21st centrury &mdash; 2000 to 2025. These are my favorites from each year:
 
 - 2000: Almost Famous (d. Cameron Crowe)
 - 2001: A Beautiful Mind (d. Ron Howard)
@@ -137,41 +137,27 @@ I have watched 53 movies so far this year, and I realized the following fun fact
 - 2005: The Curse of the Were-Rabbit (d. Nick Park, Steve Box)
 - 2006: Pan's Labyrinth (d. Guillermo del Toro)
 - 2007: Juno (d. Jason Reitman)
-- 2008: Kung Fu Panda (d. John Stevenson and Mark Osborne) <br>
-  &emsp;&emsp;&emsp;Hard Problems: The Road to the World's Toughest Math Contest
+- 2008: Kung Fu Panda (d. John Stevenson and Mark Osborne) 
 - 2009: Fantastic Mr. Fox (d. Wes Anderson)
 - 2010: Easy A (d. Will Gluck)
 - 2011: Crazy Stupid Love (d. Glenn Ficarra and John Requa)
-- 2012: Zero Dark Thirty (d. Kathryn Bigelow) <br>
-  &emsp;&emsp;&emsp;Moonrise Kingdom (d. Wes Anderson) <br>
-  &emsp;&emsp;&emsp;The Hunger Games (d. Gary Ross) 
-- 2013: Her (d. Spike Jonze) <br>
-  &emsp;&emsp;&emsp;The Hunger Games: Catching Fire (d. Francis Lawrence)
+- 2012: Zero Dark Thirty (d. Kathryn Bigelow) 
+- 2013: Her (d. Spike Jonze)
 - 2014: The Grand Budapest Hotel (d. Wes Anderson) 👍 <br>
-  &emsp;&emsp;&emsp;The Imitation Game (d. Morten Tyldum) 👍 <br>
-  &emsp;&emsp;&emsp;The Hunger Games: Mockingjay – Part 1 (d. Francis Lawrence)
-- 2015: Mad Max: Fury Road (d. George Miller) 👍 <br>
-  &emsp;&emsp;&emsp;The Hunger Games: Mockingjay – Part 2 (d. Francis Lawrence)
+  &emsp;&emsp;&emsp;The Imitation Game (d. Morten Tyldum) 👍 
+- 2015: Mad Max: Fury Road (d. George Miller) 👍 
 - 2016: La La Land (d. Damien Chazelle)
 - 2017: The Florida Project (d. Sean Baker)
 - 2018: Love, Simon (d. Greg Berlanti)
 - 2019: Mickey and the Bear (d. Annabelle Attanasio)
-- 2020: Miss Americana (d. Lana Wilson) <br>
-  &emsp;&emsp;&emsp;Secrets of the Surface: The Mathematical Vision of Maryam Mirzakhani
+- 2020: Miss Americana (d. Lana Wilson) 
 - 2021: Coda (d. Sian Heder) 👍
 - 2022: Hundreds of Beavers (d. Mike Cheslik) 👍
-- 2023: Air (d. Ben Affleck) <br>
-  &emsp;&emsp;&emsp;The Wonderful Story of Henry Sugar (d. Wes Anderson) 
-- 2024: Furiosa: A Mad Max Saga (d. George Miller) <br>
-  &emsp;&emsp;&emsp;Robot Dreams (d. Pablo Berger) 👍 <br>
-  &emsp;&emsp;&emsp;Wicked (d. Jon M. Chu) <br>
-  &emsp;&emsp;&emsp;Memoir of a Snail (d. Adam Elliot) <br>
-  &emsp;&emsp;&emsp;Flow (d. Gints Zilbalodis) 🎥 <br>
-  &emsp;&emsp;&emsp;Vengeance Most Fowl (d. Nick Park, Merlin Crossingham)
-- 2025: F1 (d. Joseph Kosinski) 🎥 👍 <br>
-  &emsp;&emsp;&emsp;Zootopia 2 (d. Jared Bush, Byron Howard) 🎥 <br>
-  &emsp;&emsp;&emsp;Becoming Led Zeppelin (d. Bernard MacMahon) <br>
-  &emsp;&emsp;&emsp;Pink Floyd at Pompeii – MCMLXXII (d. Adrian Maben) 🎥 <br>
+- 2023: Air (d. Ben Affleck)  
+- 2024: Furiosa: A Mad Max Saga (d. George Miller) 
+  &emsp;&emsp;&emsp;Robot Dreams (d. Pablo Berger) 👍 
+  &emsp;&emsp;&emsp;Wicked (d. Jon M. Chu) 
+- 2025: F1 (d. Joseph Kosinski) 🎥 👍 
   &emsp;&emsp;&emsp;We Want The Funk! (d. Stanley Nelson and Nicole London) 👍 
 
 
