@@ -64,7 +64,7 @@ These are the 37 books I have read in 2025 (so far!) <br>
 <br>
 I love watching movies, both in theaters (marked by 🎥 below), as well as at home &mdash; on Netflix, Prime Video, or on DVD. Yes, I still use DVDs. No, I will not be taking questions at this time.
 
-Below is a lovingly curated list of 53 movies I've watched *so far* this year&mdash;films I'd recommend to friends, strangers, time travelers, and probably even sworn enemies. If it’s listed here, it’s worth your time. If it’s marked with a 👍, it's a full-throated endorsement&mdash;like, stop-what-you're-doing-and-watch-it levels of enthusiasm. You're welcome in advance. Stay tuned for more!
+Below is a lovingly curated list of 54 movies I've watched *so far* this year&mdash;films I'd recommend to friends, strangers, time travelers, and probably even sworn enemies. If it’s listed here, it’s worth your time. If it’s marked with a 👍, it's a full-throated endorsement&mdash;like, stop-what-you're-doing-and-watch-it levels of enthusiasm. You're welcome in advance. Stay tuned for more!
 
 - **Charlie Chaplin** <br>
   City Lights (1931 d. Charlie Chaplin) <br>
@@ -102,7 +102,8 @@ Below is a lovingly curated list of 53 movies I've watched *so far* this year&md
   Robot Dreams (2024 d. Pablo Berger) 👍 <br>
   Memoir of a Snail (2024 d. Adam Elliot) <br>
   Flow (2024 d. Gints Zilbalodis) 🎥  <br>
-  Zootopia 2 (2025 d. Jared Bush, Byron Howard) 🎥
+  Zootopia 2 (2025 d. Jared Bush, Byron Howard) 🎥 <br>
+  KPop Demon Hunters (2025 d. Maggie Kang, Chris Appelhans)
 - **Wes Anderson** <br>
   Rushmore (1998 d. Wes Anderson) <br>
   Fantastic Mr. Fox (2009 d. Wes Anderson) <br>
