@@ -18,7 +18,7 @@ title: Music &amp;c.
 
 At the start of the year, I had the noble idea of tracking every piece of music I listened to&mdash;like some kind of sonic librarian. It took approximately five minutes to realize this was a fool’s errand. Case in point: last year alone, I clocked 9,860 songs and over 100,000 minutes on Spotify. 
 
-<p align="center"><img src="/images/spotify-25.png" width="500" /></p>
+<p align="center"><img src="/images/spotify-25.jpg" width="500" /></p>
 
 And that’s _just_ Spotify. Throw in CDs, YouTube rabbit holes, car rides, and my Bandcamp jazz benders, and suddenly it looks like I'm trying to inventory Niagara Falls with a teaspoon.
 
