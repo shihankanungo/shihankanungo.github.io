@@ -159,7 +159,7 @@ I realized I have watched at least one movie for every year in the 21st centrury
   &emsp;&emsp;&emsp;Robot Dreams (d. Pablo Berger) 👍  <br>
   &emsp;&emsp;&emsp;Wicked (d. Jon M. Chu) 
 - 2025: F1 (d. Joseph Kosinski) 🎥 👍  <br>
-  &emsp;&emsp;&emsp;KPop Demon Hunters (2025 d. Maggie Kang, Chris Appelhans) 👍
+  &emsp;&emsp;&emsp;KPop Demon Hunters (2025 d. Maggie Kang, Chris Appelhans) 👍 <br>
   &emsp;&emsp;&emsp;We Want The Funk! (d. Stanley Nelson and Nicole London) 👍 
 
 
