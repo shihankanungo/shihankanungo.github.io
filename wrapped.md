@@ -103,7 +103,7 @@ Below is a lovingly curated list of 54 movies I've watched *so far* this year&md
   Memoir of a Snail (2024 d. Adam Elliot) <br>
   Flow (2024 d. Gints Zilbalodis) 🎥  <br>
   Zootopia 2 (2025 d. Jared Bush, Byron Howard) 🎥 <br>
-  KPop Demon Hunters (2025 d. Maggie Kang, Chris Appelhans)
+  KPop Demon Hunters (2025 d. Maggie Kang, Chris Appelhans) 👍
 - **Wes Anderson** <br>
   Rushmore (1998 d. Wes Anderson) <br>
   Fantastic Mr. Fox (2009 d. Wes Anderson) <br>
@@ -159,6 +159,7 @@ I realized I have watched at least one movie for every year in the 21st centrury
   &emsp;&emsp;&emsp;Robot Dreams (d. Pablo Berger) 👍  <br>
   &emsp;&emsp;&emsp;Wicked (d. Jon M. Chu) 
 - 2025: F1 (d. Joseph Kosinski) 🎥 👍  <br>
+  &emsp;&emsp;&emsp;KPop Demon Hunters (2025 d. Maggie Kang, Chris Appelhans) 👍
   &emsp;&emsp;&emsp;We Want The Funk! (d. Stanley Nelson and Nicole London) 👍 
 
 
