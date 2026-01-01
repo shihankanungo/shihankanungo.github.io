@@ -16,7 +16,7 @@ title: Music &amp;c.
 
 ### Recorded Music
 
-At the start of the year, I had the noble idea of tracking every piece of music I listened to&mdash;like some kind of sonic librarian. It took approximately five minutes to realize this was a fool’s errand. Case in point: last year alone, I clocked 9,860 songs and over 100,000 minutes on Spotify. 
+At the start of the year, I had the noble idea of tracking every piece of music I listened to&mdash;like some kind of sonic librarian. It took approximately five minutes to realize this was a fool’s errand. Case in point: last year alone, I clocked 17,748 songs and over 150,000 minutes on Spotify. 
 
 <p align="center"><img src="/images/spotify-25.jpg" width="500" /></p>
 
