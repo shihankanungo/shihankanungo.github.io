@@ -50,7 +50,8 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
   Robot Dreams (2024 d. Pablo Berger) 👍 <br>
   Memoir of a Snail (2024 d. Adam Elliot) <br>
   Flow (2024 d. Gints Zilbalodis) 🎥  <br>
-  Zootopia 2 (2025 d. Jared Bush, Byron Howard) 🎥
+  Zootopia 2 (2025 d. Jared Bush, Byron Howard) 🎥 <br>
+  KPop Demon Hunters (2025 d. Maggie Kang, Chris Appelhans)
 - **Wes Anderson** <br>
   Rushmore (1998 d. Wes Anderson) <br>
   Fantastic Mr. Fox (2009 d. Wes Anderson) <br>
@@ -75,7 +76,7 @@ Below is a lovingly curated list of movies I've watched *so far* this year&mdash
   Pink Floyd at Pompeii – MCMLXXII (2025 d. Adrian Maben) 🎥 <br>
   We Want The Funk! (2025 d. Stanley Nelson and Nicole London) 👍 <br> <small>_PBS Independent Lens documentary_</small>
 
-I have watched 53 movies so far this year, and I realized the following fun fact re. these movies: there's at least one for every year in the 21st centrury &mdash; between 2000 and 2025:
+I have watched 54 movies so far this year, and I realized the following fun fact re. these movies: there's at least one for every year in the 21st centrury &mdash; between 2000 and 2025:
 
 - 2000: Almost Famous (d. Cameron Crowe)
 - 2001: A Beautiful Mind (d. Ron Howard)
@@ -117,6 +118,7 @@ I have watched 53 movies so far this year, and I realized the following fun fact
   &emsp;&emsp;&emsp;Flow (d. Gints Zilbalodis) 🎥 <br>
   &emsp;&emsp;&emsp;Vengeance Most Fowl (d. Nick Park, Merlin Crossingham)
 - 2025: F1 (d. Joseph Kosinski) 🎥 👍 <br>
+  &emsp;&emsp;&emsp;KPop Demon Hunters (d. Maggie Kang, Chris Appelhans) <br>
   &emsp;&emsp;&emsp;Zootopia 2 (d. Jared Bush, Byron Howard) 🎥 <br>
   &emsp;&emsp;&emsp;Becoming Led Zeppelin (d. Bernard MacMahon) <br>
   &emsp;&emsp;&emsp;Pink Floyd at Pompeii – MCMLXXII (d. Adrian Maben) 🎥 <br>
