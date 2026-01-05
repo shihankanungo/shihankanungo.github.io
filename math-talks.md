@@ -3,3 +3,18 @@ layout: math
 title: Mathematics &mdash; talks (attended)
 ---
 <br>
+No talks attended yet in 2026!! Stay tuned.
+
+## Stanford University, Math Department Talks
+
+![stanford-math](images/smdt.png)
+
+### February
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>DEPARTMENT COLLOQUIUM &mdash; CF Gauss (Columbia)</b><br>
+    <i>State of the Art in Mathematics</i></summary>
+  <small><img src="images/02-27.png" alt="Feb 27"></small>
+</details></li>
+ </ul>
