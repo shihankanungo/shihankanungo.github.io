@@ -9,7 +9,7 @@ No talks attended yet in 2026!! Stay tuned.
 
 ![stanford-math](images/smdt.png)
 
-### February
+### January
 
 <ul>
 <li><details>
