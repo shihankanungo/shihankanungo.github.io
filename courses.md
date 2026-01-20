@@ -141,6 +141,12 @@ Here are the courses grouped by subject area, along with a short description of 
 </details></li>
 
 <li><details>
+  <summary style="list-style-type: none;"><b>MATH 221B</b> <i>Higher Algebra II</i> Spring 2026. SJSU (in progress) </summary>
+  <small>Topics from groups, rings, integral domains, modules, fields, vector spaces.</small> <br>
+  <small>Textbook: Paulo Aluffi. <i>Algebra: Chapter 0.</i> Chapters 5&mdash;9</small>
+</details></li>
+
+<li><details>
   <summary style="list-style-type: none;"><b>MATH 226</b> <i>Theory of Numbers</i> Spring 2024. SJSU (A+)</summary>
   <small>Primes in arithmetic progressions, partitions, modular group, and the Dedekind eta function.</small> <br>
   <small>Textbook: Tom Apostol. <i>Introduction to Analytic Number Theory.</i></small>
