@@ -45,6 +45,12 @@ Here are the courses grouped by subject area, along with a short description of 
 </details></li>
 
 <li><details>
+  <summary style="list-style-type: none;"><b>MATH 238</b> <i>Advanced Complex Variables</i>. Spring 2026. SJSU (in progress) </summary>
+  <small>Holomorphic Functions, Cauchy’s Theorem, Meromorphic Functions, Residue Theorem, Fourier Transforms, Conformal Mappings.</small><br>
+  <small>Textbook: Stein and Shakarchi. <i>Complex Analysis</i>.</small>
+</details></li>
+
+<li><details>
   <summary style="list-style-type: none;"><b>MATH 233A</b> <i>Applied Mathematics I</i>. Spring 2025. SJSU (A+) </summary>
   <small>Initial and boundary value problems for hyperbolic, parabolic and elliptic equations. Fourier series and transforms. Nonlinear partial differential equations.</small><br>
   <small>Textbook: Peter John Olver. <i>Introduction to Partial Differential Equations.</i></small>
