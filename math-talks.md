@@ -3,9 +3,7 @@ layout: math
 title: Mathematics &mdash; talks (attended)
 ---
 <br>
-No talks attended yet in 2026!! Stay tuned. 
-
-See [here](https://shihankanungo.github.io/math-talks-2025) for the talks I attended in 2025.
+No talks attended yet in 2026!! Stay tuned. See [here](https://shihankanungo.github.io/math-talks-2025) for the talks I attended in 2025.
 
 ## Stanford University, Math Department Talks
 
