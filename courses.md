@@ -51,7 +51,7 @@ Here are the courses grouped by subject area, along with a short description of 
 </details></li>
 
 <li><details>
-  <summary style="list-style-type: none;"><b>MATH 233A</b> <i>Applied Mathematics I</i>. Spring 2025. SJSU (A+) </summary>
+  <summary style="list-style-type: none;"><b>MATH 233A</b> <i>Partial Differential Equations</i>. Spring 2025. SJSU (A+) </summary>
   <small>Initial and boundary value problems for hyperbolic, parabolic and elliptic equations. Fourier series and transforms. Nonlinear partial differential equations.</small><br>
   <small>Textbook: Peter John Olver. <i>Introduction to Partial Differential Equations.</i></small>
 </details></li>
