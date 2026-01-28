@@ -16,6 +16,7 @@ Below is a lovingly curated list of 1 movies I've watched *so far* this year&mda
 
 - The Spectacular Now (2013 d. James Ponsoldt)
 - The Lord of the Rings: The Fellowship of the Ring (2001 d. Peter Jackson) 🎥 👍
+- The Lord of the Rings: The Two Towers (2002 d. Peter Jackson) 🎥 👍
 
 This is my current wishlist:
 
