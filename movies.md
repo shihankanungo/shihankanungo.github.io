@@ -24,20 +24,20 @@ Below is a lovingly curated list of 1 movies I've watched *so far* this year&mda
 This is my current wishlist:
 
 - 1995: Maborosi (d. Hirokazu Kore-eda) 1h 35m
-- 1996: Fargo* (d. Joel Coen) 1h 38m
-- 1997: Princess Mononoke* (d. Hayao Miyazaki) 2h 14m
-- 1997: Donnie Brasco* (d. Mike Newell) 2h 7m
-- 1997: L.A. Confidential* (d. Curtis Hanson) 2h 18m
-- 1997: Jackie Brown* (d. Quentin Tarantino) 2h 34m
-- 1997: Titanic* (d. James Cameron) 3h 14m
-- 1997: Kundun* (d. Martin Scorsese) 2h 20m
-- 1998: Elizabeth* (d. Shekhar Kapur) 2h 4m
-- 1998: Pleasantville* (d. Gary Ross) 2h 4m
-- 1998: Life Is Beautiful* (d. Roberto Benigni) 1h 56m
-- 1998: Saving Private Ryan* (d. Steven Spielberg) 2h 49m
-- 1998: The Truman Show* (d. Peter Weir) 1h 43m
-- 1999: Being John Malkovich* (d. Spike Jonze) 1h 53m
-- 1999: The Insider* (d. Michael Mann) 2h 37m
+- 1996: Fargo (d. Joel Coen) 1h 38m
+- 1997: Princess Mononoke (d. Hayao Miyazaki) 2h 14m
+- 1997: Donnie Brasco (d. Mike Newell) 2h 7m
+- 1997: L.A. Confidential (d. Curtis Hanson) 2h 18m
+- 1997: Jackie Brown (d. Quentin Tarantino) 2h 34m
+- 1997: Titanic (d. James Cameron) 3h 14m
+- 1997: Kundun (d. Martin Scorsese) 2h 20m
+- 1998: Elizabeth (d. Shekhar Kapur) 2h 4m
+- 1998: Pleasantville (d. Gary Ross) 2h 4m
+- 1998: Life Is Beautiful (d. Roberto Benigni) 1h 56m
+- 1998: Saving Private Ryan (d. Steven Spielberg) 2h 49m
+- 1998: The Truman Show (d. Peter Weir) 1h 43m
+- 1999: Being John Malkovich (d. Spike Jonze) 1h 53m
+- 1999: The Insider (d. Michael Mann) 2h 37m
 - 2011: A Separation (d. Asghar Farhadi) 2h 3m
 - 2018: Roma (d. Alfonso Cuarón) 2h 15m
 - 2019: They Shall Not Grow Old (d. Peter Jackson) 1h 39m
