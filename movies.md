@@ -38,7 +38,11 @@ This is my current wishlist:
 - 1998: The Truman Show (d. Peter Weir) 1h 43m
 - 1999: Being John Malkovich (d. Spike Jonze) 1h 53m
 - 1999: The Insider (d. Michael Mann) 2h 37m
+- 2004: Eternal Sunshine of the Spotless Mind (d. Michel Gondry) 1h 48m
+- 2008: The Hurt Locker (d. Kathryn Bigelow) 
 - 2011: A Separation (d. Asghar Farhadi) 2h 3m
+- 2014: Boyhood (d. Richard Linklater) 2h 45m
 - 2018: Roma (d. Alfonso Cuarón) 2h 15m
 - 2019: They Shall Not Grow Old (d. Peter Jackson) 1h 39m
 - 2025: Frankenstein (d. Guillermo del Toro) 2h 30m
+- 2025: In Your Dreams (d. Alex Woo, Erik Benson) 1h 31m
