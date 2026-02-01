@@ -39,6 +39,7 @@ This is my current wishlist:
 - 1999: Being John Malkovich (d. Spike Jonze) 1h 53m
 - 1999: The Insider (d. Michael Mann) 2h 37m
 - 2004: Eternal Sunshine of the Spotless Mind (d. Michel Gondry) 1h 48m
+- 2007: Zodiac (d. David Fincher) 2h 37m
 - 2008: The Hurt Locker (d. Kathryn Bigelow) 
 - 2011: A Separation (d. Asghar Farhadi) 2h 3m
 - 2014: Boyhood (d. Richard Linklater) 2h 45m
