@@ -95,6 +95,10 @@ course_entries:
     url: courses#combinatorics-and-graph-theory
 
 project_entries:
+  - title: Lie Superalgebras
+    url: arun-26
+    desc: Paraplectic Lie superalgebras in Verlinde category. <br> Mentor Arun S Kannan.
+    
   - title: MIT PRIMES-USA '25
     url: primes-25
     desc: Upper bounds for sequence saturation. <br> Mentor J Geneson (SJSU).
