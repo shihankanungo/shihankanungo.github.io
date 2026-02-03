@@ -99,29 +99,29 @@ project_entries:
     url: arun-26
     desc: Studying periplectic Lie superalgebras in Verlinde category. <br> Mentor Arun S Kannan.
     
-  - title: MIT PRIMES-USA '25
+  - title: Combinatorics
     url: primes-25
     desc: Upper bounds for sequence saturation. <br> Mentor J Geneson (SJSU).
    
-  - title: MIT PRIMES-USA '24
+  - title: Twisted Yangians
     url: primes-24-2
     desc: Representations of twisted Yangians in complex rank. <br> Mentor AS Kannan (MIT).
     
-  - title: MIT PRIMES-USA '24
+  - title: Lie superalgebras
     url: primes-24-1
     desc: Representations of Lie superalgebras. <br> Joint work with S Erat. <br> Mentor AS Kannan (MIT).
 
-  - title: MIT PRIMES-USA '23
+  - title: Commutative algebra
     url: primes-23
-    desc: Commutative algebra; factorization in monoids and semirings. <br> With H Jiang and H Kim. <br> Mentor F Gotti (MIT).
+    desc: Factorization in monoids and semirings. <br> With H Jiang and H Kim. <br> Mentor F Gotti (MIT).
 
-  - title: SJSU '24
+  - title: Number theory
     url: sjsu-24
     desc: Research project in analytic number theory. <br> Mentor J Schettler (SJSU).
 
-  - title: SJSU '24
+  - title: Dynamical systems
     url: dyn-sys
-    desc: Dynamical systems; Lorenz system and the Rikitake model of geomagnetic reversal. <br> Instructor L Stanton (SJSU).
+    desc: Lorenz system and the Rikitake model of geomagnetic reversal. <br> Instructor L Stanton (SJSU).
 
 # old_project_entries:
 #   - title: Soopr
