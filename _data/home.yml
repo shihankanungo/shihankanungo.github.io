@@ -97,7 +97,7 @@ course_entries:
 project_entries:
   - title: Lie Superalgebras
     url: arun-26
-    desc: Studying paraplectic Lie superalgebras in Verlinde category. <br> Mentor Arun S Kannan.
+    desc: Studying periplectic Lie superalgebras in Verlinde category. <br> Mentor Arun S Kannan.
     
   - title: MIT PRIMES-USA '25
     url: primes-25
