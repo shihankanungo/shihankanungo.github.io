@@ -15,6 +15,7 @@ I love watching movies, both in theaters (marked by 🎥 below), as well as at h
 Below is a lovingly curated list of 1 movies I've watched *so far* this year&mdash;films I'd recommend to friends, strangers, time travelers, and probably even sworn enemies. If it’s listed here, it’s worth your time. If it’s marked with a 👍, it's a full-throated endorsement&mdash;like, stop-what-you're-doing-and-watch-it levels of enthusiasm. You're welcome in advance. Stay tuned for more!
 
 - The Spectacular Now (2013 d. James Ponsoldt)
+- The Prestige (2006 d. Christopher Nolan)
 - **The Lord of the Rings, 2026 Extended Edition** <br>
   The Fellowship of the Ring (2001 d. Peter Jackson) 🎥 👍 <br>
   The Two Towers (2002 d. Peter Jackson) 🎥 👍 <br>
