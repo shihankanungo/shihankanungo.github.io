@@ -8,7 +8,7 @@ title: Reading &amp;c.
 ![ch-reading](images/ch1.png)
 
 <br>
-These are the 0 books I have read in 2026 (so far!) <br>
+These are the 0 books I have read in 2026 (so far!) See [here](https://shihankanungo.github.io/wrapped-2025#books) for what I read last year. <br>
 
 ### Fiction
 - *Nice Story* by Good Author. 1434 
