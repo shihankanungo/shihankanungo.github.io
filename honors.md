@@ -5,7 +5,7 @@ title: Honors and Awards
 
 ## STEM (science, technology, engineering, and mathematics)
 
-- **The 17th Romanian Master of Mathematics, RMM 2026.** *USA team member*. 2026
+- **The 17th Romanian Master of Mathematics, RMM 2026.** USA team. *Bronze medal*. 2026
 - **The 86th William Lowell Putnam Mathematical Competition.** *N2*, rank 22. 2025
 - **USAMO (USA Mathematical Olympiad).** *Gold award* 2025
 - **MOP (Mathematical Olympiad Program).** *'Blue' MOP*. 2025
