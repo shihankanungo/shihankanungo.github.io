@@ -9,7 +9,7 @@ title: Honors and Awards
 - **The 86th William Lowell Putnam Mathematical Competition.** *N2*, rank 22. 2025
 - **USAMO (USA Mathematical Olympiad).** *Gold award* 2025
 - **MOP (Mathematical Olympiad Program).** *'Blue' MOP*. 2025
-- **The 85th William Lowell Putnam Mathematical Competition.** *Honorable mention*, rank 58. 2024
+- **The 85th William Lowell Putnam Mathematical Competition.** *HM*, rank 58. 2024
 - **USAPhO (USA Physics Olympiad, AAPT)**. *Gold medal* and *US Physics Team*. 2024
 - **MIT PRIMES-USA**. *Researcher*. 2023, 2024, 2025 <br> **(PRIMES: Program for Research in Mathematics, Engineering and Science)**
   - Combinatorics. *Upper Bounds for Sequence Saturation*. 2025
