@@ -15,6 +15,6 @@ No talks attended yet in 2026!! Stay tuned. See [here](https://shihankanungo.git
 <li><details>
   <summary style="list-style: none;"><b>DEPARTMENT COLLOQUIUM &mdash; Hong Wang (NYU Courant and IHES)</b><br>
     <i>MRC Distinguished Lecture: A survey of Stein's restriction conjecture</i></summary>
-  <small><img src="images/03-12.png" alt="Mar 12"></small>
+  <small><img src="images/2026-03-12.png" alt="Mar 12"></small>
 </details></li>
  </ul>
