@@ -9,12 +9,12 @@ No talks attended yet in 2026!! Stay tuned. See [here](https://shihankanungo.git
 
 ![stanford-math](images/smdt.png)
 
-### January
+### March
 
 <ul>
 <li><details>
-  <summary style="list-style: none;"><b>DEPARTMENT COLLOQUIUM &mdash; CF Gauss (Columbia)</b><br>
-    <i>State of the Art in Mathematics</i></summary>
-  <small><img src="images/02-27.png" alt="Feb 27"></small>
+  <summary style="list-style: none;"><b>DEPARTMENT COLLOQUIUM &mdash; Hong Wang (NYU Courant and IHES)</b><br>
+    <i>MRC Distinguished Lecture: A survey of Stein's restriction conjecture</i></summary>
+  <small><img src="images/03-12.png" alt="Mar 12"></small>
 </details></li>
  </ul>
