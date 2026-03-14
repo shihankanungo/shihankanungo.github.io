@@ -31,8 +31,8 @@ title: Honors and Awards
 
 ## Music
 
-- **2025 Junior Bach Festival**
-  - JS Bach. Sonata in C Major (BWV 1005) *Largo-Allegro assai*. Christ Church Portola Valley.
+- **Junior Bach Festival** *Christ Church Portola Valley*. 2026
+  - Violin Sonata No.3 in C major, BWV 1005. *Largo-Allegro assai*. 
 - **SJW (Stanford Jazz Workshop)**
   - *Duke Ellington award*. 2024
   - *Outstanding Musicianship award*. 2024
