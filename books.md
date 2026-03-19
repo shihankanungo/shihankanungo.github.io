@@ -8,9 +8,10 @@ title: Reading &amp;c.
 ![ch-reading](images/ch1.png)
 
 <br>
-These are the 2 books I have read in 2026 (so far!) See [here](https://shihankanungo.github.io/wrapped-2025#books) for what I read last year. <br>
+These are the 3 books I have read in 2026 (so far!) See [here](https://shihankanungo.github.io/wrapped-2025#books) for what I read last year. <br>
 
 ### Fiction
+- *The Brothers Karamazov* by Fyodor Dostoevsky. 1880
 - *The Time Traveler's Wife* by Audrey Niffenegger. 2003
 - *The Brief Wondrous Life of Oscar Wao* by Junot Díaz. 2007
 
