@@ -12,6 +12,7 @@ These are the 3 books I have read in 2026 (so far!) See [here](https://shihankan
 
 ### Fiction
 - *The Brothers Karamazov* by Fyodor Dostoevsky. 1880
+- *American Pastoral* by Philip Roth. 1997
 - *The Time Traveler's Wife* by Audrey Niffenegger. 2003
 - *The Brief Wondrous Life of Oscar Wao* by Junot Díaz. 2007
 
