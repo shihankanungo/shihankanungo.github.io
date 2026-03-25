@@ -20,6 +20,7 @@ Below is a lovingly curated list of 7 movies I've watched *so far* this year&mda
   The Fellowship of the Ring (2001 d. Peter Jackson) 🎥 👍 <br>
   The Two Towers (2002 d. Peter Jackson) 🎥 👍 <br>
   The Return of the King (2003 d. Peter Jackson) 🎥 👍
+- The Godfather (1972 d. Francis Ford Coppola)
 - The Prestige (2006 d. Christopher Nolan)
 - The Spectacular Now (2013 d. James Ponsoldt)
 - In Your Dreams (2025 d. Alex Woo, Erik Benson)
