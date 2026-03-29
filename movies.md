@@ -29,6 +29,8 @@ Below is a lovingly curated list of 9 movies I've watched *so far* this year&mda
 
 This is my current wishlist:
 
+- 1993: Schindler's List (d. Steven Spielberg) 3h 15m
+- 1994: Pulp Fiction (d. Quentin Tarantino) 2h 34m
 - 1995: Maborosi (d. Hirokazu Kore-eda) 1h 35m
 - 1996: Fargo (d. Joel Coen) 1h 38m
 - 1997: Princess Mononoke (d. Hayao Miyazaki) 2h 14m
