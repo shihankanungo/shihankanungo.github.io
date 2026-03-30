@@ -18,3 +18,11 @@ See [here](https://shihankanungo.github.io/math-talks-2025) for the talks I atte
   <small><img src="images/2026-03-12.png" alt="Mar 12"></small>
 </details></li>
  </ul>
+
+ <ul>
+<li><details>
+  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Akshat Mudgal (Warwick)</b><br>
+    <i>Generalised sum-product phenomenon and a question of Bremner</i></summary>
+  <small><img src="images/2026-03-30.png" alt="Mar 30"></small>
+</details></li>
+ </ul>
