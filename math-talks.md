@@ -19,10 +19,18 @@ See [here](https://shihankanungo.github.io/math-talks-2025) for the talks I atte
 </details></li>
  </ul>
 
- <ul>
+<ul>
 <li><details>
   <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Akshat Mudgal (Warwick)</b><br>
     <i>Generalised sum-product phenomenon and a question of Bremner</i></summary>
   <small><img src="images/2026-03-30.png" alt="Mar 30"></small>
 </details></li>
- </ul>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>ANALYSIS &amp; PDE &mdash; Josh Zahl (Chern Institute)</b><br>
+    <i>Nikodym sets, maximal functions, and local smoothing</i></summary>
+  <small><img src="images/2026-03-31.png" alt="Mar 31"></small>
+</details></li>
+</ul>
