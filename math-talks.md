@@ -5,6 +5,8 @@ title: Mathematics &mdash; talks (attended)
 <br>
 See [here](https://shihankanungo.github.io/math-talks-2025) for the talks I attended in 2025.
 
+See [here](https://mathematics.stanford.edu/events/upcoming-events) for upcoming events at Stanford University, Department of Mathematics.
+
 ## Stanford University, Math Department Talks
 
 ![stanford-math](images/smdt.png)
