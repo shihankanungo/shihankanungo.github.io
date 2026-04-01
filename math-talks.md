@@ -45,3 +45,11 @@ See [here](https://shihankanungo.github.io/math-talks-2025) for the talks I atte
 </details></li>
 </ul>
 
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>COMBINATORICS &mdash; Mehtaab Sawhney (Columbia University; Open AI)</b><br>
+    <i>On the Maxima of Littlewood Polynomials</i></summary>
+  <small><img src="images/2026-04-02.png" alt="Apr 02"></small>
+</details></li>
+</ul>
+
