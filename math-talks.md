@@ -35,6 +35,8 @@ See [here](https://shihankanungo.github.io/math-talks-2025) for the talks I atte
 </details></li>
 </ul>
 
+### April
+
 <ul>
 <li><details>
   <summary style="list-style: none;"><b>STUDENT ANALYTIC NUMBER THEORY &mdash; Junho Peter Whang (Seoul National University)</b><br>
