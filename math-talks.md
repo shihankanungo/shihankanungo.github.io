@@ -29,6 +29,14 @@ See [here](https://shihankanungo.github.io/math-talks-2025) for the talks I atte
 
 <ul>
 <li><details>
+  <summary style="list-style: none;"><b>STUDENT ANALYTIC NUMBER THEORY &mdash; Junho Peter Whang (Seoul National University)</b><br>
+    <i>On indefinite integral ternary quadratic forms</i></summary>
+  <small><img src="images/2026-04-01.png" alt="Apr 01"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
   <summary style="list-style: none;"><b>ANALYSIS &amp; PDE &mdash; Josh Zahl (Chern Institute)</b><br>
     <i>Nikodym sets, maximal functions, and local smoothing</i></summary>
   <small><img src="images/2026-03-31.png" alt="Mar 31"></small>
