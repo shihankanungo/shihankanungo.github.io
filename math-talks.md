@@ -55,3 +55,11 @@ See [here](https://mathematics.stanford.edu/events/upcoming-events) for upcoming
 </details></li>
 </ul>
 
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>REPRESENTATION THEORY &mdash; George Lusztig (MIT)</b><br>
+    <i>Fourier transform as a triangular matrix</i></summary>
+  <small><img src="images/2026-04-08.png" alt="Apr 08"></small>
+</details></li>
+</ul>
+
