@@ -57,6 +57,14 @@ See [here](https://mathematics.stanford.edu/events/upcoming-events) for upcoming
 
 <ul>
 <li><details>
+  <summary style="list-style: none;"><b>COMBINATORICS &mdash; Mehtaab Sawhney (Columbia University; Open AI)</b><br>
+    <i>The Portion of Permutations fixing a k-Set</i></summary>
+  <small><img src="images/2026-04-03.png" alt="Apr 03"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
   <summary style="list-style: none;"><b>REPRESENTATION THEORY &mdash; George Lusztig (MIT)</b><br>
     <i>Fourier transform as a triangular matrix</i></summary>
   <small><img src="images/2026-04-08.png" alt="Apr 08"></small>
