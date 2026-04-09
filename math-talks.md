@@ -71,3 +71,11 @@ See [here](https://mathematics.stanford.edu/events/upcoming-events) for upcoming
 </details></li>
 </ul>
 
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>COMBINATORICS &mdash; Nikos Frantzikinakis (University of Crete)</b><br>
+    <i>Quadratic Ramsey theory: old questions, new ideas</i></summary>
+  <small><img src="images/2026-04-09.png" alt="Apr 09"></small>
+</details></li>
+</ul>
+
