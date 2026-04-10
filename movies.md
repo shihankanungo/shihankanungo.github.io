@@ -19,12 +19,12 @@ Below is a lovingly curated list of 11 movies I've watched *so far* this year&md
 - The Godfather (1972 d. Francis Ford Coppola) 👍
 - The Godfather Part II (1974 d. Francis Ford Coppola) 👍
 - Raging Bull (1980 d. Martin Scorsese)
-- Spy Game (2001 d. Tony Scott)
+- Spy Game (2001 d. Tony Scott) 👍
 - **The Lord of the Rings, 2026 Extended Edition** <br>
   The Fellowship of the Ring (2001 d. Peter Jackson) 🎥 👍 <br>
   The Two Towers (2002 d. Peter Jackson) 🎥 👍 <br>
   The Return of the King (2003 d. Peter Jackson) 🎥 👍
-- The Prestige (2006 d. Christopher Nolan)
+- The Prestige (2006 d. Christopher Nolan) 👍
 - The Spectacular Now (2013 d. James Ponsoldt)
 - In Your Dreams (2025 d. Alex Woo, Erik Benson)
 - Frankenstein (2025 d. Guillermo del Toro) 
