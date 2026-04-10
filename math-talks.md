@@ -79,3 +79,11 @@ See [here](https://mathematics.stanford.edu/events/upcoming-events) for upcoming
 </details></li>
 </ul>
 
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Stepan Nesterov (Stanford)</b><br>
+    <i>Cyclic covers of the projective line and PSL(n,q) as Galois groups</i></summary>
+  <small><img src="images/2026-04-13.png" alt="Apr 13"></small>
+</details></li>
+</ul>
+
