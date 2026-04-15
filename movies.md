@@ -14,7 +14,7 @@ I love watching movies, both in theaters (marked by 🎥 below), as well as at h
 
 See [here](https://shihankanungo.github.io/wrapped-2025#movies) for the movies I watched in 2025.
 
-Below is a lovingly curated list of 12 movies I've watched *so far* this year&mdash;films I'd recommend to friends, strangers, time travelers, and probably even sworn enemies. If it’s listed here, it’s worth your time. If it’s marked with a 👍, it's a full-throated endorsement&mdash;like, stop-what-you're-doing-and-watch-it levels of enthusiasm. You're welcome in advance. Stay tuned for more!
+Below is a lovingly curated list of 14 movies I've watched *so far* this year&mdash;films I'd recommend to friends, strangers, time travelers, and probably even sworn enemies. If it’s listed here, it’s worth your time. If it’s marked with a 👍, it's a full-throated endorsement&mdash;like, stop-what-you're-doing-and-watch-it levels of enthusiasm. You're welcome in advance. Stay tuned for more!
 
 - The Godfather (1972 d. Francis Ford Coppola) 👍
 - The Godfather Part II (1974 d. Francis Ford Coppola) 👍
@@ -26,6 +26,7 @@ Below is a lovingly curated list of 12 movies I've watched *so far* this year&md
   The Two Towers (2002 d. Peter Jackson) 🎥 👍 <br>
   The Return of the King (2003 d. Peter Jackson) 🎥 👍
 - The Prestige (2006 d. Christopher Nolan) 👍
+- Zodiac (2007 d. David Fincher)
 - The Spectacular Now (2013 d. James Ponsoldt)
 - In Your Dreams (2025 d. Alex Woo, Erik Benson)
 - Frankenstein (2025 d. Guillermo del Toro) 
@@ -50,7 +51,6 @@ This is my current wishlist:
 - 1999: Being John Malkovich (d. Spike Jonze) 1h 53m
 - 1999: The Insider (d. Michael Mann) 2h 37m
 - 2004: Eternal Sunshine of the Spotless Mind (d. Michel Gondry) 1h 48m
-- 2007: Zodiac (d. David Fincher) 2h 37m
 - 2008: The Hurt Locker (d. Kathryn Bigelow) 
 - 2011: A Separation (d. Asghar Farhadi) 2h 3m
 - 2014: Boyhood (d. Richard Linklater) 2h 45m
