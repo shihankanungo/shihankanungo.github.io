@@ -15,6 +15,7 @@ title: Travel &amp;c.
 - **San Francisco --- Mar 15**. The Dancing Yak. Went for dinner (yet again). Ordered *chicken momos*, *lamb shapta*, *veg chowmein*, *fish fry*, and *tofu shapta*. Everything was super yummy. Excellent experience. Will keep coming for sure.
 - **San Francisco --- Mar 28**. Went to *Land's End* for a hike and followed by lunch at *Papito* and ice cream from *Smitten* on the drive back home. Listened to [this playlist](https://open.spotify.com/playlist/0eEy7fPIDOj1h7H9UDg4T2?si=e3476ac257534900) on the drive to and back. 
 - **Cambridge, MA --- Apr 16--19**. MIT CPW. Campus Preview Weekend (CPW) is a one-of-a-kind celebration, a joyful collision of events for admitted students at MIT. MIT welcomes approx. 1,000 students to campus each year and hosts over 700 fun-filled events. You can read my account of this trip on my blog.
+- **San Francisco --- Apr 19**. Went to *Papito* for dinner. We ordered *steak fajitas* (spiked with habanero sauce), c*hicken enchiladas*, and *costillas cortas quesadillas* (braised short beef) --- all very yummy. Chatted about CPW on the drive to and back. 
 - **Denver, CO --- May 22--25**. The 1st American Masters in Mathematics, AMM 2026.
 - **Miami, FL --- Jun 4--6**. The inaugural *Citadel Securities Pathways Program* 2026. An experience designed for exceptional high school students recognized for excellence in the Math, Physics, or Computing Olympiads to explore how academic achievement can translate into meaningful, long-term careers in research, engineering, and trading.
 
