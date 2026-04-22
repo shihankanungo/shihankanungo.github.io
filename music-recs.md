@@ -7,17 +7,7 @@ title: Music
 I started learning classical piano when I was 4. I have been studying classical violin since 2018. My favorite classical violinist is Hilary Hahn. Over the last several years I have become very interested in jazz composition and improvising with a band, mostly through Stanford's Summer Jazz Workshop camp. One of the things I love about jazz music is that intent is first and execution is second. In classical music, execution is first and intent is second, meaning that you must first learn a piece before you can truly add your interpretation to it. Irvin Mayfield said that, not me. I also listen to a lot of music -- 108,781 minutes on Spotify last year, which put me in the top 1% of listeners worldwide -- and across a lot of different genres. Below, I’ve curated some of my favorite music recommendations, organized by genre. This list will be updated regularly, so be sure to check back for new additions!
 <br>
 
-# Recommendations
-
-## Classical
-**Christoph Eschenbach**: *Mozart: The Piano Sonatas* <br>
-**Hilary Hahn**: *Hilary Hahn plays Bach* <br>
-**J.S.Bach**: *Brandenburg Concertos*, R.Egarr / Academy of Ancient Music; Harmonia Mundi <br>
-
-## Jazz
-**Dudu Pukwana**: *In the Townships* \[ [YouTube](https://youtube.com/playlist?list=PLE8FFB87B77AF5AD8&si=CJrt4bXMtnqv0F4H) \] <br>
-**Barney Wilen**: *Wild Dogs of the Ruwenzori* &mdash; hard to find; here's a \[ [sampler on YouTube](https://www.youtube.com/watch?v=UAxrA7aU97E) \] <br>
-
+# Personal Favorites in each Genre
 
 ## Rock & Its Branches
 **Classic Rock**: The Rolling Stones  <br>
@@ -81,6 +71,17 @@ I started learning classical piano when I was 4. I have been studying classical 
 **MPB (Música Popular Brasileira)**: Elis Regina, Erasmo Carlos  <br>
 
 
+
+# Recommendations
+
+## Classical
+**Christoph Eschenbach**: *Mozart: The Piano Sonatas* <br>
+**Hilary Hahn**: *Hilary Hahn plays Bach* <br>
+**J.S.Bach**: *Brandenburg Concertos*, R.Egarr / Academy of Ancient Music; Harmonia Mundi <br>
+
+## Jazz
+**Dudu Pukwana**: *In the Townships* \[ [YouTube](https://youtube.com/playlist?list=PLE8FFB87B77AF5AD8&si=CJrt4bXMtnqv0F4H) \] <br>
+**Barney Wilen**: *Wild Dogs of the Ruwenzori* &mdash; hard to find; here's a \[ [sampler on YouTube](https://www.youtube.com/watch?v=UAxrA7aU97E) \] <br>
 
 ## Pop
 > "I'm grateful to have grown up in a world with Taylor Swift in it, or, 'The World: Taylor's Version'." --- Phoebe Bridgers, 2023 iHeartRadio Music Awards
