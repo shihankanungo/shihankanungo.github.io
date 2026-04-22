@@ -39,10 +39,10 @@ I started learning classical piano when I was 4. I have been studying classical 
 **Electronica**: Charli XCX, Tricky, Four Tet  <br>
 
 ## Hip-Hop & R&B
-**Hip-Hop**: Eminem, Kanye West, Heems  <br>
+**Hip-Hop**: Eminem, Kanye West, Kendrick Lamar, Lupe Fiasco, Heems  <br>
 **Trap**: Lil Wayne, T.I., Future  <br>
 **Boom Bap**: Ghostface Killah, Wu Tang Clan, A Tribe Called Quest  <br>
-**Alternative Hip-Hop**: OutKast, Kendrick Lamar, The Roots, De La Soul, Digable Planets, Lupe Fiasco, A Tribe Called Quest  <br>
+**Alternative Hip-Hop**: OutKast, The Roots, De La Soul, Digable Planets, A Tribe Called Quest  <br>
 **R&B (Contemporary)**: Beyonce, SZA, Jill Scott  <br>
 **Neo-Soul**: Erykah Badu, D’Angelo  <br>
 **Funk**: James Brown, Prince  <br>
