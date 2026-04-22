@@ -18,6 +18,70 @@ I started learning classical piano when I was 4. I have been studying classical 
 **Dudu Pukwana**: *In the Townships* \[ [YouTube](https://youtube.com/playlist?list=PLE8FFB87B77AF5AD8&si=CJrt4bXMtnqv0F4H) \] <br>
 **Barney Wilen**: *Wild Dogs of the Ruwenzori* &mdash; hard to find; here's a \[ [sampler on YouTube](https://www.youtube.com/watch?v=UAxrA7aU97E) \] <br>
 
+
+## Rock & Its Branches
+**Classic Rock**: The Rolling Stones  <br>
+**Hard Rock**: Led Zeppelin  <br>
+**Punk Rock**: The Ramones  <br>
+**Alternative Rock**: Nirvana  <br>
+**Indie Rock**: Arctic Monkeys, Courtney Barnett  <br>
+**Glam Rock**: David Bowie  <br>
+**Garage Rock**: The White Stripes  <br>
+**New Wave**: Talking Heads, Blondie, B-52’s, New Order  <br>
+**Roots Rock**: Creedence Clearwater Revival  <br>
+**Psychedelic Rock**: Pink Floyd, The Doors, Grateful Dead, Jimi Hendrix  <br>
+
+## Pop & Mainstream
+**Pop**: Taylor Swift, LDR, Beyoncé  <br>
+**Dance Pop**: Dua Lipa, Madonna  <br>
+**Synthpop**: Pet Shop Boys, New Order  <br>
+**Electropop**: Robyn  <br>
+**Teen Pop**: Olivia Rodrigo, Gracie Abrams  <br>
+**Art Pop**: Fiona Apple, Brian Eno, Laurie Anderson  <br>
+
+## Electronic & Dance
+**EDM (Electronic Dance Music)**: LCD Soundsystem, Moby  <br>
+**House**: Fatboy Slim, Chemical Brothers, M People  <br>
+**Techno**: Cabaret Voltaire  <br>
+**Drum and Bass**: Nia Archives, Roni Size & Reprazent  <br>
+**Dubstep**: Burial  <br>
+**Ambient**: Brian Eno  <br>
+**Electronica**: Charli XCX, Tricky, Four Tet  <br>
+
+## Hip-Hop & R&B
+**Hip-Hop**: Eminem, Kanye West, Heems  <br>
+**Trap**: Lil Wayne, T.I., Future  <br>
+**Boom Bap**: Ghostface Killah, Wu Tang Clan, A Tribe Called Quest  <br>
+**Alternative Hip-Hop**: OutKast, Kendrick Lamar, The Roots, De La Soul, Digable Planets, Lupe Fiasco, A Tribe Called Quest  <br>
+**R&B (Contemporary)**: Beyonce, SZA, Jill Scott  <br>
+**Neo-Soul**: Erykah Badu, D’Angelo  <br>
+**Funk**: James Brown, Prince  <br>
+
+## Soulful & Jazz-Rooted
+**Soul**: Stevie Wonder, Otis Redding, Jill Scott  <br>
+**Motown**: Phil Spector, Girl Group Greats  <br>
+**Jazz Pop**: Joni Mitchell, Nellie McKay  <br>
+**Blue-Eyed Soul**: Delaney & Bonnie, Joe Cocker, Van Morrison  <br>
+
+## Country & Americana
+**Country**: Miranda Lambert, Lucinda Williams  <br>
+**Country Pop**: Lainey Wilson, Maren Morris, Kacey Musgraves.  <br>
+**Outlaw Country**: Gary Stewart, Willie Nelson, Johnny Cash  <br>
+**Alt-Country / Americana**: Drive-by Truckers, Old 97’s, Todd Snider  <br>
+
+## Global Pop Styles
+**Reggae**: Bob Marley, Linton Kwesi Johnson, Pablo Moses  <br>
+**Afrobeat**: Fela Kuti  <br>
+**Latin Pop**: Shakira  <br>
+**Reggaeton**: Karol G, Rosalia  <br>
+**Fado**: Ana Moura, Amalia Rodrigues  <br>
+**Samba**: Cartola, Paulinho da Viola, Nelson Cavaquinho  <br>
+**Tropicalia**: Caetano Veloso, Gilberto Gil  <br>
+**Bossa Nova**: Antônio Carlos Jobim, João Gilberto  <br>
+**MPB (Música Popular Brasileira)**: Elis Regina, Erasmo Carlos  <br>
+
+
+
 ## Pop
 > "I'm grateful to have grown up in a world with Taylor Swift in it, or, 'The World: Taylor's Version'." --- Phoebe Bridgers, 2023 iHeartRadio Music Awards
 
