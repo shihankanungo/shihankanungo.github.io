@@ -94,3 +94,11 @@ See [here](https://mathematics.stanford.edu/events/upcoming-events) for upcoming
   <small><img src="images/2026-04-23.png" alt="Apr 23"></small>
 </details></li>
 </ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>DEPARTMENT COLLOQUIUM &mdash; Tony Feng (UC Berkeley; Google DeepMind)</b><br>
+    <i>The rise and ramifications of Artificial Mathematical Intelligence</i></summary>
+  <small><img src="images/2026-04-23b.png" alt="Apr 23"></small>
+</details></li>
+</ul>
