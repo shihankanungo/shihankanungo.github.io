@@ -87,3 +87,10 @@ See [here](https://mathematics.stanford.edu/events/upcoming-events) for upcoming
 </details></li>
 </ul>
 
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>REPRESENTATION THEORY &mdash; Xuhua He (Hong Kong University)</b><br>
+    <i>Positivity of Canonical Bases</i></summary>
+  <small><img src="images/2026-04-23.png" alt="Apr 23"></small>
+</details></li>
+</ul>
