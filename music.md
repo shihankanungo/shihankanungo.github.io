@@ -16,6 +16,8 @@ title: Music &amp;c.
 
 ### Recorded Music
 
+Check out these playlists (in progress), with one song each from my favorite albums from 2026: <a href="https://open.spotify.com/playlist/08IgHzhli2cL1F04arxSXP?si=3da645526af14d50&pt=0634245d89226d227a5223181106540d">pop</a> and <a href="https://open.spotify.com/playlist/3hxuITtg6yfDcN3DEfD0J0?si=07dee6817bfc46f8&pt=d17b00f61de8f43dcadb16299042cc6d">jazz</a>.
+
 At the start of the year, I had the noble idea of tracking every piece of music I listened to&mdash;like some kind of sonic librarian. It took approximately five minutes to realize this was a fool’s errand. Case in point: last year alone, I clocked 17,748 songs and over 150,000 minutes on Spotify. 
 
 <p align="center"><img src="/images/spotify-25.jpg" width="500" /></p>
