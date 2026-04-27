@@ -14,12 +14,13 @@ I love watching movies, both in theaters (marked by 🎥 below), as well as at h
 
 See [here](https://shihankanungo.github.io/wrapped-2025#movies) for the movies I watched in 2025.
 
-Below is a lovingly curated list of 13 movies I've watched *so far* this year&mdash;films I'd recommend to friends, strangers, time travelers, and probably even sworn enemies. If it’s listed here, it’s worth your time. If it’s marked with a 👍, it's a full-throated endorsement&mdash;like, stop-what-you're-doing-and-watch-it levels of enthusiasm. You're welcome in advance. Stay tuned for more!
+Below is a lovingly curated list of 14 movies I've watched *so far* this year&mdash;films I'd recommend to friends, strangers, time travelers, and probably even sworn enemies. If it’s listed here, it’s worth your time. If it’s marked with a 👍, it's a full-throated endorsement&mdash;like, stop-what-you're-doing-and-watch-it levels of enthusiasm. You're welcome in advance. Stay tuned for more!
 
 - The Godfather (1972 d. Francis Ford Coppola) 👍
 - The Godfather Part II (1974 d. Francis Ford Coppola) 👍
 - Raging Bull (1980 d. Martin Scorsese)
 - Before Sunrise (1995 d. Richard Linklater)
+- Before Sunset (2004 d. Richard Linklater)
 - Spy Game (2001 d. Tony Scott) 👍
 - **The Lord of the Rings, 2026 Extended Edition** <br>
   The Fellowship of the Ring (2001 d. Peter Jackson) 🎥 👍 <br>
