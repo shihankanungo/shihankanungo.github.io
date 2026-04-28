@@ -57,3 +57,16 @@ This is my current wishlist:
 - 2014: Boyhood (d. Richard Linklater) 2h 45m
 - 2018: Roma (d. Alfonso Cuarón) 2h 15m
 - 2019: They Shall Not Grow Old (d. Peter Jackson) 1h 39m
+
+Movies with a vibe like that of *Zodiac* &mdash; psychological, meticulous, a little obsessive, often with a cat-and-mouse dynamic or fractured perception of truth.
+
+- 1986: Manhunter (d. Michael Mann) 2h
+- 1995: Se7en (d. David Fincher) 2h 10m
+- 1999: The Bone Collector (d. Phillip Noyce) 1h 58m
+- 2001: Frailty (d. Bill Paxton) 1h 40m
+- 2002: Insomnia (d. Christopher Nolan) 1h 58m
+- 2003: Mystic River (d. Clint Eastwood) 2h 17m
+- 2010: Shutter Island (d. Martin Scorsese) 2h 18m
+- 2013: Prisoners (d. Denis Villeneuve) 2h 33m
+- 2014: Nightcrawler (d. Dan Gilroy) 1h 57m
+- 2017: Wind River (d. Taylor Sheridan) 1h 47m
