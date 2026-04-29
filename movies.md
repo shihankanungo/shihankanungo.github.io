@@ -20,6 +20,7 @@ Below is a lovingly curated list of 14 movies I've watched *so far* this year&md
 - The Godfather Part II (1974 d. Francis Ford Coppola) 👍
 - Raging Bull (1980 d. Martin Scorsese)
 - Before Sunrise (1995 d. Richard Linklater)
+- Fargo (1996 d. Joel Coen, Ethan Coen)
 - Before Sunset (2004 d. Richard Linklater)
 - Spy Game (2001 d. Tony Scott) 👍
 - **The Lord of the Rings, 2026 Extended Edition** <br>
@@ -37,7 +38,6 @@ This is my current wishlist:
 - 1993: Schindler's List (d. Steven Spielberg) 3h 15m
 - 1994: Pulp Fiction (d. Quentin Tarantino) 2h 34m
 - 1995: Maborosi (d. Hirokazu Kore-eda) 1h 35m
-- 1996: Fargo (d. Joel Coen) 1h 38m
 - 1997: Princess Mononoke (d. Hayao Miyazaki) 2h 14m
 - 1997: Donnie Brasco (d. Mike Newell) 2h 7m
 - 1997: L.A. Confidential (d. Curtis Hanson) 2h 18m
