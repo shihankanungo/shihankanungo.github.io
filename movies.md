@@ -35,6 +35,7 @@ Below is a lovingly curated list of 15 movies I've watched *so far* this year&md
 
 This is my current wishlist:
 
+- 1992: One False Move (d. Carl Franklin) 1h 46m
 - 1993: Schindler's List (d. Steven Spielberg) 3h 15m
 - 1994: Pulp Fiction (d. Quentin Tarantino) 2h 34m
 - 1995: Maborosi (d. Hirokazu Kore-eda) 1h 35m
