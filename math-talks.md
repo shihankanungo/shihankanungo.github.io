@@ -102,3 +102,20 @@ See [here](https://mathematics.stanford.edu/events/upcoming-events) for upcoming
   <small><img src="images/2026-04-23b.png" alt="Apr 23"></small>
 </details></li>
 </ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>COMBINATORICS &mdash; Maya Sankar (IAS)</b><br>
+    <i>Entropy Methods for Rainbow Triangles and Properly Colored Cliques</i></summary>
+  <small><img src="images/2026-04-30a.png" alt="Apr 30"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>DEPARTMENT COLLOQUIUM &mdash; Josh Zahl (Chern Institute of Mathematics)</b><br>
+    <i>The Besicovitch compression phenomenon and the Kakeya set conjecture</i></summary>
+  <small><img src="images/2026-04-30b.png" alt="Apr 30"></small>
+</details></li>
+</ul>
+
