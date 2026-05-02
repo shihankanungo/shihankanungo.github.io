@@ -14,11 +14,12 @@ I love watching movies, both in theaters (marked by 🎥 below), as well as at h
 
 See [here](https://shihankanungo.github.io/wrapped-2025#movies) for the movies I watched in 2025.
 
-Below is a lovingly curated list of 15 movies I've watched *so far* this year&mdash;films I'd recommend to friends, strangers, time travelers, and probably even sworn enemies. If it’s listed here, it’s worth your time. If it’s marked with a 👍, it's a full-throated endorsement&mdash;like, stop-what-you're-doing-and-watch-it levels of enthusiasm. You're welcome in advance. Stay tuned for more!
+Below is a lovingly curated list of 16 movies I've watched *so far* this year&mdash;films I'd recommend to friends, strangers, time travelers, and probably even sworn enemies. If it’s listed here, it’s worth your time. If it’s marked with a 👍, it's a full-throated endorsement&mdash;like, stop-what-you're-doing-and-watch-it levels of enthusiasm. You're welcome in advance. Stay tuned for more!
 
 - The Godfather (1972 d. Francis Ford Coppola) 👍
 - The Godfather Part II (1974 d. Francis Ford Coppola) 👍
 - Raging Bull (1980 d. Martin Scorsese)
+- Pulp Fiction (1994 d. Quentin Tarantino)
 - Before Sunrise (1995 d. Richard Linklater)
 - Fargo (1996 d. Joel Coen, Ethan Coen)
 - Before Sunset (2004 d. Richard Linklater)
@@ -37,7 +38,6 @@ This is my current wishlist:
 
 - 1992: One False Move (d. Carl Franklin) 1h 46m
 - 1993: Schindler's List (d. Steven Spielberg) 3h 15m
-- 1994: Pulp Fiction (d. Quentin Tarantino) 2h 34m
 - 1995: Maborosi (d. Hirokazu Kore-eda) 1h 35m
 - 1997: Princess Mononoke (d. Hayao Miyazaki) 2h 14m
 - 1997: Donnie Brasco (d. Mike Newell) 2h 7m
