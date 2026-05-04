@@ -119,3 +119,12 @@ See [here](https://mathematics.stanford.edu/events/upcoming-events) for upcoming
 </details></li>
 </ul>
 
+### May
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Sean Howe (Utah)</b><br>
+    <i>p-adic twistors and applications</i></summary>
+  <small><img src="images/2026-05-04.png" alt="May 5"></small>
+</details></li>
+</ul>
