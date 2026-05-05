@@ -131,7 +131,7 @@ See [here](https://mathematics.stanford.edu/events/upcoming-events) for upcoming
 
 <ul>
 <li><details>
-  <summary style="list-style: none;"><b>TOPOLOGY &mdash; Nathan Dunfield</b><br>
+  <summary style="list-style: none;"><b>TOPOLOGY &mdash; Nathan Dunfield (UIUC)</b><br>
     <i>Roots of Alexander polynomials of random positive 3-braids</i></summary>
   <small><img src="images/2026-05-05.png" alt="May 5"></small>
 </details></li>
