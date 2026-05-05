@@ -125,6 +125,14 @@ See [here](https://mathematics.stanford.edu/events/upcoming-events) for upcoming
 <li><details>
   <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Sean Howe (Utah)</b><br>
     <i>p-adic twistors and applications</i></summary>
-  <small><img src="images/2026-05-04.png" alt="May 5"></small>
+  <small><img src="images/2026-05-04.png" alt="May 4"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>TOPOLOGY &mdash; Nathan Dunfield</b><br>
+    <i>Roots of Alexander polynomials of random positive 3-braids</i></summary>
+  <small><img src="images/2026-05-05.png" alt="May 5"></small>
 </details></li>
 </ul>
