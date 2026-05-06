@@ -8,7 +8,7 @@ title: Reading &amp;c.
 ![ch-reading](images/ch1.png)
 
 <br>
-These are the 6 books I have read in 2026 (so far!) See [here](https://shihankanungo.github.io/wrapped-2025#books) for what I read last year. <br>
+These are the 7 books I have read in 2026 (so far!) See [here](https://shihankanungo.github.io/wrapped-2025#books) for what I read last year. <br>
 
 ### Fiction
 - *The Brothers Karamazov* by Fyodor Dostoevsky. 1880
@@ -17,6 +17,7 @@ These are the 6 books I have read in 2026 (so far!) See [here](https://shihankan
 - *American Pastoral* by Philip Roth. 1997
 - *The Time Traveler's Wife* by Audrey Niffenegger. 2003
 - *The Brief Wondrous Life of Oscar Wao* by Junot Díaz. 2007
+- *Wolf Hall* by Hilary Mantel. 2009
 
 
 ### Non-fiction
