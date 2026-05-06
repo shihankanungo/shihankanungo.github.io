@@ -136,3 +136,11 @@ See [here](https://mathematics.stanford.edu/events/upcoming-events) for upcoming
   <small><img src="images/2026-05-05.png" alt="May 5"></small>
 </details></li>
 </ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>ALGEBRAIC GEOMETRY &mdash; Nathan Chen (Harvard University)</b><br>
+    <i>Characterizing algebraic varieties through symmetries</i></summary>
+  <small><img src="images/2026-05-06.png" alt="May 6"></small>
+</details></li>
+</ul>
