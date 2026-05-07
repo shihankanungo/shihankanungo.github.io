@@ -144,3 +144,19 @@ See [here](https://mathematics.stanford.edu/events/upcoming-events) for upcoming
   <small><img src="images/2026-05-06.png" alt="May 6"></small>
 </details></li>
 </ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>KIDDIE COLLOQUIUM &mdash; Qianhe Qin (Stanford)</b><br>
+    <i>To Be a Zootopologist: Cork or Spork?</i></summary>
+  <small><img src="images/2026-05-07a.png" alt="May 7"></small>
+</details></li>
+ </ul>
+
+ <ul>
+<li><details>
+  <summary style="list-style: none;"><b>REPRESENTATION THEORY &mdash; Rahul Dalal (Succinct)</b><br>
+    <i>Automorphic Representations and Optimal Quantum Logic Gates</i></summary>
+  <small><img src="images/2026-05-07b.png" alt="May 7"></small>
+</details></li>
+ </ul>
