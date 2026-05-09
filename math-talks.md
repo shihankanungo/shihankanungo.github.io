@@ -160,3 +160,19 @@ See [here](https://mathematics.stanford.edu/events/upcoming-events) for upcoming
   <small><img src="images/2026-05-07b.png" alt="May 7"></small>
 </details></li>
  </ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Amichai Lampert (University of Michigan)</b><br>
+    <i>Polynomial bounds for Birch's theorem on forms</i></summary>
+  <small><img src="images/2026-05-11a.png" alt="May 11"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>PROBABILITY &mdash; Sarah Peluse (Stanford)</b><br>
+    <i>Statistics of character tables of symmetric groups</i></summary>
+  <small><img src="images/2026-05-11b.png" alt="May 11"></small>
+</details></li>
+</ul>
