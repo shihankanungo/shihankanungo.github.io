@@ -184,3 +184,11 @@ See [here](https://mathematics.stanford.edu/events/upcoming-events) for upcoming
   <small><img src="images/2026-05-14a.png" alt="May 14"></small>
 </details></li>
  </ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>COMBINATORICS &mdash; Boris Bukh (OpenAI and CMU)</b><br>
+    <i>Faster random walk via infrequent steering</i></summary>
+  <small><img src="images/2026-05-14b.png" alt="May 14"></small>
+</details></li>
+</ul>
