@@ -192,3 +192,11 @@ See [here](https://mathematics.stanford.edu/events/upcoming-events) for upcoming
   <small><img src="images/2026-05-14b.png" alt="May 14"></small>
 </details></li>
 </ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>DEPARTMENT COLLOQUIUM &mdash; Yu Deng (University of Chicago)</b><br>
+    <i>Long time derivation of Boltzmann equation from hard sphere dynamics</i></summary>
+  <small><img src="images/2026-05-14c.png" alt="May 14"></small>
+</details></li>
+</ul>
