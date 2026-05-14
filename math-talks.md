@@ -176,3 +176,11 @@ See [here](https://mathematics.stanford.edu/events/upcoming-events) for upcoming
   <small><img src="images/2026-05-11b.png" alt="May 11"></small>
 </details></li>
 </ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>KIDDIE COLLOQUIUM &mdash; Daniel Kim (Stanford)</b><br>
+    <i>Shimura varieties and the Langlands program</i></summary>
+  <small><img src="images/2026-05-14a.png" alt="May 14"></small>
+</details></li>
+ </ul>
