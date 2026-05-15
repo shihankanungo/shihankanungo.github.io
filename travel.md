@@ -18,6 +18,8 @@ title: Travel &amp;c.
 - **San Francisco --- Apr 19**. Went to *Papito* for dinner. We ordered *steak fajitas* (spiked with habanero sauce), c*hicken enchiladas*, and *costillas cortas quesadillas* (braised short beef) --- all very yummy. Chatted about CPW on the drive to and back. 
 - **Denver, CO --- May 22--25**. The 1st American Masters in Mathematics, AMM 2026.
 - **Miami, FL --- Jun 4--6**. The inaugural *Citadel Securities Pathways Program* 2026. An experience designed for exceptional high school students recognized for excellence in the Math, Physics, or Computing Olympiads to explore how academic achievement can translate into meaningful, long-term careers in research, engineering, and trading.
+- **Boston, MA --- Aug 7--8**. The MAA AMC Award Ceremony. The MAA AMC Award Ceremony recognizes the achievements of top MAA AMC students and teachers. Honorees will include the 2026 U.S. IMO, EGMO, and RMM teams, the 2026 USAMO Gold winners, and the 2025 Edyth May Sliffe Award winners.
+
 
 
 
