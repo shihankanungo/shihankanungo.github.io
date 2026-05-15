@@ -205,6 +205,6 @@ See [here](https://mathematics.stanford.edu/events/upcoming-events) for upcoming
 <li><details>
   <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Jeremy Booher (University of Florida)</b><br>
     <i>Special Number Theory Seminar</i></summary>
-  <small><img src="images/2026-05-05.png" alt="May 15"></small>
+  <small><img src="images/2026-05-15.png" alt="May 15"></small>
 </details></li>
 </ul>
