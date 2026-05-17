@@ -36,7 +36,7 @@ title: Mathematics &mdash; writing
 
 <li><details>
   <summary style="list-style-type: none;"><i>The Grothendieck Group and K-Theory</i>. Algebra, Algebraic Topology [ <a href="gg.pdf" target="_blank" style="text-decoration: none">PDF</a> ] </summary>
-  <small>We develop the basic ideas underlying Grothendieck groups and to illustrate their appearance across algebra, topology, representation theory, and homological algebra. Motivated by the universal construction associated to a commutative monoid, we define the Grothendieck groups abelian categories and rings. Along the way we study several fundamental examples, including Euler characteristics, projective modules, and representation rings. We conclude with a discussion of <i>K<\i>-theory and its applications, indicating how the elementary construction of <i>K<\i><sub>0</sub> serves as the first layer of a much richer homotopical theory.<br></small><br>
+  <small>We develop the basic ideas underlying Grothendieck groups and to illustrate their appearance across algebra, topology, representation theory, and homological algebra. Motivated by the universal construction associated to a commutative monoid, we define the Grothendieck groups abelian categories and rings. Along the way we study several fundamental examples, including Euler characteristics, projective modules, and representation rings. We conclude with a discussion of <i>K</i>i>-theory and its applications, indicating how the elementary construction of <i>K</i>i><sub>0</sub> serves as the first layer of a much richer homotopical theory.<br></small><br>
 </details></li>
 
  
