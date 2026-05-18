@@ -11,7 +11,7 @@ See [here](https://mathematics.stanford.edu/events/upcoming-events) for upcoming
 
 ![stanford-math](images/smdt.png)
 
-### March
+### March (3)
 
 <ul>
 <li><details>
@@ -37,7 +37,7 @@ See [here](https://mathematics.stanford.edu/events/upcoming-events) for upcoming
 </details></li>
 </ul>
 
-### April
+### April (10)
 
 <ul>
 <li><details>
@@ -119,7 +119,7 @@ See [here](https://mathematics.stanford.edu/events/upcoming-events) for upcoming
 </details></li>
 </ul>
 
-### May
+### May (12)
 
 <ul>
 <li><details>
