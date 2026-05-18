@@ -204,7 +204,15 @@ See [here](https://mathematics.stanford.edu/events/upcoming-events) for upcoming
 <ul>
 <li><details>
   <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Jeremy Booher (University of Florida)</b><br>
-    <i>Special Number Theory Seminar</i></summary>
+    <i>Iwasawa theory of Frobenius-torsion class group schemes</i></summary>
   <small><img src="images/2026-05-15.png" alt="May 15"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Lue Pan (University of Michigan)</b><br>
+    <i>Plectic Galois action on the cohomology of Hilbert modular varieties</i></summary>
+  <small><img src="images/2026-05-18.png" alt="May 18"></small>
 </details></li>
 </ul>
