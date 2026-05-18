@@ -19,7 +19,7 @@ Below is a lovingly curated list of 17 movies I've watched *so far* this year&md
 - The Godfather (1972 d. Francis Ford Coppola) 👍
 - The Godfather Part II (1974 d. Francis Ford Coppola) 👍
 - Raging Bull (1980 d. Martin Scorsese)
-- Schindler's List (1993 d. Steven Spielberg)
+- Schindler's List (1993 d. Steven Spielberg) 👍
 - Pulp Fiction (1994 d. Quentin Tarantino)
 - Before Sunrise (1995 d. Richard Linklater)
 - Fargo (1996 d. Joel Coen, Ethan Coen)
