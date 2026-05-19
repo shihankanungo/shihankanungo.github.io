@@ -216,3 +216,19 @@ See [here](https://mathematics.stanford.edu/events/upcoming-events) for upcoming
   <small><img src="images/2026-05-18.png" alt="May 18"></small>
 </details></li>
 </ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>KIDDIE COLLOQUIUM &mdash; Michael Ren (Stanford)</b><br>
+    <i>Lozenge tiling and efficient sampling</i></summary>
+  <small><img src="images/2026-05-19a.png" alt="May 19"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>MRC PUBLIC LECTURE &mdash; Richard Schwartz (Brown University)</b><br>
+    <i>Paper Geometry &amp; Optimization</i></summary>
+  <small><img src="images/2026-05-19b.png" alt="May 19"></small>
+</details></li>
+</ul>
