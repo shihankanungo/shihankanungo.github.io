@@ -219,8 +219,8 @@ See [here](https://mathematics.stanford.edu/events/upcoming-events) for upcoming
 
 <ul>
 <li><details>
-  <summary style="list-style: none;"><b>KIDDIE COLLOQUIUM &mdash; Michael Ren (Stanford)</b><br>
-    <i>Lozenge tiling and efficient sampling</i></summary>
+  <summary style="list-style: none;"><b>TOPOLOGY &mdash; Danny Ruberman (Brandeis University)</b><br>
+    <i>Equivalent exotic surfaces in small 4-manifolds</i></summary>
   <small><img src="images/2026-05-19a.png" alt="May 19"></small>
 </details></li>
 </ul>
