@@ -119,7 +119,7 @@ See [here](https://mathematics.stanford.edu/events/upcoming-events) for upcoming
 </details></li>
 </ul>
 
-### May (12)
+### May (14)
 
 <ul>
 <li><details>
