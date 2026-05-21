@@ -30,8 +30,6 @@ So, after a few weeks of valiant effort (and mild spreadsheet trauma), I threw i
 
 Meanwhile, here's my top 20 artists on Spotify for the last 30 days (Apr 21 -- May 21).
 
-<p align="center"><img src="/images/lastfm-20-may-21.jpg" width="700" /></p>
-
 <p align="center"><img src="/images/lastfm-header.png" width="700" /><img src="/images/lastfm-20-0521.jpg" width="700" /></p>
 
 
