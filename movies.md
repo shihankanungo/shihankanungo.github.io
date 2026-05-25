@@ -24,6 +24,7 @@ Below is a lovingly curated list of 18 movies I've watched *so far* this year&md
 - Before Sunrise (1995 d. Richard Linklater)
 - Fargo (1996 d. Joel Coen, Ethan Coen)
 - Before Sunset (2004 d. Richard Linklater)
+- Gladiator (2000 d. Ridley Scott) 👍
 - Spy Game (2001 d. Tony Scott) 👍
 - **The Lord of the Rings, 2026 Extended Edition** <br>
   The Fellowship of the Ring (2001 d. Peter Jackson) 🎥 👍 <br>
