@@ -23,13 +23,13 @@ Below is a lovingly curated list of 18 movies I've watched *so far* this year&md
 - Pulp Fiction (1994 d. Quentin Tarantino)
 - Before Sunrise (1995 d. Richard Linklater)
 - Fargo (1996 d. Joel Coen, Ethan Coen)
-- Before Sunset (2004 d. Richard Linklater)
 - Gladiator (2000 d. Ridley Scott) 👍
 - Spy Game (2001 d. Tony Scott) 👍
 - **The Lord of the Rings, 2026 Extended Edition** <br>
   The Fellowship of the Ring (2001 d. Peter Jackson) 🎥 👍 <br>
   The Two Towers (2002 d. Peter Jackson) 🎥 👍 <br>
   The Return of the King (2003 d. Peter Jackson) 🎥 👍
+- Before Sunset (2004 d. Richard Linklater)
 - The Prestige (2006 d. Christopher Nolan) 👍
 - Zodiac (2007 d. David Fincher)
 - The Spectacular Now (2013 d. James Ponsoldt)
