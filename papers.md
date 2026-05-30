@@ -35,6 +35,11 @@ title: Mathematics &mdash; writing
 <ul>
 
 <li><details>
+  <summary style="list-style-type: none;"><i>Elliptic Functions and Eisenstein Series</i>. <small>Analysis, Number theory</small> [ <a href="elliptic.pdf" target="_blank" style="text-decoration: none">PDF</a> ] </summary>
+  <small>We provide an introduction to elliptic functions and Eisenstein series from a classical analytic perspective while highlighting their broader mathematical significance. The exposition assumes familiarity with basic complex analysis, particularly meromorphic functions, contour integration, and power series expansions.<br></small><br>
+</details></li>
+
+<li><details>
   <summary style="list-style-type: none;"><i>The Grothendieck Group and K-Theory</i>. <small>Algebra, Algebraic Topology</small> [ <a href="gg.pdf" target="_blank" style="text-decoration: none">PDF</a> ] </summary>
   <small>We develop the basic ideas underlying Grothendieck groups and to illustrate their appearance across algebra, topology, representation theory, and homological algebra. Motivated by the universal construction associated to a commutative monoid, we define the Grothendieck groups abelian categories and rings. Along the way we study several fundamental examples, including Euler characteristics, projective modules, and representation rings. We conclude with a discussion of <i>K</i>-theory and its applications, indicating how the elementary construction of <i>K</i><sub>0</sub> serves as the first layer of a much richer homotopical theory.<br></small><br>
 </details></li>
