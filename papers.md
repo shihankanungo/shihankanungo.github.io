@@ -35,7 +35,7 @@ title: Mathematics &mdash; writing
 <ul>
 
 <li><details>
-  <summary style="list-style-type: none;"><i>Elliptic Functions and Eisenstein Series</i>. <small>Analysis, Number theory</small> [ <a href="elliptic.pdf" target="_blank" style="text-decoration: none">PDF</a> ] </summary>
+  <summary style="list-style-type: none;"><i>Elliptic Functions and Eisenstein Series</i>. <small>Complex Analysis, Number Theory</small> [ <a href="elliptic.pdf" target="_blank" style="text-decoration: none">PDF</a> ] </summary>
   <small>We provide an introduction to elliptic functions and Eisenstein series from a classical analytic perspective while highlighting their broader mathematical significance. The exposition assumes familiarity with basic complex analysis, particularly meromorphic functions, contour integration, and power series expansions.<br></small><br>
 </details></li>
 
