@@ -14,7 +14,7 @@ I love watching movies, both in theaters (marked by 🎥 below), as well as at h
 
 See [here](https://shihankanungo.github.io/wrapped-2025#movies) for the movies I watched in 2025.
 
-Below is a lovingly curated list of 19 movies I've watched *so far* this year&mdash;films I'd recommend to friends, strangers, time travelers, and probably even sworn enemies. If it’s listed here, it’s worth your time. If it’s marked with a 👍, it's a full-throated endorsement&mdash;like, stop-what-you're-doing-and-watch-it levels of enthusiasm. You're welcome in advance. Stay tuned for more!
+Below is a lovingly curated list of 20 movies I've watched *so far* this year&mdash;films I'd recommend to friends, strangers, time travelers, and probably even sworn enemies. If it’s listed here, it’s worth your time. If it’s marked with a 👍, it's a full-throated endorsement&mdash;like, stop-what-you're-doing-and-watch-it levels of enthusiasm. You're welcome in advance. Stay tuned for more!
 
 - The Godfather (1972 d. Francis Ford Coppola) 👍
 - The Godfather Part II (1974 d. Francis Ford Coppola) 👍
@@ -24,6 +24,7 @@ Below is a lovingly curated list of 19 movies I've watched *so far* this year&md
 - Braveheart (1995 d. Mel Gibson)
 - Before Sunrise (1995 d. Richard Linklater)
 - Fargo (1996 d. Joel Coen, Ethan Coen)
+- Titanic (1997 d. James Cameron)
 - Gladiator (2000 d. Ridley Scott) 👍
 - Spy Game (2001 d. Tony Scott) 👍
 - **The Lord of the Rings, 2026 Extended Edition** <br>
@@ -46,7 +47,6 @@ This is my current wishlist:
 - 1997: Donnie Brasco (d. Mike Newell) 2h 7m
 - 1997: L.A. Confidential (d. Curtis Hanson) 2h 18m
 - 1997: Jackie Brown (d. Quentin Tarantino) 2h 34m
-- 1997: Titanic (d. James Cameron) 3h 14m
 - 1997: Kundun (d. Martin Scorsese) 2h 20m
 - 1998: Elizabeth (d. Shekhar Kapur) 2h 4m
 - 1998: Pleasantville (d. Gary Ross) 2h 4m
