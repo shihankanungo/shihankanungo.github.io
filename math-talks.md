@@ -232,3 +232,13 @@ See [here](https://mathematics.stanford.edu/events/upcoming-events) for upcoming
   <small><img src="images/2026-05-19b.png" alt="May 19"></small>
 </details></li>
 </ul>
+
+### June (1)
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>KIDDIE COLLOQUIUM &mdash; Travor Liu (Stanford)</b><br>
+    <i>Binary Quadratic Forms and the Zeros of Epstein's Zeta Function</i></summary>
+  <small><img src="images/2026-06-04.png" alt="June 4"></small>
+</details></li>
+</ul>
