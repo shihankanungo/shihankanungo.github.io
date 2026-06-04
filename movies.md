@@ -24,7 +24,7 @@ Below is a lovingly curated list of 20 movies I've watched *so far* this year&md
 - Braveheart (1995 d. Mel Gibson)
 - Before Sunrise (1995 d. Richard Linklater)
 - Fargo (1996 d. Joel Coen, Ethan Coen)
-- Titanic (1997 d. James Cameron)
+- Titanic (1997 d. James Cameron) 👍
 - Gladiator (2000 d. Ridley Scott) 👍
 - Spy Game (2001 d. Tony Scott) 👍
 - **The Lord of the Rings, 2026 Extended Edition** <br>
