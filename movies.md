@@ -14,7 +14,7 @@ I love watching movies, both in theaters (marked by 🎥 below), as well as at h
 
 See [here](https://shihankanungo.github.io/wrapped-2025#movies) for the movies I watched in 2025.
 
-Below is a lovingly curated list of 21 movies I've watched *so far* this year&mdash;films I'd recommend to friends, strangers, time travelers, and probably even sworn enemies. If it’s listed here, it’s worth your time. If it’s marked with a 👍, it's a full-throated endorsement&mdash;like, stop-what-you're-doing-and-watch-it levels of enthusiasm. You're welcome in advance. Stay tuned for more!
+Below is a lovingly curated list of 22 movies I've watched *so far* this year&mdash;films I'd recommend to friends, strangers, time travelers, and probably even sworn enemies. If it’s listed here, it’s worth your time. If it’s marked with a 👍, it's a full-throated endorsement&mdash;like, stop-what-you're-doing-and-watch-it levels of enthusiasm. You're welcome in advance. Stay tuned for more!
 
 - The Godfather (1972 d. Francis Ford Coppola) 👍
 - The Godfather Part II (1974 d. Francis Ford Coppola) 👍
@@ -22,7 +22,10 @@ Below is a lovingly curated list of 21 movies I've watched *so far* this year&md
 - Schindler's List (1993 d. Steven Spielberg) 👍
 - Pulp Fiction (1994 d. Quentin Tarantino)
 - Braveheart (1995 d. Mel Gibson)
-- Before Sunrise (1995 d. Richard Linklater)
+- **Before Trilogy (d. Richard Linklater)** <br>
+  Before Sunrise (1995 d. Richard Linklater) <br>
+  Before Sunset (2004 d. Richard Linklater) <br>
+  Before Midnight (2013 d. Richard Linklater) <br>
 - Fargo (1996 d. Joel Coen, Ethan Coen)
 - Titanic (1997 d. James Cameron) 👍
 - Gladiator (2000 d. Ridley Scott) 👍
@@ -31,7 +34,6 @@ Below is a lovingly curated list of 21 movies I've watched *so far* this year&md
   The Fellowship of the Ring (2001 d. Peter Jackson) 🎥 👍 <br>
   The Two Towers (2002 d. Peter Jackson) 🎥 👍 <br>
   The Return of the King (2003 d. Peter Jackson) 🎥 👍
-- Before Sunset (2004 d. Richard Linklater)
 - The Prestige (2006 d. Christopher Nolan) 👍
 - Zodiac (2007 d. David Fincher)
 - The Hurt Locker (2008 d. Kathryn Bigelow)
