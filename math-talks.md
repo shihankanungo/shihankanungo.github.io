@@ -242,3 +242,11 @@ See [here](https://mathematics.stanford.edu/events/upcoming-events) for upcoming
   <small><img src="images/2026-06-04.png" alt="June 4"></small>
 </details></li>
 </ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>PROBABILITY &mdash; Andrew Lin (Stanford)</b><br>
+    <i>High-dimensional permutons: Theory and applications</i></summary>
+  <small><img src="images/2026-06-08.png" alt="Jun 8"></small>
+</details></li>
+</ul>
