@@ -22,12 +22,12 @@ Below is a lovingly curated list of 23 movies I've watched *so far* this year&md
 - Schindler's List (1993 d. Steven Spielberg) 👍
 - Pulp Fiction (1994 d. Quentin Tarantino)
 - Braveheart (1995 d. Mel Gibson)
+- Fargo (1996 d. Joel Coen, Ethan Coen)
+- Titanic (1997 d. James Cameron) 👍
 - **Before Trilogy (d. Richard Linklater)** <br>
   Before Sunrise (1995 d. Richard Linklater) <br>
   Before Sunset (2004 d. Richard Linklater) <br>
   Before Midnight (2013 d. Richard Linklater) <br>
-- Fargo (1996 d. Joel Coen, Ethan Coen)
-- Titanic (1997 d. James Cameron) 👍
 - Gladiator (2000 d. Ridley Scott) 👍
 - Spy Game (2001 d. Tony Scott) 👍
 - **The Lord of the Rings, 2026 Extended Edition** <br>
