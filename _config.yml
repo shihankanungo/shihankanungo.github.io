@@ -17,7 +17,6 @@ description: > # description of the site (multiple lines allowed)
           <small><b>Song of the day (Mon Jun 8)</b>:<br>
           <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4OeIJu6DNzGk8cpJobHEqT?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
           
-          <br />
 
           <p><small>Last updated: <span id="last-updated"></span></small></p>
 
@@ -25,7 +24,7 @@ description: > # description of the site (multiple lines allowed)
             document.getElementById("last-updated").textContent =
             new Date(document.lastModified).toLocaleDateString(
             "en-GB",
-            { day: "numeric", month: "long", year: "numeric" }
+            { weekday: "short", month: "short", day: "numeric" }
             );
          </script>
 
