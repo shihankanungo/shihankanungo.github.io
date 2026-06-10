@@ -250,3 +250,11 @@ See [here](https://mathematics.stanford.edu/events/upcoming-events) for upcoming
   <small><img src="images/2026-06-08.png" alt="Jun 8"></small>
 </details></li>
 </ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>STUDENT ANALYTIC NUMBER THEORY &mdash; Noah Kravitz (Oxford)</b><br>
+    <i>The structure of sets with few subset sums</i></summary>
+  <small><img src="images/2026-06-10.png" alt="Jun 10"></small>
+</details></li>
+</ul>
