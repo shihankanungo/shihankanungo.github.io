@@ -233,7 +233,7 @@ See [here](https://mathematics.stanford.edu/events/upcoming-events) for upcoming
 </details></li>
 </ul>
 
-### June (1)
+### June (3)
 
 <ul>
 <li><details>
