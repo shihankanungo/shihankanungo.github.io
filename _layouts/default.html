@@ -23,21 +23,12 @@
           &nbsp;
           {%- endif -%}
           Theme&nbsp; <a href="https://github.com/abhinavs/moonwalk" target="_blank" rel="noreferrer">Moonwalk</a>
-        </div>
-      </div>
-    </main>
+          &nbsp;
+          •
+          &nbsp;
+          <p><small>Last updated: <span id="last-updated"></span></small></p>
 
-    {%- if site.soopr -%}
-      {%- if site.soopr.publish_token and jekyll.environment == "production" -%}
-        <script async defer data-soopr-token="{{site.soopr.publish_token}}" src="https://sdk.soopr.co/soopr.js"></script>
-      {%- else -%}
-        <script async defer src="https://sdk.soopr.co/soopr.js"></script>
-      {%- endif -%}
-    {%- endif -%}
-
-    <p><small>Last updated: <span id="last-updated"></span></small></p>
-
-    <script>
+          <script>
           function timeAgo(date) {
               const seconds = Math.floor((Date.now() - date.getTime()) / 1000);
 
@@ -64,6 +55,19 @@
 
           updateTimestamp();
           setInterval(updateTimestamp, 60000); // refresh every minute
-    </script>
+          </script>
+        </div>
+      </div>
+    </main>
+
+    {%- if site.soopr -%}
+      {%- if site.soopr.publish_token and jekyll.environment == "production" -%}
+        <script async defer data-soopr-token="{{site.soopr.publish_token}}" src="https://sdk.soopr.co/soopr.js"></script>
+      {%- else -%}
+        <script async defer src="https://sdk.soopr.co/soopr.js"></script>
+      {%- endif -%}
+    {%- endif -%}
+
+    
   </body>
 </html>
