@@ -32,7 +32,7 @@ Meanwhile, here's my top 20 artists on Spotify for the 60 days between Apr 12--J
 
 <p align="center"><img src="/images/lastfm-60-0612.png" width="700" /></p>
 
-... and here's my top 20 artists on Spotify for the past week.
+... and here's my top 20 artists on Spotify for the past week (Jun 7--14).
 
 <p align="center"><img src="/images/lastfm-07.png" width="700" /></p>
 
