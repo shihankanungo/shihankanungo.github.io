@@ -35,7 +35,7 @@ title: Mathematics &mdash; writing
 <ul>
 
 <li><details>
-  <summary style="list-style-type: none;"><i>Elliptic Functions and Eisenstein Series</i>. <small>Complex Analysis, Number Theory</small> [ <a href="elliptic.pdf" target="_blank" style="text-decoration: none">PDF</a> ] </summary>
+  <summary style="list-style-type: none;"><i>Elliptic Functions and Eisenstein Series</i>. <small>Complex Analysis, Number Theory</small> [ <a href="https://arxiv.org/abs/2606.14940" target="_blank" style="text-decoration: none">arXiv</a> ] </summary>
   <small>We provide an introduction to elliptic functions and Eisenstein series from a classical analytic perspective while highlighting their broader mathematical significance. The exposition assumes familiarity with basic complex analysis, particularly meromorphic functions, contour integration, and power series expansions.<br></small><br>
 </details></li>
 
@@ -81,7 +81,7 @@ title: Mathematics &mdash; writing
 </details></li>
 
 <li><details>
-  <summary style="list-style-type: none;"><i>Sobolev Spaces and Applications to PDEs</i>. <small>Theory of PDEs</small> [ <a href="sobolev.pdf" target="_blank" style="text-decoration: none">PDF</a> ] </summary>
+  <summary style="list-style-type: none;"><i>Sobolev Spaces and Applications to PDEs</i>. <small>Theory of PDEs</small> [ <a href="https://arxiv.org/abs/2606.14994" target="_blank" style="text-decoration: none">arXiv</a> ] </summary>
   <small>We provide an introduction to Sobolev spaces, a foundational concept in modern analysis and the theory of partial differential equations (PDEs). These spaces are useful for studying, among other things, the well-posedness of partial differential equations and their approximation using finite elements. We begin with a historical overview, tracing the development of weak derivatives and the shift from classical to variational formulations of PDEs. After establishing the basic definitions and presenting key examples, we survey central theorems such as the Sobolev Embedding Theorem and Rellich's Theorem, emphasizing their significance in ensuring existence, uniqueness, and regularity of solutions. Finally, we discuss a classic application to PDEs, the Elliptic Regularity Theorem. We aim to provide a self-contained and accessible introduction for students with a background in real analysis and the theory of PDEs.<br></small><br>
 </details></li>
 
