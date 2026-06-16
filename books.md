@@ -13,6 +13,7 @@ These are the 9 books I have read in 2026 (so far!) See [here](https://shihankan
 ### Fiction
 - *The Brothers Karamazov* by Fyodor Dostoevsky. 1880
 - *All Quiet on the Western Front* by Erich Maria Remarque. 1929
+- *The Fountainhead* by Ayn Rand. 1943 
 - *Invisible Man* by Ralph Ellison. 1952
 - *Offshore* by Penelope Fitzgerald. 1979
 - *The Name of the Rose* by Umberto Eco. 1980
