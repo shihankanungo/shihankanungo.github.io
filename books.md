@@ -8,7 +8,7 @@ title: Reading &amp;c.
 ![ch-reading](images/ch1.png)
 
 <br>
-These are the 9 books I have read in 2026 (so far!) See [here](https://shihankanungo.github.io/wrapped-2025#books) for what I read last year. <br>
+These are the 10 books I have read in 2026 (so far!) See [here](https://shihankanungo.github.io/wrapped-2025#books) for what I read last year. <br>
 
 ### Fiction
 - *The Brothers Karamazov* by Fyodor Dostoevsky. 1880
