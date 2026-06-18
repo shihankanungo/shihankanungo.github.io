@@ -14,7 +14,7 @@ I love watching movies, both in theaters (marked by 🎥 below), as well as at h
 
 See [here](https://shihankanungo.github.io/wrapped-2025#movies) for the movies I watched in 2025.
 
-Below is a lovingly curated list of 23 movies I've watched *so far* this year&mdash;films I'd recommend to friends, strangers, time travelers, and probably even sworn enemies. If it’s listed here, it’s worth your time. If it’s marked with a 👍, it's a full-throated endorsement&mdash;like, stop-what-you're-doing-and-watch-it levels of enthusiasm. You're welcome in advance. Stay tuned for more!
+Below is a lovingly curated list of 24 movies I've watched *so far* this year&mdash;films I'd recommend to friends, strangers, time travelers, and probably even sworn enemies. If it’s listed here, it’s worth your time. If it’s marked with a 👍, it's a full-throated endorsement&mdash;like, stop-what-you're-doing-and-watch-it levels of enthusiasm. You're welcome in advance. Stay tuned for more!
 
 - The Godfather (1972 d. Francis Ford Coppola) 👍
 - The Godfather Part II (1974 d. Francis Ford Coppola) 👍
@@ -24,6 +24,7 @@ Below is a lovingly curated list of 23 movies I've watched *so far* this year&md
 - Braveheart (1995 d. Mel Gibson)
 - Fargo (1996 d. Joel Coen, Ethan Coen)
 - Titanic (1997 d. James Cameron) 👍
+- Saving Private Ryan (1998 d. Steven Spielberg)
 - **Before Trilogy (d. Richard Linklater)** <br>
   Before Sunrise (1995 d. Richard Linklater) <br>
   Before Sunset (2004 d. Richard Linklater) <br>
@@ -55,7 +56,6 @@ This is my current wishlist:
 - 1998: Elizabeth (d. Shekhar Kapur) 2h 4m
 - 1998: Pleasantville (d. Gary Ross) 2h 4m
 - 1998: Life Is Beautiful (d. Roberto Benigni) 1h 56m
-- 1998: Saving Private Ryan (d. Steven Spielberg) 2h 49m
 - 1998: The Truman Show (d. Peter Weir) 1h 43m
 - 1999: Being John Malkovich (d. Spike Jonze) 1h 53m
 - 1999: The Insider (d. Michael Mann) 2h 37m
