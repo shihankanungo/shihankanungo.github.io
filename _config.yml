@@ -24,7 +24,8 @@ permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
 
-#(Fri Jun 19)<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2U99pz9vkfYgQJyl5DWntR?utm_source=generator&si=06517d14cc784e1b" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+#(Fri Jun 19)<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2cMIxkK4hwrhCT2QNFh08V?utm_source=generator&si=54eabb1f81314d0d" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+#(Sat Jun 20)<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2U99pz9vkfYgQJyl5DWntR?utm_source=generator&si=06517d14cc784e1b" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
 
