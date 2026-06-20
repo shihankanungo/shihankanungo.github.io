@@ -51,7 +51,6 @@ This is my current wishlist:
 - 1995: Maborosi (d. Hirokazu Kore-eda) 1h 35m
 - 1997: Princess Mononoke (d. Hayao Miyazaki) 2h 14m
 - 1997: Donnie Brasco (d. Mike Newell) 2h 7m
-- 1997: L.A. Confidential (d. Curtis Hanson) 2h 18m
 - 1997: Jackie Brown (d. Quentin Tarantino) 2h 34m
 - 1997: Kundun (d. Martin Scorsese) 2h 20m
 - 1998: Elizabeth (d. Shekhar Kapur) 2h 4m
