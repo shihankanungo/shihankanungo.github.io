@@ -8,7 +8,7 @@ title: Reading &amp;c.
 ![ch-reading](images/ch1.png)
 
 <br>
-These are the 11 books I have read in 2026 (so far!) See [here](https://shihankanungo.github.io/wrapped-2025#books) for what I read last year. <br>
+These are the 12 books I have read in 2026 (so far!) See [here](https://shihankanungo.github.io/wrapped-2025#books) for what I read last year. <br>
 
 ### Fiction
 - *The Brothers Karamazov* by Fyodor Dostoevsky. 1880
@@ -25,4 +25,4 @@ These are the 11 books I have read in 2026 (so far!) See [here](https://shihanka
 
 
 ### Non-fiction
-- *This is True* by Iam Liar. 4341
+- *The Early History of Rome* by Titus Livius (Livy). Between 27 and 9 BC
