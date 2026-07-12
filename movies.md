@@ -28,17 +28,17 @@ Below is a lovingly curated list of 32 movies I've watched *so far* this year&md
 - L.A. Confidential (1997 d. Curtis Hanson)
 - Saving Private Ryan (1998 d. Steven Spielberg)
 - The Talented Mr. Ripley (1999 d. Anthony Minghella)
-- **Richard Linklater Quartet** <br>
-  Before Sunrise (1995 d. Richard Linklater) <br>
-  Before Sunset (2004 d. Richard Linklater) <br>
-  Before Midnight (2013 d. Richard Linklater) <br>
-  Boyhood (2014 d. Richard Linklater) <br>
 - Gladiator (2000 d. Ridley Scott) 👍
 - Spy Game (2001 d. Tony Scott) 👍
 - **The Lord of the Rings, 2026 Extended Edition** <br>
   The Fellowship of the Ring (2001 d. Peter Jackson) 🎥 👍 <br>
   The Two Towers (2002 d. Peter Jackson) 🎥 👍 <br>
   The Return of the King (2003 d. Peter Jackson) 🎥 👍
+- **Richard Linklater Quartet** <br>
+  Before Sunrise (1995 d. Richard Linklater) <br>
+  Before Sunset (2004 d. Richard Linklater) <br>
+  Before Midnight (2013 d. Richard Linklater) <br>
+  Boyhood (2014 d. Richard Linklater) <br>
 - The Prestige (2006 d. Christopher Nolan) 👍
 - Zodiac (2007 d. David Fincher)
 - The Hurt Locker (2008 d. Kathryn Bigelow)
