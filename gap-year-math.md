@@ -86,7 +86,7 @@ I have undertaken advanced coursework at Euler Circle[^1] and at San José State
 
 - Upper Bounds for Sequence Saturation. <br />
   **S. Kanungo**. *Discrete Mathematics*. Submitted Dec 19, 2025. <br />
-  \[ [arXiv](https://arxiv.org/abs/2512.17683) \]
+  \[ [arXiv](https://arxiv.org/abs/2512.17683) \] \[ [description](https://shihankanungo.github.io/primes-25) \]
 
 - Representations of the Periplectic Supergroup in the Verlinde Category. <br />
   A. Kannan, **S. Kanungo**. *In preparation*. <br />
