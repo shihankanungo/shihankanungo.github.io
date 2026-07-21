@@ -78,7 +78,7 @@ I have undertaken advanced coursework at Euler Circle[^1] and at San José State
 
 ![separator](images/septhin.png)
 
-<br><br>
+<br>
 
 # Papers
 
@@ -91,8 +91,6 @@ I have undertaken advanced coursework at Euler Circle[^1] and at San José State
 - Representations of the Periplectic Supergroup in the Verlinde Category. <br />
   A. Kannan, **S. Kanungo**. *In preparation*. <br />
   \[ [description](https://shihankanungo.github.io/arun-26) \]
-
-<br />
   
 ## Expository 
 <small><i>click on the title to see a short description</i></small>
@@ -125,6 +123,12 @@ I have undertaken advanced coursework at Euler Circle[^1] and at San José State
 </details></li>
 </ul>
 
+<a href="https://shihankanungo.github.io/gap-year-math">↪️ Back to top</a>
+
+![separator](images/septhin.png)
+
+<br>
+
 # Math contests
 
 - **The 1st American Master of Mathematics, AMM 2026.** *Gold medal*. May 2026
@@ -135,11 +139,9 @@ I have undertaken advanced coursework at Euler Circle[^1] and at San José State
 
 <a href="https://shihankanungo.github.io/gap-year-math">↪️ Back to top</a>
 
-
-
 ![separator](images/septhin.png)
 
-<br><br>
+<br>
 
 # Attended talks
 
