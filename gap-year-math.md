@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gap Year. Part I. Mathematics
+title: Gap Year: Part I. Mathematics
 ---
 <br>
 > "Ask yourself if what you’re doing today is getting you closer to where you want to be tomorrow." --- Paulo Coelho 
