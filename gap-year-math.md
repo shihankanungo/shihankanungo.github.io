@@ -59,6 +59,12 @@ I have undertaken advanced coursework at Euler Circle[^1] and at San José State
 </details></li>
 
 <li><details>
+  <summary style="list-style-type: none;"><b>Differential Topology</b> Spring 2026 (self-study)</summary>
+  <small>I read the entire textbook and solved the exercises at the end.</small><br>
+  <small>Textbook: John Milnor. <i>Topology from the differentiable viewpoint.</i></small>
+</details></li>
+
+<li><details>
   <summary style="list-style-type: none;"><b>Combinatorics</b> Spring 2026. Euler Circle (self-study)</summary>
   <small>Special numbers, rising and falling factorials, sieving, restricted permutations, posets, incidence algebras, generating functions, recurrences and convolutions.</small><br>
   <small>Textbook: Simon Rubinstein-Salzedo. <i>Combinatorics.</i></small>
