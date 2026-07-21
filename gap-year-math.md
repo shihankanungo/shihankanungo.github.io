@@ -2,6 +2,7 @@
 layout: post
 title: Gap Year. Part I. Mathematics
 ---
+<br>
 > "Ask yourself if what you’re doing today is getting you closer to where you want to be tomorrow." --- Paulo Coelho 
 
 <br> 
@@ -9,10 +10,8 @@ title: Gap Year. Part I. Mathematics
 ## Courses
 I have undertaken advanced coursework at Euler Circle[^1] and at San José State University[^2]. 
 
-
 [^1]: Euler Circle, run by Dr. Simon Rubinstein-Salzedo, offers college-level mathematics classes, each 10 weeks long, with weekly problem sets to help gain familiarity with new material. At the end of the class we write an expository paper on a topic related to the class material. 
 [^2]: At SJSU, courses run for 15 weeks and typically include 7 to 10 problem sets, two midterm exams, and a final exam. In graduate-level courses, there is often a project and/or presentation in lieu of the final. 
-
 
 <small><i>click on the title to see a short description</i></small>
 
@@ -43,7 +42,7 @@ I have undertaken advanced coursework at Euler Circle[^1] and at San José State
 
 <li><details>
   <summary style="list-style-type: none;"><b>Complex Analysis I</b> Spring 2026. Euler Circle </summary>
-  <small>The Cauchy integral formula, residues and series, branch points and Riemann surfaces, products and the Gamma function.</small><br>
+  <small>Cauchy integral formula, residues & series, branch points, Riemann surfaces, products & the Gamma function.</small><br>
   <small>Textbook: Simon Rubinstein-Salzedo. <i>Complex Analysis.</i> Chapters 1&mdash;9</small>
 </details></li>
 
