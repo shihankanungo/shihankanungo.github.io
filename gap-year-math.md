@@ -42,9 +42,27 @@ I have undertaken advanced coursework at Euler Circle[^1] and at San José State
 </details></li>
 
 <li><details>
+  <summary style="list-style-type: none;"><b>Complex Analysis I</b> Spring 2026. Euler Circle </summary>
+  <small>The Cauchy integral formula, residues and series, branch points and Riemann surfaces, products and the Gamma function.</small><br>
+  <small>Textbook: Simon Rubinstein-Salzedo. <i>Complex Analysis.</i> Chapters 1&mdash;9</small>
+</details></li>
+
+<li><details>
+  <summary style="list-style-type: none;"><b>Complex Analysis II</b> Summer 2026. Euler Circle </summary>
+  <small>The Hadamard product, conformal mappings, Riemann mapping theorem, elliptic functions, Picard’s little theorem, the Wiener–Ikehara theorem, analytic continuation, the prime number theorem, Theta functions.</small><br>
+  <small>Textbook: Simon Rubinstein-Salzedo. <i>Complex Analysis.</i> Chapters 10&mdash;18</small>
+</details></li>
+
+<li><details>
   <summary style="list-style-type: none;"><b>MATH 275A</b> <i>Topology</i>. Fall 2025. SJSU (A+)</summary>
   <small>Topological spaces and associated concepts (e.g., subspaces, product spaces, quotient spaces); continuous functions; compactness, connectedness (including path connectedness) and their local versions; countability and separation axioms; compactifications and Tychonoff’s Theorem; paracompactness and metrization theorems.</small><br>
   <small>Textbook: James Munkres. <i>Topology.</i></small>
+</details></li>
+
+<li><details>
+  <summary style="list-style-type: none;"><b>Combinatorics</b> Spring 2026. Euler Circle </summary>
+  <small>Special numbers, rising and falling factorials, sieving, restricted permutations, posets, incidence algebras, generating functions, recurrences and convolutions.</small><br>
+  <small>Textbook: Simon Rubinstein-Salzedo. <i>Combinatorics.</i></small>
 </details></li>
 
 </ul>
