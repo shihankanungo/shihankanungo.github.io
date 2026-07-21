@@ -42,7 +42,7 @@ I have undertaken advanced coursework at Euler Circle[^1] and at San José State
 
 <li><details>
   <summary style="list-style-type: none;"><b>Complex Analysis I</b> Spring 2026. Euler Circle (self-study)</summary>
-  <small>Cauchy integral formula, residues & series, branch points, Riemann surfaces, products & the Gamma function.</small><br>
+  <small>Cauchy integral formula, residues & series, branch points, Riemann surfaces, products, Gamma function.</small><br>
   <small>Textbook: Simon Rubinstein-Salzedo. <i>Complex Analysis.</i> Chapters 1&mdash;9</small>
 </details></li>
 
