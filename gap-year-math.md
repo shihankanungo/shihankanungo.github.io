@@ -41,13 +41,13 @@ I have undertaken advanced coursework at Euler Circle[^1] and at San José State
 </details></li>
 
 <li><details>
-  <summary style="list-style-type: none;"><b>Complex Analysis I</b> Spring 2026. Euler Circle </summary>
+  <summary style="list-style-type: none;"><b>Complex Analysis I</b> Spring 2026. Euler Circle (self-study)</summary>
   <small>Cauchy integral formula, residues & series, branch points, Riemann surfaces, products & the Gamma function.</small><br>
   <small>Textbook: Simon Rubinstein-Salzedo. <i>Complex Analysis.</i> Chapters 1&mdash;9</small>
 </details></li>
 
 <li><details>
-  <summary style="list-style-type: none;"><b>Complex Analysis II</b> Summer 2026. Euler Circle </summary>
+  <summary style="list-style-type: none;"><b>Complex Analysis II</b> Summer 2026. Euler Circle (self-study) </summary>
   <small>The Hadamard product, conformal mappings, Riemann mapping theorem, elliptic functions, Picard’s little theorem, the Wiener–Ikehara theorem, analytic continuation, the prime number theorem, Theta functions.</small><br>
   <small>Textbook: Simon Rubinstein-Salzedo. <i>Complex Analysis.</i> Chapters 10&mdash;18</small>
 </details></li>
@@ -59,7 +59,7 @@ I have undertaken advanced coursework at Euler Circle[^1] and at San José State
 </details></li>
 
 <li><details>
-  <summary style="list-style-type: none;"><b>Combinatorics</b> Spring 2026. Euler Circle </summary>
+  <summary style="list-style-type: none;"><b>Combinatorics</b> Spring 2026. Euler Circle (self-study)</summary>
   <small>Special numbers, rising and falling factorials, sieving, restricted permutations, posets, incidence algebras, generating functions, recurrences and convolutions.</small><br>
   <small>Textbook: Simon Rubinstein-Salzedo. <i>Combinatorics.</i></small>
 </details></li>
