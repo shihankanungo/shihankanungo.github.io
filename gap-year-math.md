@@ -86,7 +86,7 @@ I have undertaken advanced coursework at Euler Circle[^1] and at San José State
 
 ![stanford-math](images/smdt.png)
 
-### June
+### June 2025
 
 <ul>
 <li><details>
@@ -145,7 +145,7 @@ I have undertaken advanced coursework at Euler Circle[^1] and at San José State
 
 ![stanford-math](images/smdt.png)
 
-### September
+### September 2025
 
 <ul>
 <li><details>
@@ -203,7 +203,7 @@ I have undertaken advanced coursework at Euler Circle[^1] and at San José State
 </details></li>
 </ul>
 
-### October
+### October 2025
 
 <ul>
 <li><details>
@@ -381,8 +381,6 @@ I have undertaken advanced coursework at Euler Circle[^1] and at San José State
 </details></li>
 </ul>
 
-
-
 ![sjsu-math](images/sjsu-math.png)
 
 <ul>
@@ -401,13 +399,13 @@ I have undertaken advanced coursework at Euler Circle[^1] and at San José State
     <i>The Ax–Grothendieck theorem: a gentle introduction to Model Theory</i></summary>
   <small><img src="images/11-22.png" alt="Nov 22"></small>
 </details></li>
- </ul>
+</ul>
 
  ## Stanford University, Math Department Talks
 
 ![stanford-math](images/smdt.png)
 
-### March (3)
+### March 2026 (3)
 
 <ul>
 <li><details>
@@ -433,7 +431,7 @@ I have undertaken advanced coursework at Euler Circle[^1] and at San José State
 </details></li>
 </ul>
 
-### April (10)
+### April 2026 (10)
 
 <ul>
 <li><details>
@@ -515,7 +513,7 @@ I have undertaken advanced coursework at Euler Circle[^1] and at San José State
 </details></li>
 </ul>
 
-### May (14)
+### May 2026 (14)
 
 <ul>
 <li><details>
@@ -629,7 +627,7 @@ I have undertaken advanced coursework at Euler Circle[^1] and at San José State
 </details></li>
 </ul>
 
-### June (3)
+### June 2026 (3)
 
 <ul>
 <li><details>
