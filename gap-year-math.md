@@ -401,7 +401,7 @@ I have undertaken advanced coursework at Euler Circle[^1] and at San José State
 </details></li>
 </ul>
 
- ## Stanford University, Math Department Talks
+## Stanford University, Math Department Talks
 
 ![stanford-math](images/smdt.png)
 
