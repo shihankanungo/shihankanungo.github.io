@@ -78,7 +78,52 @@ I have undertaken advanced coursework at Euler Circle[^1] and at San José State
 
 ![separator](images/septhin.png)
 
-<br><br><br>
+<br><br>
+
+# Papers
+
+## Research publications and preprints
+
+- Upper Bounds for Sequence Saturation. <br />
+  **S. Kanungo**. *Discrete Mathematics*. Submitted Dec 19, 2025. <br />
+  \[ [arXiv](https://arxiv.org/abs/2512.17683) \]
+
+- Representations of the Periplectic Supergroup in the Verlinde Category. <br />
+  A. Kannan, **S. Kanungo**. *In preparation*. <br />
+  \[ [description](https://shihankanungo.github.io/arun-26) \]
+
+<br />
+  
+## Expository 
+<small><i>click on the title to see a short description</i></small>
+
+<ul>
+<li><details>
+  <summary style="list-style-type: none;"><i>Elliptic Functions and Eisenstein Series</i>. <small>Complex Analysis, Number Theory</small> [ <a href="https://arxiv.org/abs/2606.14940" target="_blank" style="text-decoration: none">arXiv</a> ] </summary>
+  <small>We provide an introduction to elliptic functions and Eisenstein series from a classical analytic perspective while highlighting their broader mathematical significance. The exposition assumes familiarity with basic complex analysis, particularly meromorphic functions, contour integration, and power series expansions.<br></small><br>
+</details></li>
+
+<li><details>
+  <summary style="list-style-type: none;"><i>The Grothendieck Group and K-Theory</i>. <small>Algebra, Algebraic Topology</small> [ <a href="https://arxiv.org/abs/2606.01492" target="_blank" style="text-decoration: none">arXiv</a> ] </summary>
+  <small>We develop the basic ideas underlying Grothendieck groups and to illustrate their appearance across algebra, topology, representation theory, and homological algebra. Motivated by the universal construction associated to a commutative monoid, we define the Grothendieck groups abelian categories and rings. Along the way we study several fundamental examples, including Euler characteristics, projective modules, and representation rings. We conclude with a discussion of <i>K</i>-theory and its applications, indicating how the elementary construction of <i>K</i><sub>0</sub> serves as the first layer of a much richer homotopical theory.<br></small><br>
+</details></li>
+
+ 
+<li><details>
+  <summary style="list-style-type: none;"><i>The Fundamental Group</i>. <small>Algebraic Topology</small> [ <a href="fundgrp.pdf" target="_blank" style="text-decoration: none">PDF</a> ] </summary>
+  <small>We introduce the fundamental group as the first algebraic invariant of a topological space and the primary tool for detecting topological "holes." By lifting loops along the covering map and interpreting homotopy in terms of winding number, we compute the fundamental group of the circle to be the integers <b>Z</b>.<br></small><br>
+</details></li>
+
+<li><details>
+  <summary style="list-style-type: none;"><i>Height, Krull Dimension, and Localization</i>. <small>Commutative Algebra</small> [ <a href="krull.pdf" target="_blank" style="text-decoration: none">PDF</a> ] </summary>
+  <small>This paper serves as a bridge between abstract ring theory and the geometric concepts of Algebraic Geometry. We explore how the Krull dimension, defined by chains of prime ideals, acts as the algebraic analogue of geometric dimension (e.g., points, curves, surfaces). We present localization as the algebraic tool that allows us to "zoom in" on a specific prime ideal to study the ring's isolated, local structure.<br></small><br>
+</details></li>
+
+<li><details>
+  <summary style="list-style-type: none;"><i>Modular Curves as Moduli Spaces</i>. <small>Algebraic Geometry</small> [ <a href="moduli.pdf" target="_blank" style="text-decoration: none">PDF</a> ] </summary>
+  <small>We explore how modular curves corresponding to congruence subgroups encode elliptic curves with certain kinds of torsion subgroups. We also investigate the visualization of a modular curve $mdash; what it actually looks like from various perspectives; for example, as fundamental regions in the disk and upper half plane models of hyperbolic space, as a color map of an appropriate modular form, or as Riemann surfaces obtained by gluing parts of the boundary together and adding cusps to compactify.<br></small><br>
+</details></li>
+</ul>
 
 # Math contests
 
@@ -94,7 +139,7 @@ I have undertaken advanced coursework at Euler Circle[^1] and at San José State
 
 ![separator](images/septhin.png)
 
-<br><br><br>
+<br><br>
 
 # Attended talks
 
