@@ -7,7 +7,7 @@ title: Gap Year. Part I. Mathematics
 
 <br> 
 
-## Courses
+# Courses
 I have undertaken advanced coursework at Euler Circle[^1] and at San José State University[^2]. 
 
 [^1]: Euler Circle, run by Dr. Simon Rubinstein-Salzedo, offers college-level mathematics classes, each 10 weeks long, with weekly problem sets to help gain familiarity with new material. At the end of the class we write an expository paper on a topic related to the class material. 
@@ -72,10 +72,587 @@ I have undertaken advanced coursework at Euler Circle[^1] and at San José State
 
 </ul>
 
-<a href="https://shihankanungo.github.io/courses">↪️ Back to top</a>
+<a href="https://shihankanungo.github.io/gap-year-math">↪️ Back to top</a>
 
 
 
 ![separator](images/septhin.png)
 
 <br><br><br>
+
+# Attended talks
+
+## Stanford University, Math Department Talks
+
+![stanford-math](images/smdt.png)
+
+### June
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; David Zywina (Cornell)</b><br>
+    <i>There are infinitely many elliptic curves over the rationals of rank 2</i></summary>
+  <small><img src="images/06-02a.png" alt="June 2"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>PROBABILITY &mdash; Chun Yin Siu (Stanford Psychiatry)</b><br>
+    <i>Random topology: The topology of preferential attachment graphs</i></summary>
+  <small><img src="images/06-02b.png" alt="June 2"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>KIDDIE COLLOQUIUM &mdash; Milo Marsden (Stanford University)</b><br>
+    <i>Eigenvalues of Wigner Matrices: A dip into Random Matrix Theory</i></summary>
+  <small><img src="images/06-05a.png" alt="June 5"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>REPRESENTATION THEORY &mdash; Jeremy Taylor (UC Berkeley)</b><br>
+    <i>The universal monodromic Bezrukavnikov equivalence</i></summary>
+  <small><img src="images/06-05c.png" alt="June 5"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>DEPARTMENT COLLOQUIUM &mdash; Aravind Asok (USC)</b><br>
+    <i>Constructing projective modules</i></summary>
+  <small><img src="images/06-05b.png" alt="June 5"></small>
+</details></li>
+</ul>
+
+## MAA MathFest 2025. Sacramento, CA Aug 6--9.
+
+![maa-2025](images/maa25.png)
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>Martin Gardner Lecture &mdash; Persi Diaconis, Stanford University</b><br>
+    <i>The Magic of Charles Sanders Peirce</i></summary>
+  <small><img src="images/persi.png" alt="Persi Diaconis"></small>
+</details></li>
+ </ul>
+
+
+## Stanford University, Math Department Talks
+
+![stanford-math](images/smdt.png)
+
+### September
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>PROBABILITY &mdash; Volodymyr Riabov (IST, Austria)</b><br>
+    <i>The Zigzag strategy for random band matrices</i></summary>
+  <small><img src="images/09-22a.png" alt="Sep 22"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>SYMPLECTIC GEOMETRY &mdash; Anastasiia Sharipova (Stanford)</b><br>
+    <i>Outer billiards and symplectic geometry</i></summary>
+  <small><img src="images/08-22b.png" alt="Sep 22"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>TOPOLOGY &mdash; Daren Chen (Caltech)</b><br>
+    <i>Two-component L-space links, satellites, and the tau-invariant</i></summary>
+  <small><img src="images/08-23.png" alt="Sep 23"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>ANALYTIC NUMBER THEORY &mdash; Lasse Grimmelt (Cambridge)</b><br>
+    <i>The divisor function along arithmetic progressions</i></summary>
+  <small><img src="images/9-24.png" alt="Sep 24"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Jared Duker Lichtman (Stanford)</b><br>
+    <i>The abc conjecture almost always</i></summary>
+  <small><img src="images/09-29.png" alt="Sep 29"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>PROBABILITY &mdash; Izumi Okada (University of Tokyo)</b><br>
+    <i>Favorite sites for simple random walk in two and more dimensions</i></summary>
+  <small><img src="images/09-29b.png" alt="Sep 29"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>TOPOLOGY &mdash; Mona Merling (UPenn)</b><br>
+    <i>Equivariant algebraic K-theory of G-manifolds</i></summary>
+  <small><img src="images/09-30.png" alt="Sep 30"></small>
+</details></li>
+</ul>
+
+### October
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>STUDENT ANALYTIC NUMBER THEORY &mdash; Nathan Tung (Stanford)</b><br>
+    <i>A new lower bound for Szemerédi's theorem with random differences in finite fields</i></summary>
+  <small><img src="images/10-01.png" alt="Oct 01"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>STUDENT ALGEBRAIC GEOMETRY &mdash; Ben Church (Stanford)</b><br>
+    <i>Abelian schemes and elliptic curves over <b>Z</b></i></summary>
+  <small><img src="images/10-01b.png" alt="Oct 01"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>COMBINATORICS &mdash; Maria-Romina Ivan (Stanford)</b><br>
+    <i>Poset Saturation - From the Diamond to the General Case</i> </summary>
+  <small><img src="images/10-02.png" alt="October 2"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Shengtong Zhang (Stanford)</b><br>
+    <i>Chowla’s cosine problem through spectral graph theory</i></summary>
+  <small><img src="images/10-06.png" alt="Oct 06"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>TOPOLOGY &mdash; John Chae (Caltech)</b><br>
+    <i>Knot complements, series invariants and Lie superalgebra</i></summary>
+  <small><img src="images/10-07.png" alt="Oct 07"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>STUDENT ANALYTIC NUMBER THEORY &mdash; Zi Li Lim (UCLA)</b><br>
+    <i>Rational function progressions</i></summary>
+  <small><img src="images/10-08.png" alt="Oct 08"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>COMBINATORICS &mdash; Tara Abrishami (Stanford)</b><br>
+    <i>Beyond chordal graphs</i> </summary>
+  <small><img src="images/10-09b.png" alt="Oct 09"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>BERGMAN LECTURE &mdash; Yanir Rubinstein (University of Maryland, Stanford)</b><br>
+    <i>Invitation to Geometry via Mahler's Conjectures: a mathematical opera in three acts</i></summary>
+  <small><img src="images/10-09.png" alt="Oct 09"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Mark Kisin (Harvard)</b><br>
+    <i>Reductions of crystalline representations</i></summary>
+  <small><img src="images/10-13a.png" alt="Oct 13"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>SYMPLECTIC GEOMETRY &mdash; Phil Morrison (UT Austin)</b><br>
+    <i>Flows on metriplectic manifolds</i></summary>
+  <small><img src="images/10-13b.png" alt="Oct 13"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>STUDENT ANALYTIC NUMBER THEORY &mdash; Tim Santens (Cambridge)</b><br>
+    <i>Local solubility of generalised Fermat equations</i></summary>
+  <small><img src="images/10-15a.png" alt="Oct 15"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>BERGMAN LECTURE &mdash; Yanir Rubinstein (University of Maryland, Stanford)</b><br>
+    <i>Invitation to Geometry via Mahler's Conjectures: a mathematical opera in three acts</i></summary>
+  <small><img src="images/10-15b.png" alt="Oct 15"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>GEOMETRY &mdash; Riccardo Caniato (Caltech)</b><br>
+    <i>Area rigidity for the regular representation of surface groups</i></summary>
+  <small><img src="images/10-15c.png" alt="Oct 15"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Ben Church (Stanford)</b><br>
+    <i>Shioda's conjecture on unirationality</i></summary>
+  <small><img src="images/10-20a.png" alt="Oct 20"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>SYMPLECTIC GEOMETRY &mdash; Giovanni Ambrosioni (ETH)</b><br>
+    <i>Approximability for Lagrangian submanifolds</i></summary>
+  <small><img src="images/10-20b.png" alt="Oct 20"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>COMBINATORICS &mdash; Freddie Manners (UCSD)</b><br>
+    <i>Marton's Conjecture, aka the Polynomial Freiman--Ruzsa conjecture</i></summary>
+  <small><img src="images/10-23a.png" alt="Oct 23"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>BERGMAN LECTURE &mdash; Yanir Rubinstein (University of Maryland, Stanford)</b><br>
+    <i>Invitation to Geometry via Mahler's Conjectures: a mathematical opera in three acts</i></summary>
+  <small><img src="images/10-23.png" alt="Oct 23"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>KIDDIE COLLOQUIUM &mdash; Carl Schildkraut (Stanford University)</b><br>
+    <i>Some peculiar p-groups and what they can do</i></summary>
+  <small><img src="images/10-29.png" alt="Oct 29"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>COMBINATORICS &mdash; Persi Diaconis (Stanford)</b><br>
+    <i>On sampling from an urn, without replacement</i></summary>
+  <small><img src="images/12-4.png" alt="Dec 4"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>KIDDIE COLLOQUIUM &mdash; Daniel Kim (Stanford University)</b><br>
+    <i>How the government tries to</i> █████████████</summary>
+  <small><img src="images/12-5.png" alt="Dec 5"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>STUDENT ANALYTIC NUMBER THEORY &mdash; Dor Minzer (MIT)</b><br>
+    <i>On inverse theorems, constraint satisfaction problems and combinatorial lines</i></summary>
+  <small><img src="images/12-10.png" alt="Dec 10"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>COMBINATORICS &mdash; Zach Hunter (ETH Zurich)</b><br>
+    <i>Improved lower bounds for multicolor van der Waerden numbers</i></summary>
+  <small><img src="images/12-17.png" alt="Dec 17"></small>
+</details></li>
+</ul>
+
+
+
+![sjsu-math](images/sjsu-math.png)
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Brian Conrad, Stanford University</b><br>
+    <i>Finite subgroups of matrix groups over infinite fields</i></summary>
+  <small><img src="images/11-19.png" alt="Nov 19"></small>
+</details></li>
+ </ul>
+
+ ![pumac](images/pumac.png)
+
+ <ul>
+<li><details>
+  <summary style="list-style: none;"><b>MODEL THEORY &mdash; Jacob Tsimerman, IAS/University of Toronto</b><br>
+    <i>The Ax–Grothendieck theorem: a gentle introduction to Model Theory</i></summary>
+  <small><img src="images/11-22.png" alt="Nov 22"></small>
+</details></li>
+ </ul>
+
+ ## Stanford University, Math Department Talks
+
+![stanford-math](images/smdt.png)
+
+### March (3)
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>DEPARTMENT COLLOQUIUM &mdash; Hong Wang (NYU Courant and IHES)</b><br>
+    <i>MRC Distinguished Lecture: A survey of Stein's restriction conjecture</i></summary>
+  <small><img src="images/2026-03-12.png" alt="Mar 12"></small>
+</details></li>
+ </ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Akshat Mudgal (Warwick)</b><br>
+    <i>Generalised sum-product phenomenon and a question of Bremner</i></summary>
+  <small><img src="images/2026-03-30.png" alt="Mar 30"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>ANALYSIS &amp; PDE &mdash; Josh Zahl (Chern Institute)</b><br>
+    <i>Nikodym sets, maximal functions, and local smoothing</i></summary>
+  <small><img src="images/2026-03-31.png" alt="Mar 31"></small>
+</details></li>
+</ul>
+
+### April (10)
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>STUDENT ANALYTIC NUMBER THEORY &mdash; Junho Peter Whang (Seoul National University)</b><br>
+    <i>On indefinite integral ternary quadratic forms</i></summary>
+  <small><img src="images/2026-04-01.png" alt="Apr 01"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>COMBINATORICS &mdash; Mehtaab Sawhney (Columbia University; Open AI)</b><br>
+    <i>On the Maxima of Littlewood Polynomials</i></summary>
+  <small><img src="images/2026-04-02.png" alt="Apr 02"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>COMBINATORICS &mdash; Mehtaab Sawhney (Columbia University; Open AI)</b><br>
+    <i>The Portion of Permutations fixing a k-Set</i></summary>
+  <small><img src="images/2026-04-03.png" alt="Apr 03"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>REPRESENTATION THEORY &mdash; George Lusztig (MIT)</b><br>
+    <i>Fourier transform as a triangular matrix</i></summary>
+  <small><img src="images/2026-04-08.png" alt="Apr 08"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>DEPARTMENT COLLOQUIUM &mdash; Nikos Frantzikinakis (University of Crete)</b><br>
+    <i>Quadratic Ramsey theory: old questions, new ideas</i></summary>
+  <small><img src="images/2026-04-09.png" alt="Apr 09"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Stepan Nesterov (Stanford)</b><br>
+    <i>Cyclic covers of the projective line and PSL(n,q) as Galois groups</i></summary>
+  <small><img src="images/2026-04-13.png" alt="Apr 13"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>REPRESENTATION THEORY &mdash; Xuhua He (Hong Kong University)</b><br>
+    <i>Positivity of Canonical Bases</i></summary>
+  <small><img src="images/2026-04-23.png" alt="Apr 23"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>DEPARTMENT COLLOQUIUM &mdash; Tony Feng (UC Berkeley; Google DeepMind)</b><br>
+    <i>The rise and ramifications of Artificial Mathematical Intelligence</i></summary>
+  <small><img src="images/2026-04-23b.png" alt="Apr 23"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>COMBINATORICS &mdash; Maya Sankar (IAS)</b><br>
+    <i>Entropy Methods for Rainbow Triangles and Properly Colored Cliques</i></summary>
+  <small><img src="images/2026-04-30a.png" alt="Apr 30"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>DEPARTMENT COLLOQUIUM &mdash; Josh Zahl (Chern Institute of Mathematics)</b><br>
+    <i>The Besicovitch compression phenomenon and the Kakeya set conjecture</i></summary>
+  <small><img src="images/2026-04-30b.png" alt="Apr 30"></small>
+</details></li>
+</ul>
+
+### May (14)
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Sean Howe (Utah)</b><br>
+    <i>p-adic twistors and applications</i></summary>
+  <small><img src="images/2026-05-04.png" alt="May 4"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>TOPOLOGY &mdash; Nathan Dunfield (UIUC)</b><br>
+    <i>Roots of Alexander polynomials of random positive 3-braids</i></summary>
+  <small><img src="images/2026-05-05.png" alt="May 5"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>ALGEBRAIC GEOMETRY &mdash; Nathan Chen (Harvard University)</b><br>
+    <i>Characterizing algebraic varieties through symmetries</i></summary>
+  <small><img src="images/2026-05-06.png" alt="May 6"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>KIDDIE COLLOQUIUM &mdash; Qianhe Qin (Stanford)</b><br>
+    <i>To Be a Zootopologist: Cork or Spork?</i></summary>
+  <small><img src="images/2026-05-07a.png" alt="May 7"></small>
+</details></li>
+ </ul>
+
+ <ul>
+<li><details>
+  <summary style="list-style: none;"><b>REPRESENTATION THEORY &mdash; Rahul Dalal (Succinct)</b><br>
+    <i>Automorphic Representations and Optimal Quantum Logic Gates</i></summary>
+  <small><img src="images/2026-05-07b.png" alt="May 7"></small>
+</details></li>
+ </ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Amichai Lampert (University of Michigan)</b><br>
+    <i>Polynomial bounds for Birch's theorem on forms</i></summary>
+  <small><img src="images/2026-05-11a.png" alt="May 11"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>PROBABILITY &mdash; Sarah Peluse (Stanford)</b><br>
+    <i>Statistics of character tables of symmetric groups</i></summary>
+  <small><img src="images/2026-05-11b.png" alt="May 11"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>KIDDIE COLLOQUIUM &mdash; Daniel Kim (Stanford)</b><br>
+    <i>Shimura varieties and the Langlands program</i></summary>
+  <small><img src="images/2026-05-14a.png" alt="May 14"></small>
+</details></li>
+ </ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>COMBINATORICS &mdash; Boris Bukh (OpenAI and CMU)</b><br>
+    <i>Faster random walk via infrequent steering</i></summary>
+  <small><img src="images/2026-05-14b.png" alt="May 14"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>DEPARTMENT COLLOQUIUM &mdash; Yu Deng (University of Chicago)</b><br>
+    <i>Long time derivation of Boltzmann equation from hard sphere dynamics</i></summary>
+  <small><img src="images/2026-05-14c.png" alt="May 14"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Jeremy Booher (University of Florida)</b><br>
+    <i>Iwasawa theory of Frobenius-torsion class group schemes</i></summary>
+  <small><img src="images/2026-05-15.png" alt="May 15"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Lue Pan (University of Michigan)</b><br>
+    <i>Plectic Galois action on the cohomology of Hilbert modular varieties</i></summary>
+  <small><img src="images/2026-05-18.png" alt="May 18"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>TOPOLOGY &mdash; Danny Ruberman (Brandeis University)</b><br>
+    <i>Equivalent exotic surfaces in small 4-manifolds</i></summary>
+  <small><img src="images/2026-05-19a.png" alt="May 19"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>MRC PUBLIC LECTURE &mdash; Richard Schwartz (Brown University)</b><br>
+    <i>Paper Geometry &amp; Optimization</i></summary>
+  <small><img src="images/2026-05-19b.png" alt="May 19"></small>
+</details></li>
+</ul>
+
+### June (3)
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>KIDDIE COLLOQUIUM &mdash; Travor Liu (Stanford)</b><br>
+    <i>Binary Quadratic Forms and the Zeros of Epstein's Zeta Function</i></summary>
+  <small><img src="images/2026-06-04.png" alt="June 4"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>PROBABILITY &mdash; Andrew Lin (Stanford)</b><br>
+    <i>High-dimensional permutons: Theory and applications</i></summary>
+  <small><img src="images/2026-06-08.png" alt="Jun 8"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>STUDENT ANALYTIC NUMBER THEORY &mdash; Noah Kravitz (Oxford)</b><br>
+    <i>The structure of sets with few subset sums</i></summary>
+  <small><img src="images/2026-06-10.png" alt="Jun 10"></small>
+</details></li>
+</ul>
+
+<a href="https://shihankanungo.github.io/gap-year-math">↪️ Back to top</a>
