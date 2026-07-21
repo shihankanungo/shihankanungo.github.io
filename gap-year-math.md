@@ -80,6 +80,23 @@ I have undertaken advanced coursework at Euler Circle[^1] and at San José State
 
 <br><br><br>
 
+# Math contests
+
+- **The 1st American Master of Mathematics, AMM 2026.** *Gold medal*. 2026
+- **USAMO (USA Mathematical Olympiad).** *Gold award* 2026
+- **The 17th Romanian Master of Mathematics, RMM 2026.** USA team. *Bronze medal*. 2026
+- **The 86th William Lowell Putnam Mathematical Competition.** *N2*, rank 22. 2025
+- **USAMO (USA Mathematical Olympiad).** *Gold award* 2025
+- **MOP (Mathematical Olympiad Program).** *'Blue' MOP*. 2025
+
+<a href="https://shihankanungo.github.io/gap-year-math">↪️ Back to top</a>
+
+
+
+![separator](images/septhin.png)
+
+<br><br><br>
+
 # Attended talks
 
 ## Stanford University, Math Department Talks
