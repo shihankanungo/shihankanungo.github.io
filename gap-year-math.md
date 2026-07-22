@@ -154,7 +154,7 @@ I have undertaken advanced coursework at Euler Circle[^1] and at San José State
 
 ![stanford-math](images/smdt.png)
 
-### June 2025
+### June 2025 (5)
 
 <ul>
 <li><details>
@@ -213,7 +213,7 @@ I have undertaken advanced coursework at Euler Circle[^1] and at San José State
 
 ![stanford-math](images/smdt.png)
 
-### September 2025
+### September 2025 (7)
 
 <ul>
 <li><details>
@@ -271,7 +271,7 @@ I have undertaken advanced coursework at Euler Circle[^1] and at San José State
 </details></li>
 </ul>
 
-### October 2025
+### October 2025 (22)
 
 <ul>
 <li><details>
