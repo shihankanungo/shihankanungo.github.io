@@ -80,7 +80,7 @@ I have undertaken advanced coursework at Euler Circle[^1] and at San José State
 
 <br>
 
-# Papers
+# Writing
 
 ## Research publications and preprints
 
