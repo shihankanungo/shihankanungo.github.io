@@ -35,6 +35,11 @@ title: Mathematics &mdash; writing
 <ul>
 
 <li><details>
+  <summary style="list-style-type: none;"><i>Explaining Homology through Euler Characteristic</i>. <small>Algebraic Topology</small> [ <a href="https://artofproblemsolving.com/community/c4383522h3849622" target="_blank" style="text-decoration: none">blog post</a> ] </summary>
+  <small>We develop an intuitive understanding of homology through its origins in algebraic topology, using the Euler characteristic as our guide. Rather than focusing on formal definitions and proofs, we emphasize examples and geometric insight to understand what homology measures and why it is such a powerful mathematical tool.<br></small><br>
+</details></li>
+
+<li><details>
   <summary style="list-style-type: none;"><i>Elliptic Functions and Eisenstein Series</i>. <small>Complex Analysis, Number Theory</small> [ <a href="https://arxiv.org/abs/2606.14940" target="_blank" style="text-decoration: none">arXiv</a> ] </summary>
   <small>We provide an introduction to elliptic functions and Eisenstein series from a classical analytic perspective while highlighting their broader mathematical significance. The exposition assumes familiarity with basic complex analysis, particularly meromorphic functions, contour integration, and power series expansions.<br></small><br>
 </details></li>
