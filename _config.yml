@@ -6,7 +6,7 @@ description: > # description of the site (multiple lines allowed)
   Hello there! I’m Shihan&mdash;thanks for stopping by. I live in Palo Alto, CA. I am deeply fascinated by mathematics, physics, language, and music. I play the violin, compose with my MPK Mini Plus, and have a music taste that defies genre (and occasionally logic). When I’m not actively immersed in one of these pursuits, there’s a good chance I’m sitting very still, appearing contemplative&mdash;while secretly daydreaming about my next snack. I aspire to nurture my passions and use them to make meaningful contributions to the world ... ideally with a bit of joy, curiosity, and the occasional pastry along the way.
           <br /><br />
 
-          <small><b>Recent news</b>: <i>AI and math.</i> Levant Alpöge, a mathematician at Harvard University, with the help of AI, has disproved the Jacobian conjecture&mdash;a 87-year-old conundrum&mdash;giving a tiny, 216-character counterexample as proof.</small>
+          <small><b>Recent news</b>: <i>The Fields Medal 2026.</i> The 2026 Fields Medals have been awarded to Yu Deng, Hong Wang, John Pardon, and Jacob Tsimerman, recognizing four remarkable advances spanning analysis, geometry, topology, and number theory. Deng resolved long-standing questions in kinetic theory and Hilbert's Sixth Problem; Wang made groundbreaking contributions to harmonic analysis, including the Kakeya conjecture in three dimensions; Pardon transformed geometric topology through his work on minimal surfaces, Floer theory, and knot theory; and Tsimerman reshaped modern arithmetic geometry with his proof of the André–Oort conjecture and fundamental advances in Shimura varieties.</small>
           <br /><br />
           <small><b>Currently reading</b>: <i>Bring Up the Bodies</i> by Hilary Mantel, and <i>The Early History of Rome</i> by Titus Livy.</small>
           <br /><br />
@@ -14,8 +14,8 @@ description: > # description of the site (multiple lines allowed)
           <br /><br />
           <small><b>Current Music Recs</b>: <i>We Stay Ugly 'Til The Pretty Decays</i> by Mara Calder (<a href="https://open.spotify.com/album/2pacOfhvZZHtuYZJnJrwg8?si=9Am8PVTjSkuYAoIyD-RNSQ">Spotify</a>), and <i>Remain In Light</i> by Angelique Kidjo. Also, these playlists, with one song each from my favorite albums from 2025: <a href="https://open.spotify.com/playlist/0b6ipXilq8yItCkbfxZRbl?si=022493cba1c64e71">pop</a> and <a href="https://open.spotify.com/playlist/2iO14usuhKlftJvaT3AK0R?si=7f8887dec02c4fed">jazz</a>. </small>
           <br /><br />
-          <small><b>Song of the day (Wed Jul 22)</b></small>
-          <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3fnTkZVdpBcPIWbRRy0bqW?utm_source=generator&si=6e3d7e00d7364aec" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+          <small><b>Song of the day (Thu Jul 23)</b></small>
+          <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1C95XJLGL9xyMlsES1uVDQ?utm_source=generator&si=4968f32b60484db2" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
          <br /><br /><br /><br />
           
@@ -24,7 +24,7 @@ permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
 
-#(Thu Jul 23)
+#(Fri Jul 24)
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
 
