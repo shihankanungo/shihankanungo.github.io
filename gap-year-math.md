@@ -137,7 +137,7 @@ I have undertaken advanced coursework at Euler Circle[^1] and at San José State
 # Math contests
 
 - **The 1st American Master of Mathematics, AMM 2026.** *Gold medal*. May 2026
-- **USAMO (USA Mathematical Olympiad).** *Gold award* Mar 2026
+- **USAMO (USA Mathematical Olympiad).** *Gold award*. Mar 2026
 - **The 17th Romanian Master of Mathematics, RMM 2026.** USA team. *Bronze medal*. Feb 2026
 - **The 86th William Lowell Putnam Mathematical Competition.** *N2*, rank 22. Dec 2025
 - **MOP (Mathematical Olympiad Program).** *'Blue' MOP*. Jun 2025
