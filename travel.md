@@ -21,6 +21,7 @@ title: Travel &amp;c.
 - **Miami, FL --- Jun 4--6**. The inaugural *Citadel Securities Pathways Program* 2026. An experience designed for exceptional high school students recognized for excellence in the Math, Physics, or Computing Olympiads to explore how academic achievement can translate into meaningful, long-term careers in research, engineering, and trading.
 - **San Francisco --- Jul 12**. Went to *Papito* for lunch. We ordered *steak fajitas* (spiked with habanero sauce), *chicken tortas*, and *costillas cortas quesadillas* (braised short beef) --- all very yummy. Chatted about college plans on the drive to and read Lang's *Math Talks for Undergraduates* on the way back. Listened to [this playlist](https://open.spotify.com/playlist/0bAlJXboXf2EVMrcrzr0nv?si=d2b0931b91134c95).
 - **San Francisco --- Jul 28**. The Dancing Yak. Went for lunch. Ordered *fish tawa*, *chicken momos*, *pork shapta*, *veg chowmein*, *tofu chowmein*, and *mint and ginger cooler*. Everything was super yummy. Excellent experience. Listened to [this Joni Mitchell playlist](https://open.spotify.com/playlist/0yVtZyL18022R0KzkqG8GQ?si=5600f946de404306) on the way and back.
+- **Lucknow, India --- Jul 28--Aug 5**. Visiting mom's family.
 - **Boston, MA --- Aug 7--8**. The MAA AMC Award Ceremony. The MAA AMC Award Ceremony recognizes the achievements of top MAA AMC students and teachers. Honorees will include the 2026 U.S. IMO, EGMO, and RMM teams, the 2026 USAMO Gold winners, and the 2025 Edyth May Sliffe Award winners.
 
 
