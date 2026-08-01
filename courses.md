@@ -171,7 +171,7 @@ Here are the courses grouped by subject area, along with a short description of 
 </details></li>
 
 <li><details>
-  <summary style="list-style-type: none;"><b>Ring Theory and Algebraic Geometry</b> Summer 2026. Euler Circle</summary>
+  <summary style="list-style-type: none;"><b>Ring Theory and Algebraic Geometry</b> Summer 2026. Euler Circle (self-study)</summary>
   <small>Commutative rings and ideals, affine and projective algebraic geometry, Hilbert's Nullstellensatz, localization and local rings, singularities and normalization, affine schemes and morphisms of schemes.</small> <br>
   <small>Textbook: Simon Rubinstein-Salzedo. <i>Abstract Algebra Chapters 10&mdash;18</i></small>
 </details></li>
