@@ -35,6 +35,12 @@ I have undertaken advanced coursework at Euler Circle[^1] and at San José State
 </details></li>
 
 <li><details>
+  <summary style="list-style-type: none;"><b>Ring Theory and Algebraic Geometry</b> Summer 2026. Euler Circle (self-study)</summary>
+  <small>Commutative rings and ideals, affine and projective algebraic geometry, Hilbert's Nullstellensatz, localization and local rings, singularities and normalization, affine schemes and morphisms of schemes.</small> <br>
+  <small>Textbook: Simon Rubinstein-Salzedo. <i>Abstract Algebra Chapters 10&mdash;18</i></small>
+</details></li>
+
+<li><details>
   <summary style="list-style-type: none;"><b>MATH 238</b> <i>Advanced Complex Variables</i>. Spring 2026. SJSU (A+) </summary>
   <small>Cauchy’s Theorem, Meromorphic Functions, Residue Theorem, Fourier Transforms, Conformal Mappings.</small><br>
   <small>Textbook: Stein and Shakarchi. <i>Complex Analysis</i>.</small>
