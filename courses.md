@@ -51,6 +51,18 @@ Here are the courses grouped by subject area, along with a short description of 
 </details></li>
 
 <li><details>
+  <summary style="list-style-type: none;"><b>Complex Analysis I</b> Spring 2026. Euler Circle (self-study)</summary>
+  <small>Cauchy integral formula, residues & series, branch points, Riemann surfaces, products, Gamma function.</small><br>
+  <small>Textbook: Simon Rubinstein-Salzedo. <i>Complex Analysis.</i> Chapters 1&mdash;9</small>
+</details></li>
+
+<li><details>
+  <summary style="list-style-type: none;"><b>Complex Analysis II</b> Summer 2026. Euler Circle (self-study) </summary>
+  <small>The Hadamard product, conformal mappings, Riemann mapping theorem, elliptic functions, Picard’s little theorem, the Wiener–Ikehara theorem, analytic continuation, the prime number theorem, Theta functions.</small><br>
+  <small>Textbook: Simon Rubinstein-Salzedo. <i>Complex Analysis.</i> Chapters 10&mdash;18</small>
+</details></li>
+
+<li><details>
   <summary style="list-style-type: none;"><b>MATH 233A</b> <i>Partial Differential Equations</i>. Spring 2025. SJSU (A+) </summary>
   <small>Initial and boundary value problems for hyperbolic, parabolic and elliptic equations. Fourier series and transforms. Nonlinear partial differential equations.</small><br>
   <small>Textbook: Peter John Olver. <i>Introduction to Partial Differential Equations.</i></small>
@@ -156,6 +168,12 @@ Here are the courses grouped by subject area, along with a short description of 
   <summary style="list-style-type: none;"><b>MATH 285M</b> <i>Elliptic Curves and Modular Forms</i> Fall 2025. SJSU (A+)</summary>
   <small>Elliptic curves, modular curves, modular forms, L-functions.</small> <br>
   <small>Textbook: Álvaro Lozano-Robledo. <i>Elliptic Curves, Modular Forms, and Their L-functions.</i></small>
+</details></li>
+
+<li><details>
+  <summary style="list-style-type: none;"><b>Ring Theory and Algebraic Geometry</b> Summer 2026. Euler Circle</summary>
+  <small>Commutative rings and ideals, affine and projective algebraic geometry, Hilbert's Nullstellensatz, localization and local rings, singularities and normalization, affine schemes and morphisms of schemes.</small> <br>
+  <small>Textbook: Simon Rubinstein-Salzedo. <i>Abstract Algebra Chapters 10&mdash;18</i></small>
 </details></li>
 
 <li><details>
