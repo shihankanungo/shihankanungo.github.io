@@ -29,6 +29,7 @@ Below is a lovingly curated list of 34 movies I've watched *so far* this year&md
 - Saving Private Ryan (1998 d. Steven Spielberg)
 - The Talented Mr. Ripley (1999 d. Anthony Minghella)
 - Gladiator (2000 d. Ridley Scott) 👍
+- Memento (2000 d. Christopher Nolan)
 - Spy Game (2001 d. Tony Scott) 👍
 - **The Lord of the Rings, 2026 Extended Edition** <br>
   The Fellowship of the Ring (2001 d. Peter Jackson) 🎥 👍 <br>
