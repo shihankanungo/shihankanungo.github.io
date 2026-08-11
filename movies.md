@@ -14,7 +14,7 @@ I love watching movies, both in theaters (marked by 🎥 below), as well as at h
 
 See [here](https://shihankanungo.github.io/wrapped-2025#movies) for the movies I watched in 2025.
 
-Below is a lovingly curated list of 37 movies I've watched *so far* this year&mdash;films I'd recommend to friends, strangers, time travelers, and probably even sworn enemies. If it’s listed here, it’s worth your time. If it’s marked with a 👍, it's a full-throated endorsement&mdash;like, stop-what-you're-doing-and-watch-it levels of enthusiasm. You're welcome in advance. Stay tuned for more!
+Below is a lovingly curated list of 38 movies I've watched *so far* this year&mdash;films I'd recommend to friends, strangers, time travelers, and probably even sworn enemies. If it’s listed here, it’s worth your time. If it’s marked with a 👍, it's a full-throated endorsement&mdash;like, stop-what-you're-doing-and-watch-it levels of enthusiasm. You're welcome in advance. Stay tuned for more!
 
 - The Godfather (1972 d. Francis Ford Coppola) 👍
 - The Godfather Part II (1974 d. Francis Ford Coppola) 👍
@@ -29,8 +29,14 @@ Below is a lovingly curated list of 37 movies I've watched *so far* this year&md
 - Saving Private Ryan (1998 d. Steven Spielberg)
 - The Talented Mr. Ripley (1999 d. Anthony Minghella)
 - Gladiator (2000 d. Ridley Scott) 👍
-- Memento (2000 d. Christopher Nolan)
 - Spy Game (2001 d. Tony Scott) 👍
+- **Christopher Nolan** <br>
+  Memento (2000 d. Christopher Nolan) <br>
+  The Prestige (2006 d. Christopher Nolan) 👍 <br>
+  Batman Begins (2005 d. Christopher Nolan) <br>
+  The Dark Knight (2008 d. Christopher Nolan) 👍 <br>
+  Interstellar (2014 d. Christopher Nolan) <br>
+  The Odyssey (2026 d. Christopher Nolan) 🎥 
 - **The Lord of the Rings, 2026 Extended Edition** <br>
   The Fellowship of the Ring (2001 d. Peter Jackson) 🎥 👍 <br>
   The Two Towers (2002 d. Peter Jackson) 🎥 👍 <br>
@@ -40,12 +46,9 @@ Below is a lovingly curated list of 37 movies I've watched *so far* this year&md
   Before Sunset (2004 d. Richard Linklater) <br>
   Before Midnight (2013 d. Richard Linklater) <br>
   Boyhood (2014 d. Richard Linklater) <br>
-- The Prestige (2006 d. Christopher Nolan) 👍
 - Zodiac (2007 d. David Fincher)
 - The Hurt Locker (2008 d. Kathryn Bigelow)
-- The Dark Knight (2008 d. Christopher Nolan)
 - The Spectacular Now (2013 d. James Ponsoldt)
-- Interstellar (2014 d. Christopher Nolan)
 - The Fabelmans (2022 d. Steven Spielberg)
 - In Your Dreams (2025 d. Alex Woo, Erik Benson)
 - Frankenstein (2025 d. Guillermo del Toro)
@@ -53,7 +56,7 @@ Below is a lovingly curated list of 37 movies I've watched *so far* this year&md
 - The Sheep Detectives (2026 d. Kyle Balda) 🎥
 - Disclosure Day (2026 d. Steven Spielberg) 🎥
 - Voicemails for Isabelle (2026 d. Leah McKendrick)
-- The Odyssey (2026 d. Christopher Nolan) 🎥
+- 
 
 This is my current wishlist:
 
