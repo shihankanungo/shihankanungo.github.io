@@ -56,7 +56,6 @@ Below is a lovingly curated list of 38 movies I've watched *so far* this year&md
 - The Sheep Detectives (2026 d. Kyle Balda) 🎥
 - Disclosure Day (2026 d. Steven Spielberg) 🎥
 - Voicemails for Isabelle (2026 d. Leah McKendrick)
-- 
 
 This is my current wishlist:
 
