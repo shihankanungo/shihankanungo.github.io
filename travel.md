@@ -23,6 +23,7 @@ title: Travel &amp;c.
 - **San Francisco --- Jul 28**. The Dancing Yak. Went for lunch. Ordered *fish tawa*, *chicken momos*, *pork shapta*, *veg chowmein*, *tofu chowmein*, and *mint and ginger cooler*. Everything was super yummy. Excellent experience. Listened to [this Joni Mitchell playlist](https://open.spotify.com/playlist/0yVtZyL18022R0KzkqG8GQ?si=5600f946de404306) on the way and back.
 - **Lucknow, India --- Jul 28--Aug 5**. Visiting mom's family.
 - **Boston, MA --- Aug 7--8**. The MAA AMC Award Ceremony. The MAA AMC Award Ceremony recognizes the achievements of top MAA AMC students and teachers. Honorees will include the 2026 U.S. IMO, EGMO, and RMM teams, the 2026 USAMO Gold winners, and the 2025 Edyth May Sliffe Award winners.
+- **San Francisco --- Aug 15**. The Dancing Yak. Went for lunch. Ordered *fish tawa*, *kale chaat*, *pork shapta*, *veg chowmein*, *tofu chowmein*, *mango ginger spritzer*, and *mint ginger cooler*. Everything was super yummy. Excellent experience. Listened to [Astral Weeks](https://open.spotify.com/album/4pG3bKkbmReDt5QTDn3JDz?si=PZYVqD2zT9uuNmnC90zoEw) by Van Morrison on the way to and [Crawfish Fiesta](https://open.spotify.com/album/0VwW5nY319T40ZrO2nZopq?si=jTA84q3USFGwOR7hIt1MPA) by Professor Longhair on the way back.
 
 
 
