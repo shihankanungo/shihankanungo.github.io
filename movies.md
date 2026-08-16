@@ -18,18 +18,21 @@ Below is a lovingly curated list of 39 movies I've watched *so far* this year&md
 
 - The Godfather (1972 d. Francis Ford Coppola) 👍
 - The Godfather Part II (1974 d. Francis Ford Coppola) 👍
-- Jaws (1975 d. Steven Spielberg) 🎥 
 - Raging Bull (1980 d. Martin Scorsese)
-- Schindler's List (1993 d. Steven Spielberg) 👍
 - Pulp Fiction (1994 d. Quentin Tarantino)
 - Braveheart (1995 d. Mel Gibson)
 - Fargo (1996 d. Joel Coen, Ethan Coen)
 - Titanic (1997 d. James Cameron) 👍
 - L.A. Confidential (1997 d. Curtis Hanson)
-- Saving Private Ryan (1998 d. Steven Spielberg)
 - The Talented Mr. Ripley (1999 d. Anthony Minghella)
 - Gladiator (2000 d. Ridley Scott) 👍
 - Spy Game (2001 d. Tony Scott) 👍
+- **Steven Spielberg** <br>
+  Jaws (1975 d. Steven Spielberg) 🎥 <br>
+  Schindler's List (1993 d. Steven Spielberg) 👍 <br>
+  Saving Private Ryan (1998 d. Steven Spielberg) <br>
+  The Fabelmans (2022 d. Steven Spielberg) <br>
+  Disclosure Day (2026 d. Steven Spielberg) 🎥
 - **Christopher Nolan** <br>
   Memento (2000 d. Christopher Nolan) <br>
   The Prestige (2006 d. Christopher Nolan) 👍 <br>
@@ -50,12 +53,10 @@ Below is a lovingly curated list of 39 movies I've watched *so far* this year&md
 - Zodiac (2007 d. David Fincher)
 - The Hurt Locker (2008 d. Kathryn Bigelow)
 - The Spectacular Now (2013 d. James Ponsoldt)
-- The Fabelmans (2022 d. Steven Spielberg)
 - In Your Dreams (2025 d. Alex Woo, Erik Benson)
 - Frankenstein (2025 d. Guillermo del Toro)
 - Project Hail Mary (2026 d. Phil Lord, Christopher Miller)
 - The Sheep Detectives (2026 d. Kyle Balda) 🎥
-- Disclosure Day (2026 d. Steven Spielberg) 🎥
 - Voicemails for Isabelle (2026 d. Leah McKendrick)
 
 This is my current wishlist:
