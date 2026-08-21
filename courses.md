@@ -8,6 +8,18 @@ title: Mathematics &mdash; coursework
 
 <br> 
 
+# MIT (2026-- )
+
+- Advanced Placement (AP) -- 18.01	Calculus I (Single Variable)
+- Advanced Standing (ASE) -- 18.02	Calculus II (Multivariable)
+- Advanced Standing (ASE) -- 18.03  Differential Equations
+- Transfer Credit (SJSU)  -- 18.06  Linear Algebra
+- Advanced Standing (ASE) --  8.01  Physics I (Classical Mechanics)
+- Advanced Standing (ASE) --  8.02  Physics II (Electrostatics & Electromagnetism)
+- Advanced Placement (AP) --        Unrestricted Elective Credits
+
+# High school (2022--26)
+
 During my high school years I have undertaken advanced coursework at Euler Circle[^1] (2019--26) and at San José State University[^2] (SJSU, 2023--26) which have significantly enriched both the breadth of my expertise and the depth of my understanding. Or, as von Neumann would put it, they have simply helped me get used to some of mathematics. 
 <br> 
 
