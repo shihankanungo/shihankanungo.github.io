@@ -28,9 +28,9 @@ And that’s _just_ Spotify. Throw in CDs, YouTube rabbit holes, car rides, and 
 
 So, after a few weeks of valiant effort (and mild spreadsheet trauma), I threw in the towel. Going forward, I’ll just note the highlights: music that has sounded remarkable to me for one reason or another; songs that made me pause, perk up, or transported me to a strange, weird, fascinating world.
 
-Meanwhile, here's my top 20 artists on Spotify for the 90 days between Apr 29--Jul 29.
+Meanwhile, here's my top 20 artists on Spotify for the 138 days between Apr 5--Aug 22.
 
-<p align="center"><img src="/images/lastfm-90-0729.png" width="700" /></p>
+<p align="center"><img src="/images/lastfm-138-0822.png" width="700" /></p>
 
 ... and here's my top 20 artists on Spotify for the 7 day period, Jul 22--29.
 
