@@ -32,9 +32,9 @@ Meanwhile, here's my top 20 artists on Spotify for the 138 days between Apr 5--A
 
 <p align="center"><img src="/images/lastfm-138-0822.png" width="700" /></p>
 
-... and here's my top 20 artists on Spotify for the 7 day period, Jul 22--29.
+... and here's my top 20 artists on Spotify for the 7 day period, Aug 15--22.
 
-<p align="center"><img src="/images/lastfm-07-0729.png" width="700" /></p>
+<p align="center"><img src="/images/lastfm-7-0822.png" width="700" /></p>
 
 
 
