@@ -12,6 +12,16 @@ title: Music &amp;c.
 
 ### Live Concerts
 
+<ul>
+ <li><details>
+  <summary style="list-style-type: none;"> <i>Courtney Barnett: Creature of Habit Tour</i>. The Fillmore, San Francisco, California, on Wednesday, August 26, 2026. </summary>
+  <small>This set list from the Wed, Aug 26 concert at The Fillmore [<a href="https://open.spotify.com/playlist/0OuX6f5DtJvdJ5mlNUvvcH?si=2578be25acde4b30">Spotify</a>] <br> <b>Act I</b> &mdash; Training Season &#8226; End of an Era &#8226; Break My Heart &#8226; One Kiss <br> <b>Act II</b> &mdash; Whatcha Doing &#8226; Levitating &#8226; These Walls &#8226; Wake Me Up When September Ends (Green Day) &#8226; Maria <br> <b>Act III</b> &mdash; Physical &#8226; Electricity &#8226; Hallucinate &#8226; Illusion <br> <b>Act IV</b> &mdash; Falling Forever &#8226; Happy for You &#8226; Love Again &#8226; Anything for Love &#8226; Be the One <br> <b>Encore</b> &mdash; New Rules &#8226; Dance the Night &#8226; Don't Start Now &#8226; Houdini<br></small><br>
+</details></li>
+</ul>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0OuX6f5DtJvdJ5mlNUvvcH?utm_source=generator&si=9ccb3006cbfb466e" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
 
 
 ### Recorded Music
