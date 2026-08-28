@@ -24,6 +24,7 @@ title: Travel &amp;c.
 - **Lucknow, India --- Jul 28--Aug 5**. Visiting mom's family.
 - **Boston, MA --- Aug 7--8**. The MAA AMC Award Ceremony. The MAA AMC Award Ceremony recognizes the achievements of top MAA AMC students and teachers. Honorees will include the 2026 U.S. IMO, EGMO, and RMM teams, the 2026 USAMO Gold winners, and the 2025 Edyth May Sliffe Award winners.
 - **San Francisco --- Aug 15**. The Dancing Yak. Went for lunch. Ordered *fish tawa*, *kale chaat*, *pork shapta*, *veg chowmein*, *tofu chowmein*, *mango ginger spritzer*, and *mint ginger cooler*. Everything was super yummy. Excellent experience. Listened to [Astral Weeks](https://open.spotify.com/album/4pG3bKkbmReDt5QTDn3JDz?si=PZYVqD2zT9uuNmnC90zoEw) by Van Morrison on the way to and [Crawfish Fiesta](https://open.spotify.com/album/0VwW5nY319T40ZrO2nZopq?si=jTA84q3USFGwOR7hIt1MPA) by Professor Longhair on the way back.
+- **San Francisco --- Aug 26**. *Courtney Barnett: Creature of Habit Tour*. The Fillmore, San Francisco, California, on Wednesday, August 26, 2026. Had dinner at The Dancing Yak before the show. Opening act was Zoh Amba. Then this set list from Courtney Barnett [<a href="https://open.spotify.com/playlist/0OuX6f5DtJvdJ5mlNUvvcH?si=2578be25acde4b30">Spotify</a>]. Listened to the *Ducks Deluxe//Taxi to the Terminal Zone* CD on the way to and to [this playlist](https://open.spotify.com/playlist/0snAJyQUeY6HjFlQniONTH?si=5e4b6e3f8e504a80) on the drive back.
 
 
 
