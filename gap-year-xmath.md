@@ -56,7 +56,8 @@ title: Gap Year, Part II. Not Mathematics
 - *The Time Traveler's Wife* by Audrey Niffenegger. 2003
 - *The Brief Wondrous Life of Oscar Wao* by Junot Díaz. 2007
 - *Wolf Hall* by Hilary Mantel. 2009
-- *Bring Up the Bodies* by Hilary Mantel. 2012- *There's Always This Year: On Basketball and Ascension* by Hanif Abdurraqib. 2024
+- *Bring Up the Bodies* by Hilary Mantel. 2012
+- *There's Always This Year: On Basketball and Ascension* by Hanif Abdurraqib. 2024
 
 
 ### Non-fiction
