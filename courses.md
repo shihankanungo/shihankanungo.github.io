@@ -13,7 +13,7 @@ title: Mathematics &mdash; coursework
 - Advanced Placement (AP) -- 18.01	Calculus I (Single Variable)
 - Advanced Standing (ASE) -- 18.02	Calculus II (Multivariable)
 - Advanced Standing (ASE) -- 18.03  Differential Equations (pending)
-- Transfer Credit (SJSU)  -- 18.06  Linear Algebra
+- Transfer Credit from SJSU  -- 18.06  Linear Algebra
 - Advanced Standing (ASE) --  8.01  Physics I (Classical Mechanics)
 - Advanced Standing (ASE) --  8.02  Physics II (Electrostatics & Electromagnetism)
 - Advanced Placement (AP) --        Unrestricted Elective Credits
