@@ -8,7 +8,7 @@ title: Reading &amp;c.
 ![ch-reading](images/ch1.png)
 
 <br>
-These are the 16 books I have read in 2026 (so far!) See [here](https://shihankanungo.github.io/wrapped-2025#books) for what I read last year. <br>
+These are the 17 books I have read in 2026 (so far!) See [here](https://shihankanungo.github.io/wrapped-2025#books) for what I read last year. <br>
 
 ### Fiction
 - *The Brothers Karamazov* by Fyodor Dostoevsky. 1880
@@ -20,6 +20,7 @@ These are the 16 books I have read in 2026 (so far!) See [here](https://shihanka
 - *A Separate Peace* by John Knowles. 1959
 - *Offshore* by Penelope Fitzgerald. 1979
 - *The Name of the Rose* by Umberto Eco. 1980
+- *Paddy Clarke Ha Ha Ha* by Roddy Doyle. 1993
 - *American Pastoral* by Philip Roth. 1997
 - *The Epic of Gilgamesh* by Andrew George. 1999
 - *The Time Traveler's Wife* by Audrey Niffenegger. 2003
