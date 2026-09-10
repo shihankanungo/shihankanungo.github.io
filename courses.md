@@ -18,14 +18,15 @@ Many MIT incoming freshmen have done college-level study while in high school. S
 - **AP credit** for score of 5 on AP exams in certain subjects.
 
 [^3]:For Mathematics, MIT provides credits for the following courses:
-    - Advanced Standing Exams (ASEs) are available are 18.01 *Calculus I* (Single Variable), 18.02 *Calculus II* (Multivariable), 18.03 *Differential Equations*, and 18.06 *Linear Algebra*.
-    - Transfer credit is available for 18.01 *Calculus I* (Single Variable), 18.02 *Calculus II* (Multivariable), 18.03 *Differential Equations*, 18.05 *Probability and Statistics*, and 18.06 *Linear Algebra*.
-    - **AP credit** is given for 18.01 *Calculus I* (Single Variable) for a score of 5 on the AP Calculus BC exam 
-    
-    For Physics, MIT provides credits for the following courses:
-    - Advanced Standing Exams (ASEs) are available for 8.01 *Physics I: Mechanics*, 8.02 *Physics II: Electricity & Magnetism*, 8.03 *Physics III: Vibrations and Waves*, and 8.04 *Quantum Physics I*.
-    - Transfer credit is given for 8.01 *Physics I: Mechanics*, 8.02 *Physics II: Electricity & Magnetism*.
-    - AP credit is given for 8.01 *Physics I: Mechanics* for a score of 5 on each of the AP Physics C: Mechanics and AP Physics C: E&M exams.
+    - **Advanced Standing Exams (ASEs)** are available for
+      - Mathematics: 18.01 *Calculus I* (Single Variable), 18.02 *Calculus II* (Multivariable), 18.03 *Differential Equations*, and 18.06 *Linear Algebra*;
+      - Physics: 8.01 *Physics I: Mechanics*, 8.02 *Physics II: Electricity & Magnetism*, 8.03 *Physics III: Vibrations and Waves*, and 8.04 *Quantum Physics I*.
+    - **Transfer credit** is available for 
+      - Mathematics: 18.01 *Calculus I* (Single Variable), 18.02 *Calculus II* (Multivariable), 18.03 *Differential Equations*, 18.05 *Probability and Statistics*, and 18.06 *Linear Algebra*.
+      - Physics: 8.01 *Physics I: Mechanics*, 8.02 *Physics II: Electricity & Magnetism*.
+    - **AP credit** is given for 
+      - Mathematics: 18.01 *Calculus I* (Single Variable) for a score of 5 on the AP Calculus BC exam 
+      - Physics: 8.01 *Physics I: Mechanics* for a score of 5 on each of the AP Physics C: Mechanics and AP Physics C: E&M exams.
 
 I have obtained the following credit/placements.
 
