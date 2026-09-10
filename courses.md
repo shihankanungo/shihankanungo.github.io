@@ -12,16 +12,15 @@ title: Mathematics &mdash; coursework
 
 ## Credits and Placement
 
-Many MIT incoming freshmen have done college-level study while in high school. Some of this study is eligible for MIT credit and/or placement. There are mainly three types of credit/placement.
+Many MIT incoming freshmen have done college-level study while in high school. Some of this study is eligible for MIT credit and/or placement.[^3] There are mainly three types of credit/placement.
 - **Advanced Standing** credit can be given for successfully passing an exam demonstrating mastery of the material from an MIT course.
 - **Transfer credit** is given for course work completed at another university if the subject is substantially equivalent to the corresponding MIT subject.
 - **AP credit** for score of 5 on AP exams in certain subjects.
 
-For Mathematics, MIT provides credits for the following courses:
+[^3]: For Mathematics, MIT provides credits for the following courses:
 - Advanced Standing Exams (ASEs) are available are 18.01 *Calculus I* (Single Variable), 18.02 *Calculus II* (Multivariable), 18.03 *Differential Equations*, and 18.06 *Linear Algebra*.
 * Transfer credit is available for 18.01 *Calculus I* (Single Variable), 18.02 *Calculus II* (Multivariable), 18.03 *Differential Equations*, 18.05 *Probability and Statistics*, and 18.06 *Linear Algebra*.
 * **AP credit** is given for 18.01 *Calculus I* (Single Variable) for a score of 5 on the AP Calculus BC exam 
-
 For Physics, MIT provides credits for the following courses:
 - Advanced Standing Exams (ASEs) are available for 8.01 *Physics I: Mechanics*, 8.02 *Physics II: Electricity & Magnetism*, 8.03 *Physics III: Vibrations and Waves*, and 8.04 *Quantum Physics I*.
 - Transfer credit is given for 8.01 *Physics I: Mechanics*, 8.02 *Physics II: Electricity & Magnetism*.
