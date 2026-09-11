@@ -6,6 +6,122 @@ title: Gap Year, Part II. Not Mathematics
 > "Ask yourself if what you’re doing today is getting you closer to where you want to be tomorrow." --- Paulo Coelho 
 
 <br> 
+## Movies
+
+- Top Gun (1986 d. Tony Scott)
+- Forrest Gump (1994 d. Robert Zemeckis)
+- Braveheart (1995 d. Mel Gibson)
+- Fargo (1996 d. Joel Coen, Ethan Coen)
+- Good Will Hunting (1997 d. Gus Van Sant)  👍
+- Titanic (1997 d. James Cameron) 👍
+- L.A. Confidential (1997 d. Curtis Hanson)
+- The Talented Mr. Ripley (1999 d. Anthony Minghella)
+- Gladiator (2000 d. Ridley Scott) 👍
+- Almost Famous (2000 d. Cameron Crowe)
+- Spy Game (2001 d. Tony Scott) 👍
+- A Beautiful Mind (2001 d. Ron Howard)
+- Pan's Labyrinth (2006 d. Guillermo del Toro)
+- Juno (2007 d. Jason Reitman)
+- Zodiac (2007 d. David Fincher)
+- No Country for Old Men (2007 d. Joel Cohen, Ethan Coen)
+- The Hurt Locker (2008 d. Kathryn Bigelow)
+- Easy A (2010 d. Will Gluck)
+- Crazy Stupid Love (2011 d. Glenn Ficarra and John Requa)
+- Zero Dark Thirty (2012 d. Kathryn Bigelow)
+- The Spectacular Now (2013 d. James Ponsoldt)
+- Her (2013 d. Spike Jonze)
+- The Imitation Game (2014 d. Morten Tyldum) 👍
+- Mad Max: Fury Road (2015 d. George Miller) 👍
+- La La Land (2016 d. Damien Chazelle)
+- The Florida Project (2017 d. Sean Baker)
+- Love, Simon (2018 d. Greg Berlanti)
+- Mickey and the Bear (2019 d. Annabelle Attanasio)
+- Coda (2021 d. Sian Heder) 👍
+- Air (2023 d. Ben Affleck)
+- Furiosa: A Mad Max Saga (2024 d. George Miller)
+- Wicked (2024 d. Jon M. Chu)
+- F1 (2025 d. Joseph Kosinski) 🎥 👍
+- In Your Dreams (2025 d. Alex Woo, Erik Benson)
+- Frankenstein (2025 d. Guillermo del Toro)
+- Project Hail Mary (2026 d. Phil Lord, Christopher Miller)
+- The Sheep Detectives (2026 d. Kyle Balda) 🎥
+- Voicemails for Isabelle (2026 d. Leah McKendrick)
+- Spider-Man: Brand New Day (2026 d. Destin Daniel Cretton) 🎥
+- **Charlie Chaplin** <br>
+  City Lights (1931 d. Charlie Chaplin) <br>
+  Modern Times (1936 d. Charlie Chaplin) <br>
+  The Great Dictator (1940 d. Charlie Chaplin)  👍
+- **Francis Ford Coppola** <br>
+  The Godfather (1972 d. Francis Ford Coppola) 👍  <br>
+  The Godfather Part II (1974 d. Francis Ford Coppola) 👍 
+- **Martin Scorsese** <br>
+  Alice Doesn't Live Here Anymore (1974 d. Martin Scorsese) <br>
+  Raging Bull (1980 d. Martin Scorsese)
+- **Steven Spielberg** <br>
+  Jaws (1975 d. Steven Spielberg) 🎥 <br>
+  Schindler's List (1993 d. Steven Spielberg) 👍 <br>
+  Saving Private Ryan (1998 d. Steven Spielberg) <br>
+  Catch Me If You Can (2002 d. Steven Spielberg)  👍  <br>
+  The Fabelmans (2022 d. Steven Spielberg) <br>
+  Disclosure Day (2026 d. Steven Spielberg) 🎥
+- **Quentin Tarantino** <br>
+  Pulp Fiction (1994 d. Quentin Tarantino) <br>
+  Kill Bill: Vol. 1 (2003 d. Quentin Tarantino) <br>
+  Kill Bill: Vol. 2 (2004 d. Quentin Tarantino) <br>
+- **The Lord of the Rings, 2026 Extended Edition** <br>
+  The Fellowship of the Ring (2001 d. Peter Jackson) 🎥 👍 <br>
+  The Two Towers (2002 d. Peter Jackson) 🎥 👍 <br>
+  The Return of the King (2003 d. Peter Jackson) 🎥 👍
+- **Christopher Nolan** <br>
+  Memento (2000 d. Christopher Nolan) <br>
+  The Prestige (2006 d. Christopher Nolan) 👍 <br>
+  Batman Begins (2005 d. Christopher Nolan) <br>
+  The Dark Knight (2008 d. Christopher Nolan) 👍 <br>
+  The Dark Knight Rises (2012 d. Christopher Nolan) <br>
+  Interstellar (2014 d. Christopher Nolan) <br>
+  The Odyssey (2026 d. Christopher Nolan) 🎥 
+- **Richard Linklater Quartet** <br>
+  Before Sunrise (1995 d. Richard Linklater) <br>
+  Before Sunset (2004 d. Richard Linklater) <br>
+  Before Midnight (2013 d. Richard Linklater) <br>
+  Boyhood (2014 d. Richard Linklater) <br>
+- **Animation** <br>
+  Kung Fu Panda (2008 d. John Stevenson and Mark Osborne) <br>
+  Hundreds of Beavers (2022 d. Mike Cheslik) 👍  <br>
+  Robot Dreams (2024 d. Pablo Berger) 👍 <br>
+  Memoir of a Snail (2024 d. Adam Elliot) <br>
+  Flow (2024 d. Gints Zilbalodis) 🎥  <br>
+  Zootopia 2 (2025 d. Jared Bush, Byron Howard) 🎥 <br>
+  KPop Demon Hunters (2025 d. Maggie Kang, Chris Appelhans) 👍
+- **Wes Anderson** <br>
+  Rushmore (1998 d. Wes Anderson) <br>
+  Fantastic Mr. Fox (2009 d. Wes Anderson) <br>
+  Moonrise Kingdom (2012 d. Wes Anderson) <br>
+  The Grand Budapest Hotel (2014 d. Wes Anderson) 👍 <br>
+  The Wonderful Story of Henry Sugar (2023 d. Wes Anderson) <br>
+- **Wallace & Gromit** <br>
+  A Grand Day Out With Wallace and Gromit (1989 d. Nick Park) <br>
+  The Curse of the Were-Rabbit (2005 d. Nick Park, Steve Box) <br>
+  Vengeance Most Fowl (2024 d. Nick Park, Merlin Crossingham)
+- **George Paul Csicsery** <br>
+  Hard Problems: The Road to the World's Toughest Math Contest (2008) <br>
+  Secrets of the Surface: The Mathematical Vision of Maryam Mirzakhani (2020)
+- **The Hunger Games** <br>
+  The Hunger Games (2012 d. Gary Ross) <br>
+  The Hunger Games: Catching Fire (2013 d. Francis Lawrence) <br>
+  The Hunger Games: Mockingjay – Part 1 (2014 d. Francis Lawrence) <br>
+  The Hunger Games: Mockingjay – Part 2 (2015 d. Francis Lawrence)
+- **Music documentaries** <br>
+  Miss Americana (2020 d. Lana Wilson) <br>
+  Becoming Led Zeppelin (2025 d. Bernard MacMahon) <br>
+  Pink Floyd at Pompeii – MCMLXXII (2025 d. Adrian Maben) 🎥 <br>
+  We Want The Funk! (2025 d. Stanley Nelson and Nicole London) 👍 <br> <small>_PBS Independent Lens documentary_</small>
+
+
+
+
+
+
 ## Reading
 
 ### Fiction
