@@ -6,6 +6,7 @@ title: Gap Year, Part II. Not Mathematics
 > "Ask yourself if what you’re doing today is getting you closer to where you want to be tomorrow." --- Paulo Coelho 
 
 <br> 
+
 ## Movies
 
 - Top Gun (1986 d. Tony Scott)
