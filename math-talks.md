@@ -269,6 +269,6 @@ See [here](https://mathematics.stanford.edu/events/upcoming-events) for upcoming
 <li><details>
   <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Benjamin Church (MIT)</b><br>
     <i>p-adic Siegel disks on K3 surfaces</i></summary>
-  <small><img src="images/2026-03-12.png" alt="Mar 12"></small>
+  <small><img src="images/2026-09-15.png" alt="Mar 12"></small>
 </details></li>
  </ul>
