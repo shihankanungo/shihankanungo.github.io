@@ -258,3 +258,17 @@ See [here](https://mathematics.stanford.edu/events/upcoming-events) for upcoming
   <small><img src="images/2026-06-10.png" alt="Jun 10"></small>
 </details></li>
 </ul>
+
+## MIT Math Department Talks
+
+![mit-math](images/mitmdt.png)
+
+### Sep (1)
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Benjamin Church (MIT)</b><br>
+    <i>p-adic Siegel disks on K3 surfaces</i></summary>
+  <small><img src="images/2026-03-12.png" alt="Mar 12"></small>
+</details></li>
+ </ul>
