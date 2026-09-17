@@ -13,6 +13,7 @@ title: Mathematics &mdash; coursework
 ## Credits and Placement
 
 Many incoming MIT freshmen have done college-level study while in high school. Some of this study is eligible for MIT credit and/or placement.[^3] I have obtained the following credit/placements.
+
 [^3]:There are three main mechanisms for receiving credit or placement.
     - **Advanced Standing** credit can be given for successfully passing an exam demonstrating mastery of the material from an MIT course.
     - **Transfer credit** is given for course work completed at another university if the subject is substantially equivalent to the corresponding MIT subject.
