@@ -8,7 +8,7 @@ title: Reading &amp;c.
 ![ch-reading](images/ch1.png)
 
 <br>
-These are the 18 books I have read in 2026 (so far!) See [here](https://shihankanungo.github.io/wrapped-2025#books) for what I read last year. <br>
+These are the 19 books I have read in 2026 (so far!) See [here](https://shihankanungo.github.io/wrapped-2025#books) for what I read last year. <br>
 
 ### Fiction
 - *The Brothers Karamazov* by Fyodor Dostoevsky. 1880
@@ -16,7 +16,8 @@ These are the 18 books I have read in 2026 (so far!) See [here](https://shihanka
 - *A Portrait of the Artist as a Young Man* by James Joyce. 1918
 - *All Quiet on the Western Front* by Erich Maria Remarque. 1929
 - *Of Mice and Men* by John Steinbeck. 1937
-- *The Fountainhead* by Ayn Rand. 1943 
+- *The Fountainhead* by Ayn Rand. 1943
+- *The Pearl* by John Steinbeck. 1947
 - *Invisible Man* by Ralph Ellison. 1952
 - *A Separate Peace* by John Knowles. 1959
 - *Offshore* by Penelope Fitzgerald. 1979
