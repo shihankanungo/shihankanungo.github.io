@@ -47,7 +47,6 @@ Many incoming MIT freshmen have done college-level study while in high school. S
 - Advanced Placement (AP) --        Unrestricted Elective Credits
 
 
-
 # High school (2022--26)
 
 During my high school years I have undertaken advanced coursework at Euler Circle[^1] (2019--26) and at San José State University[^2] (SJSU, 2023--26) which have significantly enriched both the breadth of my expertise and the depth of my understanding. Or, as von Neumann would put it, they have simply helped me get used to some of mathematics. 
