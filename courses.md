@@ -37,17 +37,6 @@ Many incoming MIT freshmen have done college-level study while in high school. S
     - **AP credit** is given for a score of 5 on AP exams in certain subjects. Available for 
       - Mathematics: 18.01 for a score of 5 on the AP Calculus BC exam 
       - Physics: 8.01 for a score of 5 on each of the AP Physics C: Mechanics and AP Physics C: E&M exams.
-        
-    The following is a breakdown for each type:
-    - **Advanced Standing Exams (ASEs)** are available for
-      - Mathematics: 18.01, 18.02, 18.03, and 18.06;
-      - Physics: 8.01, 8.02, 8.03, 8.04.
-    - **Transfer credit** is available for 
-      - Mathematics: 18.01, 18.02, 18.03, 18.05, and 18.06;
-      - Physics: 8.01, 8.02.
-    - **AP credit** is given for 
-      - Mathematics: 18.01 for a score of 5 on the AP Calculus BC exam 
-      - Physics: 8.01 for a score of 5 on each of the AP Physics C: Mechanics and AP Physics C: E&M exams.
 
 - Advanced Placement (AP) -- 18.01	Calculus I (Single Variable)
 - Advanced Standing (ASE) -- 18.02	Calculus II (Multivariable)
