@@ -28,9 +28,15 @@ Many incoming MIT freshmen have done college-level study while in high school. S
       8.04 *Quantum Physics I*.
 
     There are three main mechanisms for receiving credit or placement.
-    - **Advanced Standing** credit can be given for successfully passing an exam demonstrating mastery of the material from an MIT course.
-    - **Transfer credit** is given for course work completed at another university if the subject is substantially equivalent to the corresponding MIT subject.
-    - **AP credit** is given for a score of 5 on AP exams in certain subjects.
+    - **Advanced Standing** credit can be given for successfully passing an exam demonstrating mastery of the material from an MIT course. Available for
+      - Mathematics: 18.01, 18.02, 18.03, and 18.06;
+      - Physics: 8.01, 8.02, 8.03, 8.04.
+    - **Transfer credit** is given for course work completed at another university if the subject is substantially equivalent to the corresponding MIT subject. Available for 
+      - Mathematics: 18.01, 18.02, 18.03, 18.05, and 18.06;
+      - Physics: 8.01, 8.02.
+    - **AP credit** is given for a score of 5 on AP exams in certain subjects. Available for 
+      - Mathematics: 18.01 for a score of 5 on the AP Calculus BC exam 
+      - Physics: 8.01 for a score of 5 on each of the AP Physics C: Mechanics and AP Physics C: E&M exams.
         
     The following is a breakdown for each type:
     - **Advanced Standing Exams (ASEs)** are available for
