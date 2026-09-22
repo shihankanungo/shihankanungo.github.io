@@ -263,12 +263,20 @@ See [here](https://calendar.mit.edu/department/department_of_mathematics/calenda
 
 ![mit-math](images/mitmdt.png)
 
-### Sep (1)
+### Sep (2)
 
 <ul>
 <li><details>
   <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Benjamin Church (MIT)</b><br>
     <i>p-adic Siegel disks on K3 surfaces</i></summary>
   <small><img src="images/2026-09-15.png" alt="Mar 12"></small>
+</details></li>
+ </ul>
+
+ <ul>
+<li><details>
+  <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Sjoerd de Vries (MIT)</b><br>
+    <i>Drinfeld modular forms, Hecke operators, and class number congruences</i></summary>
+  <small><img src="images/2026-09-22.png" alt="Sep 22"></small>
 </details></li>
  </ul>
