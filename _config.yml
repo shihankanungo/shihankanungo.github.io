@@ -6,7 +6,7 @@ description: > # description of the site (multiple lines allowed)
   Hello there! I’m Shihan&mdash;thanks for stopping by. I live in Palo Alto, CA. I am deeply fascinated by mathematics, physics, language, and music. I play the violin, compose with my MPK Mini Plus, and have a music taste that defies genre (and occasionally logic). When I’m not actively immersed in one of these pursuits, there’s a good chance I’m sitting very still, appearing contemplative&mdash;while secretly daydreaming about my next snack. I aspire to nurture my passions and use them to make meaningful contributions to the world ... ideally with a bit of joy, curiosity, and the occasional pastry along the way.
           <br /><br />
 
-          <small><b>Recent news</b>: <i>AI in Math</i>. The Navier–Stokes problem, one of mathematics’ great longstanding challenges concerning the equations that govern the flow of fluids, has been resolved. This story began with Navier, Stokes, Leray, and Ladyzhenskaya and has culminated in the recent breakthroughs of Córdoba and Martínez-Zoroa, then — assisted by new technologies — Alpöge and Buckmaster, with the final steps taken by OpenAI mathematicians.</small>
+          <small><b>Recent news</b>: Sarah Peluse, from Stanford University, has won the 2026 SASTRA-Ramanujan Award for her breakthroughs in number theory. She will recieve the honor on December 22 in India.</small>
           <br /><br />
           <small><b>Currently reading</b>: <i>Of Mice and Men</i> by John Steinbeck and <i>Cannery Row</i> by John Steinbeck.</small>
           <br /><br />
@@ -14,8 +14,8 @@ description: > # description of the site (multiple lines allowed)
           <br /><br />
           <small><b>Current Music Recs</b>: <i>We Stay Ugly 'Til The Pretty Decays</i> by Mara Calder (<a href="https://open.spotify.com/album/2pacOfhvZZHtuYZJnJrwg8?si=9Am8PVTjSkuYAoIyD-RNSQ">Spotify</a>), and <i>Remain In Light</i> by Angelique Kidjo. Also, these playlists, with one song each from my favorite albums from 2025: <a href="https://open.spotify.com/playlist/0b6ipXilq8yItCkbfxZRbl?si=022493cba1c64e71">pop</a> and <a href="https://open.spotify.com/playlist/2iO14usuhKlftJvaT3AK0R?si=7f8887dec02c4fed">jazz</a>. </small>
           <br /><br />
-          <small><b>Song of the day (Sun Sep 27)</b></small><br>
-          <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1iZnibGKsmOvHPLBLYb1SM?utm_source=generator&si=0e8de643ae434f8a" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+          <small><b>Song of the day (Mon Sep 28)</b></small><br>
+          <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3j7BhP71ROCpc9R3w9P9UE?utm_source=generator&si=195d52ed6b60466d" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
          <br /><br /><br /><br />
           
@@ -24,7 +24,7 @@ permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
 
-#(Mon Sep 28)(Danceteria)<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3j7BhP71ROCpc9R3w9P9UE?utm_source=generator&si=195d52ed6b60466d" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+#(Tue Sep 29)
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
 
