@@ -25,6 +25,8 @@ permalink: /:slug
 favicon: "./logo.png" # relative path to site's favicon
 
 #(Sat Oct 10)(Helene Grimaud)<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5PaZ6dPtcyuPENcZz43VRM?utm_source=generator&si=0ee8ad49a85d46d1" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+#(Remi Wolf)<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0j0Xae7CpwZHoC1QFhIpFb?utm_source=generator&si=95c70b811bf842b4" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+#(Lainey Wilson)<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/49uiGJL2F4Nj56cCLCQG4W?utm_source=generator&si=b6147b4bbe3b4802" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
 
