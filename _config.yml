@@ -14,8 +14,8 @@ description: > # description of the site (multiple lines allowed)
           <br /><br />
           <small><b>Current Music Recs</b>: <i>We Stay Ugly 'Til The Pretty Decays</i> by Mara Calder (<a href="https://open.spotify.com/album/2pacOfhvZZHtuYZJnJrwg8?si=9Am8PVTjSkuYAoIyD-RNSQ">Spotify</a>), and <i>Remain In Light</i> by Angelique Kidjo. Also, these playlists, with one song each from my favorite albums from 2025: <a href="https://open.spotify.com/playlist/0b6ipXilq8yItCkbfxZRbl?si=022493cba1c64e71">pop</a> and <a href="https://open.spotify.com/playlist/2iO14usuhKlftJvaT3AK0R?si=7f8887dec02c4fed">jazz</a>. </small>
           <br /><br />
-          <small><b>Song of the day (Fri Oct 9)</b></small><br>
-          <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2prkFGHxtYClSDOMdKj2wM?utm_source=generator&si=5b0620868a13492e" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+          <small><b>Song of the day (Sat Oct 10)</b></small><br>
+          <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/49uiGJL2F4Nj56cCLCQG4W?utm_source=generator&si=b6147b4bbe3b4802" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
          <br /><br /><br /><br />
           
@@ -24,9 +24,8 @@ permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
 
-#(Sat Oct 10)(Helene Grimaud)<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5PaZ6dPtcyuPENcZz43VRM?utm_source=generator&si=0ee8ad49a85d46d1" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+#(Sun Oct 11)(Helene Grimaud)<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5PaZ6dPtcyuPENcZz43VRM?utm_source=generator&si=0ee8ad49a85d46d1" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 #(Remi Wolf)<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0j0Xae7CpwZHoC1QFhIpFb?utm_source=generator&si=95c70b811bf842b4" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-#(Lainey Wilson)<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/49uiGJL2F4Nj56cCLCQG4W?utm_source=generator&si=b6147b4bbe3b4802" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
 
