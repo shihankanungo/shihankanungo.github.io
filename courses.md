@@ -12,6 +12,8 @@ title: Mathematics &mdash; coursework
 
 ## 2026 Fall (Freshman)
 
+Graduate courses are in bold font.
+
 - 18.112 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Functions of a Complex Variable*
 - **18.725** &nbsp;&nbsp;&nbsp;***Algebraic Geometry I*** [^4]
 - **18.785** &nbsp;&nbsp;&nbsp;***Number Theory I*** [^4]
