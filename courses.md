@@ -10,9 +10,9 @@ title: Mathematics &mdash; coursework
 
 # MIT (2026-- )
 
-## 2026 Fall (Freshman)
+This is a list of the classes I took during my time at MIT. Graduate courses are in **bold font**.
 
-Graduate courses are in bold font.
+## 2026 Fall (Freshman)
 
 - 18.112 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Functions of a Complex Variable*
 - **18.725** &nbsp;&nbsp;&nbsp;***Algebraic Geometry I*** [^4]
