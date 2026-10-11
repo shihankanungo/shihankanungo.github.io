@@ -22,6 +22,14 @@ title: Mathematics &mdash; coursework
 
 [^4]:I am not formally enrolled in this subject because it is a graduate course, and the MIT Mathematics Department does not permit freshmen to enroll in graduate courses during their first semester. However, I am submitting problem sets, taking the midterms and final exam, and having all of my work graded. In all practical respects, I am taking the subject.
 
+<dl>
+  <dt><b>Project Name</b></dt>
+  <dd>My Cool Repo</dd>
+
+  <dt><b>Version</b></dt>
+  <dd>1.0.0</dd>
+</dl>
+
 ## Credits and Placement
 
 Many incoming MIT freshmen have done college-level study while in high school. Some of this study is eligible for MIT credit and/or placement.[^3] I have obtained the following credit/placements.
