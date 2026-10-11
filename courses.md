@@ -12,10 +12,10 @@ title: Mathematics &mdash; coursework
 
 ## 2026 Fall (Freshman)
 
-- 18.112 &nbsp;&nbsp;&nbsp;*Functions of a Complex Variable*
-- **18.725** &nbsp;&nbsp;***Algebraic Geometry I*** [^4]
-- **18.785** &nbsp;&nbsp;***Number Theory I*** [^4]
-- 14.01 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Principles of Microeconomics*
+- 18.112 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Functions of a Complex Variable*
+- **18.725** &nbsp;&nbsp;&nbsp;***Algebraic Geometry I*** [^4]
+- **18.785** &nbsp;&nbsp;&nbsp;***Number Theory I*** [^4]
+- 14.01 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Principles of Microeconomics*
 - WGS145 *Globalization*
 - 21M.053 *Rhythms of the World*
 - 21M.445 *Chamber Music Society* (6 units)
