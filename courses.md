@@ -10,6 +10,18 @@ title: Mathematics &mdash; coursework
 
 # MIT (2026-- )
 
+## 2026 Fall (Freshman)
+
+- 18.112 *Functions of a Complex Variable*
+- **18.725 *Algebraic Geometry I*** [^4]
+- **18.785 *Number Theory I*** [^4]
+- 14.01 *Principles of Microeconomics*
+- WGS145 *Globalization*
+- 21M.053 *Rhythms of the World*
+- 21M.445 *Chamber Music Society* (6 units)
+
+[^4]:I am not formally enrolled in this subject because it is a graduate course, and the MIT Mathematics Department does not permit freshmen to enroll in graduate courses during their first semester. However, I am submitting problem sets, taking the midterms and final exam, and having all of my work graded. In all practical respects, I am taking the subject.
+
 ## Credits and Placement
 
 Many incoming MIT freshmen have done college-level study while in high school. Some of this study is eligible for MIT credit and/or placement.[^3] I have obtained the following credit/placements.
