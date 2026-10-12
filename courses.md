@@ -14,13 +14,13 @@ This is a list of the classes I took during my time at MIT. Each course is 12 un
 
 ## 2026 Fall (Freshman)
 
-- 18.112 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Functions of a Complex Variable*
-- **18.725** &nbsp;&nbsp;&nbsp;***Algebraic Geometry I*** [^4]
-- **18.785** &nbsp;&nbsp;&nbsp;***Number Theory I*** [^4]
-- 14.01 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Principles of Microeconomics*
-- WGS145 *Globalization*
-- 21M.053 *Rhythms of the World*
-- 21M.445 *Chamber Music Society* (6 units)
+- 18.112 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Functions of a Complex Variable*
+- **18.725** &nbsp;&nbsp;&nbsp;&nbsp;***Algebraic Geometry I*** [^4]
+- **18.785** &nbsp;&nbsp;&nbsp;&nbsp;***Number Theory I*** [^4]
+- 14.01 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Principles of Microeconomics*
+- WGS145 &nbsp;*Globalization*
+- 21M.053 &nbsp;*Rhythms of the World*
+- 21M.445 &nbsp;*Chamber Music Society* (6 units)
 
 [^4]:This is a graduate course that I am not formally enrolled in, because the MIT Mathematics Department does not permit freshmen to enroll in graduate courses during their first semester. However, I am submitting problem sets, taking the midterms and final exam, and having all of my work graded. In all practical respects, I am taking the subject.
 
