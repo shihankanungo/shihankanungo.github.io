@@ -22,7 +22,7 @@ This is a list of the classes I took during my time at MIT. Each course is 12 un
 - 21M.053 *Rhythms of the World*
 - 21M.445 *Chamber Music Society* (6 units)
 
-[^4]:I am not formally enrolled in this subject because it is a graduate course, and the MIT Mathematics Department does not permit freshmen to enroll in graduate courses during their first semester. However, I am submitting problem sets, taking the midterms and final exam, and having all of my work graded. In all practical respects, I am taking the subject.
+[^4]:This is a graduate course that I am not formally enrolled in, because the MIT Mathematics Department does not permit freshmen to enroll in graduate courses during their first semester. However, I am submitting problem sets, taking the midterms and final exam, and having all of my work graded. In all practical respects, I am taking the subject.
 
 
 ## Credits and Placement
