@@ -10,7 +10,7 @@ title: Mathematics &mdash; coursework
 
 # MIT (2026-- )
 
-This is a list of the classes I took during my time at MIT. Graduate courses are in **bold font**.
+This is a list of the classes I took during my time at MIT. Each course is 12 units unless stated otherwise. Graduate courses are marked in **bold font**.
 
 ## 2026 Fall (Freshman)
 
