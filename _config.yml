@@ -20,8 +20,8 @@ description: > # description of the site (multiple lines allowed)
           <br /><br />
           <small><b>Current Music Recs</b>: <i>We Stay Ugly 'Til The Pretty Decays</i> by Mara Calder (<a href="https://open.spotify.com/album/2pacOfhvZZHtuYZJnJrwg8?si=9Am8PVTjSkuYAoIyD-RNSQ">Spotify</a>), and <i>Remain In Light</i> by Angelique Kidjo. Also, these playlists, with one song each from my favorite albums from 2025: <a href="https://open.spotify.com/playlist/0b6ipXilq8yItCkbfxZRbl?si=022493cba1c64e71">pop</a> and <a href="https://open.spotify.com/playlist/2iO14usuhKlftJvaT3AK0R?si=7f8887dec02c4fed">jazz</a>. </small>
           <br /><br />
-          <small><b>Song of the day (Tue Oct 13)</b></small><br>
-          <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/60X3TcgUFosQA3xXUoisMW?utm_source=generator&si=297be3074dde4797" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+          <small><b>Song of the day (Wed Oct 14)</b></small><br>
+          <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3nfZWBsAg1E2NQTbi8c4CX?utm_source=generator&si=5f71c17b3ce04309" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
          <br /><br /><br /><br />
           
@@ -30,7 +30,7 @@ permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
 
-#(Wed Oct 14)(Bad Times)<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3mS3robDVwBRrk2R2ef6zA?utm_source=generator&si=30666c77622b4c8f" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+#(Thu Oct 15)
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
 
