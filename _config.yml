@@ -16,12 +16,12 @@ description: > # description of the site (multiple lines allowed)
           <br /><br />
           <small><b>Currently reading</b>: <i>The Red Pony</i> by John Steinbeck and <i>Cannery Row</i> by John Steinbeck.</small>
           <br /><br />
-          <small><b>Recent Movies</b>: <i>No Country for Old Men</i> (d. Joel Cohen, Ethan Coen), and <i>Spider-Man: Brand New Day</i> (d. Destin Daniel Cretton)</small>
+          <small><b>Recent Movies</b>: <i>No Country for Old Men</i> (d. Joel Cohen, Ethan Coen), and <i>Seeking Asian Female</i> (d. Debbie Lum)</small>
           <br /><br />
           <small><b>Current Music Recs</b>: <i>We Stay Ugly 'Til The Pretty Decays</i> by Mara Calder (<a href="https://open.spotify.com/album/2pacOfhvZZHtuYZJnJrwg8?si=9Am8PVTjSkuYAoIyD-RNSQ">Spotify</a>), and <i>Remain In Light</i> by Angelique Kidjo. Also, these playlists, with one song each from my favorite albums from 2025: <a href="https://open.spotify.com/playlist/0b6ipXilq8yItCkbfxZRbl?si=022493cba1c64e71">pop</a> and <a href="https://open.spotify.com/playlist/2iO14usuhKlftJvaT3AK0R?si=7f8887dec02c4fed">jazz</a>. </small>
           <br /><br />
-          <small><b>Song of the day (Wed Oct 14)</b></small><br>
-          <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3nfZWBsAg1E2NQTbi8c4CX?utm_source=generator&si=5f71c17b3ce04309" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+          <small><b>Song of the day (Thu Oct 15)</b></small><br>
+          <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4oAFDHf8yi3hTxmReWMgH2?utm_source=generator&si=596d499755ef4207" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
          <br /><br /><br /><br />
           
@@ -30,7 +30,7 @@ permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
 
-#(Thu Oct 15)
+#(Fri Oct 16)
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
 
