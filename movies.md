@@ -27,6 +27,8 @@ Below is a lovingly curated list of 42 movies I've watched *so far* this year&md
 - The Talented Mr. Ripley (1999 d. Anthony Minghella)
 - Gladiator (2000 d. Ridley Scott) 👍
 - Spy Game (2001 d. Tony Scott) 👍
+- Chain of Love (2002 d. Marije Meerman)
+- Born Into Brothels: Calcutta's Red Light Kids (2004 d. Zana Briski and Ross Kauffman)
 - **Steven Spielberg** <br>
   Jaws (1975 d. Steven Spielberg) 🎥 <br>
   Schindler's List (1993 d. Steven Spielberg) 👍 <br>
