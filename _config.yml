@@ -6,13 +6,7 @@ description: > # description of the site (multiple lines allowed)
   Hello there! I’m Shihan&mdash;thanks for stopping by. I live in Palo Alto, CA. I am deeply fascinated by mathematics, physics, language, and music. I play the violin, compose with my MPK Mini Plus, and have a music taste that defies genre (and occasionally logic). When I’m not actively immersed in one of these pursuits, there’s a good chance I’m sitting very still, appearing contemplative&mdash;while secretly daydreaming about my next snack. I aspire to nurture my passions and use them to make meaningful contributions to the world ... ideally with a bit of joy, curiosity, and the occasional pastry along the way.
           <br /><br />
 
-          <small><b>2026 Nobel Laureates:</b></small><br>
-          <small><b>Medicine — Karl Deisseroth, Peter Hegemann, and Georg Nagel:</b> For discoveries that enabled <em>optogenetics</em>, a technique using light to control nerve cells and investigate how the brain works.</small><br>
-          <small><b>Physics — Francis Halzen:</b> For his decisive contributions to the IceCube Neutrino Observatory and the discovery of high-energy neutrinos originating beyond our solar system.</small><br>
-          <small><b>Chemistry — Henri B. Kagan and Kenso Soai:</b> For discoveries that help explain how chemical reactions favor one mirror-image form of a molecule over the other.</small><br>
-          <small><b>Literature — Anne Carson:</b> For her bold, inventive body of work, which engages with classical literature while creating new forms of contemporary writing.</small><br>
-          <small><b>Peace — Navi Pillay:</b> For her efforts to promote peace, uphold international law, and strengthen accountability for human-rights violations.</small><br>
-          <small><b>Economic Sciences — Robert E. Hall and Michael Woodford:</b> For developing macroeconomic models that help policymakers understand economic fluctuations and design policies to stabilize the economy.</small>
+          <small><b>Recent news:</b> Researchers Xinzhi Zhang of Microsoft Research and Zhao Song have resolved the 31-year-old Kannan–Lovász–Simonovits (KLS) conjecture  -- a central problem in high-dimensional geometry and probability -- using a human-directed collaboration with AI agents that explored more than 100 possible approaches before helping uncover the key ideas in the proof. .</small>
           <br /><br />
           <small><b>Currently reading</b>: <i>The Red Pony</i> by John Steinbeck and <i>Cannery Row</i> by John Steinbeck.</small>
           <br /><br />
@@ -20,8 +14,8 @@ description: > # description of the site (multiple lines allowed)
           <br /><br />
           <small><b>Current Music Recs</b>: <i>We Stay Ugly 'Til The Pretty Decays</i> by Mara Calder (<a href="https://open.spotify.com/album/2pacOfhvZZHtuYZJnJrwg8?si=9Am8PVTjSkuYAoIyD-RNSQ">Spotify</a>), and <i>Remain In Light</i> by Angelique Kidjo. Also, these playlists, with one song each from my favorite albums from 2025: <a href="https://open.spotify.com/playlist/0b6ipXilq8yItCkbfxZRbl?si=022493cba1c64e71">pop</a> and <a href="https://open.spotify.com/playlist/2iO14usuhKlftJvaT3AK0R?si=7f8887dec02c4fed">jazz</a>. </small>
           <br /><br />
-          <small><b>Song of the day (Wed Oct 21)</b></small><br>
-          <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0Q2b6AxWV5tD117XktdQxl?utm_source=generator&si=196b4fc734bb43b6" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+          <small><b>Song of the day (Fri Oct 23)</b></small><br>
+          <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1L0OmEowXM7Q3guDGGb9gz?utm_source=generator&si=4bb9c5c95bd1410c" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
          <br /><br /><br /><br />
           
@@ -30,7 +24,7 @@ permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
 
-#(Thu Oct 22)(Iron Maiden)<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0EG9tDhr5rd931Ebj213nO?utm_source=generator&si=da5ca4d8a3354d08" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+#(Sat Oct 24)(Iron Maiden)<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0EG9tDhr5rd931Ebj213nO?utm_source=generator&si=da5ca4d8a3354d08" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
 
