@@ -8,13 +8,14 @@ title: Reading &amp;c.
 ![ch-reading](images/ch1.png)
 
 <br>
-These are the 22 books I have read in 2026 (so far!) See [here](https://shihankanungo.github.io/wrapped-2025#books) for what I read last year. <br>
+These are the 23 books I have read in 2026 (so far!) See [here](https://shihankanungo.github.io/wrapped-2025#books) for what I read last year. <br>
 
 ### Fiction
 - *The Brothers Karamazov* by Fyodor Dostoevsky. 1880
 - *Dubliners* by James Joyce. 1914
 - *A Portrait of the Artist as a Young Man* by James Joyce. 1918
 - *All Quiet on the Western Front* by Erich Maria Remarque. 1929
+- *Tortilla Flat* by John Steinbeck. 1935
 - *Of Mice and Men* by John Steinbeck. 1937
 - *The Red Pony* by John Steinbeck. 1937
 - *The Fountainhead* by Ayn Rand. 1943
