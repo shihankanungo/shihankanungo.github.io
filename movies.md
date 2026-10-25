@@ -57,6 +57,7 @@ Below is a lovingly curated list of 44 movies I've watched *so far* this year&md
 - The Hurt Locker (2008 d. Kathryn Bigelow)
 - Seeking Asian Female (2012 d. Debbie Lum)
 - The Spectacular Now (2013 d. James Ponsoldt)
+- The Outfit (2022 d. Graham Moore)
 - In Your Dreams (2025 d. Alex Woo, Erik Benson)
 - Frankenstein (2025 d. Guillermo del Toro)
 - Project Hail Mary (2026 d. Phil Lord, Christopher Miller)
