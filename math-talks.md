@@ -273,10 +273,29 @@ See [here](https://calendar.mit.edu/department/department_of_mathematics/calenda
 </details></li>
  </ul>
 
- <ul>
+<ul>
 <li><details>
   <summary style="list-style: none;"><b>NUMBER THEORY &mdash; Sjoerd de Vries (MIT)</b><br>
     <i>Drinfeld modular forms, Hecke operators, and class number congruences</i></summary>
   <small><img src="images/2026-09-22.png" alt="Sep 22"></small>
 </details></li>
- </ul>
+</ul>
+
+ ### Nov (2)
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>AI &mdash; Jake Jiqing Xia (MIT)</b><br>
+    <i>Optimal Order of Self-Organized Multi-Agent Systems</i></summary>
+  <small><img src="images/2026-11-03.png" alt="Nov 3"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>COMBINATORICS &mdash; Sarah Brauner (UPenn)</b><br>
+    <i>Spectra of shuffling operators as evaluations of supersymmetric functions</i></summary>
+  <small><img src="images/2026-11-04.png" alt="Nov 4"></small>
+</details></li>
+</ul>
+
