@@ -281,7 +281,7 @@ See [here](https://calendar.mit.edu/department/department_of_mathematics/calenda
 </details></li>
 </ul>
 
- ### Nov (2)
+### Nov (2)
 
 <ul>
 <li><details>
