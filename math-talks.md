@@ -281,13 +281,21 @@ See [here](https://calendar.mit.edu/department/department_of_mathematics/calenda
 </details></li>
 </ul>
 
-### Nov (2)
+### Nov (3)
 
 <ul>
 <li><details>
   <summary style="list-style: none;"><b>AI &mdash; Jake Jiqing Xia (MIT)</b><br>
     <i>Optimal Order of Self-Organized Multi-Agent Systems</i></summary>
   <small><img src="images/2026-11-03.png" alt="Nov 3"></small>
+</details></li>
+</ul>
+
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>AI &mdash; Andrew Sutherland, David Jerison, and Michel Goemans (MIT)</b><br>
+    <i>Optimal Presentations and Discussion of OpenAI Papers</i></summary>
+  <small><img src="images/2026-11-04a.png" alt="Nov 4"></small>
 </details></li>
 </ul>
 
