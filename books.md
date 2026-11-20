@@ -25,6 +25,7 @@ These are the 24 books I have read in 2026 (so far!) See [here](https://shihanka
 - *A Separate Peace* by John Knowles. 1959
 - *Offshore* by Penelope Fitzgerald. 1979
 - *The Name of the Rose* by Umberto Eco. 1980
+- *Chaos and All That: An Irreverent Novel* by Liu Sola. 1991 (for WGS 145 *Globalization*)
 - *Paddy Clarke Ha Ha Ha* by Roddy Doyle. 1993
 - *American Pastoral* by Philip Roth. 1997
 - *The Epic of Gilgamesh* by Andrew George. 1999
