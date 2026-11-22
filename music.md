@@ -23,10 +23,10 @@ title: Music &amp;c.
 <ul>
  <li><details>
   <summary style="list-style-type: none;"> <i>Mountain Goats: Closers</i>. The Fillmore, San Francisco, California, on Saturday, November 21, 2026. </summary>
-  <small>This set list from the Sat, Nov 21 concert at The Fillmore [<a href="https://open.spotify.com/playlist/1jKnKFNQ9l3K3o0iz1xnlw?si=8edfcaa42f6246ed">Spotify</a>] </small></details></li>
+  <small>This set list from the Sat, Nov 21 concert at The Fillmore [<a href="https://open.spotify.com/playlist/73QXVmQehb2qlVQFT1ho6T?si=2041c1ad3a6842eb">Spotify</a>] </small></details></li>
 </ul>
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1jKnKFNQ9l3K3o0iz1xnlw?utm_source=generator&si=247a9e59fd3e4c77" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/43mOaIM3W9RllfCKs8JUbb?utm_source=generator&si=64e5218bf3384e80" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 
