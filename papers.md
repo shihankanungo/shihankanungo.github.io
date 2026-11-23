@@ -13,7 +13,7 @@ title: Mathematics &mdash; writing
   \[ [arXiv](https://arxiv.org/abs/2409.02422) \] \[ [journal](https://doi.org/10.1007/s00031-025-09908-0) \] \[ [PDF](https://rdcu.be/eeVBJ) \]
 
 - Representation Theory of the Twisted Yangians in Complex Rank. <br />
-  A. Kannan, **S. Kanungo**. *Journal of Algebra*. In review; submitted May 14, 2025 <br /> 
+  A. Kannan, **S. Kanungo**. *Algebras and Representation Theory* (to appear).  <br /> 
   \[ [arXiv](https://arxiv.org/abs/2505.06463) \] 
 
 - Upper Bounds for Sequence Saturation. <br />
