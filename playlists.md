@@ -43,6 +43,15 @@ title: Playlists
   <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1iRqwjVIZTZ6q9bdrKtZ8J?utm_source=generator&si=edfd91dfbd794fef" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+  <summary style="list-style: none;"><b>Sleater-Kinney</b> <small> click for playlists</small></summary>
+  <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5W5Xk6Eem5oS5pjYioacFE?utm_source=generator&si=160582fcae3c4162" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+  <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/27Rq1O5ckIZEpxF8BigOM6?utm_source=generator&si=14b6bb9293ad4d61" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+  <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7mDG2tyMzJsFZpYuG2LY9d?utm_source=generator&si=cec11629703546dc" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
 
 
 # Indie Guitar
