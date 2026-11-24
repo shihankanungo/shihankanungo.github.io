@@ -5,9 +5,15 @@ title: Playlists
 
 # Single Artist Compilations
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1jKnKFNQ9l3K3o0iz1xnlw?utm_source=generator&si=793ee279459c403e" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<ul>
+<li><details>
+  <summary style="list-style: none;"><b>The Mountain Goats</b></summary>
+  <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1jKnKFNQ9l3K3o0iz1xnlw?utm_source=generator&si=793ee279459c403e" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1iRqwjVIZTZ6q9bdrKtZ8J?utm_source=generator&si=edfd91dfbd794fef" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1iRqwjVIZTZ6q9bdrKtZ8J?utm_source=generator&si=edfd91dfbd794fef" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details></li>
+</ul>
+
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0OuX6f5DtJvdJ5mlNUvvcH?utm_source=generator&si=189452d6d8df406a" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
