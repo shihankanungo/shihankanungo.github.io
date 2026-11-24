@@ -35,6 +35,12 @@ title: Playlists
   <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1fdqHG69lS6oFRfCptGlXk?utm_source=generator&si=4c03eba43e60420b" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
+<details>
+  <summary style="list-style: none;"><b>Carly Rae Jepsen</b> <small> click for playlists</small></summary>
+  <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7EqhYZFzp8MqNPMfzoUW7R?utm_source=generator&si=0f9b2cdd77c04f92" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+  <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1eppvZw4sdKjBzhS82rvvr?utm_source=generator&si=86948e0fc6bf4491" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
 
 <details>
   <summary style="list-style: none;"><b>The Mountain Goats</b> <small> click for playlists</small></summary>
@@ -50,6 +56,11 @@ title: Playlists
   <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/27Rq1O5ckIZEpxF8BigOM6?utm_source=generator&si=14b6bb9293ad4d61" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
   <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7mDG2tyMzJsFZpYuG2LY9d?utm_source=generator&si=cec11629703546dc" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+  <summary style="list-style: none;"><b>Remi Wolf</b> <small> click for playlists</small></summary>
+  <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7mJ1A9fLsIC0xhG1xWjyBI?utm_source=generator&si=bf353b47a8144152" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
 
