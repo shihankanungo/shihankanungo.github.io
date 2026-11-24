@@ -93,7 +93,7 @@ title: Playlists
 </details>
 
 <details>
-  <summary style="list-style: none;"><b>The Greatest</b><small>Amazon MGM Studios for Amazon Prime Video. 2026.</small></summary>
+  <summary style="list-style: none;"><b>The Greatest</b> <small> Amazon MGM Studios for Amazon Prime Video. 2026.</small></summary>
   <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3oFXNq8zvLZf3StlDfSVUi?utm_source=generator&si=6bb6f4f38d0049b5" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
