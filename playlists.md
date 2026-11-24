@@ -83,3 +83,25 @@ title: Playlists
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3zaMKMsBnVT3C4bT6yQLMv?utm_source=generator&si=ba2647d100b845fc" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6fBFSLRS6n2jXYh9vZ5zRL?utm_source=generator&si=3377b1d96a1a42d9" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+# Soundtracks
+
+<details>
+  <summary style="list-style: none;"><b>Carolina Caroline</b></summary>
+  <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/27M99HdUP3Pn6tGgqOp8bE?utm_source=generator&si=c7b2ecb0e12c4436" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+  <summary style="list-style: none;"><b>The Summer I Turned Pretty</b></summary>
+  <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0bAlJXboXf2EVMrcrzr0nv?utm_source=generator&si=aa4b9ace3df141c6" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+  <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4SGUNgtrKyH3i1uXuiT36y?utm_source=generator&si=5730f12dc5df4880" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+  <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/46VXAOTV6MtoQPHnEjZINk?utm_source=generator&si=5b2131dcf8a74aa8" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
+  <summary style="list-style: none;"><b>Wild Horse Nine</b></summary>
+  <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7mMxqvxGnWesxLzeakeg6v?utm_source=generator&si=33b96dc9aa86419b" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
