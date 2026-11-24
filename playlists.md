@@ -5,7 +5,7 @@ title: Playlists
 
 # Single Artist Compilations
 
-## Courtney Barnett
+### Courtney Barnett
 <details>
   <summary style="list-style: none;"><b>Playlists</b></summary>
   <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0OuX6f5DtJvdJ5mlNUvvcH?utm_source=generator&si=189452d6d8df406a" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -21,7 +21,7 @@ title: Playlists
   <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2jGC8Y66DGerin6w6iGEnX?utm_source=generator&si=ab79b4e1bbc943ef" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
-## Beabadoobee
+### Beabadoobee
 <details>
   <summary style="list-style: none;"><b>Playlists</b></summary>
   <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6qLSKwaUxwcFVMHj4avrfk?utm_source=generator&si=21ecc2851d3947e4" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -29,7 +29,7 @@ title: Playlists
   <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1fdqHG69lS6oFRfCptGlXk?utm_source=generator&si=4c03eba43e60420b" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </details>
 
-## The Mountain Goats
+### The Mountain Goats
 <details>
   <summary style="list-style: none;"><b>Playlists</b></summary>
   <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1jKnKFNQ9l3K3o0iz1xnlw?utm_source=generator&si=793ee279459c403e" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
