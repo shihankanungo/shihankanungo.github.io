@@ -6,6 +6,13 @@ title: Playlists
 # Single Artist Compilations
 
 <details>
+  <summary style="list-style: none;"><b>Allo Darlin'</b> <small> click for playlists</small></summary>
+  <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3UUpFRmoNEIfSDC91C564F?utm_source=generator&si=73407e713052484c" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+  <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7ryEq1lXiYV9Wksooj8dhm?utm_source=generator&si=a05d9ac72e234a98" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</details>
+
+<details>
   <summary style="list-style: none;"><b>Courtney Barnett</b> <small> click for playlists</small></summary>
   <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0OuX6f5DtJvdJ5mlNUvvcH?utm_source=generator&si=189452d6d8df406a" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
