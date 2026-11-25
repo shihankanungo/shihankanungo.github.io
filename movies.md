@@ -58,7 +58,7 @@ Below is a lovingly curated list of 47 movies I've watched *so far* this year&md
 - Seeking Asian Female (2012 d. Debbie Lum)
 - The Grandmaster (2013 d. Wong Kar-wai)
 - The Spectacular Now (2013 d. James Ponsoldt)
-- Sicario (2015 d. Denis Villeneuve)
+- Sicario (2015 d. Denis Villeneuve) 👍
 - The Outfit (2022 d. Graham Moore)
 - In Your Dreams (2025 d. Alex Woo, Erik Benson)
 - Frankenstein (2025 d. Guillermo del Toro)
