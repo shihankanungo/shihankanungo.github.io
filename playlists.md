@@ -64,8 +64,8 @@ title: Playlists
 </details>
 
 
-
-# Indie Guitar
+# Genre playlists
+### Indie Guitar
 <details>
   <summary style="list-style: none;"><b>S Tier</b> <small> (6 playlists)</small></summary>
   <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1QmuCqnVYVdkR1FKCipfud?utm_source=generator&si=4894a51e58084604" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
