@@ -3,6 +3,11 @@ layout: personal
 title: Playlists
 ---
 
+# Favorite Music of 2026 (so far!)
+Check out these playlists (in progress), with one song each from my favorite albums from 2026: <a href="https://open.spotify.com/playlist/08IgHzhli2cL1F04arxSXP?si=3da645526af14d50&pt=0634245d89226d227a5223181106540d">pop</a> and <a href="https://open.spotify.com/playlist/3hxuITtg6yfDcN3DEfD0J0?si=07dee6817bfc46f8&pt=d17b00f61de8f43dcadb16299042cc6d">jazz</a>. <br>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/08IgHzhli2cL1F04arxSXP?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> 
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3hxuITtg6yfDcN3DEfD0J0?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <br>
+
 # Single Artist Compilations
 
 <details>
