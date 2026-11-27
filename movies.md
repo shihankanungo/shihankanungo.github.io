@@ -20,7 +20,7 @@ Below is a lovingly curated list of 48 movies I've watched *so far* this year&md
 - The Godfather Part II (1974 d. Francis Ford Coppola) 👍
 - Raging Bull (1980 d. Martin Scorsese)
 - Pulp Fiction (1994 d. Quentin Tarantino)
-- To Live (Chinese: 活着; pinyin: Huózhe) (1994 d. Zhang Yimou)
+- To Live (Chinese: 活着; pinyin: Huózhe) (1994 d. Zhang Yimou) 👍
 - Braveheart (1995 d. Mel Gibson)
 - Fargo (1996 d. Joel Coen, Ethan Coen)
 - Titanic (1997 d. James Cameron) 👍
